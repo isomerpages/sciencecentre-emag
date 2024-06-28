@@ -1,4 +1,5 @@
 collections:
   space:
     output: true
-    order: []
+    order:
+      - All Space Stories.md
