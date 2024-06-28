@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About
+    url: /about
   - title: Write for Us
     url: /contribute
   - title: Contact Us
@@ -11,3 +13,5 @@ links:
         url: /ep1-space
       - title: "Episode 2: Nature"
         url: /ep2-nature
+  - title: Archives
+    url: /archives
