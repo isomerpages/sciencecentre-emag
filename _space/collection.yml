@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - folder-page.md
+      - example-subfolder/All Space Articles.md
       - example-subfolder/.keep
