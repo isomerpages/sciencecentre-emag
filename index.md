@@ -26,12 +26,6 @@ sections:
         - title: Culture
           description: Our local food and heritage.
           url: /culture
-  - infobar:
-      title: An Ode to the Mandarin Orange
-      subtitle: nature, culture
-      description: Huat to know about the iconic Spring Festival fruit.
-      button: read here
-      url: /an-ode-to-the-mandarin-orange
   - infopic:
       title: "Mala: When Ma meets La"
       subtitle: nature, culture
@@ -40,5 +34,14 @@ sections:
       button: Read More
       url: /mala
       image: /images/mala.png
+      alt: Image alt text
+  - infopic:
+      title: An Ode to the Mandarin Orange
+      subtitle: Nature, Culture
+      id: infopic
+      description: Huat to know about the iconic Spring Festival fruit.
+      button: Read More
+      url: /mandarin-orange
+      image: /images/mandarin_orange.png
       alt: Image alt text
 ---
