@@ -14,19 +14,31 @@ sections:
       button: enter site
       url: /about us
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Space
+          description: All things celestial.
+          url: /space
+        - title: Tech
+          description: Got gadgets?
+          url: /tech
+        - title: Nature
+          description: Weird animals and plants!
+          url: /nature
+        - title: Culture
+          description: Our local food and heritage.
+          url: /culture
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: An Ode to the Mandarin Orange
+      subtitle: nature, culture
+      description: Huat to know about the iconic Spring Festival fruit.
+      button: read here
+      url: /an-ode-to-the-mandarin-orange
+  - infopic:
+      title: "Mala: When Ma meets La"
+      subtitle: nature, culture
+      id: infopic
+      description: The chemistry behind this spicy dish.
+      button: Read More
+      url: /mala
+      image: /images/mala.png
+      alt: Image alt text
 ---
