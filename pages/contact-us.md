@@ -8,14 +8,19 @@ locations:
       - 15 Science Centre Road
       - Singapore 609081
       - ""
-    title: Science Centre Singapore
     operating_hours: []
     maps_link: ""
+    title: Science Centre Singapore
 contacts:
   - content:
       - phone: +65 6123 4567
       - email: editor@science.edu.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: jamie_uy@science.edu.sg
+      - other: ""
+    title: Article Pitches & Content Collaborations
 feedback: ""
 ---
