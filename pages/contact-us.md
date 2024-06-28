@@ -13,7 +13,7 @@ locations:
     title: Science Centre Singapore
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: ""
       - email: editor@science.edu.sg
       - other: ""
     title: General Enquiries & Feedback
