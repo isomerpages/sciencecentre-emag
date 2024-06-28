@@ -2,5 +2,4 @@ collections:
   space:
     output: true
     order:
-      - folder-page.md
       - example-subfolder/.keep
