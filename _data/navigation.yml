@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About
     url: /about
+  - title: Latest Articles
+    collection: space
   - title: Write for Us
     url: /contribute
   - title: Contact Us
