@@ -1,14 +1,14 @@
 title: Void Deck
 url: https://voiddeck.science.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/VoidDeck_Favicon.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#2c28fd"
+  secondary-color: "#aedaff"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#00e3bd"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#ffd44c"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
@@ -53,7 +53,7 @@ plugins:
 staging: https://staging-lite.d262fvwtc8109p.amplifyapp.com
 prod: https://master.dzle8oeqpm1f1.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/voiddeck_wallpaper1.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
