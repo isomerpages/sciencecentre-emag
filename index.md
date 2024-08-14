@@ -5,8 +5,8 @@ description: An e-magazine and podcast produced by Science Centre Singapore
   exploring the universe from the heartlands.
 image: /images/voiddeck_wallpaper1.png
 permalink: /
-notification: Subscribe to the Void Deck newsletter and stay updated with the
-  latest local science stories.
+notification: Listen to the Void Deck podcast on Spotify, Apple Podcasts, and
+  other major streaming platforms!
 sections:
   - hero:
       background: /images/Void_Deck_Splash_Page.png
