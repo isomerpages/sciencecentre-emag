@@ -28,8 +28,8 @@ sections:
       alignment: left
       backgroundColor: black
   - infopic:
-      title: A Singaporean’s Guide to 8 Common Street Trees
-      subtitle: nature, culture
+      title: A Guide to 8 Common Street Trees
+      subtitle: nature, sustainability
       id: infopic
       description: Do you know Singapore has "cherry blossom" season too? Learn about
         the pink trumpet tree and other local flora!
@@ -38,7 +38,7 @@ sections:
       image: /images/8trees.png
       alt: Image alt text
   - infopic:
-      title: "Bubble Tea: The Drink that Makes our Heart Go Boba-boba"
+      title: "Bubble Tea: The Drink That Makes Our Heart Go Boba-boba"
       subtitle: Food, Health, Culture
       id: infopic
       description: Sip on the chemistry behind your favourite sweet treat.
