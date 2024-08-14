@@ -9,10 +9,7 @@ notification: Subscribe to the Void Deck newsletter and stay updated with the
   latest local science stories.
 sections:
   - hero:
-      title: Void Deck
-      subtitle: Exploring the universe from the heartlands
-      background: /images/VoidDeck_Canva_2.png
-      button: enter site
+      background: /images/Void_Deck_Splash_Page.png
       url: /about us
       key_highlights:
         - title: Space
