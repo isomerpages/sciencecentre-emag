@@ -2,8 +2,8 @@ title: Void Deck
 url: https://voiddeck.science.edu.sg
 favicon: /images/VoidDeck_Favicon.png
 colors:
-  primary-color: "#2c28fd"
-  secondary-color: "#aedaff"
+  primary-color: "#aedaff"
+  secondary-color: "#2c28fd"
   media-colors:
     - title: media-color-one
       color: "#00e3bd"
