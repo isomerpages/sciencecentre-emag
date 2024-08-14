@@ -38,7 +38,7 @@ sections:
       image: /images/8trees.png
       alt: Image alt text
   - infopic:
-      title: "Bubble Tea: The Drink That Makes Our Heart Go Boba-boba"
+      title: "Kitchen Science: Bubble Tea"
       subtitle: Food, Health, Culture
       id: infopic
       description: Sip on the chemistry behind your favourite sweet treat.
