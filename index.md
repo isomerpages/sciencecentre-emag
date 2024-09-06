@@ -43,7 +43,7 @@ sections:
       id: infopic
       description: Sip on the chemistry behind your favourite sweet treat.
       button: Read More
-      url: /bubble-tea
+      url: /boba/
       image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
       alt: Image alt text
 ---
