@@ -69,7 +69,9 @@ you have decided how much of your stash to ration out, pour the pearls
 into a pot of furiously boiling water, stirring as you do so to prevent
 them from sticking to each other. Once they start to float in the water,
 you can lower the heat and stir occasionally.</p>
-<p>[gif]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BobaBoiling.gif">
+</div>
 <p>There are a few variations for cooking the pearls. You may choose to boil
 your pearls for about 15 to 20 minutes (depending on their size), after
 which you will transfer them into ice water. You may also choose to simmer
