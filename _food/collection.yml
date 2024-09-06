@@ -1,0 +1,4 @@
+collections:
+  food:
+    output: true
+    order: []
