@@ -42,3 +42,8 @@ in the shadow, we’d be more inclined to see the photo as white and gold
 as our brains automatically discount the blue light of daylight or shadows.
 Discounting the gold light would result in seeing it as black and blue,
 which is the actual colour of the dress.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/trial_4_3.jpg">
+</div>
+<p></p>
