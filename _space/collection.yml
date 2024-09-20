@@ -2,5 +2,6 @@ collections:
   space:
     output: true
     order:
+      - "Space Stories/Mala: When Ma meets La.md"
       - Space Stories/Satellites.md
       - Space Stories/.keep
