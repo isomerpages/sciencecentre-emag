@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_01.jpg">
 </div>
 <p>Planning your wellness goals for 2024? My New Year’s resolution is to
 average seven hours of sleep a night, <a href="https://www.healthhub.sg/live-healthy/sleep" rel="noopener noreferrer nofollow" target="_blank">the minimum amount recommended for adults 18-64 years old</a> by
@@ -16,8 +17,9 @@ slumber.</p>
 <p></p>
 <h4><strong>How Pokémon Sleep Works</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_03.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_03.jpg">
 </div>
 <p>Pokémon Sleep is a sleep tracker app for Android and iOS users released
 by The Pokémon Company in late July 2023. Similar to how Pokémon Go <a href="https://gizmodo.com/pokemon-sleep-review-cozy-game-rest-snorlax-go-1850652225" rel="noopener noreferrer nofollow" target="_blank">“gamified walking”</a> by
@@ -44,8 +46,9 @@ Pokémon.</p>
 <p></p>
 <h4><strong>Sleepless in Singapore</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_02.jpg">
 </div>
 <p>Unfortunately, our real-life island nation is not as relaxing as the game’s
 landscapes. In fact, Singapore consistently ranks among the worst countries
@@ -111,17 +114,16 @@ Sleep, did motivate me to regularize my sleep schedule. (You get extra
 bonuses and rewards if you stick to a consistent bedtime and wake-up time,
 attracting new snoozing Pokémon.)</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_04.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_04.jpg">
 </div>
-<p></p>
 <p>The <em>kawaii </em>animation and nostalgic music further enhanced the
 game’s soothing qualities. I got a little sleepy just watching my Snorlax
 slumbering away and yawning every few seconds.&nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_05.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_05.jpg">
 </div>
 <p>While my colleague couldn’t be bothered to feed Snorlax to increase its
 Drowsy Power, I enjoyed concocting smoothies, pies, and curries in the
@@ -131,7 +133,7 @@ from consultations with pioneering sleep researcher <a href="https://corporate.p
 President and CEO of S’UIMIN Inc., providing nice edutainment value.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_06.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_06.jpg">
 </div>
 <p>Perhaps the best part of the game is that it visualizes your sleep data
 in a lighthearted and engaging way. Each morning you receive a graph of
@@ -148,7 +150,7 @@ and aghast to hear herself grinding her teeth, which made her make an appointmen
 with a dentist.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_07.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_07.jpg">
 </div>
 <p>Although I suspect Pokémon Sleep is less precise than other sleep trackers,
 the upside is that the free app makes it enjoyable to keep an eye on how
@@ -163,7 +165,7 @@ increased from 5 hours and 49 minutes in the first week to 6 hours and
 11 minutes in the second week. That’s 22 precious minutes!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_08.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_08.jpg">
 </div>
 <h4><strong>For Kids?</strong></h4>
 <p>After my successful sleep challenge, I was curious about the game’s potential
