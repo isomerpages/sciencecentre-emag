@@ -1,4 +1,5 @@
 collections:
   tech:
     output: true
-    order: []
+    order:
+      - Love in the Age of Algorithms.md
