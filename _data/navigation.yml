@@ -6,14 +6,14 @@ links:
     url: /write-for-us
   - title: Contact Us
     url: /contact-us
-  - title: Podcast
+  - title: Podcast Menu Group
     url: /podcast
     sublinks:
       - title: "Episode 1: Space"
         url: /ep1-space
       - title: "Episode 2: Nature"
         url: /ep2-nature
-  - title: Food
+  - title: Podcast Folder
     collection: food
-  - title: Tech
-    collection: tech
+  - title: Podcast Single Page
+    url: /permalink
