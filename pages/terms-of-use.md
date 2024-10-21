@@ -9,9 +9,9 @@ Service") provided by Science Centre Singapore, you agree to be bound by
 these Terms of Use. If you do not agree to these terms, please do not use
 the Service.</p>
 <p>2. Description of Service</p>
-<p>Void Deck is a popular science e-magazine and podcast produced by Science
-Centre Singapore, providing articles, interviews, and resources on various
-scientific topics.</p>
+<p><em>Void Deck </em>is a popular science e-magazine and podcast produced
+by Science Centre Singapore, providing articles, interviews, and resources
+on various scientific topics.</p>
 <p>3. Modifications to the Service and Terms</p>
 <p>Science Centre Singapore reserves the right to modify or discontinue,
 temporarily or permanently, the Service with or without notice. We may
