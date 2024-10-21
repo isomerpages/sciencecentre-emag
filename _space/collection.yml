@@ -1,5 +1,4 @@
 collections:
   space:
     output: true
-    order:
-      - Space Stories/.keep
+    order: []
