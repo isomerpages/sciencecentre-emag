@@ -140,7 +140,5 @@ of non-dairy creamer)</p>
 <p>Remember, the key is moderation. Keep calm, stay safe and boba on (in
 moderation)!</p>
 <p><em>Text and photography by Lim Huan</em>
-</p>
-<p></p>
-<p><em>Illustrations by Chua Ja Qi</em>
+<br><em>Illustrations by Chua Ja Qi</em>
 </p>
