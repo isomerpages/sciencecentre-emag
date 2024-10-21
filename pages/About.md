@@ -6,6 +6,7 @@ description: Void Deck is an online publication and podcast produced by Science
   Centre Singapore. Explore your portal to local science stories today!
 image: /images/VD_keyvisual_square.png
 ---
+<p></p>
 <p>Enter <em>Void Deck</em> to explore the universe from the heartlands.</p>
 <p><em>Void Deck</em> is your portal to local science stories published by
 Science Centre Singapore. Inspired by spaceship decks and the gathering
@@ -17,6 +18,9 @@ from the chemistry of mala xiang guo to the geometry of Peranakan tiles.</p>
 Food from a uniquely Singaporean perspective. Listen to conversations with
 Singapore science changemakers, enjoy science-themed reviews of popular
 media, and get crafty with our DIY activities for the young at heart.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cartoon astronauts floating in space with a Chinese chess table, lab beakers, and lightbulbs." src="/images/VD_keyvisual_square.png">
+</div>
 <p>The views and opinions expressed in Void Deck articles and podcast episodes
 are those of the individual authors and contributors. They do not necessarily
 reflect the official policy or position of Science Centre Singapore or
