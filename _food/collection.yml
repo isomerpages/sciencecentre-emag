@@ -2,5 +2,4 @@ collections:
   food:
     output: true
     order:
-      - "Mala: When Ma meets La.md"
       - "Bubble Tea: The Drink that Makes our Heart Go Boba Boba.md"
