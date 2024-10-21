@@ -16,11 +16,6 @@ contacts:
       - phone: ""
       - email: transmedia@science.edu.sg
       - other: ""
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: transmedia@science.edu.sg
-      - other: ""
-    title: Article Pitches & Content Collaborations
+    title: General Enquiries & Article Pitches
 feedback: ""
 ---
