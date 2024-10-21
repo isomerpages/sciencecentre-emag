@@ -2,9 +2,9 @@ collections:
   stories:
     output: true
     order:
-      - DIY/.keep
+      - Space/.keep
+      - Technology/.keep
+      - Environment/.keep
       - Mind & Body/.keep
       - Culture/.keep
-      - Environment/.keep
-      - Technology/.keep
-      - Space/.keep
+      - DIY/.keep
