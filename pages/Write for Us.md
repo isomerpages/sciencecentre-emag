@@ -4,9 +4,9 @@ permalink: /write-for-us/
 variant: tiptap
 description: ""
 ---
-<p>Interested in publishing an article in Void Deck? While Void Deck is edited
-by Science Centre Singapore staff, we accept pitches from the other science
-geeks on the island beyond our Jurong East bubble.&nbsp;</p>
+<p>Interested in publishing an article in <em>Void Deck</em>? While <em>Void Deck</em> is
+edited by Science Centre Singapore staff, we accept pitches from the other
+science geeks on the island beyond our Jurong East bubble.&nbsp;</p>
 <p>We're looking for quirky science stories with a distinctive local perspective
 - think TheSmartScienceLocal. Or Mothership, if Mothership was about spacecrafts
 and astronomy. Read our About page and our previous articles to get a sense
