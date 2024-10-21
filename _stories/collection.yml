@@ -2,5 +2,6 @@ collections:
   stories:
     output: true
     order:
+      - Environment/.keep
       - Technology/.keep
       - Space/.keep
