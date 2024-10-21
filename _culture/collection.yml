@@ -1,5 +1,4 @@
 collections:
   culture:
     output: true
-    order:
-      - Battling Sleep Deprivation in Singapore with Pokémon Sleep.md
+    order: []
