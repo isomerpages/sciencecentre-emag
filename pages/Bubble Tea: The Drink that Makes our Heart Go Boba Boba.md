@@ -138,5 +138,8 @@ of non-dairy creamer)</p>
 <p>3. Substitute tapioca pearls for white pearls instead</p>
 <p>Remember, the key is moderation. Keep calm, stay safe and boba on (in
 moderation)!</p>
-<p><em>Text and photography by Lim HuanasdrigIllustrations by Chua Ja Qi</em>
+<p><em>Text and photography by Lim Huan</em>
+</p>
+<p></p>
+<p><em>Illustrations by Chua Ja Qi</em>
 </p>
