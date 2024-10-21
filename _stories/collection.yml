@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Space/.keep
+      - Technology/Love in the Age of Algorithms.md
       - Technology/.keep
       - Environment/A Guide to Singapore's Street Trees.md
       - Environment/.keep
