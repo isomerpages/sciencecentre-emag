@@ -5,25 +5,12 @@ description: An e-magazine and podcast produced by Science Centre Singapore
   exploring the universe from the heartlands.
 image: /images/voiddeck_wallpaper1.png
 permalink: /
-notification: Listen to the Void Deck podcast on Spotify, Apple Podcasts, and
-  other major streaming platforms!
+notification: Subscribe to the Void Deck podcast on Spotify, YouTube, Apple
+  Podcasts, and other podcast platforms!
 sections:
   - hero:
       background: /images/Void_Deck_Splash_Page.png
       url: /about us
-      key_highlights:
-        - title: Space
-          description: All things celestial.
-          url: /space
-        - title: Tech
-          description: Got gadgets?
-          url: /tech
-        - title: Nature
-          description: Weird animals and plants!
-          url: /nature
-        - title: Culture
-          description: Our local food and heritage.
-          url: /culture
       variant: center
       alignment: left
       backgroundColor: black
