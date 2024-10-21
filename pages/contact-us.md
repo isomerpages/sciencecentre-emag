@@ -14,12 +14,12 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: editor@science.edu.sg
+      - email: transmedia@science.edu.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: jamie_uy@science.edu.sg
+      - email: transmedia@science.edu.sg
       - other: ""
     title: Article Pitches & Content Collaborations
 feedback: ""
