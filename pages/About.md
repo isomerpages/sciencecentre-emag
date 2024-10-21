@@ -21,7 +21,5 @@ media, and get crafty with our DIY activities for the young at heart.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cartoon astronauts floating in space with a Chinese chess table, lab beakers, and lightbulbs." src="/images/VD_keyvisual_square.png">
 </div>
-<p>The views and opinions expressed in Void Deck articles and podcast episodes
-are those of the individual authors and contributors. They do not necessarily
-reflect the official policy or position of Science Centre Singapore or
-the Ministry of Education.</p>
+<p><em>The views and opinions expressed in </em>Void Deck<em> articles and podcast episodes are those of the individual authors and contributors. They do not necessarily reflect the official policy or position of Science Centre Singapore or the Ministry of Education.</em>
+</p>
