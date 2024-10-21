@@ -1,5 +1,4 @@
 collections:
   food:
     output: true
-    order:
-      - "Bubble Tea: The Drink that Makes our Heart Go Boba Boba.md"
+    order: []
