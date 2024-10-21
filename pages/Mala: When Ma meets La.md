@@ -4,7 +4,9 @@ permalink: /mala-when-ma-meets-la/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p><em>This article was originally published on 19 July 2020 in Science Centre Singapore's previous blog, </em>I
+Saw the Science<em>. We're pleased to bring this tongue-in-cheek breakdown of the science of one of Singapore's favourite spicy dishes to our readers in our newly rebranded e-magazine.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_Mala_Illustrations__01.jpg">
 </div>
@@ -15,13 +17,10 @@ Mala potato chips, leaving Mala fans craving for more.</p>
 <p>But in the eye of the storm, amidst all the hot hoo-ha, lies two chemical
 compounds in Mala that calmly work their magic to unleash “mayhem” on taste
 buds all over the world.</p>
-<p></p>
 <h4><strong>Science of Spiciness (The “La” in Mala)</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_Mala_Illustrations__02.jpg">
 </div>
-<p></p>
 <p>I’m sure capsaicin isn’t new to most of you. It is the chemical compound
 found in chilli peppers that gives you the ‘la’ in Mala.&nbsp;It is responsible
 for the spiciness we&nbsp;<em>claim to taste</em>.&nbsp;</p>
@@ -44,7 +43,6 @@ exact.</p>
 you fill with your sweat (ew!). Instead, spiciness is measured using the
 Scoville Heat Unit (SHU) and Scoville scale – a scale indicating the varying
 concentrations of capsaicinoids (a type of capsaicin).&nbsp;</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Scoville Scale: how spicy can you go?" src="/images/Void_Deck_Mala_Illustrations__04.jpg">
@@ -71,8 +69,6 @@ the dish with chilli alone is not going to make the cut.&nbsp;&nbsp;Often,
 Mala chefs would throw in a spoonful of this “magical” ingredient into
 your Mala Xiang Guo, an ingredient that causes your lips to burn with a
 tingling sensation.&nbsp;</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_Mala_Illustrations__03.jpg">
 </div>
@@ -87,7 +83,6 @@ are vibrating very quickly.&nbsp;</p>
 <p>The combination of capsaicin and hydroxy-α-sanshool, however, has constructed
 some rather dubious social identities that have led to the breakdown of
 many relationships.&nbsp;I think you know what I’m talking about…</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_Mala_Illustrations__05.jpg">
 </div>
@@ -109,7 +104,6 @@ with its signature spiciness and numbness, the teamwork of the chemical
 duo capsaicin and hydroxy-α-sanshool. Looking that how Mala dishes have
 managed to stay in trend and that Mala stalls are still sprouting all over
 Singapore; it’s safe to say that the mala storm rages on.&nbsp;</p>
-<p></p>
 <p><em>Written by Genevieve Teo<br>Illustrations by Toh Bee Suan</em>
 </p>
 <p></p>
