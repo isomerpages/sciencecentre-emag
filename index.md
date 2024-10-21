@@ -5,15 +5,17 @@ description: An e-magazine and podcast produced by Science Centre Singapore
   exploring the universe from the heartlands.
 image: /images/voiddeck_wallpaper1.png
 permalink: /
-notification: Subscribe to the Void Deck podcast on Spotify, YouTube, Apple
-  Podcasts, and other podcast platforms!
+notification: ""
 sections:
   - hero:
       background: /images/VD_keyvisual_horizontal.png
-      url: /about us
       variant: center
       alignment: left
       backgroundColor: black
+      key_highlights:
+        - title: Subscribe to the void deck newsletter
+          description: Stay updated with our stories.
+          url: ""
   - infopic:
       title: A Guide to 8 Common Street Trees
       subtitle: nature, sustainability
