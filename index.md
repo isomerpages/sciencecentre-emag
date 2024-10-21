@@ -9,7 +9,7 @@ notification: Subscribe to the Void Deck podcast on Spotify, YouTube, Apple
   Podcasts, and other podcast platforms!
 sections:
   - hero:
-      background: /images/Void_Deck_Splash_Page.png
+      background: /images/VD_keyvisual_horizontal.png
       url: /about us
       variant: center
       alignment: left
