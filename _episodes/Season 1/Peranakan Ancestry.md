@@ -82,10 +82,15 @@ the heart epigenome in continuing aspirations to discover mechanisms of
 disease for new therapies or biomarkers. Today, he spends a lot of time
 mentoring young scientist, alongside growing research on heart disease
 prevention and targets for new drug development.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Transcript</summary>
+<summary><strong>Transcript</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p><strong>Rishii </strong>Whoa!</p>
 <p><strong>Jacy </strong>That is mindblowing.&nbsp;</p>
 <p><strong>Rishii </strong>So<strong> </strong>you're saying that everyone,
@@ -597,19 +602,4 @@ to visit our revamped exhibit on bioethics and learn more about the science
 of ageing at Dialogue with Time with your parents and grandparents. See
 you in the next episode!</p>
 <p><strong>Jacy </strong>Thank you!</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Resources</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p></p>
