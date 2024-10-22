@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Isomer_Hero_Image_Homepage.png
+      background: /images/Resized_Isomer_Hero_Image_Homepage.png
       variant: center
       alignment: left
       backgroundColor: black
@@ -30,5 +30,14 @@ sections:
       button: Read More
       url: /boba/
       image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
+      alt: Image alt text
+  - infopic:
+      title: A Mosaic of Mathematics
+      subtitle: Geometry, culture, art
+      id: infopic
+      description: Floored by the beauty of Peranakan tiles? We unearth the
+        geometrical principles of these heritage patterns.
+      button: Button Text
+      image: /images/peranakan_tiles_isomer_featured_image.png
       alt: Image alt text
 ---
