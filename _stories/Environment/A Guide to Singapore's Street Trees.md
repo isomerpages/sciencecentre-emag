@@ -75,14 +75,28 @@ the CBD</p>
 </li>
 </ul>
 <h4><strong>3. Angsara</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Crown: Dome-shaped, drooping crown</p>
+</li>
+<li>
 <p>Flowers: Slightly fragrant small yellow flowers tat bloom for a day before
 falling and scattering on the ground (also looks like tissue paper)</p>
+</li>
+<li>
 <p>Leaves: Large, long, droopy leaves containing 5-11 leaflets</p>
+</li>
+<li>
 <p>Fruits: Round and flat pod with papery wings</p>
+</li>
+<li>
 <p>How to Spot: Probably the most firework-looking tree on the street thanks
 to its long droopy leaves.</p>
+</li>
+<li>
 <p>Locations: Bras Basah Road, Clarke Quay, Science Centre Singapore :D</p>
+</li>
+</ul>
 <h4><strong>4. Trumpet Tree</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
