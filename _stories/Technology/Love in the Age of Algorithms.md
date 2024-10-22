@@ -5,15 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Technology
 ---
-<p></p>
-<p></p>
+<p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
+Saw the Science<em>, on 14 February 2024. The article has been republished with new graphics and lightly edited for </em>Void
+Deck.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_01.jpg">
 </div>
-<p>Happy Valentine’s Day! To celebrate love this year, we’re exploring the
-science of online dating. In this feature, we’ll explore the psychology
-and technology behind the dating platforms that are rewiring romance in
-the 21st century.</p>
+<p>Did you know that online dating apps experience <a href="https://www.cnet.com/culture/internet/dating-sunday-2023-tips-for-making-the-most-of-online-datings-busiest-day/" rel="noopener nofollow" target="_blank">a surge in activity after the holiday season?</a> Forget
+jingle bells and mistletoe: think notification sounds and DMs instead.
+In this feature, we’ll explore the psychology and technology behind the
+dating platforms that are rewiring romance in the 21st century.</p>
 <h4><strong>Modern Romance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -25,10 +26,10 @@ in the early ’00s, online dating has become more common.</p>
 couple I know met through a Facebook hobby group.</p>
 <p>It’s not just my social circles: more people in Singapore are finding
 their significant others online.&nbsp;</p>
-<p>To learn about this modern phenomenon, ISTS corresponded over email with
-Dr. Jean Liu, Adjunct Assistant Professor at Yale-NUS College and Founder
-of Insights Bridge Consultancy, who taught a module at Yale-NUS College
-on online dating.&nbsp;</p>
+<p>To learn about this modern phenomenon, <em>Void Deck</em> corresponded over
+email with Dr. Jean Liu, Adjunct Assistant Professor at Yale-NUS College
+and Founder of Insights Bridge Consultancy, who taught a module at Yale-NUS
+College on online dating.&nbsp;</p>
 <p>“In a 2021 survey of 2848 singles, the National Population and Talent
 Division found that 1 in 3 respondents who were dating had met online –
 up from 1 in 10 a decade before,” Dr. Jean Liu explains.</p>
@@ -54,15 +55,14 @@ hands.</p>
 to be matchmade by trusted individuals,” writes Dr. Liu. “In an age of
 smartphones, however, the norms of how we meet partners have changed …
 digital technologies have expanded the means by which we search for partners.”</p>
-<p></p>
 <h4><strong>Behind the Screen</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_03.jpg">
 </div>
 <p>What exactly goes on behind the screen of popular dating apps, though,
 and how do our phones and computers play matchmaker?&nbsp;</p>
-<p>To better understand how dating apps function, ISTS communicated over
-email with Alex Tam, Group CEO of Paktor Group.</p>
+<p>To better understand how dating apps function, <em>Void Deck</em> communicated
+over email with Alex Tam, Group CEO of Paktor Group.</p>
 <p>Paktor Group is a local dating and networking app operator that expanded
 from Singapore to become the <a href="https://www.linkedin.com/company/paktor/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">largest social dating group</a> in
 the Southeast Asia and North Asia region. The group has attracted <a href="https://www.linkedin.com/company/paktor/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">over 50 million users</a> across
@@ -92,13 +92,10 @@ when the user is located in Taiwan,” Tam states.</p>
 user based on his/her location” since Tam finds most users “have a preference
 for matches who work/stay near them, giving them more opportunities to
 meet up.”</p>
-<p></p>
 <h4><strong>Taking it to the Next Level</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_02.jpg">
 </div>
-<p></p>
 <p>Geolocation data could be key in helping take online dating apps to the
 next level. One of the biggest challenges to the legitimacy of such dating
 platforms are <a href="https://cnalifestyle.channelnewsasia.com/women/tinder-swindler-netflix-internet-love-scam-warning-signs-singapore-police-302296" rel="noopener noreferrer nofollow" target="_blank">love scams</a>.
@@ -130,9 +127,7 @@ for each user to eventually find the right match.”&nbsp;</p>
 a “[refined] prediction model” or effective algorithm that accurately pairs
 users with their desired partner.&nbsp;</p>
 <p>Think Cupid’s arrow, sent by a computer program.&nbsp;</p>
-<p></p>
 <h4><strong>Tips for Singles</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_04.jpg">
 </div>
@@ -166,21 +161,18 @@ would prioritise their profiles as they are deemed sincere/real,” he adds.</p>
 <p>One last nugget of wisdom from Tam: “it is not advisable to swipe right
 on every profile! Such behaviours are common among scammers and are automatically
 assigned red flags on such profiles.”</p>
-<h4><strong>Celebrate Valentine’s Day at Science Centre Singapore</strong></h4>
-<p></p>
+<h4><strong>Celebrate Love at Science Centre Singapore</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_05.jpg">
 </div>
 <p>Want to invite your match to meet up in person? Go on a quirky, chemistry-filled
 date at Science Centre Singapore to continue the conversation IRL.&nbsp;</p>
-<p>Why not gift your special someone a stargazing experience this Friday
-16 February at the Science Centre’s Observatory? Tickets are on sale
-<a href="https://www.gevme.com/fridaystargazing" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>Prefer something more electrifying? Let sparks fly with your significant
 other as you watch tesla coils light up during our <a href="https://www.science.edu.sg/whats-on/shows-demonstrations/energy-titans-show" rel="noopener noreferrer nofollow" target="_blank">Energy Titans Show</a>.&nbsp;</p>
 <p>Afterwards, you can even imagine growing old with your partner at our
 <a href="https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing" rel="noopener noreferrer nofollow" target="_blank">Dialogue with Time</a>exhibition and take a cute wefie with the heartbeat
 drum there.</p>
 <p><em>Written by Jamie Uy</em>
+<br><em>Illustrated by Jansen Michelle</em>
 </p>
 <p></p>
