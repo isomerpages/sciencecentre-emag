@@ -8,14 +8,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/VD_keyvisual_horizontal.png
+      background: /images/Isomer_Hero_Image_Homepage.png
       variant: center
       alignment: left
       backgroundColor: black
-      key_highlights:
-        - title: Subscribe to the void deck newsletter
-          description: Stay updated with our stories.
-          url: ""
   - infopic:
       title: A Guide to 8 Common Street Trees
       subtitle: nature, sustainability
