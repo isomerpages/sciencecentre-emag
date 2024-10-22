@@ -82,16 +82,13 @@ the heart epigenome in continuing aspirations to discover mechanisms of
 disease for new therapies or biomarkers. Today, he spends a lot of time
 mentoring young scientist, alongside growing research on heart disease
 prevention and targets for new drug development.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Transcript</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p><strong>Rishii </strong>Whoa!</p>
+<p>
+<br><strong>Rishii </strong>Whoa!</p>
 <p><strong>Jacy </strong>That is mindblowing.&nbsp;</p>
 <p><strong>Rishii </strong>So<strong> </strong>you're saying that everyone,
 okay, not everyone, but a lot of the people who are listening to this podcast
@@ -99,7 +96,6 @@ are probably related to Genghis Khan.</p>
 <p><strong>Prof. Foo </strong>Yeah, it's true. Yes, because if you can say
 that Genghis Khan has a descendant today, then he must be an ancestor to
 everybody today, if he has passed the isogenetic point.
-<br>
 <br>[Upbeat electronica music playing]</p>
 <p><strong>Rishii </strong>Hey there, welcome to <em>Void Deck</em>, a casual
 science podcast brought to you by Science Centre Singapore. We bring science
@@ -602,9 +598,11 @@ to visit our revamped exhibit on bioethics and learn more about the science
 of ageing at Dialogue with Time with your parents and grandparents. See
 you in the next episode!</p>
 <p><strong>Jacy </strong>Thank you!</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+</div>
+</details>
 <details class="isomer-details">
-<summary>Resources</summary>
+<summary><strong>Resources</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
