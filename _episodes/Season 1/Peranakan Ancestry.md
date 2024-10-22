@@ -604,10 +604,6 @@ you in the next episode!</p>
 <summary><strong>Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p>Wu, D., Li, P.Y., Pan, B., Tiang, Z., Dou, J., et al. Genetic Admixture
 in the Culturally Unique Peranakan Chinese Population in Southeast Asia,
 Molecular Biology and Evolution 38:4463-4474 (2021)
@@ -633,7 +629,6 @@ R., Xu, J., Shu, Q., Du, R., Yang, H., Hurles, M. E., Robinson, E., … Tyler-Sm
 C. (2003). The genetic legacy of the Mongols. <em>The American Journal of Human Genetics</em>,
 72(3), 717–721.
 <br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1086/367774</a> 
-<br>
 <br>Third Spacing Episode 69: What is it like being a clinician scientist?
 <a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://open.spotify.com/episode/34nzeJwVjNPgycpOvnVOHl?si=CTBXyTaIRniV5iVeXURe-g&amp;nd=1&amp;dlsi=d2c1dd7c0dad442c</a>
 </p>
@@ -653,3 +648,7 @@ at Science Centre Singapore and get your tickets at <a href="https://academic.ou
 <p>Dialogue with Time - Embrace Aging
 <br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
