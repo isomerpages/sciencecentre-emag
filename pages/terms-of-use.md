@@ -63,6 +63,6 @@ of Singapore, without regard to its conflict of law provisions.</p>
 prior notice or liability, for any reason whatsoever, including without
 limitation if you breach the Terms.</p>
 <p>13. Contact Us</p>
-<p>If you have any questions about these Terms, please contact us at: transmedia@science.edu.sg.</p>
+<p>If you have any questions about these Terms, please contact us at: <a href="mailto:transmedia@science.edu.sg" rel="noopener noreferrer nofollow" target="_blank">transmedia@science.edu.sg</a>.</p>
 <p>Last updated: 21 October 2024</p>
 <p></p>
