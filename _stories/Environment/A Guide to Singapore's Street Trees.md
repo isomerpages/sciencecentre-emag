@@ -26,7 +26,9 @@ reported better moods and less anxiety.</p>
 or strap on your walking shoes, take a deep breath, and try identifying
 these eight common street trees of Singapore using the pictures below.</p>
 <h4><strong>1. Rain Tree</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rain tree diagram." src="/images/Street_Trees_Rain_Tree_compressed.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crown: Large, wide, umbrella-shaped</p>
@@ -54,7 +56,9 @@ CBD</p>
 </li>
 </ul>
 <h4><strong>2. Yellow Flame</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Yellow Flame diagram" src="/images/Street_Trees_Yellow_Flame_compressed.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crown: Large, wide, and umbrella-shaped crown</p>
@@ -75,6 +79,9 @@ the CBD</p>
 </li>
 </ul>
 <h4><strong>3. Angsara</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Angsara diagram" src="/images/Street_Trees_Angsana_.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crown: Dome-shaped, drooping crown</p>
@@ -98,6 +105,9 @@ to its long droopy leaves.</p>
 </li>
 </ul>
 <h4><strong>4. Trumpet Tree</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Street_Trees_Trumpet_Tree_Compressed.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crown: Large and broadly conical crown</p>
@@ -122,7 +132,9 @@ travel all the way to Japan!</p>
 </li>
 </ul>
 <h4><strong>5. Senegal Mahogany</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Senegal Mahogany tree" src="/images/Street_Trees_Mahogany_Tree_compressed.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crown: Large bushy crown</p>
@@ -147,7 +159,9 @@ to its large bushy crown</p>
 </li>
 </ul>
 <h4><strong>6. Sea Almond</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sea almond tree" src="/images/Street_Trees_Sea_Almond_compressed.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crown: Pagoda-shaped, tiered crown</p>
@@ -170,6 +184,9 @@ before they fall off twice a year</p>
 </li>
 </ul>
 <h4><strong>7. Tembusu</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Street_Trees_Tembusu_compressed.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crown: Conical crown when young, lofty and irregular crown when old</p>
@@ -193,6 +210,9 @@ good photo spot!</p>
 </li>
 </ul>
 <h4><strong>8. Supertree Grove</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Street_Trees_Supergrove_tree_compressed.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crown: Inverted umbrella shaped crown</p>
@@ -212,11 +232,7 @@ the #2 must-see attraction in Singapore (Science Centre Singapore being
 <p>Location: There are only 18 of these planted in Gardens by the Bay, there
 is literally nowhere else to find them!</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
-<p></p>
 <p><em>Original article by Genevieve Teo</em>
 <br><em>New introduction by Jamie Uy<br>Original illustrations by Toh Bee Suan</em>
 <br><em>New illustrations by Jansen Michelle</em>
