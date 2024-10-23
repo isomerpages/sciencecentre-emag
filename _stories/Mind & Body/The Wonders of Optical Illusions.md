@@ -11,14 +11,13 @@ image: /images/the_dress.gif
 Saw the Science<em>, on 22 April 2021. The article has been republished with new graphics and lightly edited for </em>Void
 Deck.</p>
 <p>Stepping into Science Centre Singapore, you are immediately greeted with
-the hall of optical illusions, one of our staple exhibits. Even as a kid,
-I could vividly remember the wall of Albert Einstein Hollow-Face Illusions,
-staring into my soul.</p>
+the <a href="https://www.science.edu.sg/whats-on/exhibitions/the-mind-s-eye" rel="noopener nofollow" target="_blank">The Mind's Eye</a>,
+one of our staple exhibits. Even as a kid, I could vividly remember the
+wall of Albert Einstein Hollow-Face Illusions, staring into my soul.</p>
 <p>Now as an adult, optical illusions continue to amaze and boggle me, but
 the science behind them has always escaped me. There are many kinds of
 optical illusions, but I have chosen to break down four everyday illusions
-that you don’t have to go to the Optical Illusion Museum to witness for
-yourself.</p>
+that we experience in our everyday lives.</p>
 <h4><strong>1. The Dress</strong></h4>
 <p>We all remember The Dress. A widely circulated photo of a seemingly plain
 looking dress, that ended up sparking fierce online debates – is the white
@@ -130,8 +129,6 @@ us about our body’s weaknesses. I love that it humbles us, knowing that
 there is still much to uncover about one of our key senses! Illusions also
 remind us to be empathetic, as everything we see (literally and metaphorically)
 is a matter of perception, and that we all look through a biased lens.</p>
-<p>And that is the beauty and fun of optical illusions! If you have a favourite
-optical illusion, share it with us in the comments below!</p>
 <p><em>Written by Kow Zi Shan</em>
 <br><em>Edited by Jamie Uy<br>Originally illustrated by Jia Qi</em>
 <br><em>New illustrations by Jansen Michelle</em>
