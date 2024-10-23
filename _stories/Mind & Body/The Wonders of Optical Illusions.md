@@ -120,8 +120,9 @@ shapes with <a href="http://magiceye.ecksdee.co.uk/" rel="noopener noreferrer no
 to see why it is so. Competitions are held for such visual artists of all
 mediums, and one of my favourites is <a href="https://www.instagram.com/designdain/" rel="noopener noreferrer nofollow" target="_blank">Dain Yoon</a>, an immaculate
 makeup artist and painter.</p>
-<p>[INSERT PIC]</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusions_Face.png">
+</div>
 <p>Finally, my fascination with optical illusions is strongly tied to what
 I think they teach us.</p>
 <p>Through revealing the blind spots of our body, optical illusions teach
