@@ -72,9 +72,10 @@ which you will transfer them into ice water. You may also choose to simmer
 the pearls for another 30 mins at low heat with the lid on before transferring
 them into ice water. Placing the pearls in ice water after cooking makes
 them bouncier and chewier!</p>
-<p>[INSERT GIF]</p>
-<p>
-<br>Once the pearls have cooled, drain off the excess water. You may choose
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boba_Spoon_compressed_ezgif_com_optimize.gif">
+</div>
+<p>Once the pearls have cooled, drain off the excess water. You may choose
 to drizzle honey over your pearls or sprinkle sugar on your pearls to give
 them a little more sweetness and flavour. Let it soak for a while, et voilà
 your pearls are ready to be served with your favourite milk tea.</p>
