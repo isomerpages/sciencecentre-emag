@@ -78,7 +78,7 @@ on the additional costs themselves, making it a challenge to juggle the
 increased costs and profits. &nbsp;</p>
 <p>However, edible cutlery comes with its own challenges as well.&nbsp;</p>
 <p>“When you think about cutlery, usually people think about strength and
-reusability. (But) you have to reduce the strength of the cutlery if you
+reusability. [But] you have to reduce the strength of the cutlery if you
 want to make it edible,” Lam points out. It really is a bit of a paradox,
 isn’t it? &nbsp;</p>
 <p>However, this makes sense when you think about it. If the edible cutlery
