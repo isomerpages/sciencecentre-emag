@@ -150,7 +150,8 @@ mind to uncover the fascinating and often times strange ways we feel, think,
 and make sense of the world around us. Explore a curious inner world where
 your perception can play tricks on you, your subconscious can influence
 your state of mind, and for the bold at heart, even sneak a daring peek
-into the darker shadows of the human psyche. Visit the <a href="https://www.science.edu.sg/whats-on/untame" rel="noopener nofollow" target="_blank">Science Centre Singapore website</a> to
+into the darker shadows of the human psyche.</p>
+<p>Visit the <a href="https://www.science.edu.sg/whats-on/untame" rel="noopener nofollow" target="_blank">Science Centre Singapore website</a> to
 buy tickets to immersive installations and interactive science experiences
 showing that there's More Than Meets the Mind.</p>
 <p><em>Written by Kow Zi Shan</em>
