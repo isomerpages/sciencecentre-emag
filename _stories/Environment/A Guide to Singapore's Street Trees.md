@@ -90,7 +90,7 @@ the CBD</p>
 <p>Crown: Dome-shaped, drooping crown</p>
 </li>
 <li>
-<p>Flowers: Slightly fragrant small yellow flowers tat bloom for a day before
+<p>Flowers: Slightly fragrant small yellow flowers that bloom for a day before
 falling and scattering on the ground (also looks like tissue paper)</p>
 </li>
 <li>
