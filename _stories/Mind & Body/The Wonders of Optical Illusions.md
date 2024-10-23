@@ -59,20 +59,31 @@ motion in the other direction.</p>
 <p>The next illusion is a fun one. To witness the<strong> Sydney Opera House Illusion</strong>,
 look out the window of the room you’re in and focus your eyes on a faraway
 building. As you step further and further away from the window, you will
-observe the object appearing to grow larger and larger in size.</p>
-<p>[INSERT GIF]</p>
+observe the object (represented here by the iconic Merlion!) appearing
+to grow larger and larger in size.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merlion_higherquality.gif">
+</div>
 <p>As the distant building grows to take up the whole frame of the window,
 it starts to look freakishly large. This works as our brains tend to use
 surrounding objects as a reference frame, and greatly influences our perception
 of objects.</p>
-<p>[INSERT PIC]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusions_Merlion_Room_Comparison_1.jpg">
+</div>
 <p>Examples of relative size illusions like these are common. When the moon
 hangs low in the horizon, it looks huge next to the surrounding buildings.
 Yet, when it is up high, the moon appears tiny in the large expanse of
 dark sky. Instead of providing regular sized plates, buffet restaurants
 tend to provide smaller plates, as a way of tricking patrons into feeling
 fuller faster with less food.</p>
-<p>[INSERT GIF]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusions_Ebbinghaus_VD.gif">
+</div>
+<p><em>A gif demonstrating the Ebbinghaus illusion.</em>
+</p>
 <p>What’s curious about illusions like these (Ebbinghaus illusions) is that
 we are not born to be fooled by them. Children under the age of 10 are
 less permeable to its effect, and it is believed that we grow more context
@@ -83,7 +94,11 @@ tried out a Magic Eye picture illusion. Our eyes can perceive 3D shapes
 within these flat pictures because of their incredible ability to line
 up two images to interpret depth.</p>
 <p>Can you see the shapes in the Magic Eye picture below?</p>
-<p>[INSERT PIC]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusion_autostereogram_01_1.jpg">
+</div>
+<p><em>MagicEye.js by Ian Pearce&nbsp;•&nbsp;<a href="https://github.com/peeinears/MagicEye.js" rel="noopener noreferrer nofollow" target="_blank">Fork on Github</a></em>
+</p>
 <p>One way that our brain perceives depth is through our binocular vision,
 using the two similar but slightly different visuals from both eyes. This
 is known as stereopsis. The differences in angles between the two visuals
