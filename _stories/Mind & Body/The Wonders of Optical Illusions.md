@@ -45,7 +45,7 @@ which is the actual colour of the dress.</p>
 <p>Stare at a moving escalator for too long and you’ll likely experience
 the<strong> motion aftereffect</strong>. This moving illusion can be seen
 after staring at a moving visual for some time, and shifting your attention
-to a stationary visual. The illusion actually moves in the <em>opposite direction </em>from
+to a stationary visual. The stationary visual seems to be moving in the <em>opposite direction </em>from
 the moving visual.</p>
 <p>Although it might not seem like it, this effect is brought about by our
 brain’s capacity for <em>motion adaptation</em>.</p>
@@ -53,7 +53,17 @@ brain’s capacity for <em>motion adaptation</em>.</p>
 images become fatigued from the constant moving image, and unable to balance
 the sudden change when we look away, causing other neurons to falsely signal
 motion in the other direction.</p>
-<p>[INSERT GIF]</p>
+<p>Try staring at the spiral for about 20 seconds, and then stare at the
+dots.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/waterfall_illusion.gif">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/optical_illusion_dots.png">
+</div>
+<p><em>Motion aftereffect gif and dot pattern from <a href="https://www.illusionsindex.org/i/waterfall-illusion" rel="noopener noreferrer nofollow" target="_blank">The Illusions Index.</a></em>
+</p>
 <h4><strong>3. Sydney Opera House Illusion</strong></h4>
 <p>The next illusion is a fun one. To witness the<strong> Sydney Opera House Illusion</strong>,
 look out the window of the room you’re in and focus your eyes on a faraway
