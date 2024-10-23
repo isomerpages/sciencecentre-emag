@@ -67,6 +67,9 @@ CBD</p>
 <p>Flowers: Yellow flowers with crinkly petals (looks like tissue paper)</p>
 </li>
 <li>
+<p>Leaves: Contain many small green oval leaflets</p>
+</li>
+<li>
 <p>Fruits: Woody purple-brown seedpods</p>
 </li>
 <li>
