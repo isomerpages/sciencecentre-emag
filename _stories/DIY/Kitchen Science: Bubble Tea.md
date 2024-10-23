@@ -129,10 +129,18 @@ bubbles), which is about 2.3 times more sugar than in 500ml of coke.</p>
 </div>
 <p>But not to worry, you can still enjoy your weekly dose of bubble tea with
 some minor adjustments:</p>
-<p>1. Request for less sugar (30% or lower)</p>
-<p>2. Opt for plain tea without milk (or fresh, low-fat or skimmed milk instead
+<ol data-tight="true" class="tight">
+<li>
+<p>Request for less sugar (30% or lower)</p>
+</li>
+<li>
+<p>Opt for plain tea without milk (or fresh, low-fat or skimmed milk instead
 of non-dairy creamer)</p>
-<p>3. Substitute tapioca pearls for white pearls instead</p>
+</li>
+<li>
+<p>Substitute tapioca pearls for white pearls instead</p>
+</li>
+</ol>
 <p>Remember, the key is moderation. Keep calm and boba on (in moderation)!</p>
 <p><em>Text and photography by Lim Huan</em>
 <br><em>Edited by Jamie Uy</em>
