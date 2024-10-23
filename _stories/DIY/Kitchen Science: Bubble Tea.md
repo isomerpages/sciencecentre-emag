@@ -7,34 +7,23 @@ image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
 third_nav_title: DIY
 ---
 <p><em>This article was originally published on Science Centre Singapore's blog, </em>I
-Saw the Science, <em>on 12 May 2020.</em>
-</p>
+Saw the Science, <em>on 12 May 2020. The article has been edited and republished with new graphics for </em>Void
+Deck.</p>
 <p>Someone once asked me, ‘Why bubble tea? What’s so great about it?’ Are
-you kidding me? I can’t even fathom how could anyone ask that! Can’t say
-the same for everyone, but at least for me, bubble tea solves everything
-(not literally everything but you get me). It’s both a drink and a snack
-at the same time, which means if you’re hungry and thirsty, bubble tea
-will solve the problem. If you’re happy, bubble tea is there to celebrate
-the joy with you. If you’re sad, bubble tea will wash those tears away.
-If you’re stressed, bubble tea will help ease the pain. I’m sure you get
-the gist of it all by now – bubble tea is life!</p>
+you kidding me? Can’t say the same for everyone, but at least for me, bubble
+tea solves everything (not literally everything, but you get me). It’s
+both a drink and a snack at the same time, which means if you’re hungry
+and thirsty, bubble tea will solve the problem.</p>
+<p>If you’re happy, bubble tea is there to celebrate the joy with you. If
+you’re sad, bubble tea will wash those tears away. If you’re stressed,
+bubble tea will help ease the pain. I’m sure you get the gist of it all
+by now – bubble tea is life!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_blog_Bubble_Tea__Article_Images__01.jpg">
 </div>
-<p>Which is also why when the circuit breaker measures started to kick in,
-and non-essential services begin to close gradually, everyone was secretly
-hoping that bubble tea shops would remain in operation. I’m not going to
-lie; I was one of them too. Staying home would be much easier with a cup
-of bubble tea to keep you company. Unfortunately, that wasn’t the case
-when it was announced that further reduction of non-essential services
-operating was required. Shockingly (or not), bubble tea is considered non-essential.</p>
-<p>Of course, bubble tea fans were deeply saddened by the news, and some
-rushed to get their very last cup of bubble tea. Others decided to take
-matters into their own hands, literally – making their own bubble tea from
-scratch. The tea part of it is simple, but to get the pearls perfect, that
-is the tricky part. Well, you are in luck because I am going to share with
-you some tips and tricks that I have picked up along the way for making
-your very own chewy pearls!</p>
+<p>But how is this marvelous drink made? I am going to share with you some
+tips and tricks that I have picked up along the way for making your very
+own chewy pearls!</p>
 <p>All you need is just three basic ingredients: brown sugar, water and most
 importantly tapioca starch, in an estimated ratio of 1:2:4. Not to mention
 having lots of time and patience – it is tedious work for the love of pearls.</p>
