@@ -7,20 +7,19 @@ description: Singaporeans are notoriously sleep-deprived. Can a fun mobile game
 third_nav_title: Mind & Body
 image: /images/sleep_deprivation_01.jpg
 ---
-<p></p>
-<p></p>
+<p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
+Saw the Science<em>, on 16 January 2024. The article has been lightly edited and republished with new graphics for </em>Void
+Deck.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_01.jpg">
 </div>
-<p>Planning your wellness goals for 2024? My New Year’s resolution is to
-average seven hours of sleep a night, <a href="https://www.healthhub.sg/live-healthy/sleep" rel="noopener noreferrer nofollow" target="_blank">the minimum amount recommended for adults 18-64 years old</a> by
+<p>It's almost the end of 2024 and time to start planning wellness goals
+for 2025. My New Year’s resolution is to average seven hours of sleep a
+night, <a href="https://www.healthhub.sg/live-healthy/sleep" rel="noopener noreferrer nofollow" target="_blank">the minimum amount recommended for adults 18-64 years old</a> by
 the National Sleep Foundation. To help me to get more sleep, I tried Pokémon
 Sleep for two weeks to see if the smartphone game could supercharge my
 slumber.</p>
-<p></p>
 <h4><strong>How Pokémon Sleep Works</strong></h4>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_03.jpg">
 </div>
@@ -46,10 +45,7 @@ for you to add to your Sleepdex.</p>
 site. Rack up data on Pokémon sleep styles in your Sleepdex and you can
 unlock idyllic islands like Snowdrop Tundra or Cyan Beach to discover new
 Pokémon.</p>
-<p></p>
 <h4><strong>Sleepless in Singapore</strong></h4>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_02.jpg">
 </div>
@@ -86,7 +82,6 @@ demanding schedules. For example, “in China, they have the 996 culture,
 under these work conditions, he stresses that “you need to invest—just
 as you invest money and invest the time in developing your career—in your
 health and mental well being.”</p>
-<p></p>
 <h4><strong>The Two Week Challenge</strong></h4>
 <p>Determined to fix my sleep habits, I decided to test if Pokémon Sleep
 would incentivize me to sleep earlier and longer. I’ve tried various fitness
@@ -124,7 +119,6 @@ attracting new snoozing Pokémon.)</p>
 game’s soothing qualities. I got a little sleepy just watching my Snorlax
 slumbering away and yawning every few seconds.&nbsp;</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_05.jpg">
 </div>
@@ -134,7 +128,6 @@ game during the day. As the food was cooking, a pop-up screen would appear
 with bite-sized advice on how to improve sleep. These pointers were adapted
 from consultations with pioneering sleep researcher <a href="https://corporate.pokemon.co.jp/en/topics/detail/110.html" rel="noopener noreferrer nofollow" target="_blank">Dr. Masashi Yanagisawa</a>,
 President and CEO of S’UIMIN Inc., providing nice edutainment value.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_06.jpg">
 </div>
@@ -151,7 +144,6 @@ are a little embarrassing but illuminating. My audio recordings revealed
 I scratched a lot in my sleep, irritated by rashes; my colleague was amazed
 and aghast to hear herself grinding her teeth, which made her make an appointment
 with a dentist.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_07.jpg">
 </div>
@@ -166,7 +158,6 @@ consistency score (how regular my sleep routine was) jumped from a C in
 the first week to an A in the second week. Overall, my average daily sleep
 increased from 5 hours and 49 minutes in the first week to 6 hours and
 11 minutes in the second week. That’s 22 precious minutes!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_08.jpg">
 </div>
@@ -205,9 +196,8 @@ because you basically cannot defeat biology.” As he emphasizes, sleep is
 in vain to overcome.</p>
 <p>To quote from the <a href="https://www.youtube.com/watch?v=hyq7IGwfOJk" rel="noopener noreferrer nofollow" target="_blank">Pokémon Sleep teaser trailer</a>,
 “rest is the strongest healing move—even for humans!” We gotta catch ‘em
-z’s if we want to keep happy and healthy in the new year.</p>
-<p>Want to level up your health in 2024? Read our previous blog feature on
-<a href="https://blog.science.edu.sg/2021/04/15/sleep/" rel="noopener noreferrer nofollow" target="_blank">how to create an ideal bedroom</a>environment for a full night’s rest.
-In addition, parents can find more tips from Asst. Prof. Lo in the <a href="https://sites.google.com/site/sleepandhealthlab/sleep-guide-for-parents-kids?authuser=0" rel="noopener noreferrer nofollow" target="_blank">Sleep and Health Laboratory’s sleep guide for school-age children</a>.</p>
+z’s if we want to keep happy and healthy in the new year. Parents can find
+more tips from Asst. Prof. Lo in the <a href="https://sites.google.com/site/sleepandhealthlab/sleep-guide-for-parents-kids?authuser=0" rel="noopener noreferrer nofollow" target="_blank">Sleep and Health Laboratory’s sleep guide for school-age children</a>.</p>
 <p><em>Written by Jamie Uy</em>
+<br><em>Illustrated by Jansen Michelle</em>
 </p>
