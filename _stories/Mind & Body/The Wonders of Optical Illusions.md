@@ -139,8 +139,21 @@ us about our body’s weaknesses. I love that it humbles us, knowing that
 there is still much to uncover about one of our key senses! Illusions also
 remind us to be empathetic, as everything we see (literally and metaphorically)
 is a matter of perception, and that we all look through a biased lens.</p>
+<h4><strong>UNTAME 2024: MORE THAN MEETS THE MIND</strong></h4>
+<p><strong>OCTOBER – DECEMBER 2024</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/resized_untame2024_main_kv_final.jpg">
+</div>
+<p>Join us at Science Centre Singapore as we embark on a journey into the
+mind to uncover the fascinating and often times strange ways we feel, think,
+and make sense of the world around us. Explore a curious inner world where
+your perception can play tricks on you, your subconscious can influence
+your state of mind, and for the bold at heart, even sneak a daring peek
+into the darker shadows of the human psyche. Visit the <a href="https://www.science.edu.sg/whats-on/untame" rel="noopener nofollow" target="_blank">Science Centre Singapore website</a> to
+buy tickets to immersive installations and interactive science experiences
+showing that there's More Than Meets the Mind.</p>
 <p><em>Written by Kow Zi Shan</em>
 <br><em>Edited by Jamie Uy<br>Originally illustrated by Jia Qi</em>
 <br><em>New illustrations by Jansen Michelle</em>
 </p>
-<p></p>
