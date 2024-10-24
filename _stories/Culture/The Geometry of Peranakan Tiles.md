@@ -96,9 +96,10 @@ mathematical knots.
 <p><em>Mathematical knot table photograph credit: <a href="https://commons.wikimedia.org/wiki/File:Tabela_de_n%C3%B3s_matem%C3%A1ticos_01,_crop.jpg" rel="noopener nofollow" target="_blank">Matemateca (IME/USP)/Rodrigo Tetsuo Argenton</a>.</em>
 </p>
 <p>Furthermore, the overall arrangement of Peranakan tiles on the floor,
-wall, or bannister creates a form of tessellation. Tessellations or tilings
-in mathematics are patterns of repeating shapes that fit perfectly on a
-surface (typically a plane) with no overlaps or gaps.</p>
+wall, or bannister creates a form of <a href="https://www.mathnasium.com/blog/what-is-tessellation-in-math" rel="noopener nofollow" target="_blank">tessellation</a>.
+Tessellations or tilings in mathematics are patterns of repeating shapes
+that fit perfectly on a surface (typically a plane) with no overlaps or
+gaps.</p>
 <p>While Peranakan tiles are decorative works that are not textbook examples
 of these geometric concepts, these tiles can be a fun gateway to understanding
 mathematics.&nbsp;</p>
