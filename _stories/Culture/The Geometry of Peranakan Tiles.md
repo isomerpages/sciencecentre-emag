@@ -60,10 +60,15 @@ culture."</p>
 <p>For example, Mallick states that "geometric lattice" designs are said
 to protect households, while "basket weave" designs represent the unity
 of the community.&nbsp;</p>
-<p>Individual Peranakan tiles feature qualities such as rotational symmetry
+<p>Some individual Peranakan tiles feature qualities such as rotational symmetry
 (when a pattern looks the same when rotated on its axis by a partial turn)
 and reflection symmetry (when one half of the pattern is the mirror image
 of the other half).&nbsp;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Peranakan_Tiles_Images.jpg">
+</div>
 <p>In certain tiles, you can even spot <a href="https://science.howstuffworks.com/math-concepts/fractals.htm" rel="noopener noreferrer nofollow" target="_blank"><u>fractals</u></a>.
 Fractals are complex, never-ending patterns that, when zoomed in or out,
 create a replica of the whole. For example, if you look at the branches
