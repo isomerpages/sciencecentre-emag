@@ -3,14 +3,14 @@ url: https://voiddeck.science.edu.sg
 favicon: /images/VoidDeck_Favicon.png
 colors:
   primary-color: "#2c28fc"
-  secondary-color: "#aedaff"
+  secondary-color: "#2c28fc"
   media-colors:
     - title: media-color-one
       color: "#00e3bd"
     - title: media-color-two
       color: "#ffd44c"
     - title: media-color-three
-      color: "#00838f"
+      color: "#aedaff"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
