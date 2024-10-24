@@ -78,8 +78,9 @@ create a replica of the whole. For example, if you look at the branches
 of a fern closely, the fern’s branches resemble the shape of the entire
 frond. Since Peranakan tiles are inspired by nature, organic designs featuring
 detailed plants or flowers may exhibit these principles.&nbsp;</p>
-<p><strong>[INSERT FRACTAL]</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+</div>
 <p>Other Peranakan tile designs, such as the geometric lattice and basket
 weave, show knot theory at work. In mathematics, <a href="https://quantamagazine.org/why-mathematicians-study-knots-20221031/" rel="noopener noreferrer nofollow" target="_blank"><u>knot theory</u></a> refers
 to the study of mathematical knots. These knots are different from, for
@@ -88,7 +89,11 @@ be undone. The interlacing circles and intricate lattices of some tiles,
 perhaps inspired by Chinese knotting or the eternal knot, resemble some
 mathematical knots.
 <br>
-<br><strong>[INSERT KNOT THEORY]</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+</div>
+<p><em>Mathematical knot table photograph credit: <a href="https://commons.wikimedia.org/wiki/File:Tabela_de_n%C3%B3s_matem%C3%A1ticos_01,_crop.jpg" rel="noopener nofollow" target="_blank">Matemateca (IME/USP)/Rodrigo Tetsuo Argenton</a>.</em>
 </p>
 <p>Furthermore, the overall arrangement of Peranakan tiles on the floor,
 wall, or bannister creates a form of tessellation. Tessellations or tilings
