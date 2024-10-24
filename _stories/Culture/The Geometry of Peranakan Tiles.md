@@ -16,7 +16,7 @@ original ornamental tiles in <a href="https://jenniferlimart.com/blog/where-to-s
 Have you ever wondered about the elegant mathematical principles that create
 these eye-catching mosaics?</p>
 <p>First, some quick history. What we call "Peranakan tiles" are actually
-<a href="https://noroadbarred.files.wordpress.com/2015/02/passage_mar-apr15.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> tiles imported from European countries like England, Belgium, Germany, and the Netherlands prior to World War I </u>
+<a href="https://noroadbarred.files.wordpress.com/2015/02/passage_mar-apr15.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>tiles imported from European countries like England, Belgium, Germany, and the Netherlands prior to World War I </u>
 </a>to decorate the homes of the Chinese and <a href="https://www.nhb.gov.sg/peranakanmuseum/learn/about-the-peranakans" rel="noopener noreferrer nofollow" target="_blank"><u>Peranakan community</u></a> in
 Southeast Asia. Art Nouveau and Art Deco majolica tiles (glazen earthenware)
 were especially popular with their intricate floral and faunal motifs.</p>
@@ -31,6 +31,12 @@ known in Southeast Asia as Peranakan tiles.</p>
 </a>, artist Jennifer Lim explained, “the tiles tell a story of Singapore's
 complex cultural DNA and are a reminder of the nation's ability to absorb
 and reinterpret outside trends and influences."&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo of Peranakan shophouses by Amos Lee on Unsplash" src="/images/amos_lee_rl2yE_oggEM_unsplash.jpg">
+</div>
+<p><em>Photo by <a href="https://unsplash.com/@mos766?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Amos Lee</a> on <a href="https://unsplash.com/photos/green-and-pink-houses-rl2yE_oggEM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+</p>
 <p>What about the science behind these mosaics of diverse cultures?&nbsp;</p>
 <p>Creating durable ceramics involves <a href="https://exhibitions.bgc.bard.edu/majolicamania/making-majolica/" rel="noopener noreferrer nofollow" target="_blank"><u>chemistry, materials science, and technology</u></a>.
 A clay mixture is carefully prepared and poured into a mould, dried, fired
@@ -64,13 +70,18 @@ create a replica of the whole. For example, if you look at the branches
 of a fern closely, the fern’s branches resemble the shape of the entire
 frond. Since Peranakan tiles are inspired by nature, organic designs featuring
 detailed plants or flowers may exhibit these principles.&nbsp;</p>
+<p><strong>[INSERT FRACTAL]</strong>
+</p>
 <p>Other Peranakan tile designs, such as the geometric lattice and basket
 weave, show knot theory at work. In mathematics, <a href="https://quantamagazine.org/why-mathematicians-study-knots-20221031/" rel="noopener noreferrer nofollow" target="_blank"><u>knot theory</u></a> refers
 to the study of mathematical knots. These knots are different from, for
 example, tying shoelaces, in that their ends must be joined so they cannot
 be undone. The interlacing circles and intricate lattices of some tiles,
 perhaps inspired by Chinese knotting or the eternal knot, resemble some
-mathematical knots.</p>
+mathematical knots.
+<br>
+<br><strong>[INSERT KNOT THEORY]</strong>
+</p>
 <p>Furthermore, the overall arrangement of Peranakan tiles on the floor,
 wall, or bannister creates a form of tessellation. Tessellations or tilings
 in mathematics are patterns of repeating shapes that fit perfectly on a
