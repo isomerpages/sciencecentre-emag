@@ -92,9 +92,10 @@ some friends and give the questions below a go!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe4.jpg">
 </div>
 <p></p>
-<h4><strong>TrivAI</strong><br></h4>
-<p></p>
-<p></p>
+<h4><strong>TrivAI</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSlhbbLBz-S8zxLDnC8t_xLK6hkzVgp-OlX48fpmzOXpQ7BlYwMnYnHmZdKzlyhqTan4DYMTfnFtkv/embed?start=true&amp;loop=false&amp;delayms=15000"></iframe>
+</div>
 <h4><strong>You’re Invited to Science Cafe!</strong></h4>
 <p>A new genre of nightlife that is both intelligent and fun, Science Cafe
 is a monthly casual dinner series hosted by Science Centre Singapore for
