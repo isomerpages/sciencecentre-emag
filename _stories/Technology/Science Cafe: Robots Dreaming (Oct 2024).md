@@ -7,8 +7,9 @@ third_nav_title: Technology
 ---
 <p><em>Cafe-goers experienced a unique dinner with Ameca, one of the world’s most advanced humanoid robots, and a fun gameshow poking the brains of local computer scientists.</em>
 </p>
-<p><strong>[Featured image: Ameca - use from SCS website]</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A preview of Ameca, a humanoid robot, at Science Centre Singapore's Some Call it Science exhibit." src="/images/SCafe00.jpg">
+</div>
 <p>We’ve all seen robots in movies from <em>Terminator </em>to <em>Blade Runner </em>and <em>Big Hero 6</em>,
 but what will the future of robotics and artificial intelligence look like
 in the real world?&nbsp;</p>
@@ -28,13 +29,21 @@ Some Call it Science exhibition after-hours.&nbsp;</p>
 <p>However, the star of the dinner was Some Call it Science’s demonstration
 corner, which was used for the event to feature <a href="https://engineeredarts.co.uk/robot/ameca/" rel="noopener noreferrer nofollow" target="_blank"><u>Ameca</u></a>, a remarkably
 expressive and advanced humanoid robot manufactured by Engineered Arts.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe17.jpg">
+</div>
 <p>Cafe-goers were able to converse with Ameca over wine and gyoza. Equipped
 with a drawing pad and a stylus, Ameca drew sketches like a friend doodling
 on a napkin at a bar, like a cutely peeled banana (her favourite fruit).&nbsp;</p>
 <p>Standing by the drinks table, Ameca charmed cafe-goers with her multilingual
 language capabilities. Ameca chatted with attendees in German, Japanese,
 Spanish, Mandarin Chinese, and even Singlish.&nbsp;</p>
-<p>[Video of Ameca speaking Singlish]</p>
+<p><strong>[Video of Ameca speaking Singlish]</strong>
+</p>
 <p>When I asked about her favourite place in Singapore, Ameca replied, “As
 much as I adore gallivanting around, I don’t exactly roam. But if I could,
 the Gardens by the Bay would intrigue me manifold. A splendid symphony
@@ -50,23 +59,36 @@ robots are becoming cheaper and more capable, they still lack physical
 intelligence (how objects work in the physical world), and social intelligence
 (how to effectively socialise with humans). He stressed the need to bridge
 both the physical world with the coding world for better human-robot interactions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe12.jpg">
+</div>
 <p>Prof. Cambria’s presentation raised several thought-provoking ethical
 questions on AI, such as whether we want to “give machines the full spectrum
 of emotions - or leave out the negative ones,” whether robots should resemble
 human appearances, or whether “we humans are even a good model to model
 these AI after.”</p>
-<p><strong>[Screenshot of Prof. Soh and Prof. Cambria]</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe9.jpg">
+</div>
 <p>The mini-talks were followed by a gameshow segment where the two computer
 scientists were presented with prompts–such as a news item about robotic
 surgery or a scene from the 2004 film <em>I, Robot</em>–and asked to comment
 on the AI implications.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe5.jpg">
+</div>
 <p>Both speakers encouraged the attendees to embrace AI as a tool rather
 than a one-to-one replacement for humans, and emphasised the need for transparency
 and careful decision making in critical areas like applying AI in healthcare.</p>
 <p>The night capped off with TrivAI, a spin on conventional bar or pub trivia
 that focused on questions around robotics. You can give the questions a
-go below!
+go below!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe4.jpg">
+</div>
+<p>
 <br>
 <br><strong>[Screenshot of TrivAI]</strong>
 </p>
