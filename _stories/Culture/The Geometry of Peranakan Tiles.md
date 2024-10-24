@@ -65,6 +65,9 @@ of the community.&nbsp;</p>
 and reflection symmetry (when one half of the pattern is the mirror image
 of the other half).&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VDPeranakanTilesImages1_ezgif_com_optimize.gif">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Peranakan_Tiles_Images.jpg">
@@ -108,8 +111,8 @@ using a single 15 x 15 cm paper below!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jacy_OrigamiTile.png">
 </div>
-<p>While the origami is quite complicated, if you’d like to get crafty, you
-can follow the YouTube tutorial to learn how to fold an origami hydrangea
+<p>While Jacy's origami is quite complicated, if you’d like to get crafty,
+you can follow the YouTube tutorial to learn how to fold an origami hydrangea
 flower that she used for the centre and corners of the Peranakan tile.
 Origami, like mosaics, relies on a lot of geometry to create wonderful
 art!</p>
@@ -125,7 +128,7 @@ degrees of each other. Post your designs and tag @voiddeckmag on Instagram!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Peranakan_Tiles_Colouring_Sheet.jpg">
 </div>
-<p><a href="/files/VD_Peranakan_Tiles_Colouring_Sheet.pdf" rel="noopener nofollow" target="_blank">Download PDF of Peranakan tile colouring sheet here!</a>
+<p><a href="/files/VD_Peranakan_Tiles_Colouring_Sheet.pdf" rel="noopener nofollow" target="_blank">Download the PDF of Peranakan tile colouring sheet here!</a>
 </p>
 <h4><strong>Unparalleled Fun at Science Centre Singapore</strong></h4>
 <p>Explore more trippy patterns and geometry fun at Science Centre Singapore's
