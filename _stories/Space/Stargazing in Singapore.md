@@ -10,7 +10,7 @@ third_nav_title: Space
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A science educator peering through a telescope at the moon." src="/images/SCOBFeaturedImg.jpg">
 </div>
-<p><em>Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
+<p><em>An educator gazes at the moon through a telescope at Science Centre Observatory. Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
 </p>
 <p>
 <br>Ever belted out Coldplay’s “A Sky Full of Stars” and wondered what it’s
@@ -133,7 +133,7 @@ space objects," Mr. Soh shares.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A crowd of visitors around the Science Centre Observatory." src="/images/SCOBCrowd.jpg">
 </div>
-<p><em>Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
+<p><em>Visitors stargazing in the field at Science Centre Singapore. Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
 </p>
 <p>As I chat with the attendees, volunteers, and educators at the stargazing
 session, I get the sense that, in part, choosing to stargaze in fast-paced
