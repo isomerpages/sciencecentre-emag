@@ -5,12 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Space
 ---
-<p><strong>Night at the Museum: Stargazing at Science Centre Singapore</strong>
-<br><em><br>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</em>
+<h4><strong>Night at the Museum: Stargazing at Science Centre Singapore</strong><br><em><br>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</em></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A science educator peering through a telescope at the moon." src="/images/SCOBFeaturedImg.jpg">
+</div>
+<p><em>Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
 </p>
-<p><strong>[FEATURED IMAGE OF SCOB]</strong>
-</p>
-<p>Ever belted out Coldplay’s “A Sky Full of Stars” and wondered what it’s
+<p>
+<br>Ever belted out Coldplay’s “A Sky Full of Stars” and wondered what it’s
 like to see a celestial panorama? You may be surprised to know that Science
 Centre Singapore has been hosting public stargazing sessions for years.</p>
 <p>The <a href="https://www.science.edu.sg/whats-on/workshops-activities/stargazing" rel="noopener noreferrer nofollow" target="_blank"><u>Science Centre Observatory</u></a> is
@@ -44,14 +47,14 @@ sky appear dark blue.&nbsp;</p>
 the sky should be black, meaning that "there are stars there, just that
 maybe your eyes are not sensitive enough to it."</p>
 <p>Fun fact: the lights on the Science Centre Observatory staircase leading
-up to the big telescope and the ceiling lights inside the dome are <a href="https://www.skyatnightmagazine.com/top-astronomy-kit/best-red-light-head-torches" rel="noopener noreferrer nofollow" target="_blank"><u>red to help adapt visitors’ eyes to the darkness</u></a>.
-<br>
-<br><strong>[MAIN DOME OBSERVATORY]</strong>
-</p>
+up to the big telescope and the ceiling lights inside the dome are <a href="https://www.skyatnightmagazine.com/top-astronomy-kit/best-red-light-head-torches" rel="noopener noreferrer nofollow" target="_blank"><u>red to help adapt visitors’ eyes to the darkness</u></a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A polaroid showing the main dome of the Science Centre Observatory." src="/images/Observatory_Polaroid.jpg">
+</div>
 <p>Although finding a truly black sky is a luxury in Singapore, you can find
 a silver screen that replicates such a sky at the Science Centre. The Science
 Centre Observatory hosts an immersive digital planetarium show at the
-<a href="https://www.science.edu.sg/visit-us/omni-theatre" rel="noopener noreferrer nofollow" target="_blank"><u>Omni-Theatre</u>
+<a href="https://www.science.edu.sg/visit-us/omni-theatre" rel="noopener noreferrer nofollow" target="_blank"><u>Omni-Theatre </u>
 </a>on select Friday nights which simulates what visitors might see if weather
 is favourable.&nbsp;</p>
 <p>The Omni-Theatre is Southeast Asia's first 8K 3D digital dome theatre
@@ -66,8 +69,9 @@ in mythology about the stars and relevant cultural legends, such as the
 story of Vega and Altair, two of the bright stars that form the Summer
 Triangle, also known as the <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=b0913454-ab5c-461e-996b-f10dc3dfc54e" rel="noopener noreferrer nofollow" target="_blank"><u>Weaver Maiden and Cowherd</u></a>,
 star-crossed lovers in Chinese tradition.</p>
-<p><strong>[IMAGE OF SUMMER TRIANGLE]</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celestial illustrations representing the summer triangle stars." src="/images/SummerTriangle_Polaroid.jpg">
+</div>
 <p>The live show brings visitors on a tour of other planets and moons of
 interest in our solar system, zipping past Saturn's rings and Jupiter's
 Io, culminating in a journey to the edge of our observable universe. Finally,
@@ -81,9 +85,29 @@ HERE."</p>
 "Some people will say that, yeah, we're pretty small. Nothing matters.
 But I think we should look at it in the other way. That everything we do
 matters because we are here. In this great vast universe, we are here."</p>
-<p><strong>[INSERT PHOTOS OF CELESTIAL OBJECTS FROM 11 OCT FRI SESSION]</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A photo of the moon taken with iPhone pressed to the telescope at Science Centre on 27/9/2024." src="/images/Moon2_SCOB.jpg">
+</div>
+<p><em>A photo of the moon taken with phone pressed to the big telescope viewfinder at Science Centre Observatory on 11 October 2024.</em>
 </p>
-<p>What does it mean for people in the Little Red Dot to gaze up to the Red
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Photo of Comet C/2023 A3 (Tsuchinshan-ATLAS) taken with SeeStar S50 smart telescope on 21.10.24." src="/images/Comet_SCOB_2.jpg">
+</div>
+<p><em>A photo of Comet C/2023 A3 (Tsuchinshan-ATLAS) taken with SeeStar S50 smart telescope at Science Centre on 21 October 2024.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Photo of dumbbell nebula (M27) taken at SCOB with SeeStar S50 smart telescope on 11/10/2024." src="/images/DumbbellNebula.jpg">
+</div>
+<p><em>A photo of Messier 27 (M27) also known as the <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/" rel="noopener nofollow" target="_blank">dumbbell nebula</a> taken with SeeStar S50 smart telescope at Science Centre on 11 October 2024.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tiny Saturn photographed with phone pressed to small telescope viewfinder at SCOB on 11/10/2024." src="/images/TinySaturn.jpg">
+</div>
+<p><em>Tiny Saturn taken with phone pressed to the small dome telescope viewfinder at Science Centre Observatory on 11 October 2024.</em>
+<br>
+<br>What does it mean for people in the Little Red Dot to gaze up to the Red
 Planet and beyond in search of the stars?</p>
 <p>The stargazing sessions at Science Centre Observatory are supported by
 passionate members of the public such as The Astronomical Society of Singapore
@@ -105,6 +129,12 @@ by manning telescopes and imparting astronomical knowledge.</p>
 they are always amazed by what they can see through the telescope as Singapore
 is a very light polluted city and it is very difficult to hunt the deep
 space objects," Mr. Soh shares.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A crowd of visitors around the Science Centre Observatory." src="/images/SCOBCrowd.jpg">
+</div>
+<p><em>Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
+</p>
 <p>As I chat with the attendees, volunteers, and educators at the stargazing
 session, I get the sense that, in part, choosing to stargaze in fast-paced
 Singapore is a commitment to step back, slow down, and marvel at the wonders
@@ -151,10 +181,10 @@ of the month, unless otherwise stated (please note that the last session
 for 2024 is on Friday 15 November). Tickets are available <a href="https://www.gevme.com/fridaystargazing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <p>Prefer to gaze at the cosmos from the comfort of your home? Watch our
 virtual viewing session of Comet C/2023 A3 (Tsuchinshan–ATLAS) live streamed
-on 17 Oct on the Science Centre Singapore YouTube channel below.&nbsp;
-<br>
-</p>
-<p></p>
+on 17 Oct on the Science Centre Singapore YouTube channel below.&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8qbWzmhhpD0?si=R0yMEqWKY33ngdO7"></iframe>
+</div>
 <p>If you'd like to take a trip to space (no passport required!), visit Science
 Centre Singapore and be immersed in Space Explorers: THE INFINITE, the
 world's largest immersive space exploration experience. Through VR, you'll
