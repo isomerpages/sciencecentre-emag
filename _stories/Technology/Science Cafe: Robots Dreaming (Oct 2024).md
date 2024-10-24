@@ -68,6 +68,7 @@ questions on AI, such as whether we want to “give machines the full spectrum
 of emotions - or leave out the negative ones,” whether robots should resemble
 human appearances, or whether “we humans are even a good model to model
 these AI after.”</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe9.jpg">
 </div>
@@ -75,23 +76,25 @@ these AI after.”</p>
 scientists were presented with prompts–such as a news item about robotic
 surgery or a scene from the 2004 film <em>I, Robot</em>–and asked to comment
 on the AI implications.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe5.jpg">
 </div>
+<p></p>
 <p>Both speakers encouraged the attendees to embrace AI as a tool rather
 than a one-to-one replacement for humans, and emphasised the need for transparency
 and careful decision making in critical areas like applying AI in healthcare.</p>
 <p>The night capped off with TrivAI, a spin on conventional bar or pub trivia
-that focused on questions around robotics. You can give the questions a
-go below!</p>
+that focused on questions around robotics. Grab a pen and notepad with
+some friends and give the questions below a go!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe4.jpg">
 </div>
-<p>
-<br>
-<br><strong>[Screenshot of TrivAI]</strong>
-</p>
+<p></p>
+<h4><strong>TrivAI</strong><br></h4>
+<p></p>
+<p></p>
 <h4><strong>You’re Invited to Science Cafe!</strong></h4>
 <p>A new genre of nightlife that is both intelligent and fun, Science Cafe
 is a monthly casual dinner series hosted by Science Centre Singapore for
