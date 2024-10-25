@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Culture
 ---
-<h4><em>Floored by the beauty of Peranakan tiles? Learn more about the geometry that makes these heritage patterns so on point. Includes a colouring sheet for the young at heart!</em></h4>
+<h4>Floored by the beauty of Peranakan tiles? Learn more about the geometry that makes these heritage patterns so on point. Includes a colouring sheet for the young at heart!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peranakan_tiles_isomer_featured_image.png">
 </div>
