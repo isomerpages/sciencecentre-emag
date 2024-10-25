@@ -7,7 +7,7 @@ description: Singapore got stars meh? Go behind the scenes at one of Singapore's
 third_nav_title: Space
 image: /images/SCOBFeaturedImg.jpg
 ---
-<h4><strong>Night at the Museum: Stargazing at Science Centre Singapore</strong><br><em><br>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</em></h4>
+<h4><em>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</em></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A science educator peering through a telescope at the moon." src="/images/SCOBFeaturedImg.jpg">
@@ -91,7 +91,7 @@ matters because we are here. In this great vast universe, we are here."</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A photo of the moon taken with iPhone pressed to the telescope at Science Centre on 27/9/2024." src="/images/Moon2_SCOB.jpg">
 </div>
-<p><em>A photo of the moon taken with phone pressed to the big telescope viewfinder at Science Centre Observatory on 11 October 2024.</em>
+<p><em>A photo of the moon taken with phone pressed to the big telescope viewfinder at Science Centre Observatory on 11 October 2024. Credit: Jamie Uy</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -107,7 +107,7 @@ matters because we are here. In this great vast universe, we are here."</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tiny Saturn photographed with phone pressed to small telescope viewfinder at SCOB on 11/10/2024." src="/images/TinySaturn.jpg">
 </div>
-<p><em>Tiny Saturn taken with phone pressed to the small dome telescope viewfinder at Science Centre Observatory on 11 October 2024.</em>
+<p><em>Tiny Saturn taken with phone pressed to the small dome telescope viewfinder at Science Centre Observatory on 11 October 2024. Credit: Jacy Mok</em>
 <br>
 <br>What does it mean for people in the Little Red Dot to gaze up to the Red
 Planet and beyond in search of the stars?</p>
@@ -135,7 +135,7 @@ space objects," Soh shares.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A crowd of visitors around the Science Centre Observatory." src="/images/SCOBCrowd.jpg">
 </div>
-<p><em>Visitors stargazing in the field at Science Centre Singapore. Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
+<p><em>Visitors stargazing in the field at Science Centre Singapore. Credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a></em>
 </p>
 <p>As I chat with the attendees, volunteers, and educators at the stargazing
 session, I get the sense that, in part, choosing to stargaze in fast-paced
@@ -194,5 +194,5 @@ be transported 400 kilometers above Earth into the International Space
 Station. On this one-hour journey, you'll step into never-before-seen 360-degree
 videos captured in space. Admire mind-blowing views of Earth and explore
 the daily lives of astronauts. Get your tickets now at <a href="https://www.science.edu.sg/whats-on/workshops-activities/stargazing" rel="noopener noreferrer nofollow" target="_blank"><u>infinite-experience.com/singapore</u></a>.</p>
-<p><em>Written by Jamie Uy</em>
+<p><strong><em>Written by Jamie Uy</em></strong>
 </p>
