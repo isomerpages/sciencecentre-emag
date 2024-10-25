@@ -7,7 +7,7 @@ description: We interview rockstar physicist Professor Brian Cox on his latest
 third_nav_title: Space
 image: /images/Solar_System_S1_1920x1080.jpg
 ---
-<h4><em>We chat with rockstar physicist Prof. Brian Cox on his latest BBC astronomy series, Solar System.</em></h4>
+<h4><em>We chat with rockstar physicist Prof. Brian Cox on his latest BBC astronomy series, Solar System. Read his musings on voids, the mind-boggling scale of the cosmos, and the (theoretical) acoustics of an outer space concert.</em></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Solar_System_S1_1920x1080.jpg">
 </div>
