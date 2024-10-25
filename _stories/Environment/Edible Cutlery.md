@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Environment
 ---
-<h2><strong>Edible Cutlery: An Appetising Answer to Plastic Waste</strong></h2>
-<p><em>Who said you can't play with your food? Edible cutlery from local startup Crunch Cutlery is encouraging diners to do just that, while taking a bite out of the city's waste problem.</em>
-</p>
-<p></p>
+<h4><em>Who said you can't play with your food? Edible cutlery from local startup Crunch Cutlery is encouraging diners to do just that, while taking a bite out of the city's waste problem.</em></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdibleCutlery_Spoons.jpg">
 </div>
@@ -140,5 +137,5 @@ in Science Centre Singapore. After the interactive show and game, head
 to the <a href="https://www.science.edu.sg/whats-on/exhibitions/urban-mutations" rel="noopener noreferrer nofollow" target="_blank">Urban Mutations</a> exhibition
 to explore urban ecosystems and how we can innovate to build sustainable
 cities. Tickets available at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/reducing-our-use-of-disposables" rel="noopener noreferrer nofollow" target="_blank">www.gevme.com/scsonlinetickets</a>.</p>
-<p><em>Written by Tan Hui Chin</em>
+<p><strong><em>Written by Tan Hui Chin</em></strong>
 </p>
