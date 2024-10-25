@@ -7,9 +7,7 @@ description: Spice up your knowledge as we wok through the science of Mala's
 image: /images/Void_Deck_Mala_Illustrations__02.jpg
 third_nav_title: Culture
 ---
-<p><em>This article was originally published on 19 July 2020 in Science Centre Singapore's previous blog, </em>I
-Saw the Science<em>. We're pleased to bring this tongue-in-cheek breakdown of the science of one of Singapore's favourite spicy dishes to our readers in our newly rebranded e-magazine.</em>
-</p>
+<h4>Love mala xiang guo? Savour this tongue-in-cheek breakdown of the chemistry behind one of Singapore's favourite spicy dishes.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_Mala_Illustrations__01.jpg">
 </div>
@@ -107,6 +105,11 @@ with its signature spiciness and numbness, the teamwork of the chemical
 duo capsaicin and hydroxy-α-sanshool. Looking that how Mala dishes have
 managed to stay in trend and that Mala stalls are still sprouting all over
 Singapore; it’s safe to say that the mala storm rages on.&nbsp;</p>
-<p><em>Written by Genevieve Teo<br>Illustrations by Toh Bee Suan</em>
+<p><strong><em>Written by Genevieve Teo<br>Illustrations by Toh Bee Suan</em></strong>
 </p>
-<p></p>
+<hr>
+<p><em>This article was originally published on 19 July 2020 in Science Centre Singapore's previous blog, </em>I
+Saw the Science<em>. </em>
+</p>
+<p><em>Last updated: 25 October 2024</em>
+</p>
