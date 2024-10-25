@@ -13,6 +13,17 @@ sections:
       alignment: left
       backgroundColor: black
   - infopic:
+      title: "Science Cafe: Robots Dreaming (Oct 2024)"
+      subtitle: Tech, robotics, ai
+      id: infopic
+      description: Café-goers dined with Ameca, one of the world’s most advanced
+        humanoid robots, and participated in a game show poking the brains of
+        local computer scientists.
+      button: Read more
+      url: /sci-cafe-oct-2024
+      image: /images/SCafe00.jpg
+      alt: Ameca, a humanoid robot.
+  - infopic:
       title: A Guide to Singapore's Street Trees
       subtitle: Environment, Sustainability
       id: infopic
@@ -23,14 +34,6 @@ sections:
       image: /images/Street_Trees_Trumpet_Tree_Compressed.jpg
       alt: A trumpet tree.
   - infopic:
-      title: The Chemistry of Mala Xiang Guo
-      subtitle: Food, Chemistry, Culture
-      id: infopic
-      description: XXX
-      button: Read More
-      url: /mala-chemistry
-      image: /images/Void_Deck_Mala_Illustrations__03.jpg
-  - infopic:
       title: Exploring Geometry with Peranakan Tiles
       subtitle: Math, culture, art
       id: infopic
@@ -40,4 +43,13 @@ sections:
       image: /images/peranakan_tiles_isomer_featured_image.png
       alt: A collage of Peranakan tiles.
       url: /peranakan-tiles-geometry
+  - infopic:
+      title: The Chemistry of Mala Xiang Guo
+      subtitle: Food, Chemistry, Culture
+      id: infopic
+      description: Spice up your knowledge as we wok through the chemistry of mala
+        xiang guo's tongue-tingling flavours.
+      button: Read More
+      url: /mala-chemistry
+      image: /images/Void_Deck_Mala_Illustrations__03.jpg
 ---
