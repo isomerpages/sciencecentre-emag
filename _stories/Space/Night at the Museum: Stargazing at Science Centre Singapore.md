@@ -8,11 +8,10 @@ third_nav_title: Space
 image: /images/SCOBFeaturedImg.jpg
 ---
 <h4>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A science educator peering through a telescope at the moon." src="/images/SCOBFeaturedImg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Star map, moon, and comet overlaid on image of educator peering through telescope." src="/images/VD_Homepage_Infopics.png">
 </div>
-<p><em>An educator gazes at the moon through a telescope at Science Centre Observatory. Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
-</p>
 <p>Ever belted out Coldplay’s “A Sky Full of Stars” and wondered what it’s
 like to see a celestial panorama? You may be surprised to know that Science
 Centre Singapore has been hosting public stargazing sessions for years.</p>
