@@ -134,6 +134,9 @@ in existence, right? You can and should get creative about the solution.”&nbsp
 counts. So, the next time you dabao your meal, consider if you can take
 away some eco-friendly ideas too!&nbsp;</p>
 <h4><strong>Find More Food for Thought at Science Centre Singapore</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guilt_trip_updated.jpg">
+</div>
 <p>Craving more environmental edutainment? Learn about the state of the climate
 and what daily habits you can cultivate to help the planet at the <a href="https://www.science.edu.sg/whats-on/exhibitions/climate-changed" rel="noopener noreferrer nofollow" target="_blank">Climate Changed</a> exhibition
 in Science Centre Singapore. After the interactive show and game, head
