@@ -21,6 +21,7 @@ sections:
       button: Read More
       url: /mala-chemistry
       image: /images/Void_Deck_Mala_Illustrations__03.jpg
+      alt: Sichuan peppercorn molecule.
   - infopic:
       title: Exploring Geometry with Peranakan Tiles
       subtitle: Math, culture, art
