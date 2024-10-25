@@ -7,9 +7,7 @@ description: Take a screen break and gaze out of a window to see if you can
 image: /images/Street_Trees_Angsana_.jpg
 third_nav_title: Environment
 ---
-<p><em>This article was originally published as "A Singaporean's Guide to Common Street Trees" in Science Centre Singapore's previous blog, </em>I
-Saw the Science<em>, on 31 July 2020. The article has been republished with new graphics and a new introduction for </em>Void
-Deck.</p>
+<h4>Do you know Singapore has "cherry blossom" season too? Give yourself a screen break and try to spot the trumpet tree and other common street trees!</h4>
 <p>If you're anything like me, you may be hunched over like a prawn and reading
 this article on your phone. How much screen time have you had today? The
 average <a href="https://www.activesgcircle.gov.sg/activehealth/domains/screen-time" rel="noopener nofollow" target="_blank">Singaporean adult spends a whopping 3.7 hours online, excluding time from work</a>.
@@ -237,7 +235,11 @@ the #2 must-see attraction in Singapore (Science Centre Singapore being
 is literally nowhere else to find them!</p>
 </li>
 </ul>
-<p><em>Original article by Genevieve Teo</em>
-<br><em>New introduction by Jamie Uy<br>Original illustrations by Toh Bee Suan</em>
-<br><em>New illustrations by Jansen Michelle</em>
+<p><strong><em>Original article by Genevieve Teo</em><br><em>Edited with new introduction by Jamie Uy<br>Original illustrations by Toh Bee Suan</em><br><em>New graphics by Jansen Michelle</em></strong>
+</p>
+<hr>
+<p><em>This article was originally published as "A Singaporean's Guide to Common Street Trees" in Science Centre Singapore's previous blog, </em>I
+Saw the Science<em>, on 31 July 2020. The article has been republished with new graphics and a new introduction for </em>Void
+Deck.</p>
+<p><em>Last updated: 25 October 2024</em>
 </p>
