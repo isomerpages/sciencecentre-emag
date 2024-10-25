@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Void Deck
+title: Void Deck, a publication by Science Centre Singapore
 description: An e-magazine and podcast produced by Science Centre Singapore
   exploring the universe from the heartlands.
 image: /images/voiddeck_wallpaper1.png
