@@ -6,7 +6,7 @@ description: ""
 image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
 third_nav_title: DIY
 ---
-<h4></h4>
+<h4>Sip on the sweet science of bubble tea by learning how to make your very own chewy pearls!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg">
 </div>
