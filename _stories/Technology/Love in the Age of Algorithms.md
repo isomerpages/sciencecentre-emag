@@ -7,9 +7,8 @@ description: Cupid's arrow, gone digital. We decode the psychology and
 third_nav_title: Technology
 image: /images/Online_Dating_01.jpg
 ---
-<p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
-Saw the Science<em>, on 14 February 2024. The article has been republished with new graphics and lightly edited for </em>Void
-Deck.</p>
+<h4><strong><em>Cupid's arrow, gone digital. We talk to a psychologist and a dating app CEO to decode the phenomenon of online dating.</em></strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_01.jpg">
 </div>
@@ -18,11 +17,10 @@ jingle bells and mistletoe: think notification sounds and DMs instead.
 In this feature, we’ll explore the psychology and technology behind the
 dating platforms that are rewiring romance in the 21st century.</p>
 <h4><strong>Modern Romance</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_06.jpg">
 </div>
-<p>Although online dating sites like eHarmony or OkCupid were somewhat ostracized
+<p>Although online dating sites like eHarmony or OkCupid were somewhat ostracised
 in the early ’00s, online dating has become more common.</p>
 <p>One of my colleagues met her husband on Coffee Meets Bagel. Another married
 couple I know met through a Facebook hobby group.</p>
@@ -174,7 +172,11 @@ other as you watch tesla coils light up during our <a href="https://www.science.
 <p>Afterwards, you can even imagine growing old with your partner at our
 <a href="https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing" rel="noopener noreferrer nofollow" target="_blank">Dialogue with Time</a>exhibition and take a cute wefie with the heartbeat
 drum there.</p>
-<p><em>Written by Jamie Uy</em>
-<br><em>Illustrated by Jansen Michelle</em>
+<p><strong><em>Written by Jamie Uy<br>Illustrated by Jansen Michelle</em></strong>
+</p>
+<hr>
+<p><em>This article was originally published in Science Centre Singapore's previous blog, I Saw the Science, on 14 February 2024. The article has been republished with new graphics and lightly edited for Void Deck.</em>
+</p>
+<p><em>Last updated: 25 October 2024</em>
 </p>
 <p></p>
