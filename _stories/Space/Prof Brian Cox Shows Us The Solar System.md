@@ -226,5 +226,5 @@ on the surface. I think it would probably be more likely that we could
 have a concert on Titan, although we'd have to be very warm. If I was to
 choose, I would go to the Titan concert rather than the Venus concert.
 You'd at least have a chance on Titan.</p>
-<p><em>Written by Jamie Uy<br>Featured image courtesy of BBC Studios</em>
+<p><strong><em>Written by Jamie Uy<br>Featured image courtesy of BBC Studios</em></strong>
 </p>
