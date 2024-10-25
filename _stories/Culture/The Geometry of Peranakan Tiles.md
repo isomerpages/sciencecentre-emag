@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Culture
 ---
-<h2><strong>Uncovering A Mosaic of Mathematics with Peranakan Tiles</strong></h2>
 <h4><em>Floored by the beauty of Peranakan tiles? Learn more about the geometry that makes these heritage patterns so on point. Includes a colouring sheet for the young at heart!</em></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peranakan_tiles_isomer_featured_image.png">
@@ -148,6 +147,8 @@ through the <a href="https://youngscientist.sscglobal.com.sg/enrol/index.php?id=
 with maths activities you can do at home!&nbsp;
 <br>
 </p>
-<p><em>Written by Jamie Uy</em>
-<br><em>Featured image by Jansen Michelle</em>
+<p><strong><em>Written by Jamie Uy</em><br><em>Featured image by Jansen Michelle</em></strong>
+</p>
+<hr>
+<p><em>Last updated: 25 October 2024</em>
 </p>
