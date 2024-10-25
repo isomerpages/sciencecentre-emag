@@ -8,7 +8,7 @@ description: Attendees experienced a unique dinner with Ameca, an most advanced
 third_nav_title: Technology
 image: /images/SCafe00.jpg
 ---
-<h4><em>Café-goers experienced a unique dinner with Ameca, one of the world’s most advanced humanoid robots, and a fun gameshow poking the brains of local computer scientists.</em></h4>
+<h4>Café-goers experienced a unique dinner with Ameca, one of the world’s most advanced humanoid robots, and a fun gameshow poking the brains of local computer scientists.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A preview of Ameca, a humanoid robot, at Science Centre Singapore's Some Call it Science exhibit." src="/images/SCafe00.jpg">
 </div>
