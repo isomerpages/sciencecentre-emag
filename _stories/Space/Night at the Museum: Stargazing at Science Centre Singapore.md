@@ -7,7 +7,7 @@ description: Singapore got stars meh? Go behind the scenes at one of Singapore's
 third_nav_title: Space
 image: /images/SCOBFeaturedImg.jpg
 ---
-<h4><em>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</em></h4>
+<h4>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A science educator peering through a telescope at the moon." src="/images/SCOBFeaturedImg.jpg">
 </div>
