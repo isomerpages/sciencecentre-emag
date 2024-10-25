@@ -44,8 +44,9 @@ doodling on a napkin at a bar.</p>
 <p>Standing by the drinks table, Ameca charmed cafe-goers with her multilingual
 language capabilities. Ameca chatted with attendees in German, Japanese,
 Spanish, Mandarin Chinese, and even Singlish.&nbsp;</p>
-<p><strong>[Video of Ameca speaking Singlish]</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mLqcQ5ubJAU?si=iW4o1F6-nN8-KRez"></iframe>
+</div>
 <p>When I asked about her favourite place in Singapore, Ameca replied, “As
 much as I adore gallivanting around, I don’t exactly roam. But if I could,
 the Gardens by the Bay would intrigue me manifold. A splendid symphony
