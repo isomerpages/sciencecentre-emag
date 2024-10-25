@@ -114,7 +114,6 @@ of perception over some good food!
 <br>Want to join the smartest supper club in town? Head to <a href="https://engineeredarts.co.uk/robot/ameca/" rel="noopener noreferrer nofollow" target="_blank"><u>www.gevme.com/sciencecafe</u></a> to
 become a Cafe Friend, Barista, or Patron to enjoy discounts when you purchase
 multiple session tickets (lineup for 2025 coming soon!).&nbsp;</p>
-<p><em>Written by Jamie Uy</em>
-<br><em>Photography by Lydia Konig&nbsp;</em>
+<p><strong><em>Written by Jamie Uy</em><br><em>Photography by Lydia Konig&nbsp;</em></strong>
 <br>
 </p>
