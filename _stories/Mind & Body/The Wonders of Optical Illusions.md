@@ -7,9 +7,12 @@ description: Is "The Dress" gold and white, or blue and black? Read about some
 third_nav_title: Mind & Body
 image: /images/the_dress.gif
 ---
-<p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
-Saw the Science<em>, on 22 April 2021. The article has been republished with new graphics and lightly edited for </em>Void
-Deck.</p>
+<h4>Can we trust our eyes? Discover four optical illusions that we encounter everyday!</h4>
+<p><strong>WARNING: This article may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusions_Face.png">
+</div>
 <p>Stepping into Science Centre Singapore, you are immediately greeted with
 the <a href="https://www.science.edu.sg/whats-on/exhibitions/the-mind-s-eye" rel="noopener nofollow" target="_blank">The Mind's Eye</a>,
 one of our staple exhibits. Even as a kid, I could vividly remember the
@@ -91,7 +94,7 @@ fuller faster with less food.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusions_Ebbinghaus_VD.gif">
 </div>
-<p><em>A gif demonstrating the Ebbinghaus illusion.</em>
+<p><em>A gif demonstrating the Ebbinghaus illusion. Created in Canva by Jamie Uy.</em>
 </p>
 <p>What’s curious about illusions like these (Ebbinghaus illusions) is that
 we are not born to be fooled by them. Children under the age of 10 are
@@ -129,9 +132,6 @@ shapes with <a href="http://magiceye.ecksdee.co.uk/" rel="noopener noreferrer no
 to see why it is so. Competitions are held for such visual artists of all
 mediums, and one of my favourites is <a href="https://www.instagram.com/designdain/" rel="noopener noreferrer nofollow" target="_blank">Dain Yoon</a>, an immaculate
 makeup artist and painter.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusions_Face.png">
-</div>
 <p>Finally, my fascination with optical illusions is strongly tied to what
 I think they teach us.</p>
 <p>Through revealing the blind spots of our body, optical illusions teach
@@ -154,7 +154,11 @@ into the darker shadows of the human psyche.</p>
 <p>Visit the <a href="https://www.science.edu.sg/whats-on/untame" rel="noopener nofollow" target="_blank">Science Centre Singapore website</a> to
 buy tickets to immersive installations and interactive science experiences
 showing that there's More Than Meets the Mind.</p>
-<p><em>Written by Kow Zi Shan</em>
-<br><em>Edited by Jamie Uy<br>Originally illustrated by Jia Qi</em>
-<br><em>New illustrations by Jansen Michelle</em>
+<p><strong><em>Written by Kow Zi Shan</em><br><em>Edited by Jamie Uy<br>Originally illustrated by Chua Jia Qi</em><br><em>New illustrations by Jansen Michelle</em></strong>
+</p>
+<hr>
+<p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
+Saw the Science<em>, on 22 April 2021. The article has been republished with new graphics and lightly edited for </em>Void
+Deck.</p>
+<p><em>Last updated: 25 October 2024</em>
 </p>
