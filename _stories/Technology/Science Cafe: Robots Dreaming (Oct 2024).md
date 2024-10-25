@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Technology
 ---
-<p><em>Cafe-goers experienced a unique dinner with Ameca, one of the world’s most advanced humanoid robots, and a fun gameshow poking the brains of local computer scientists.</em>
-</p>
+<h4><em>Café-goers experienced a unique dinner with Ameca, one of the world’s most advanced humanoid robots, and a fun gameshow poking the brains of local computer scientists.</em></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A preview of Ameca, a humanoid robot, at Science Centre Singapore's Some Call it Science exhibit." src="/images/SCafe00.jpg">
 </div>
@@ -14,7 +13,7 @@ third_nav_title: Technology
 but what will the future of robotics and artificial intelligence look like
 in the real world?&nbsp;</p>
 <p>On Friday 11 October 2024, Science Centre Singapore held the October edition
-of the popular ongoing Science Cafe series on the theme <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/robot-dreams--science-or-sci-fi" rel="noopener nofollow" target="_blank">"Robots Dreaming: Science of Sci-Fi?" </a>at
+of the popular ongoing Science Café series on the theme <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/robot-dreams--science-or-sci-fi" rel="noopener nofollow" target="_blank">"Robots Dreaming: Science of Sci-Fi?" </a>at
 Hall A. The event explored AI philosophy, emotions, bias, and the future
 of AI in everyday life.</p>
 <p>The session featured Asst. Prof. Harold Soh (Assistant Professor of Computer
@@ -36,9 +35,9 @@ expressive and advanced humanoid robot manufactured by Engineered Arts.&nbsp;</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCafe17.jpg">
 </div>
-<p>Cafe-goers were able to converse with Ameca over wine and gyoza. Equipped
-with a drawing pad and a stylus, Ameca drew sketches like a friend doodling
-on a napkin at a bar, like a cutely peeled banana (her favourite fruit).&nbsp;</p>
+<p>Café-goers were able to converse with Ameca over wine and gyoza. Equipped
+with a drawing pad and a stylus, Ameca drew sketches, much like a friend
+doodling on a napkin at a bar.</p>
 <p>Standing by the drinks table, Ameca charmed cafe-goers with her multilingual
 language capabilities. Ameca chatted with attendees in German, Japanese,
 Spanish, Mandarin Chinese, and even Singlish.&nbsp;</p>
@@ -96,18 +95,18 @@ some friends and give the questions below a go!</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSlhbbLBz-S8zxLDnC8t_xLK6hkzVgp-OlX48fpmzOXpQ7BlYwMnYnHmZdKzlyhqTan4DYMTfnFtkv/embed?start=true&amp;loop=false&amp;delayms=15000"></iframe>
 </div>
-<h4><strong>You’re Invited to Science Cafe!</strong></h4>
-<p>A new genre of nightlife that is both intelligent and fun, Science Cafe
+<h4><strong>You’re Invited to Science Café!</strong></h4>
+<p>A new genre of nightlife that is both intelligent and fun, Science Café
 is a monthly casual dinner series hosted by Science Centre Singapore for
 adults aged 18 years old and above to hear from local experts and chat
 about the latest scientific trends and their societal impact.</p>
 <p>Previous sessions have explored everything from south polar dinosaurs
 to mental health comics, Singapore’s biodiversity, and the vastness of
 the universe.&nbsp;</p>
-<p>Join us for the next Science Cafe session on Friday 6 December 2024, 6:30pm
-on the theme for this year’s UNTAME festival, “More than Meets the Mind.”
-We’ll delve into psychology and the science of perception over some good
-food!
+<p>Join us for the next Science Café session on Friday 6 December 2024, 6:30pm
+on the theme for this year’s <a href="https://www.science.edu.sg/whats-on/untame" rel="noopener nofollow" target="_blank">UNTAME festival</a>,
+“More than Meets the Mind.” We’ll delve into psychology and the science
+of perception over some good food!
 <br>
 <br>Want to join the smartest supper club in town? Head to <a href="https://engineeredarts.co.uk/robot/ameca/" rel="noopener noreferrer nofollow" target="_blank"><u>www.gevme.com/sciencecafe</u></a> to
 become a Cafe Friend, Barista, or Patron to enjoy discounts when you purchase
