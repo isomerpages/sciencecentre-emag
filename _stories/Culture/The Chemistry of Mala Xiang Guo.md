@@ -109,7 +109,7 @@ Singapore; it’s safe to say that the mala storm rages on.&nbsp;</p>
 </p>
 <hr>
 <p><em>This article was originally published on 19 July 2020 in Science Centre Singapore's previous blog, </em>I
-Saw the Science<em>. </em>
+Saw the Science<em>.</em>
 </p>
 <p><em>Last updated: 25 October 2024</em>
 </p>
