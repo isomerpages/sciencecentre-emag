@@ -13,15 +13,15 @@ sections:
       alignment: left
       backgroundColor: black
   - infopic:
-      title: The Chemistry of Mala Xiang Guo
-      subtitle: Food, Chemistry, Culture
+      title: "Night at the Museum: Stargazing at Science Centre Singapore"
+      subtitle: astronomy, space
       id: infopic
-      description: Spice up your knowledge as we wok through the chemistry of mala
-        xiang guo's tongue-tingling flavours.
+      description: Singapore got stars meh? Go behind the scenes at one of Singapore's
+        few public observatories to learn about our vast universe.
       button: Read More
-      url: /mala-chemistry
-      image: /images/Void_Deck_Mala_Illustrations__03.jpg
-      alt: Sichuan peppercorn molecule.
+      url: /scob-stargazing
+      image: /images/VD_Homepage_Infopics.png
+      alt: A mixed media graphic
   - infopic:
       title: Exploring Geometry with Peranakan Tiles
       subtitle: Math, culture, art
@@ -32,6 +32,16 @@ sections:
       image: /images/peranakan_tiles_isomer_featured_image.png
       alt: A collage of Peranakan tiles.
       url: /peranakan-tiles-geometry
+  - infopic:
+      title: The Chemistry of Mala Xiang Guo
+      subtitle: Food, Chemistry, Culture
+      id: infopic
+      description: Spice up your knowledge as we wok through the chemistry of mala
+        xiang guo's tongue-tingling flavours.
+      button: Read More
+      url: /mala-chemistry
+      image: /images/Void_Deck_Mala_Illustrations__03.jpg
+      alt: Sichuan peppercorn molecule.
   - infopic:
       title: "Science Cafe: Robots Dreaming (Oct 2024)"
       subtitle: Tech, robotics, ai
