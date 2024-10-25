@@ -13,31 +13,31 @@ sections:
       alignment: left
       backgroundColor: black
   - infopic:
-      title: A Guide to 8 Common Street Trees
-      subtitle: nature, sustainability
+      title: A Guide to Singapore's Street Trees
+      subtitle: Environment, Sustainability
       id: infopic
-      description: Do you know Singapore has "cherry blossom" season too? Learn about
-        the pink trumpet tree and other local flora!
+      description: Do you know Singapore has "cherry blossom" season too? Take a
+        screen break and try to spot a trumpet tree near you!
       button: Read More
-      url: /trees
-      image: /images/8trees.png
-      alt: Image alt text
+      url: /sg-trees
+      image: /images/Street_Trees_Trumpet_Tree_Compressed.jpg
+      alt: A trumpet tree.
   - infopic:
-      title: "Kitchen Science: Bubble Tea"
-      subtitle: Food, Health, Culture
+      title: The Chemistry of Mala Xiang Guo
+      subtitle: Food, Chemistry, Culture
       id: infopic
-      description: Sip on the chemistry behind your favourite sweet treat.
+      description: XXX
       button: Read More
-      url: /boba/
-      image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
-      alt: Image alt text
+      url: /mala-chemistry
+      image: /images/Void_Deck_Mala_Illustrations__03.jpg
   - infopic:
-      title: A Mosaic of Mathematics
-      subtitle: Geometry, culture, art
+      title: Exploring Geometry with Peranakan Tiles
+      subtitle: Math, culture, art
       id: infopic
-      description: Floored by the beauty of Peranakan tiles? We unearth the
-        geometrical principles of these heritage patterns.
-      button: Button Text
+      description: Floored by the beauty of Peranakan tiles? We uncover a mosaic of
+        mathematics by examining these heritage patterns.
+      button: Read more
       image: /images/peranakan_tiles_isomer_featured_image.png
-      alt: Image alt text
+      alt: A collage of Peranakan tiles.
+      url: /peranakan-tiles-geometry
 ---
