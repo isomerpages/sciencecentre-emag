@@ -7,9 +7,7 @@ description: Singaporeans are notoriously sleep-deprived. Can a fun mobile game
 third_nav_title: Mind & Body
 image: /images/sleep_deprivation_01.jpg
 ---
-<p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
-Saw the Science<em>, on 16 January 2024. The article has been lightly edited and republished with new graphics for </em>Void
-Deck.</p>
+<h4>Singaporeans are notoriously sleep-deprived. Could a popular mobile app game help us get more sleep? Follow one Singaporean’s quest to rest their best in the new year.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sleep_deprivation_01.jpg">
 </div>
@@ -198,6 +196,11 @@ in vain to overcome.</p>
 “rest is the strongest healing move—even for humans!” We gotta catch ‘em
 z’s if we want to keep happy and healthy in the new year. Parents can find
 more tips from Asst. Prof. Lo in the <a href="https://sites.google.com/site/sleepandhealthlab/sleep-guide-for-parents-kids?authuser=0" rel="noopener noreferrer nofollow" target="_blank">Sleep and Health Laboratory’s sleep guide for school-age children</a>.</p>
-<p><em>Written by Jamie Uy</em>
-<br><em>Illustrated by Jansen Michelle</em>
+<p><strong><em>Written by Jamie Uy</em><br><em>Illustrated by Jansen Michelle</em></strong>
+</p>
+<hr>
+<p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
+Saw the Science<em>, on 16 January 2024. The article has been lightly edited and republished with new graphics for </em>Void
+Deck.</p>
+<p><em>Last updated: 25 October 2024</em>
 </p>
