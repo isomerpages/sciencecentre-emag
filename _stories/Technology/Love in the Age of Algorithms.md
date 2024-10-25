@@ -7,8 +7,7 @@ description: Cupid's arrow, gone digital. We decode the psychology and
 third_nav_title: Technology
 image: /images/Online_Dating_01.jpg
 ---
-<h4><strong><em>Cupid's arrow, gone digital. We talk to a psychologist and a dating app CEO to decode the phenomenon of online dating.</em></strong></h4>
-<p></p>
+<h4>Cupid's arrow, gone digital. We talk to a psychologist and a dating app CEO to decode the phenomenon of online dating.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_01.jpg">
 </div>
