@@ -145,3 +145,6 @@ to explore urban ecosystems and how we can innovate to build sustainable
 cities. Tickets available at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/reducing-our-use-of-disposables" rel="noopener noreferrer nofollow" target="_blank">www.gevme.com/scsonlinetickets</a>.</p>
 <p><strong><em>Written by Tan Hui Chin</em></strong>
 </p>
+<hr>
+<p><em>Last updated: 25 October 2024</em>
+</p>
