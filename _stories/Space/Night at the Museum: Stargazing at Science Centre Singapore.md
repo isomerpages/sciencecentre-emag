@@ -8,14 +8,12 @@ third_nav_title: Space
 image: /images/SCOBFeaturedImg.jpg
 ---
 <h4><em>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</em></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A science educator peering through a telescope at the moon." src="/images/SCOBFeaturedImg.jpg">
 </div>
 <p><em>An educator gazes at the moon through a telescope at Science Centre Observatory. Photo credit: <a href="www.facebook.com/SCOBservatory" rel="noopener nofollow" target="_blank">Science Centre Observatory</a>.</em>
 </p>
-<p>
-<br>Ever belted out Coldplay’s “A Sky Full of Stars” and wondered what it’s
+<p>Ever belted out Coldplay’s “A Sky Full of Stars” and wondered what it’s
 like to see a celestial panorama? You may be surprised to know that Science
 Centre Singapore has been hosting public stargazing sessions for years.</p>
 <p>The <a href="https://www.science.edu.sg/whats-on/workshops-activities/stargazing" rel="noopener noreferrer nofollow" target="_blank"><u>Science Centre Observatory</u></a> is
@@ -195,4 +193,7 @@ Station. On this one-hour journey, you'll step into never-before-seen 360-degree
 videos captured in space. Admire mind-blowing views of Earth and explore
 the daily lives of astronauts. Get your tickets now at <a href="https://www.science.edu.sg/whats-on/workshops-activities/stargazing" rel="noopener noreferrer nofollow" target="_blank"><u>infinite-experience.com/singapore</u></a>.</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
+</p>
+<hr>
+<p><em>Last updated: 25 October 2024</em>
 </p>
