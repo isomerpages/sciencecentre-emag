@@ -6,10 +6,11 @@ description: ""
 image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
 third_nav_title: DIY
 ---
-<p><em>This article was originally published as "Bubble Tea: The Drink that Makes our Heart Go Boba-boba" on Science Centre Singapore's blog, </em>I
-Saw the Science<em>, on 12 May 2020. The article has been edited and republished with new graphics for </em>Void
-Deck.</p>
-<p>Someone once asked me, ‘Why bubble tea? What’s so great about it?’ Are
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg">
+</div>
+<p>Someone once asked me, "Why bubble tea? What’s so great about it?" Are
 you kidding me? Can’t say the same for everyone, but at least for me, bubble
 tea solves everything (not literally everything, but you get me). It’s
 both a drink and a snack at the same time, which means if you’re hungry
@@ -18,10 +19,7 @@ and thirsty, bubble tea will solve the problem.</p>
 you’re sad, bubble tea will wash those tears away. If you’re stressed,
 bubble tea will help ease the pain. I’m sure you get the gist of it all
 by now – bubble tea is life!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_blog_Bubble_Tea__Article_Images__01.jpg">
-</div>
-<p>But how is this marvelous drink made? I am going to share with you some
+<p>But how is this marvellous drink made? I am going to share with you some
 tips and tricks that I have picked up along the way for making your very
 own chewy pearls!</p>
 <p>All you need is just three basic ingredients: brown sugar, water and most
@@ -91,10 +89,10 @@ the original bubble milk tea doesn’t contain pearls; the term ‘bubble’
 in bubble tea actually refers to the froth you get after shaking the drink!</p>
 <p>There are some speculations about the origins of bubble tea, but one seems
 to stand out: bubble tea originates from the city of Taichung, Taiwan in
-the 1980s, from the Chen Shui Tang tea shop where the owner Mr Liu Han-chien
+the 1980s, from the Chen Shui Tang tea shop where the owner Liu Han-chien
 sold his high mountain oolong tea.</p>
-<p>As Taiwanese tea stands became increasingly popular and competitive, Mr
-Liu wanted to set himself apart. Inspired by iced Japanese coffee, he wanted
+<p>As Taiwanese tea stands became increasingly popular and competitive, Liu
+wanted to set himself apart. Inspired by iced Japanese coffee, he wanted
 to change the way people drank tea, so he experimented by putting traditional
 milk tea in a cocktail shaker with ice and served tea cold. People thought
 that he was crazy as no one served chilled tea at that time.</p>
@@ -103,8 +101,8 @@ This chilled tea turned out to be so popular, it became known as “bubble
 tea” due to the thick layer of foam that forms at the top of the drink
 after it is shaken.</p>
 <p>The addition of tapioca pearls happened when a competition was held among
-staff to create an innovative drink. The store manager, Ms Lin Hsiu-hui,
-enjoyed eating a Taiwanese dessert called tapioca balls, or 粉圆 <em>fěn yuán</em> and
+staff to create an innovative drink. The store manager, Lin Hsiu-hui, enjoyed
+eating a Taiwanese dessert called tapioca balls, or 粉圆 <em>fěn yuán</em> and
 decided to add them to her iced Assam milk tea during a staff meeting.</p>
 <p>And bam! Just like that, the bubble tea that we now know was born! It
 was so well-liked that other teahouses in Taiwan started following the
@@ -143,7 +141,11 @@ of non-dairy creamer)</p>
 </li>
 </ol>
 <p>Remember, the key is moderation. Keep calm and boba on (in moderation)!</p>
-<p><em>Text and photography by Lim Huan</em>
-<br><em>Edited by Jamie Uy</em>
-<br><em>Illustrations by Chua Jia Qi</em>
+<p><strong><em>Text and photography by Lim Huan</em><br><em>Edited by Jamie Uy</em><br><em>Illustrations by Chua Jia Qi</em></strong>
+</p>
+<hr>
+<p><em>This article was originally published as "Bubble Tea: The Drink that Makes our Heart Go Boba-boba" on Science Centre Singapore's blog, </em>I
+Saw the Science<em>, on 12 May 2020. The article has been edited and republished with new graphics for </em>Void
+Deck.</p>
+<p><em>Last updated: 25 October 2024</em>
 </p>
