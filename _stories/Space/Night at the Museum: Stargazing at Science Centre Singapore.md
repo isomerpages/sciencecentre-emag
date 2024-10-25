@@ -34,17 +34,17 @@ attempts to capture the cosmos. Not to mention, Singapore is the world's
 most light-polluted country, according to the <a href="https://www.science.org/doi/10.1126/sciadv.1600377" rel="noopener noreferrer nofollow" target="_blank"><u>New World Atlas of Artificial Night Sky Brightness</u></a>.
 With Singapore's urbanised landscape and numerous buildings, there are
 simply not enough dark, unobstructed areas to look up at the sky.</p>
-<p>When I ask Senior Science Educator Mr. Meng Hwee Lim about a good place
-in Singapore to stargaze, he jokes, "the graveyard."</p>
+<p>When I ask Senior Science Educator Meng Hwee Lim about a good place in
+Singapore to stargaze, he jokes, "the graveyard."</p>
 <p>"There's going to be probably very little tall trees to block your view.
 It's going to be a very wide, open area, and it's dark. It's usually really
 quiet, away from the city lights. That's all the good things you want for
 stargazing," Lim cracks a smile.&nbsp;</p>
 <p>His next best suggestion? "Come to Science Centre."</p>
-<p>Ms. Li Hui Mok, Manager of Informal Science Programmes, mentions even
-if there are no large clouds immediately visible to the naked eye, there
-may be "some clouds [that] are very thin and very high up," making the
-sky appear dark blue.&nbsp;</p>
+<p>Li Hui Mok, Manager of Informal Science Programmes, mentions even if there
+are no large clouds immediately visible to the naked eye, there may be
+"some clouds [that] are very thin and very high up," making the sky appear
+dark blue.&nbsp;</p>
 <p>For stargazing, "dark blue is the wrong kind of sky,” Mok explains. Ideally
 the sky should be black, meaning that "there are stars there, just that
 maybe your eyes are not sensitive enough to it."</p>
@@ -114,23 +114,23 @@ Planet and beyond in search of the stars?</p>
 <p>The stargazing sessions at Science Centre Observatory are supported by
 passionate members of the public such as The Astronomical Society of Singapore
 (TASOS). To understand the everlasting appeal of stargazing, I interviewed
-Mr. Soh Kim Mun, the president of TASOS and longtime volunteer at the Science
+Soh Kim Mun, the president of TASOS and longtime volunteer at the Science
 Centre Observatory over email.</p>
-<p>A member of TASOS since 1992, Mr. Soh's interest in astronomy started
-when he was in Secondary 3. "I was looking at the sky one clear evening
-when a shooting star flew pass my view," he recalls.&nbsp;</p>
+<p>A member of TASOS since 1992, Soh's interest in astronomy started when
+he was in Secondary 3. "I was looking at the sky one clear evening when
+a shooting star flew pass my view," he recalls.&nbsp;</p>
 <p>"When I started stargazing in Singapore, I did not know I was stargazing.
 I plotted the stars position during the school year end holidays (those
 days not much entertainments other than riding bicycle at void decks)."</p>
 <p>"One school holiday, I walked to the National Library ... and I came across
 such a topic as Astronomy .... and behold, there is such a thing called
 Star Map!"&nbsp;</p>
-<p>Mr. Soh and other TASOS members interact with visitors at the Observatory
+<p>Soh and other TASOS members interact with visitors at the Observatory
 by manning telescopes and imparting astronomical knowledge.</p>
 <p>"When we tell the public that they are looking at that or this blank space,
 they are always amazed by what they can see through the telescope as Singapore
 is a very light polluted city and it is very difficult to hunt the deep
-space objects," Mr. Soh shares.</p>
+space objects," Soh shares.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A crowd of visitors around the Science Centre Observatory." src="/images/SCOBCrowd.jpg">
@@ -151,7 +151,7 @@ visibility of the stars.&nbsp;</p>
 they may be disappointed when the telescope image doesn't match the textbook
 illustrations or James Webb Telescope photographs of a majestic planet
 in 4K detail and vibrant colours.</p>
-<p>Mr. Soh states that the TASOS volunteers “[have to] explain that our human
+<p>Soh states that the TASOS volunteers “[have to] explain that our human
 eye cannot compare with digital cameras and digital image processing.”</p>
 <p>When I bring up the fact that visitors may be used to seeing high-resolution
 space images, Lim talks about how the astronomy experience is entirely
