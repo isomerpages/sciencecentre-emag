@@ -115,5 +115,8 @@ of perception over some good food!
 become a Cafe Friend, Barista, or Patron to enjoy discounts when you purchase
 multiple session tickets (lineup for 2025 coming soon!).&nbsp;</p>
 <p><strong><em>Written by Jamie Uy</em><br><em>Photography by Lydia Konig&nbsp;</em></strong>
+</p>
+<hr>
+<p><em>Last updated: 25 October 2024</em>
 <br>
 </p>
