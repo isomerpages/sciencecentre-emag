@@ -152,9 +152,9 @@ colours 180 degrees apart on the colour wheel, or analogous colours within
 30-60 degrees of each other. Post your designs and tag <a href="https://www.instagram.com/voiddeckmag/" rel="noopener nofollow" target="_blank">@voiddeckmag</a> on
 Instagram!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Peranakan_Tiles_Colouring_Sheet.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL_Peranakan_Tiles_Colouring_Sheet.png">
 </div>
-<p><a href="/files/VD_Peranakan_Tiles_Colouring_Sheet.pdf" rel="noopener nofollow" target="_blank">Download the PDF of Peranakan tile colouring sheet here!</a>
+<p><a href="/files/VD_Peranakan_Tiles_Colouring_Sheet_FINAL.pdf" rel="noopener nofollow" target="_blank">Download the Peranakan tile colouring sheet here!</a>
 </p>
 <h4><strong>Unparalleled Fun at Science Centre Singapore</strong></h4>
 <p>Explore more trippy patterns and geometrical fun at Science Centre Singapore's
