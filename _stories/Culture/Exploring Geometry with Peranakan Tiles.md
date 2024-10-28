@@ -139,8 +139,8 @@ art!</p>
 </div>
 <p>Prefer to let out your inner Picasso instead? Download this colouring
 sheet to colour in your very own Peranakan tile masterpiece. Try colouring
-in the tile to create rotational and reflectional symmetry. Extra challenge:
-explore <a href="https://www.ethangardner.com/posts/color-theory-math/" rel="noopener nofollow" target="_blank">the mathematics of colour theory</a>!
+in the tile to create rotational and reflectional symmetry.</p>
+<p>Extra challenge: explore <a href="https://www.ethangardner.com/posts/color-theory-math/" rel="noopener nofollow" target="_blank">the mathematics of colour theory</a>!
 You can try this <a href="https://rmit.pressbooks.pub/colourtheory1/chapter/interactive-colour-wheel/" rel="noopener nofollow" target="_blank">interactive colour wheel</a> by
 Benjamin Knight to understand colour relationships. Choose complementary
 colours 180 degrees apart on the colour wheel, or analogous colours within
