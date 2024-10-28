@@ -12,11 +12,11 @@ image: /images/peranakan_tiles_isomer_featured_image.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peranakan_tiles_isomer_featured_image.png">
 </div>
-<p>Singapore's Peranakan tiles are well loved for their bold, eclectic designs.
+<p>Singapore's Peranakan tiles are well known for their bold, eclectic designs.
 With their aesthetics standing the test of time, you can find some of these
 original ornamental tiles in <a href="https://jenniferlimart.com/blog/where-to-see-peranakan-tiles-in-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>shophouse facades along Katong, Joo Chiat, and Emerald Hill</u></a>.
-Have you ever wondered about the elegant mathematical principles that create
-these eye-catching mosaics?</p>
+But have you ever wondered about the elegant mathematical principles that
+create these eye-catching mosaics?</p>
 <p>First, some quick history. What we call "Peranakan tiles" are actually
 <a href="https://noroadbarred.files.wordpress.com/2015/02/passage_mar-apr15.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>tiles imported from European countries like England, Belgium, Germany, and the Netherlands prior to World War I </u>
 </a>to decorate the homes of the Chinese and <a href="https://www.nhb.gov.sg/peranakanmuseum/learn/about-the-peranakans" rel="noopener noreferrer nofollow" target="_blank"><u>Peranakan community</u></a> in
@@ -37,7 +37,7 @@ and reinterpret outside trends and influences."&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo of Peranakan shophouses by Amos Lee on Unsplash" src="/images/amos_lee_rl2yE_oggEM_unsplash.jpg">
 </div>
-<p><em>Photo by <a href="https://unsplash.com/@mos766?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Amos Lee</a> on <a href="https://unsplash.com/photos/green-and-pink-houses-rl2yE_oggEM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<p><em>Peranakan tiles adorning shophouses on Koon Seng Road. Credit: <a href="https://unsplash.com/@mos766?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Amos Lee</a>/<a href="https://unsplash.com/photos/green-and-pink-houses-rl2yE_oggEM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
 </p>
 <p>What about the science behind these mosaics of diverse cultures?&nbsp;</p>
 <p>Creating durable ceramics involves <a href="https://exhibitions.bgc.bard.edu/majolicamania/making-majolica/" rel="noopener noreferrer nofollow" target="_blank"><u>chemistry, materials science, and technology</u></a>.
@@ -149,14 +149,14 @@ degrees of each other. Post your designs and tag @voiddeckmag on Instagram!</p>
 <p><a href="/files/VD_Peranakan_Tiles_Colouring_Sheet.pdf" rel="noopener nofollow" target="_blank">Download the PDF of Peranakan tile colouring sheet here!</a>
 </p>
 <h4><strong>Unparalleled Fun at Science Centre Singapore</strong></h4>
-<p>Explore more trippy patterns and geometry fun at Science Centre Singapore's
+<p>Explore more trippy patterns and geometrical fun at Science Centre Singapore's
 exhibition <a href="https://www.science.edu.sg/whats-on/exhibitions/the-mind-s-eye" rel="noopener noreferrer nofollow" target="_blank"><u>The Mind's Eye</u></a>.
 Jio your friends for interactive photo ops that play with our visual perception
-with cool angles and mathematics tricks.&nbsp;</p>
+with cool angles and math tricks.&nbsp;</p>
 <p>Afterwards, challenge your buddies to navigate <a href="https://www.science.edu.sg/whats-on/exhibitions/professor-crackitts-light-fantastic-mirror-maze" rel="noopener noreferrer nofollow" target="_blank"><u>Professor Crackitt's Light Fantastic Mirror Maze</u></a>,
 a funhouse with infinite reflections.&nbsp;</p>
-<p>For young scientists, you can continue boggling your little ones' minds
-through the <a href="https://youngscientist.sscglobal.com.sg/enrol/index.php?id=9" rel="noopener noreferrer nofollow" target="_blank"><u>I Am A Young Mathematician Young Scientist Badge Scheme</u></a>,
+<p>For parents or educators of young children, you can continue boggling
+your little ones' minds through the <a href="https://youngscientist.sscglobal.com.sg/enrol/index.php?id=9" rel="noopener noreferrer nofollow" target="_blank"><u>I Am A Young Mathematician Young Scientist Badge Scheme</u></a>,
 with maths activities you can do at home!&nbsp;
 <br>
 </p>
