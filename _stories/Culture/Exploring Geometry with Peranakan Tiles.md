@@ -24,10 +24,10 @@ Southeast Asia. Art Nouveau and Art Deco majolica tiles (glazen earthenware)
 were especially popular with their intricate floral and faunal motifs.</p>
 <p><a href="https://noroadbarred.files.wordpress.com/2015/02/passage_mar-apr15.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Later in the 1920s, Japan started exporting majolica tiles</u></a> with
 <a href="https://expatliving.sg/peranakan-tiles-in-singapore-story/" rel="noopener noreferrer nofollow" target="_blank"><u>designs rich in Chinese symbolism</u>
-</a>, such as lotuses, peaches, plum blossoms, and dragons, to growing demand
-in Singapore and across Malaya. These majolica tiles from different countries
-eventually became so synonymous with local communities that they became
-known in Southeast Asia as Peranakan tiles.</p>
+</a>, such as lotuses, peaches, plum blossoms, and dragons, to satisfy growing
+demand in Singapore and across Malaya. These majolica tiles from different
+countries eventually became so synonymous with local communities that they
+became known in Southeast Asia as Peranakan tiles.</p>
 <p><a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u>In a </u></a><em><a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u>Straits Times </u></a></em>
 <a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u>feature published in 2019</u>
 </a>, artist Jennifer Lim explained, “the tiles tell a story of Singapore's
@@ -63,23 +63,30 @@ culture."</p>
 to protect households, while "basket weave" designs represent the unity
 of the community.&nbsp;</p>
 <p>Some individual Peranakan tiles feature qualities such as rotational symmetry
-(when a pattern looks the same when rotated on its axis by a partial turn)
-and reflection symmetry (when one half of the pattern is the mirror image
-of the other half).&nbsp;</p>
+(when the tile still looks the same after some rotation of less than a
+full turn) and reflectional symmetry (when one half of the tile is a mirror
+image of the other half).&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VDPeranakanTilesImages1_ezgif_com_optimize.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Peranakan_Tiles_Images.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Peranakan_Tile_Reflectional_Symmetry.jpg">
 </div>
 <p>In certain tiles, you can even spot <a href="https://science.howstuffworks.com/math-concepts/fractals.htm" rel="noopener noreferrer nofollow" target="_blank"><u>fractals</u></a>.
-Fractals are complex, never-ending patterns that, when zoomed in or out,
-create a replica of the whole. For example, if you look at the branches
-of a fern closely, the fern’s branches resemble the shape of the entire
-frond. Since Peranakan tiles are inspired by nature, organic designs featuring
-detailed plants or flowers may exhibit these principles.&nbsp;</p>
+Fractals are complex, never-ending patterns that, when zoomed in or out
+of, create a replica of the whole. You can watch this zoom sequence of
+a shape called a Mandelbrot Set from Mathigon to see how the pattern repeats
+forever.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b005iHf8Z3g?si=0exrGUYiuZEF1sWe"></iframe>
+</div>
+<p>To find fractals, you just have to look at nature. For example, <a href="https://www.popmath.org.uk/rpamaths/rpampages/fern.html" rel="noopener nofollow" target="_blank">a fern is a fractal</a>.
+If you look at the leaflets of a fern closely, the fern’s leaflets resemble
+the shape of the entire frond. Since Peranakan tiles often incorporate
+organic designs featuring detailed plants or flowers, they may exhibit
+fractal principles.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
