@@ -20,8 +20,8 @@ sections:
       title: "Night at the Museum: Stargazing at Science Centre Singapore"
       subtitle: astronomy, space
       id: infopic
-      description: Singapore got stars meh? Go behind the scenes at one of Singapore's
-        few public observatories to learn about our vast universe.
+      description: We can see stars in Singapore meh? Go behind the scenes at one of
+        Singapore's rare public observatories to learn about our vast universe.
       button: Read More
       url: /scob-stargazing
       image: /images/VD_Homepage_Infopics.png
@@ -50,7 +50,7 @@ sections:
       title: "Science Cafe: Robots Dreaming (Oct 2024)"
       subtitle: Tech, robotics, ai
       id: infopic
-      description: Café-goers dined with Ameca, one of the world’s most advanced
+      description: Attendees dined with Ameca, one of the world’s most advanced
         humanoid robots, and participated in a game show poking the brains of
         local computer scientists.
       button: Read more
