@@ -12,6 +12,8 @@ image: /images/peranakan_tiles_isomer_featured_image.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peranakan_tiles_isomer_featured_image.png">
 </div>
+<p><em>Image Credit: Jansen Michelle</em>
+</p>
 <p>Singapore's Peranakan tiles are well known for their bold, eclectic designs.
 With their aesthetics standing the test of time, you can find some of these
 original ornamental tiles in <a href="https://jenniferlimart.com/blog/where-to-see-peranakan-tiles-in-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>shophouse facades along Katong, Joo Chiat, and Emerald Hill</u></a>.
@@ -37,7 +39,7 @@ and reinterpret outside trends and influences."&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo of Peranakan shophouses by Amos Lee on Unsplash" src="/images/amos_lee_rl2yE_oggEM_unsplash.jpg">
 </div>
-<p><em>Peranakan tiles adorning shophouses on Koon Seng Road. Credit: <a href="https://unsplash.com/@mos766?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Amos Lee</a>/<a href="https://unsplash.com/photos/green-and-pink-houses-rl2yE_oggEM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<p><em>Peranakan tiles adorning shophouses on Koon Seng Road. Photo credit: <a href="https://unsplash.com/@mos766?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Amos Lee</a>/<a href="https://unsplash.com/photos/green-and-pink-houses-rl2yE_oggEM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
 </p>
 <p>What about the science behind these mosaics of diverse cultures?&nbsp;</p>
 <p>Creating durable ceramics involves <a href="https://exhibitions.bgc.bard.edu/majolicamania/making-majolica/" rel="noopener noreferrer nofollow" target="_blank"><u>chemistry, materials science, and technology</u></a>.
@@ -112,6 +114,8 @@ gaps.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peranakan_tiles_collage.png">
 </div>
+<p><em>Image credit: Jansen Michelle</em>
+</p>
 <p>While Peranakan tiles are decorative works that are not textbook examples
 of these geometric concepts, these tiles can be a fun gateway to understanding
 mathematics.&nbsp;</p>
@@ -137,14 +141,14 @@ art!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ECz4fRXpaAk?si=PXjPHGRvTtlcYihi"></iframe>
 </div>
-<p>Prefer to let out your inner Picasso instead? Download this colouring
-sheet to colour in your very own Peranakan tile masterpiece. Try colouring
+<p>Prefer to let out your inner Picasso instead? Download the colouring sheet
+below to colour in your very own Peranakan tile masterpiece. Try colouring
 in the tile to create rotational and reflectional symmetry.</p>
-<p>Extra challenge: explore <a href="https://www.ethangardner.com/posts/color-theory-math/" rel="noopener nofollow" target="_blank">the mathematics of colour theory</a>!
+<p>Extra challenge: explore <a href="https://www.ethangardner.com/posts/color-theory-math/" rel="noopener nofollow" target="_blank">the mathematics of colour theory</a>.
 You can try this <a href="https://rmit.pressbooks.pub/colourtheory1/chapter/interactive-colour-wheel/" rel="noopener nofollow" target="_blank">interactive colour wheel</a> by
 Benjamin Knight to understand colour relationships. Choose complementary
 colours 180 degrees apart on the colour wheel, or analogous colours within
-30-60 degrees of each other. Post your designs and tag @voiddeckmag on
+30-60 degrees of each other. Post your designs and tag <a href="https://www.instagram.com/voiddeckmag/" rel="noopener nofollow" target="_blank">@voiddeckmag</a> on
 Instagram!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Peranakan_Tiles_Colouring_Sheet.jpg">
@@ -163,8 +167,8 @@ your little ones' minds through the <a href="https://youngscientist.sscglobal.co
 with maths activities you can do at home!&nbsp;
 <br>
 </p>
-<p><strong><em>Written by Jamie Uy</em><br><em>Featured image by Jansen Michelle</em></strong>
+<p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
-<p><em>Last updated: 25 October 2024</em>
+<p><em>Last updated: 28 October 2024</em>
 </p>
