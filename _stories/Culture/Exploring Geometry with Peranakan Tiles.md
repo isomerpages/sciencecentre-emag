@@ -109,6 +109,9 @@ wall, or bannister creates a form of <a href="https://www.mathnasium.com/blog/wh
 Tessellations or tilings in mathematics are patterns of repeating shapes
 that fit perfectly on a surface (typically a plane) with no overlaps or
 gaps.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/peranakan_tiles_collage.png">
+</div>
 <p>While Peranakan tiles are decorative works that are not textbook examples
 of these geometric concepts, these tiles can be a fun gateway to understanding
 mathematics.&nbsp;</p>
