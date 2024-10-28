@@ -7,7 +7,7 @@ description: Singapore got stars meh? Go behind the scenes at one of Singapore's
 third_nav_title: Space
 image: /images/SCOBFeaturedImg.jpg
 ---
-<h4>Singapore got stars meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and our friendly neighbourhood astronomy experts helping us peer into space.</h4>
+<h4>We can see stars in Singapore meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and hear from our friendly neighbourhood science educators helping us peer into space.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Star map, moon, and comet overlaid on image of educator peering through telescope." src="/images/VD_Homepage_Infopics.png">
@@ -44,7 +44,7 @@ are no large clouds immediately visible to the naked eye, there may be
 dark blue.&nbsp;</p>
 <p>For stargazing, "dark blue is the wrong kind of sky,” Mok explains. Ideally
 the sky should be black, meaning that "there are stars there, just that
-maybe your eyes are not sensitive enough to it."</p>
+maybe our eyes are not sensitive enough to it."</p>
 <p>Fun fact: the lights on the Science Centre Observatory staircase leading
 up to the big telescope and the ceiling lights inside the dome are <a href="https://www.skyatnightmagazine.com/top-astronomy-kit/best-red-light-head-torches" rel="noopener noreferrer nofollow" target="_blank"><u>red to help adapt visitors’ eyes to the darkness</u></a>.</p>
 <div class="isomer-image-wrapper">
@@ -52,16 +52,16 @@ up to the big telescope and the ceiling lights inside the dome are <a href="http
 </div>
 <p>Although finding a truly black sky is a luxury in Singapore, you can find
 a silver screen that replicates such a sky at the Science Centre. The Science
-Centre Observatory hosts an immersive digital planetarium show at the
-<a href="https://www.science.edu.sg/visit-us/omni-theatre" rel="noopener noreferrer nofollow" target="_blank"><u>Omni-Theatre </u>
-</a>on select Friday nights which simulates what visitors might see if weather
+Centre Observatory hosts an immersive live digital planetarium show at
+the <a href="https://www.science.edu.sg/visit-us/omni-theatre" rel="noopener noreferrer nofollow" target="_blank"><u>Omni-Theatre </u></a>on
+select Friday nights which simulates what visitors might see if weather
 is favourable.&nbsp;</p>
-<p>The Omni-Theatre is Southeast Asia's first 8K 3D digital dome theatre
-and boasts Southeast Asia’s largest seamless dome screen (23m in diameter),
+<p>The Omni-Theatre is Southeast Asia's first 8K digital dome theatre and
+boasts Southeast Asia’s largest seamless dome screen (23m in diameter),
 wrapping overhead to envelop the audience in pictures of the stars. Its
 digital planetarium system lets audiences travel through outer space at
 light speed with 8K resolution.&nbsp;</p>
-<p>Since the celestial objects on view change each week, the educators hosting
+<p>Since the celestial objects on view change each month, the educators hosting
 the show put their own spin while guiding visitors through the skies, choosing
 to highlight specific objects that interest them. Some educators also weave
 in mythology about the stars and relevant cultural legends, such as the
@@ -74,7 +74,7 @@ star-crossed lovers in Chinese tradition.</p>
 <p>The live show brings visitors on a tour of other planets and moons of
 interest in our solar system, zipping past Saturn's rings and Jupiter's
 Io, culminating in a journey to the edge of our observable universe. Finally,
-the show's CGI animations catapults us back home to our tiny island, a
+the show's CGI animations catapults us back home to our small island, a
 blimp on the cosmic map, nothing more than a little red dot.&nbsp;</p>
 <p>In tongue-and-cheek fashion, the Science Centre staff on Observatory duty
 don polo shirts with a black-and-white illustration of the Milky Way printed
@@ -99,31 +99,31 @@ matters because we are here. In this great vast universe, we are here."</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Photo of dumbbell nebula (M27) taken at SCOB with SeeStar S50 smart telescope on 11/10/2024." src="/images/DumbbellNebula.jpg">
 </div>
-<p><em>A photo of Messier 27 (M27) also known as the <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/" rel="noopener nofollow" target="_blank">dumbbell nebula</a> taken with SeeStar S50 smart telescope at Science Centre on 11 October 2024.</em>
+<p><em>A photo of Messier 27 (M27), also known as the <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/" rel="noopener nofollow" target="_blank">Dumbbell Nebula,</a> taken with SeeStar S50 smart telescope at Science Centre on 11 October 2024.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tiny Saturn photographed with phone pressed to small telescope viewfinder at SCOB on 11/10/2024." src="/images/TinySaturn.jpg">
 </div>
 <p><em>Tiny Saturn taken with phone pressed to the small dome telescope viewfinder at Science Centre Observatory on 11 October 2024. Credit: Jacy Mok</em>
 <br>
-<br>What does it mean for people in the Little Red Dot to gaze up to the Red
-Planet and beyond in search of the stars?</p>
+<br>What does it mean for people in Singapore to gaze up to Saturn and beyond
+in search of the stars?</p>
 <p>The stargazing sessions at Science Centre Observatory are supported by
 passionate members of the public such as The Astronomical Society of Singapore
 (TASOS). To understand the everlasting appeal of stargazing, I interviewed
 Soh Kim Mun, the president of TASOS and longtime volunteer at the Science
 Centre Observatory over email.</p>
-<p>A member of TASOS since 1992, Soh's interest in astronomy started when
-he was in Secondary 3. "I was looking at the sky one clear evening when
-a shooting star flew pass my view," he recalls.&nbsp;</p>
+<p>A TASOS member since 1992, Soh's interest in astronomy started when he
+was in Secondary 3. "I was looking at the sky one clear evening when a
+shooting star flew [past] my view," he recalls.&nbsp;</p>
 <p>"When I started stargazing in Singapore, I did not know I was stargazing.
 I plotted the stars position during the school year end holidays (those
 days not much entertainments other than riding bicycle at void decks)."</p>
-<p>"One school holiday, I walked to the National Library ... and I came across
-such a topic as Astronomy .... and behold, there is such a thing called
+<p>"One school holiday, I walked to the National Library... and I came across
+such a topic as Astronomy.... and behold, there is such a thing called
 Star Map!"&nbsp;</p>
 <p>Soh and other TASOS members interact with visitors at the Observatory
-by manning telescopes and imparting astronomical knowledge.</p>
+by operating telescopes and imparting astronomical knowledge.</p>
 <p>"When we tell the public that they are looking at that or this blank space,
 they are always amazed by what they can see through the telescope as Singapore
 is a very light polluted city and it is very difficult to hunt the deep
@@ -157,10 +157,10 @@ different when visitors witness the cosmos for themselves, instead of secondhand
 bounce[s] off Saturn, then come[s] all the way here right, and bounce[s]
 into your eyes. That's real. It's not you looking at a photo. It's real."</p>
 <p>The stargazing sessions are especially popular with families with young
-kids, as the session is one of the activities on the <a href="https://youngscientist.sscglobal.com.sg/enrol/index.php?id=7" rel="noopener noreferrer nofollow" target="_blank"><u>I Am A Young Astronomer Young Scientist Badge Scheme</u></a>.
-Mok says that kids can ask surprisingly deep questions about astronomy.</p>
-<p>"Children will ask, what's the end of stars? What's the beginning of stars?"
-On nights where deep-sky objects like the Orion Nebula are visible, Mok
+kids, as the session is one of the activities on the <a href="https://youngscientist.sscglobal.com.sg/enrol/index.php?id=7" rel="noopener noreferrer nofollow" target="_blank"><u>I Am A Young Astronomer Young Scientist Badge Scheme</u></a>.</p>
+<p>Mok says that kids can ask surprisingly deep questions about astronomy.
+"Children will ask, what's the end of stars? What's the beginning of stars?"</p>
+<p>On nights where deep-sky objects like the Orion Nebula are visible, Mok
 will explain that "this is the birthplace of stars."&nbsp;</p>
 <p>However, the stargazing session also attracts visitors of all ages. When
 I attended the Friday 27 September 2024 session, a group of women were
@@ -168,10 +168,9 @@ celebrating a bachelorette party at the Observatory. The Observatory has
 even received inquiries from visitors who would like to propose to their
 partners at the Observatory or Omni-Theatre.</p>
 <p>While it may sound odd to stargaze in Singapore, it stands to reason that
-astronomy and space science has captured the public's imagination. The
-passion of the Science Centre educators and volunteers shines through.
-Maybe we’ll travel from the Little Red Dot to the Red Planet in the near
-future!</p>
+astronomy and space has captured the public's imagination. The passion
+of the Science Centre educators and volunteers shines through. Maybe we’ll
+even travel from the Little Red Dot to the Red Planet in the near future!</p>
 <h4><strong>Crazy for the Cosmos</strong></h4>
 <p>Eager to see the planets yourself? Head down to Science Centre Observatory
 to experience our digital planetarium show in the Omni-Theatre and stargazing
@@ -194,5 +193,5 @@ the daily lives of astronauts. Get your tickets now at <a href="https://www.scie
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
-<p><em>Last updated: 25 October 2024</em>
+<p><em>Last updated: 28 October 2024</em>
 </p>
