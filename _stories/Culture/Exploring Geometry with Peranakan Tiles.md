@@ -80,7 +80,7 @@ image of the other half).&nbsp;</p>
 Fractals are complex, never-ending patterns that, when zoomed in or out
 of, create a replica of the whole. You can watch this zoom sequence of
 a shape called a Mandelbrot Set from Mathigon to see how the pattern repeats
-forever.</p>
+forever, creating cohesion out of chaos.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b005iHf8Z3g?si=0exrGUYiuZEF1sWe"></iframe>
 </div>
@@ -93,12 +93,13 @@ fractal principles.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <p>Other Peranakan tile designs, such as the geometric lattice and basket
-weave, show knot theory at work. In mathematics, <a href="https://quantamagazine.org/why-mathematicians-study-knots-20221031/" rel="noopener noreferrer nofollow" target="_blank"><u>knot theory</u></a> refers
-to the study of mathematical knots. These knots are different from, for
-example, tying shoelaces, in that their ends must be joined so they cannot
-be undone. The interlacing circles and intricate lattices of some tiles,
-perhaps inspired by Chinese knotting or the eternal knot, resemble some
-mathematical knots.
+weave motifs mentioned by Mallick, show knot theory at work. In mathematics,
+<a href="https://quantamagazine.org/why-mathematicians-study-knots-20221031/" rel="noopener noreferrer nofollow" target="_blank"><u>knot theory</u>
+</a>refers to the study of mathematical knots. These knots are different from,
+for example, tying shoelaces, in that their ends must be joined so they
+cannot be undone. The interlacing circles and intricate lattices of some
+tiles, perhaps inspired by Chinese knotting or the eternal knot, resemble
+some mathematical knots.
 <br>
 </p>
 <div class="isomer-image-wrapper">
