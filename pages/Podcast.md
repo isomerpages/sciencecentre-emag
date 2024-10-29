@@ -16,11 +16,12 @@ take over the world? Listen to down-to-earth conversations with Singapore
 experts on everything from space, nature, tech, health, and culture. Tune
 in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em>on
 Spotify, Apple Podcasts, YouTube, or wherever you get your podcasts.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VD_Podcast_Logo_SCS_Globe_White.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VD_Podcast_Logo_SCS_Logo_Corrected_3000_min.png">
 </div>
-<h4><strong>&nbsp;Season 1</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Key visual" src="/images/VD_keyvisual_square.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trailer</div><div class="isomer-card-description">Taking you from Jurong to Jupiter.</div><div class="isomer-card-link">Listen to the trailer</div></div></a>
+<h4><strong>Season 1</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Key visual" src="/images/VD_Podcast_Trailer_Thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trailer: Exploring the Universe from the Heartlands</div><div class="isomer-card-description">Launching Science Centre Singapore's first-ever podcast, taking you from Jurong to Jupiter and beyond.</div><div class="isomer-card-link">Listen to the trailer</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/peranakan-ancestry/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
