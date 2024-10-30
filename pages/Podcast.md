@@ -33,7 +33,7 @@ in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em
 <div class="isomer-card-title">Tracing Peranakan Ancestry with Prof. Roger Foo (NUS Medicine)</div>
 <div class="isomer-card-description">You've probably seen those vibrant Peranakan shophouses in Joo Chiat –
 but how did this unique mixed-heritage community come to be in Singapore?
-To discover more, we speak with Prof. Roger Fo from NUS Medicine about
+To discover more, we speak with Prof. Roger Foo from NUS Medicine about
 the Singapore Peranakan Genome Project, DNA, and epigenetics.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
