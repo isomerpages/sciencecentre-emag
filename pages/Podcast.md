@@ -15,7 +15,7 @@ ask. Is the fish in the wet market my distant cousin? Will robots eventually
 take over the world? Listen to down-to-earth conversations with Singapore
 experts on everything from space, nature, tech, health, and culture. Tune
 in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em>on
-Spotify, <a href="https://podcasts.apple.com/us/podcast/void-deck/id1776840729" rel="noopener nofollow" target="_blank">Apple Podcasts</a>,
+<a href="https://open.spotify.com/show/4tmRD6JAE8LIYLOT8MdHAr?si=eeaaf11e14f249a9" rel="noopener nofollow" target="_blank">Spotify</a>, <a href="https://podcasts.apple.com/us/podcast/void-deck/id1776840729" rel="noopener nofollow" target="_blank">Apple Podcasts</a>,
 <a href="https://youtube.com/playlist?list=PLO3wNXHwuoOZmlF3U6QUGNxsoVxAIIk6t&amp;si=PIsdWbuHAA6qgMSH" rel="noopener nofollow" target="_blank">YouTube</a>, or wherever you get your podcasts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
