@@ -17,8 +17,10 @@ from the chemistry of mala xiang guo to the geometry of Peranakan tiles.</p>
 Culture from a uniquely Singaporean perspective. Listen to conversations
 with local science changemakers, enjoy science-focused reviews of popular
 media, and get crafty with our DIY STEAM activities for the young at heart.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cartoon astronauts floating in space with a Chinese chess table, lab beakers, and lightbulbs." src="/images/VD_keyvisual_square.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_SquareKeyVisual_SCSLogo_311024.png">
 </div>
+<p></p>
 <p><em>The views and opinions expressed in </em>Void Deck<em> articles and podcast episodes are those of the individual authors and contributors. They do not necessarily reflect the official policy or position of Science Centre Singapore or the Ministry of Education.</em>
 </p>
