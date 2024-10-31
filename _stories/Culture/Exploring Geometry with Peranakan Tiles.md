@@ -30,8 +30,8 @@ were especially popular with their intricate floral and faunal motifs.</p>
 demand in Singapore and across Malaya. These majolica tiles from different
 countries eventually became so synonymous with local communities that they
 became known in Southeast Asia as Peranakan tiles.</p>
-<p><a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u>In a </u></a><em><a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u>Straits Times </u></a></em>
-<a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u>feature published in 2019</u>
+<p><a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u>In a </u></a><em><a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u>Straits Times</u></a></em>
+<a href="https://www.straitstimes.com/singapore/uncovering-the-past-tile-by-tile" rel="noopener noreferrer nofollow" target="_blank"><u> feature published in 2019</u>
 </a>, artist Jennifer Lim explained, “the tiles tell a story of Singapore's
 complex cultural DNA and are a reminder of the nation's ability to absorb
 and reinterpret outside trends and influences."&nbsp;</p>
@@ -46,8 +46,8 @@ and reinterpret outside trends and influences."&nbsp;</p>
 A clay mixture is carefully prepared and poured into a mould, dried, fired
 in kilns, and then painstakingly glazed to achieve a shiny, glossy finish.&nbsp;</p>
 <p>The intensely bright colours of original tiles came at a cost, though.
-<a href="https://expatliving.sg/peranakan-tiles-in-singapore-story/" rel="noopener noreferrer nofollow" target="_blank"><u>In an interview with </u>
-</a><em><a href="https://expatliving.sg/peranakan-tiles-in-singapore-story/" rel="noopener noreferrer nofollow" target="_blank"><u>Expat Living</u></a></em>,
+<a href="https://expatliving.sg/peranakan-tiles-in-singapore-story/" rel="noopener noreferrer nofollow" target="_blank"><u>In an interview with</u>
+</a><em><a href="https://expatliving.sg/peranakan-tiles-in-singapore-story/" rel="noopener noreferrer nofollow" target="_blank"><u> Expat Living</u></a></em>,
 Victor Lim from the Peranakan Tile Gallery explains that "production of
 these [original] tiles ended around 1935 and many of the materials used
 in the process of creating and preserving the colour – like cobalt, copper
@@ -105,7 +105,7 @@ some mathematical knots.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
 </div>
-<p><em>Mathematical knot table photograph credit: <a href="https://commons.wikimedia.org/wiki/File:Tabela_de_n%C3%B3s_matem%C3%A1ticos_01,_crop.jpg" rel="noopener nofollow" target="_blank">Matemateca (IME/USP)/Rodrigo Tetsuo Argenton</a>.</em>
+<p><em>Mathematical knot table credit: <a href="https://commons.wikimedia.org/wiki/File:Tabela_de_n%C3%B3s_matem%C3%A1ticos_01,_crop.jpg" rel="noopener nofollow" target="_blank">Matemateca (IME/USP)/Rodrigo Tetsuo Argenton</a>.</em>
 </p>
 <p>Furthermore, the overall arrangement of Peranakan tiles on the floor,
 wall, or bannister creates a form of <a href="https://www.mathnasium.com/blog/what-is-tessellation-in-math" rel="noopener nofollow" target="_blank">tessellation</a>.
