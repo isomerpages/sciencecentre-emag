@@ -36,5 +36,7 @@ when our first episode drops.</div>
 </div>
 </div>
 </div>
+<p></p>
+<hr>
 <p><em>Last updated: 31 October 2024</em>
 </p>
