@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       background: /images/241024_Hero_Image.png
-      variant: image
+      variant: center
       alignment: left
       backgroundColor: black
       key_highlights:
