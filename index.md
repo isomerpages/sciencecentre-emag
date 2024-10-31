@@ -9,11 +9,9 @@ notification: ""
 sections:
   - hero:
       background: /images/241024_Hero_Image.png
-      variant: image
+      variant: center
       alignment: left
       backgroundColor: black
-      button: produced by science centre singapore
-      url: https://science.edu.sg/
   - infopic:
       title: "Night at the Museum: Stargazing at Science Centre Singapore"
       subtitle: astronomy, space
