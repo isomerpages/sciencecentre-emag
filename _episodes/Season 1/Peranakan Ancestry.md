@@ -88,6 +88,8 @@ prevention and targets for new drug development.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
+<br><em>This transcript has been lightly edited for readibility. </em>
+<br>
 <br><strong>Rishii </strong>Whoa!</p>
 <p><strong>Jacy </strong>That is mindblowing.&nbsp;</p>
 <p><strong>Rishii </strong>So<strong> </strong>you're saying that everyone,
@@ -628,7 +630,7 @@ R., Ayub, Q., Mohyuddin, A., Fu, S., Li, P., Yuldasheva, N., Ruzibakiev,
 R., Xu, J., Shu, Q., Du, R., Yang, H., Hurles, M. E., Robinson, E., … Tyler-Smith,
 C. (2003). The genetic legacy of the Mongols. <em>The American Journal of Human Genetics</em>,
 72(3), 717–721.
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1086/367774</a> 
+<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1086/367774</a>
 </p>
 <p>
 <br>Third Spacing Episode 69: What is it like being a clinician scientist?
