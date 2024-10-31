@@ -2,4 +2,4 @@ collections:
   test-folder:
     output: true
     order:
-      - Test Story.md
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.md
