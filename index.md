@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Resized_Isomer_Hero_Image_Homepage.png
+      background: /images/241024_Hero_Image.png
       variant: image
       alignment: left
       backgroundColor: black
