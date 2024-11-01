@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Test Category.md
-      - "Space/Night at the Museum: Stargazing at Science Centre Singapore.md"
+      - Space/Stargazing in Singapore.md
       - Space/Prof Brian Cox Shows Us The Solar System.md
       - Space/.keep
       - "Technology/Science Cafe: Robots Dreaming (Oct 2024).md"
