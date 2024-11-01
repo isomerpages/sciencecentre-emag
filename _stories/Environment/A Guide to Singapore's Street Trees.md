@@ -18,9 +18,10 @@ tropical city from the comfort of your home. Research suggests that spending
 time around trees can improve well-being and boost longevity (see this
 handy primer from <a href="https://greatergood.berkeley.edu/article/item/why_trees_can_make_you_happier" rel="noopener nofollow" target="_blank">Greater Good Magazine</a>).</p>
 <p>You don't even need to trek to MacRitchie Reservoir to reap the benefits.
-<a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10648" rel="noopener nofollow" target="_blank">A recent study in the journal</a><em><a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10648" rel="noopener nofollow" target="_blank">People and Nature</a> </em>found
-that participants who simply looked at green elements in urban environments
-reported better moods and less anxiety.</p>
+A <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10648" rel="noopener nofollow" target="_blank">June 2024 study</a> in
+the journal <em>People and Nature </em>found that participants who simply
+looked at green elements in urban environments reported better moods and
+less anxiety.</p>
 <p>Here’s a little exercise to rejuvenate yourself: go to the nearest window
 or strap on your walking shoes, take a deep breath, and try identifying
 these eight common street trees of Singapore using the pictures below.</p>
