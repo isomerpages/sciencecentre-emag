@@ -31,7 +31,7 @@ Assistant Professor, Yale-NUS College and NUS Yong Loo Lin School of Medicine)
 who taught a module at Yale-NUS College on online dating.&nbsp;</p>
 <p>“In a 2021 survey of 2848 singles, the National Population and Talent
 Division found that 1 in 3 respondents who were dating had met online –
-up from 1 in 10 a decade before,” Dr. Jean Liu explains.</p>
+up from 1 in 10 a decade before,” Dr. Liu explains.</p>
 <p>According to the same <a href="https://www.todayonline.com/singapore/online-dating-singles-singapore-never-dated-survey-2015846" rel="noopener noreferrer nofollow" target="_blank">survey</a>,
 openness towards dating sites or apps jumped from 19 per cent in 2012 to
 58 per cent in 2021. With growing awareness and acceptance of such platforms,
@@ -168,13 +168,13 @@ date at Science Centre Singapore to continue the conversation IRL.&nbsp;</p>
 <p>Prefer something more electrifying? Let sparks fly with your significant
 other as you watch tesla coils light up during our <a href="https://www.science.edu.sg/whats-on/shows-demonstrations/energy-titans-show" rel="noopener noreferrer nofollow" target="_blank">Energy Titans Show</a>.&nbsp;</p>
 <p>Afterwards, you can even imagine growing old with your partner at our
-<a href="https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing" rel="noopener noreferrer nofollow" target="_blank">Dialogue with Time</a>exhibition and take a cute wefie with the heartbeat
+<a href="https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing" rel="noopener nofollow" target="_blank">Dialogue with Time</a>exhibition and take a cute wefie with the heartbeat
 drum there.</p>
 <p><strong><em>Written by Jamie Uy<br>Illustrated by Jansen Michelle</em></strong>
 </p>
 <hr>
 <p><em>This article was originally published in Science Centre Singapore's previous blog, I Saw the Science, on 14 February 2024. The article has been republished with new graphics and lightly edited for Void Deck.</em>
 </p>
-<p><em>Last updated: 25 October 2024</em>
+<p><em>Last updated: 1 November 2024</em>
 </p>
 <p></p>
