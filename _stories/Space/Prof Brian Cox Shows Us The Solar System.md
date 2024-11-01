@@ -7,7 +7,7 @@ description: We interview rockstar physicist Professor Brian Cox on his latest
 third_nav_title: Space
 image: /images/Solar_System_S1_1920x1080.jpg
 ---
-<h4>We chat with rockstar physicist Prof. Brian Cox on his latest BBC astronomy series, Solar System. Read his musings on voids, the mind-boggling scale of the cosmos, and the (theoretical) acoustics of an outer space concert.</h4>
+<h4>We chat with rockstar physicist Professor Brian Cox on his latest BBC astronomy series, Solar System. Read his musings on voids, the mind-boggling scale of the cosmos, and the (theoretical) acoustics of an outer space concert.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Solar_System_S1_1920x1080.jpg">
 </div>
@@ -21,12 +21,12 @@ worlds in our cosmic neighbourhood.</p>
 <p>BBC Earth's newest astronomy series, <em>Solar System</em>, launches audiences
 from their living rooms into outer space to tour these alien vistas with
 cutting-edge VFX techniques.&nbsp;</p>
-<p>Presented by rockstar physicist Professor Brian Cox, Prof. Cox walks viewers
+<p>Presented by rockstar physicist Professor Brian Cox, Prof Cox walks viewers
 through the science behind these mysteries. Journeying to breathtaking
-natural wonders on Earth, Prof. Cox explains the physics and geology underpinning
+natural wonders on Earth, Prof Cox explains the physics and geology underpinning
 new findings from over 40 active spacecraft roaming the vast backyard beyond
 our planet.&nbsp;</p>
-<p>The <em>Void Deck</em> team had the pleasure of interviewing Prof. Brian
+<p>The <em>Void Deck</em> team had the pleasure of interviewing Prof Brian
 Cox in advance of the series premiere. We discussed his favourite space
 photograph, what voids—cosmic nothing—can reveal about everything, and
 how he grapples with the mind boggling scale of the universe. We also ask
@@ -38,11 +38,11 @@ concert on another world.
 <br><em>The following interview has been edited and condensed for clarity</em>.</p>
 <p><strong>VD: How does <em>Solar System</em> compare to other BBC astronomy series you've done in the past, like <em>The Planets </em>and <em>Universe</em>?</strong>
 </p>
-<p>PROF. BRIAN COX: The basic idea was a snapshot of our solar system as
-we see it and observe it today. We have over 40 spacecraft active currently
-in the solar system. These spacecraft are sending back more data than ever
-before. Could we make a series that was absolutely up to date, based on
-the data as it comes in?&nbsp;</p>
+<p><strong>PROF BRIAN COX: </strong>The basic idea was a snapshot of our
+solar system as we see it and observe it today. We have over 40 spacecraft
+active currently in the solar system. These spacecraft are sending back
+more data than ever before. Could we make a series that was absolutely
+up to date, based on the data as it comes in?&nbsp;</p>
 <p>The first episode, the initial idea was volcanic worlds. We have a lot
 of recent observations of volcanic activity, including very interestingly,
 very recently, volcanoes active on Venus, which was a reanalysis of all
@@ -57,7 +57,7 @@ to life.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Solar_Systerm_Making_Of_EP_01_002.jpg">
 </div>
-<p><em>Prof. Brian Cox and crew at Eldhraun Lava Field. Photo credits: BBC Studios</em>
+<p><em>Prof Brian Cox and crew at Eldhraun Lava Field. Photo credits: BBC Studios</em>
 </p>
 <p><strong>VD: What do you think is the biggest change in our understanding of the universe from the previous series to now <em>Solar System</em>?</strong>
 </p>
@@ -93,10 +93,11 @@ because in many ways they help us understand the history of the formation
 of the solar system.</p>
 <p><strong>VD: To understand these laws of thermodynamics underlying these spectacular events happening on other planets, you travelled to some extreme locations here on Earth, from caves to deserts, and as you mentioned, Alaska. Could you share a memorable experience you had on location?</strong>
 </p>
-<p>PROF. BRIAN COX: Well, Alaska was very interesting and beautiful.<strong> </strong>It's
-spectacular. But we filmed there in February, in the winter.</p>
+<p><strong>PROF BRIAN COX:</strong> Well, Alaska was very interesting and
+beautiful.<strong> </strong>It's spectacular. But we filmed there in February,
+in the winter.</p>
 <p>They said to me, it's okay, because it's going to be zero degrees. Okay,
-right. But they meant zero degrees Fahrenheit, because it's America, which
+right. But they meant 0 degrees Fahrenheit, because it's America, which
 is minus 20 or minus 30, whatever it was [in] Celsius. So it was challenging
 to film in Alaska.&nbsp;</p>
 <p>Also the only way you can get to Denali is to fly.<strong> </strong>We
@@ -112,9 +113,10 @@ places was exciting.</p>
 </p>
 <p><strong>VD: Speaking of these extreme feats of aircraft and spacecraft, there's these wonderful bits in the series when you show photographs, almost like postcards from distant planets. Was there a particular image transmitted by one of the spacecraft that really stayed with you?</strong>
 </p>
-<p>PROF. BRIAN COX: The photographs from Cassini, which is an older spacecraft
-actually, of Saturn, Saturn's rings, and in particular a moon that we focus
-on in the series called Enceladus, are remarkable images.&nbsp;</p>
+<p><strong>PROF BRIAN COX:</strong> The photographs from Cassini, which is
+an older spacecraft actually, of Saturn, Saturn's rings, and in particular
+a moon that we focus on in the series called Enceladus, are remarkable
+images.&nbsp;</p>
 <p>You see the complexity out there.<strong> </strong>The rings are water
 ice, basically, very thin, maybe only a few metres thick, that go around
 this planet. Obviously the most distinctive feature of Saturn. You get
@@ -149,9 +151,9 @@ together. That has always been my favourite photograph of the solar system.&nbsp
 </p>
 <p><strong>VD: Science Centre Singapore's new e-magazine is titled<em> Void Deck</em>. The name is a play on what Singaporeans call the open areas in the ground floor of public housing, and the idea of cosmic voids. How would you explain voids and what they might tell us?</strong>
 </p>
-<p>PROF. BRIAN COX: The universe is basically one big void. These planets
-and moons, which are essentially everything to us, are really specks. Most
-of the universe is empty space.&nbsp;</p>
+<p><strong>PROF BRIAN COX: </strong>The universe is basically one big void.
+These planets and moons, which are essentially everything to us, are really
+specks. Most of the universe is empty space.&nbsp;</p>
 <p>Although, empty space isn't empty. If you start to go deeper into theoretical
 physics and nature, then you find that there's no such thing as a void,
 as emptiness. The vacuum, as we call it, is filled with activity. Actually,
@@ -166,21 +168,21 @@ on an understanding of what's called the quantum vacuum.&nbsp;</p>
 such thing as a perfect void.</p>
 <p><strong>VD: That's lovely. From something that looks like nothing, we can actually understand almost everything and gain a better understanding of the universe.</strong>
 </p>
-<p>PROF BRIAN COX: Yeah, the understanding of nothing. The study of the vacuum
-[is] almost all there is in theoretical physics. <em>[Laughs] </em>Understanding
+<p><strong>PROF BRIAN COX:</strong> Yeah, the understanding of nothing. The
+study of the vacuum [is] almost all there is in theoretical physics. <em>[Laughs] </em>Understanding
 the quantum vacuum is basically it, really–to an extent. When you print
 that, put in brackets that I was smiling when I said it. <em>[Smiles] </em>There
 are many physicists who would say, but what about…?&nbsp;</p>
-<p><strong>VD: When you're studying something as vast as the universe, which can make one feel very small, how do you stay grounded?</strong>
+<p><strong>VD: When you're studying something as vast as the universe</strong>—<strong>which can make one feel very small</strong>—<strong>how do you stay grounded?</strong>
 </p>
-<p>PROF. BRIAN COX: I did some live shows with an orchestra recently [at
-the] Sydney Opera House. I hope to bring it to Singapore at some point.
-The idea of that show was one question, well, two questions basically.<strong> </strong>I
-start the show by saying that when you think about cosmology and astronomy,
-the question that arises is: what does it mean to live a finite, fragile
-life in an infinite eternal universe? You can't avoid that question when
-you think about the cosmology and what we've discovered about the size
-and scale of the universe.</p>
+<p><strong>PROF BRIAN COX: </strong>I did some live shows with an orchestra
+recently [at the] Sydney Opera House. I hope to bring it to Singapore at
+some point. The idea of that show was one question, well, two questions
+basically.<strong> </strong>I start the show by saying that when you think
+about cosmology and astronomy, the question that arises is: what does it
+mean to live a finite, fragile life in an infinite eternal universe? You
+can't avoid that question when you think about the cosmology and what we've
+discovered about the size and scale of the universe.</p>
 <p>The music we used [was] a lot of Richard Strauss, Richard Strauss' “Zarathustra”,
 which everybody knows from the opening of <em>2001</em>. But there's another
 28 minutes of it, which is [a] beautiful exploration of the question.<strong> </strong>Strauss,
@@ -198,7 +200,7 @@ of the lights you can shine on these deeper human questions. A necessary
 light, but not sufficient on its own.</p>
 <p><strong>VD: Before you became a physicist, you were a musician. I have to ask–this may be a bit frivolous. Theoretically, if humans could survive the journey and you could attend a concert on either Venus or Titan, what might it sound like?</strong>
 </p>
-<p>PROF. BRIAN COX: <em>[Laughs] </em>Well, on Venus,<strong> </strong>the
+<p><strong>PROF BRIAN COX:</strong>  <em>[Laughs] </em>Well, on Venus,<strong> </strong>the
 atmosphere is 90 times atmospheric pressure here on Earth. The temperature
 is well in excess of 400 degrees Celsius. I don't know what you'd make
 the instruments out of.&nbsp;</p>
