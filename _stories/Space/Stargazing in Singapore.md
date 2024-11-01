@@ -7,8 +7,6 @@ description: Singapore got stars meh? Go behind the scenes at one of Singapore's
 third_nav_title: Space
 image: /images/VD_Homepage_Infopics.png
 ---
-<h2>Night at the Museum: Stargazing at Science Centre Singapore</h2>
-<p></p>
 <h4>We can see stars in Singapore meh? Go behind the scenes at one of Singapore's few public observatories to learn more about the vast skies above us and hear from our friendly neighbourhood science educators helping us peer into space.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
