@@ -4,8 +4,8 @@ permalink: /videos/
 variant: tiptap
 description: ""
 ---
-<p>Videos produced by Science Centre Singapore to get you curious about science
-in Singapore.</p>
+<p>Videos produced by Science Centre Singapore to make you curious about
+science in Singapore.</p>
 <h2><strong>Comet C/2023 A3 Livestream</strong></h2>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8qbWzmhhpD0?si=mc-EwQbqG6dOB7CJ"></iframe>
@@ -32,7 +32,7 @@ a variety of food items and their history.</p>
 <p>Have you ever wondered how certain local dishes just taste extra yummy
 in hawker centres or restaurants? That's due to "wok hei." Learn more about
 wok hei and hokkien mee as our investigators attempt to recreate wok hei
-with lab equipment. Will bunsen burners do the trick? Here is episode 2
+with lab equipment. Will Bunsen burners do the trick? Here is episode 2
 of Food CSI, a collaboration with Singapore Chinese Cultural Centre.</p>
 <hr>
 <h4><strong>Nanyang Coffee From An Arbor Press?</strong></h4>
@@ -40,7 +40,7 @@ of Food CSI, a collaboration with Singapore Chinese Cultural Centre.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4JRn_uSyGDI?si=hs75G-u9Q5TcfeAL"></iframe>
 </div>
 <p>Do you take coffee in the morning? Kopi O? Kopi C? In our final episode
-of Food CSI, our investigators try out using an unusual equipment to grind
+of Food CSI, our investigators try out using unusual equipment to grind
 their coffee beans. Will it still taste good? A collaboration with Singapore
 Chinese Cultural Centre.</p>
 <p></p>
