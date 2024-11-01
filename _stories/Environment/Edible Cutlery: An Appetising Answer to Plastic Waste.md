@@ -62,10 +62,10 @@ waste and poor urban nutrition with a single product.&nbsp;</p>
 <p><em>Photo credits: Anna Lam/Crunch Cutlery</em>
 </p>
 <p>When asked about why disposable cutlery is such a big issue, Lam explains
-that generally Singapore has a “snacking culture.” Looking at the Old Chang
-Kee and Koi outlets found in almost every shopping mall, it is hard to
-disagree. Furthermore, almost all snack shops use some form of single-use
-plastic, be it plastic straws, cups or bags.&nbsp;</p>
+that generally Singapore has a “snacking culture.” Looking at the curry
+puffs and bubble tea stores found in almost every shopping mall, it is
+hard to disagree. Furthermore, almost all snack shops use some form of
+single-use plastic, be it plastic straws, cups or bags.&nbsp;</p>
 <p>“There isn't a means to have a reusable option. There isn't a cost-effective
 way to do that. So, the standard model that we use is actually disposables,”
 Lam explains. “While it is convenient, fast, and it's great for business,
@@ -105,10 +105,10 @@ the experience better. With edible cutlery, however, you get the best of
 both worlds! With a waffle cone shaped as a spoon, you can simply eat the
 spoon as you devour the ice cream.</p>
 <p>However, the Crunch Cutlery team’s commitment to sustainability didn’t
-stop at simply making edible cutlery.&nbsp; Zero waste is not achievable
-just by making edible products, especially when food products come with
-packaging. To that end, Crunch Cutlery has been working with A*STAR on
-satellite manufacturing. &nbsp;</p>
+stop at simply making edible cutlery. Achieving zero waste involves more
+than just created edible products, as even these items often require packaging.
+To that end, Crunch Cutlery has been working with A*STAR on satellite manufacturing.
+&nbsp;</p>
 <p>Though Crunch Cutlery saw a great start to their business, they also realised
 that there is a need to upscale their products further. Hence, a collaboration
 between <a href="https://www.a-star.edu.sg/simtech/innovation-factory/our-work/crunch-cutlery" rel="noopener noreferrer nofollow" target="_blank">Crunch Cutlery and Innovation Factory @ SIMTech</a> was
