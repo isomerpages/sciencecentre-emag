@@ -8,7 +8,7 @@ third_nav_title: Mind & Body
 image: /images/the_dress.gif
 ---
 <h4>Can we trust our eyes? Discover four optical illusions that we encounter every day!</h4>
-<p><strong>WARNING: This article may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.</strong>
+<p><strong>WARNING: This article contains flashing images and animations that may potentially trigger seizures in people with photosensitive epilepsy. Reader discretion is advised. If you are sensitive to flashing lights or moving patterns, please exercise caution while viewing this content.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusions_Face.png">
