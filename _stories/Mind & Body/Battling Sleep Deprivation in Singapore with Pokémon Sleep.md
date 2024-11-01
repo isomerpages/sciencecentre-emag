@@ -106,7 +106,7 @@ or answer texts is real.&nbsp;</p>
 <p>Despite these flaws, I appreciated how the app made sleep tracking fun,
 magical, and interactive. The joy of discovering new Pokémon sleep styles
 the next morning, like Charmander’s Crackling Sleep or Mareep’s Fluffy
-Sleep, did motivate me to regularize my sleep schedule. (You get extra
+Sleep, did motivate me to regularise my sleep schedule. (You get extra
 bonuses and rewards if you stick to a consistent bedtime and wake-up time,
 attracting new snoozing Pokémon.)</p>
 <p></p>
@@ -202,5 +202,5 @@ more tips from Asst. Prof. Lo in the <a href="https://sites.google.com/site/slee
 <p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
 Saw the Science<em>, on 16 January 2024. The article has been lightly edited and republished with new graphics for </em>Void
 Deck.</p>
-<p><em>Last updated: 25 October 2024</em>
+<p><em>Last updated: 1 November 2024</em>
 </p>
