@@ -231,5 +231,5 @@ You'd at least have a chance on Titan.</p>
 <p><strong><em>Written by Jamie Uy<br>Featured image courtesy of BBC Studios</em></strong>
 </p>
 <hr>
-<p><em>Last updated: 25 October 2024</em>
+<p><em>Last updated: 1 November 2024</em>
 </p>
