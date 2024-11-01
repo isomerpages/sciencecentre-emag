@@ -119,9 +119,9 @@ gaps.</p>
 </div>
 <p><em>Image credit: Jansen Michelle</em>
 </p>
-<p>While Peranakan tiles are decorative works that are not textbook examples
+<p>While Peranakan tiles are decorative works rather than textbook examples
 of these geometric concepts, these tiles can be a fun gateway to understanding
-mathematical patterns.</p>
+mathematical principles.</p>
 <p>Beautiful patterns such as those featured in Peranakan tiles bridge art
 and science. Beyond appreciating their aesthetics, studying these patterns
 can have larger applications in other fields.&nbsp;</p>
