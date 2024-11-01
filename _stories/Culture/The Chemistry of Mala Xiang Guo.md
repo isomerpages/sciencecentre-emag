@@ -107,11 +107,13 @@ duo capsaicin and hydroxy-α-sanshool. Looking at how mala dishes have managed
 to stay in trend and how mala stalls are still sprouting all over Singapore,
 it’s safe to say that the mala storm rages on.&nbsp;</p>
 <h4><strong>Food CSI</strong></h4>
-<p>Craving more local food science? Watch Science Centre Singapore's <a href="/videos" rel="noopener nofollow" target="_blank">Food CSI video series</a> in collaboration
-with a collaboration with Singapore Chinese Cultural Centre. Watch the
-three-part series to discover what makes Hainanese chicken rice meat so
-tender, if we can recreate wok hei using bunsen burners, and whether using
-an arbor press leads to better Nanyang coffee!</p>
+<p>If this article has spiced up your curiosity and you're hungry for more
+food science, don't let your appetite for knowledge simmer down! Take a
+byte and stream Science Centre Singapore's <a href="/videos" rel="noopener nofollow" target="_blank">Food CSI video series</a> in collaboration with Singapore
+Chinese Cultural Centre. Watch the three-part series to discover what makes
+Hainanese chicken rice meat so tender, if we can recreate wok hei using
+bunsen burners, and whether using an arbor press leads to better Nanyang
+coffee!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MvShled0K54?si=lRixaOvhf_EWLSpj"></iframe>
 </div>
