@@ -8,6 +8,7 @@ image: /images/Void_Deck_Mala_Illustrations__02.jpg
 third_nav_title: Culture
 ---
 <h4>Love mala xiang guo? Savour this tongue-in-cheek breakdown of the chemistry behind one of Singapore's favourite spicy dishes.</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_Mala_Illustrations__01.jpg">
 </div>
@@ -105,7 +106,16 @@ with its signature spiciness and numbness, the teamwork of the chemical
 duo capsaicin and hydroxy-α-sanshool. Looking at how mala dishes have managed
 to stay in trend and how mala stalls are still sprouting all over Singapore,
 it’s safe to say that the mala storm rages on.&nbsp;</p>
-<p><strong><em>Written by Genevieve Teo</em></strong>
+<h4><strong>Food CSI</strong></h4>
+<p>Craving more local food science? Watch Science Centre Singapore's <a href="/videos" rel="noopener nofollow" target="_blank">Food CSI video series</a> in collaboration
+with a collaboration with Singapore Chinese Cultural Centre. Watch the
+three-part series to discover what makes Hainanese chicken rice meat so
+tender, if we can recreate wok hei using bunsen burners, and whether using
+an arbor press leads to better Nanyang coffee!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MvShled0K54?si=lRixaOvhf_EWLSpj"></iframe>
+</div>
+<p><strong><em>Original text by Genevieve Teo</em></strong>
 <br><strong><em>Edited for republication by Jamie Uy<br>Illustrations by Toh Bee Suan</em></strong>
 </p>
 <hr>
