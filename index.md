@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       background: /images/241024_Hero_Image.png
-      variant: center
+      variant: image
       alignment: left
       backgroundColor: black
   - infopic:
