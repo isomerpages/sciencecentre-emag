@@ -12,9 +12,9 @@ image: /images/Online_Dating_01.jpg
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_01.jpg">
 </div>
 <p>Did you know that online dating apps experience <a href="https://www.cnet.com/culture/internet/dating-sunday-2023-tips-for-making-the-most-of-online-datings-busiest-day/" rel="noopener nofollow" target="_blank">a surge in activity after the holiday season?</a> Forget
-jingle bells and mistletoe: think notification sounds and DMs instead.
-In this feature, we’ll explore the psychology and technology behind the
-dating platforms that are rewiring romance in the 21st century.</p>
+jingle bells and mistletoe: think notification sounds and direct messages
+(DMs) instead. In this feature, we’ll explore the psychology and technology
+behind the dating platforms that are rewiring romance in the 21st century.</p>
 <h4><strong>Modern Romance</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Online_Dating_06.jpg">
@@ -26,9 +26,9 @@ couple I know met through a Facebook hobby group.</p>
 <p>It’s not just my social circles: more people in Singapore are finding
 their significant others online.&nbsp;</p>
 <p>To learn about this modern phenomenon, <em>Void Deck</em> corresponded over
-email with Dr. Jean Liu, Adjunct Assistant Professor at Yale-NUS College
-and Founder of Insights Bridge Consultancy, who taught a module at Yale-NUS
-College on online dating.&nbsp;</p>
+email with Dr. Jean Liu (Founder of Insights Bridge Consultancy and Adjunct
+Assistant Professor, Yale-NUS College and NUS Yong Loo Lin School of Medicine)
+who taught a module at Yale-NUS College on online dating.&nbsp;</p>
 <p>“In a 2021 survey of 2848 singles, the National Population and Talent
 Division found that 1 in 3 respondents who were dating had met online –
 up from 1 in 10 a decade before,” Dr. Jean Liu explains.</p>
@@ -47,9 +47,8 @@ to be here for good.</p>
 reflect relationships mediated through our devices (thanks, Gen Z). Have
 you been on the receiving end of “ghosting” – when your crush cuts off
 all contact and suddenly stops sending you messages? Or perhaps your friend
-“soft-launched” their partner on Instagram with ambiguous teaser trailer
-shots of their mysterious new beau, such as matching coffee orders or linked
-hands.</p>
+“soft-launched” their partner on Instagram with ambiguous photos of their
+mysterious new beau, such as matching coffee orders or linked hands.</p>
 <p>“We’ve come a long way: in our grandparents’ generation, it was customary
 to be matchmade by trusted individuals,” writes Dr. Liu. “In an age of
 smartphones, however, the norms of how we meet partners have changed …
@@ -141,8 +140,8 @@ just one perfect partner.”</p>
 <p>She suggests, “having a growth mindset towards love could be beneficial,
 because you’re more likely to persevere in the journey and to give a wider
 range of individuals a chance.”</p>
-<p>Dr. Liu especially recommends meeting IRL “as soon as you can … that’s
-one sure-fire way to know if you’ll hit it off or not.”</p>
+<p>Dr. Liu especially recommends meeting in real life (IRL) “as soon as you
+can … that’s one sure-fire way to know if you’ll hit it off or not.”</p>
 <p>“Research has found that a large part of ‘hitting it off’ has to do with
 the interpersonal dynamics when two people meet. It’s hard to get a sense
 of these dynamics online! If you’re using an online platform and have been
