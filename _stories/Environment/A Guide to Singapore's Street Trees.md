@@ -242,5 +242,5 @@ is literally nowhere else to find them!</p>
 <p><em>This article was originally published as "A Singaporean's Guide to Common Street Trees" in Science Centre Singapore's previous blog, </em>I
 Saw the Science<em>, on 31 July 2020. The article has been republished with new graphics and a new introduction for </em>Void
 Deck.</p>
-<p><em>Last updated: 25 October 2024</em>
+<p><em>Last updated: 1 November 2024</em>
 </p>
