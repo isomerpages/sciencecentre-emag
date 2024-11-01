@@ -1,5 +1,0 @@
-collections:
-  test-folder:
-    output: true
-    order:
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.md
