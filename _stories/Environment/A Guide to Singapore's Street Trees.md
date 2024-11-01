@@ -42,7 +42,7 @@ tree in full bloom</p>
 conditions</p>
 </li>
 <li>
-<p>Fruits: Long strait seedpods that are dark brown or black (looks like
+<p>Fruits: Long straight seedpods that are dark brown or black (looks like
 sweet pea)</p>
 </li>
 <li>
@@ -116,8 +116,8 @@ to its long droopy leaves.</p>
 <p>Crown: Large and broadly conical crown</p>
 </li>
 <li>
-<p>Flowers: Large pink or white trumpet-shaped flowers. Blooming seems to
-coincide with dry spells</p>
+<p>Flowers: Large pink or white trumpet-shaped flowers. Flowering is induced
+by dry spells</p>
 </li>
 <li>
 <p>Leaves: Each leaf contains 5 leaflets in a shape of a palm</p>
