@@ -8,13 +8,15 @@ image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
 third_nav_title: DIY
 ---
 <h4>Sip on the sweet science of bubble tea by learning how to make your very own chewy pearls!</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg">
 </div>
+<p></p>
 <p>Someone once asked me, "Why bubble tea? What’s so great about it?" Are
-you kidding me? Can’t say the same for everyone, but at least for me, bubble
-tea solves everything (not literally everything, but you get me). It’s
-both a drink and a snack at the same time, which means if you’re hungry
+you kidding me? I can’t say the same for everyone, but at least for me,
+bubble tea solves everything (not literally everything, but you get me).
+It’s both a drink and a snack at the same time, which means if you’re hungry
 and thirsty, bubble tea will solve the problem.</p>
 <p>If you’re happy, bubble tea is there to celebrate the joy with you. If
 you’re sad, bubble tea will wash those tears away. If you’re stressed,
@@ -76,14 +78,14 @@ them bouncier and chewier!</p>
 </div>
 <p>Once the pearls have cooled, drain off the excess water. You may choose
 to drizzle honey over your pearls or sprinkle sugar on your pearls to give
-them a little more sweetness and flavour. Let it soak for a while, et voilà
-your pearls are ready to be served with your favourite milk tea.</p>
+them a little more sweetness and flavour. Let it soak for a while,<em> et voilà</em> your
+pearls are ready to be served with your favourite milk tea.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bubble_Tea_Photo_Glass_1.jpg">
 </div>
 <p>As you enjoy your cup of bubble tea, you may wonder how this cup of happiness
 came about.</p>
-<p>Bubble tea, also known as boba tea, or 珍珠奶茶<em>zhēn zhū nǎi chá</em> (pearl
+<p>Bubble tea, also known as boba tea, or 珍珠奶茶 <em>zhēn zhū nǎi chá</em> (pearl
 milk tea) all refer to the same thing – our favourite pastime drink – tea-based
 drink mixed with milk or flavoured syrups with tapioca pearl topping. However,
 the original bubble milk tea doesn’t contain pearls; the term ‘bubble’
@@ -142,11 +144,11 @@ of non-dairy creamer)</p>
 </li>
 </ol>
 <p>Remember, the key is moderation. Keep calm and boba on (in moderation)!</p>
-<p><strong><em>Text and photography by Lim Huan</em><br><em>Edited by Jamie Uy</em><br><em>Illustrations by Chua Jia Qi</em></strong>
+<p><strong><em>Original text and photography by Lim Huan</em><br><em>Edited for republication by Jamie Uy</em><br><em>Illustrations by Chua Jia Qi</em></strong>
 </p>
 <hr>
 <p><em>This article was originally published as "Bubble Tea: The Drink that Makes our Heart Go Boba-boba" on Science Centre Singapore's blog, </em>I
 Saw the Science<em>, on 12 May 2020. The article has been edited and republished with new graphics for </em>Void
 Deck.</p>
-<p><em>Last updated: 25 October 2024</em>
+<p><em>Last updated: 1 November 2024</em>
 </p>
