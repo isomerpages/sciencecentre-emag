@@ -193,5 +193,5 @@ the daily lives of astronauts. Get your tickets now at <a href="https://www.scie
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
-<p><em>Last updated: 28 October 2024</em>
+<p><em>Last updated: 1 November 2024</em>
 </p>
