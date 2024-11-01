@@ -9,8 +9,8 @@ third_nav_title: Environment
 ---
 <h4>Do you know Singapore has "cherry blossom" season too? Give yourself a screen break and try to spot the trumpet tree and other common street trees!</h4>
 <p>If you're anything like me, you may be hunched over like a prawn and reading
-this article on your phone. How much screen time have you had today? The
-average <a href="https://www.activesgcircle.gov.sg/activehealth/domains/screen-time" rel="noopener nofollow" target="_blank">Singaporean adult spends a whopping 3.7 hours online, excluding time from work</a>.
+this article on your phone. How much screen time have you had today? In
+2016, the Healthy Living Index Survey found that the average <a href="https://www.healthhub.sg/live-healthy/keep-an-eye-on-it--eye-strain" rel="noopener nofollow" target="_blank">Singaporean spends a whopping 3.7 hours online, excluding time from work</a>.
 It's time to go outside and touch some grass!</p>
 <p>Break the monotony of staring at your screens by taking a leisurely stroll
 down the street and admiring Singapore's lush scenery, or gaze out at our
