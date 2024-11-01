@@ -9,6 +9,7 @@ third_nav_title: Environment
 image: /images/EdibleCutlery_Spoons.jpg
 ---
 <h4>Who said you can't play with your food? Edible cutlery from local startup Crunch Cutlery is encouraging diners to do just that, while taking a bite out of the city's waste problem.</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdibleCutlery_Spoons.jpg">
 </div>
