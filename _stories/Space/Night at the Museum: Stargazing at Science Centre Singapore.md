@@ -186,7 +186,7 @@ on 17 Oct on the Science Centre Singapore YouTube channel below.&nbsp;</p>
 <p>If you'd like to take a trip to space (no passport required!), visit Science
 Centre Singapore and be immersed in Space Explorers: THE INFINITE, the
 world's largest immersive space exploration experience. Through VR, you'll
-be transported 400 kilometers above Earth into the International Space
+be transported 400 kilometres above Earth into the International Space
 Station. On this one-hour journey, you'll step into never-before-seen 360-degree
 videos captured in space. Admire mind-blowing views of Earth and explore
 the daily lives of astronauts. Get your tickets now at <a href="https://www.science.edu.sg/whats-on/workshops-activities/stargazing" rel="noopener noreferrer nofollow" target="_blank"><u>infinite-experience.com/singapore</u></a>.</p>
