@@ -27,8 +27,8 @@ designed for Singapore's geography.&nbsp;</p>
 Comet in 1986. Over 12,000 people attended the two overnight sessions to
 get a glimpse of this once-in-a-lifetime comet.</p>
 <p>However, Singapore's infamous tropical weather and cloudy skies can thwart
-attempts to capture the cosmos. Not to mention, Singapore is the world's
-most light-polluted country, according to the <a href="https://www.science.org/doi/10.1126/sciadv.1600377" rel="noopener noreferrer nofollow" target="_blank"><u>New World Atlas of Artificial Night Sky Brightness</u></a>.
+attempts to capture the cosmos. Not to mention, in 2016, Singapore was
+named the world's most light-polluted country, according to the <a href="https://www.science.org/doi/10.1126/sciadv.1600377" rel="noopener noreferrer nofollow" target="_blank"><u>New World Atlas of Artificial Night Sky Brightness</u></a>.
 With Singapore's urbanised landscape and numerous buildings, there are
 simply not enough dark, unobstructed areas to look up at the sky.</p>
 <p>When I ask Senior Science Educator Meng Hwee Lim about a good place in
