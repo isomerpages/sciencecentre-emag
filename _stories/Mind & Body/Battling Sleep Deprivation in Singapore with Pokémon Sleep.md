@@ -62,11 +62,11 @@ at the Yong Loo Lin School of Medicine, National University of Singapore.
 Prof. Chee identified Singapore’s intense work culture and test-driven
 academic pressure as key socio-cultural factors impacting sleep for working
 adults and students in Singapore.&nbsp;</p>
-<p><a href="https://doi.org/10.1016/j.sleep.2023.08.010" rel="noopener noreferrer nofollow" target="_blank">In a research paper published in </a><em><a href="https://doi.org/10.1016/j.sleep.2023.08.010" rel="noopener noreferrer nofollow" target="_blank">Sleep Medicine </a></em>
-<a href="https://doi.org/10.1016/j.sleep.2023.08.010" rel="noopener noreferrer nofollow" target="_blank">last year</a>, Prof. Chee and a team of researchers from the Centre for
-Sleep and Cognition assessed sleep data from over 220,000 users of the
-Oura Ring, a consumer sleep tracker, across 35 countries. They found that
-<a href="https://www.sciencedaily.com/releases/2023/08/230829130004.htm" rel="noopener noreferrer nofollow" target="_blank">“people in Asia have shorter sleep …and lower sleep efficiency”</a>than
+<p>In a <a href="https://www.sciencedirect.com/science/article/pii/S1389945723003003?via%3Dihub" rel="noopener nofollow" target="_blank">2023 study</a> published
+in <em>Sleep Medicine</em>, Prof. Chee and a team of researchers from the
+Centre for Sleep and Cognition assessed sleep data from over 220,000 users
+of the Oura Ring, a consumer sleep tracker, across 35 countries. They found
+that <a href="https://www.sciencedaily.com/releases/2023/08/230829130004.htm" rel="noopener noreferrer nofollow" target="_blank">“people in Asia have shorter sleep …and lower sleep efficiency” </a>than
 people in Europe, Oceania and North America. The team hypothesized that
 work culture differences impact sleeping patterns.&nbsp;</p>
 <p>Prof. Chee compared long working hours in Asian countries like Singapore
