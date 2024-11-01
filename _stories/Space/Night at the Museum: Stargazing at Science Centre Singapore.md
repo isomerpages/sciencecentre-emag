@@ -48,7 +48,7 @@ maybe our eyes are not sensitive enough to it."</p>
 <p>Fun fact: the lights on the Science Centre Observatory staircase leading
 up to the big telescope and the ceiling lights inside the dome are <a href="https://www.skyatnightmagazine.com/top-astronomy-kit/best-red-light-head-torches" rel="noopener noreferrer nofollow" target="_blank"><u>red to help adapt visitors’ eyes to the darkness</u></a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A polaroid showing the main dome of the Science Centre Observatory." src="/images/Observatory_Polaroid.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="A polaroid showing the main dome of the Science Centre Observatory." src="/images/Observatory_Polaroid.jpg">
 </div>
 <p>Although finding a truly black sky is a luxury in Singapore, you can find
 a silver screen that replicates such a sky at the Science Centre. The Science
@@ -69,7 +69,7 @@ story of Vega and Altair, two of the bright stars that form the Summer
 Triangle, also known as the <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=b0913454-ab5c-461e-996b-f10dc3dfc54e" rel="noopener noreferrer nofollow" target="_blank"><u>Weaver Maiden and Cowherd</u></a>,
 star-crossed lovers in Chinese tradition.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Celestial illustrations representing the summer triangle stars." src="/images/SummerTriangle_Polaroid.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Celestial illustrations representing the summer triangle stars." src="/images/SummerTriangle_Polaroid.jpg">
 </div>
 <p>The live show brings visitors on a tour of other planets and moons of
 interest in our solar system, zipping past Saturn's rings and Jupiter's
