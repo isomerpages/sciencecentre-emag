@@ -7,24 +7,24 @@ description: Is "The Dress" gold and white, or blue and black? Read about some
 third_nav_title: Mind & Body
 image: /images/the_dress.gif
 ---
-<h4>Can we trust our eyes? Discover four optical illusions that we encounter everyday!</h4>
+<h4>Can we trust our eyes? Discover four optical illusions that we encounter every day!</h4>
 <p><strong>WARNING: This article may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusions_Face.png">
 </div>
 <p>Stepping into Science Centre Singapore, you are immediately greeted with
-the <a href="https://www.science.edu.sg/whats-on/exhibitions/the-mind-s-eye" rel="noopener nofollow" target="_blank">The Mind's Eye</a>,
-one of our staple exhibits. Even as a kid, I could vividly remember the
-wall of Albert Einstein Hollow-Face Illusions, staring into my soul.</p>
+<a href="https://www.science.edu.sg/whats-on/exhibitions/the-mind-s-eye" rel="noopener nofollow" target="_blank">The Mind's Eye</a>, one of our staple exhibits. Even as a kid, I could
+vividly remember the wall of Albert Einstein Hollow-Face Illusions, staring
+into my soul.</p>
 <p>Now as an adult, optical illusions continue to amaze and boggle me, but
 the science behind them has always escaped me. There are many kinds of
 optical illusions, but I have chosen to break down four everyday illusions
 that we experience in our everyday lives.</p>
 <h4><strong>1. The Dress</strong></h4>
 <p>We all remember The Dress. A widely circulated photo of a seemingly plain
-looking dress, that ended up sparking fierce online debates – is the white
-and gold or black and blue?</p>
+looking dress, that ended up sparking fierce online debates – is the dress
+white and gold or black and blue?</p>
 <p>It became such a viral phenomenon and internet meme there’s even a substantial
 <a href="https://en.wikipedia.org/wiki/The_dress" rel="noopener noreferrer nofollow" target="_blank">Wikipedia page about it</a>. Unfortunately, five years after upending
 the field, vision scientists still lack a full scientific consensus on
@@ -50,8 +50,7 @@ the<strong> motion aftereffect</strong>. This moving illusion can be seen
 after staring at a moving visual for some time, and shifting your attention
 to a stationary visual. The stationary visual seems to be moving in the <em>opposite direction </em>from
 the moving visual.</p>
-<p>Although it might not seem like it, this effect is brought about by our
-brain’s capacity for <em>motion adaptation</em>.</p>
+<p>This effect demonstrates our brain’s capacity for <em>motion adaptation</em>.</p>
 <p>One theory is that the neurons in the brain involved in processing moving
 images become fatigued from the constant moving image, and unable to balance
 the sudden change when we look away, causing other neurons to falsely signal
@@ -65,7 +64,7 @@ dots.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/optical_illusion_dots.png">
 </div>
-<p><em>Motion aftereffect gif and dot pattern from <a href="https://www.illusionsindex.org/i/waterfall-illusion" rel="noopener noreferrer nofollow" target="_blank">The Illusions Index.</a></em>
+<p><em>Motion aftereffect gif and dot pattern credit: <a href="https://www.illusionsindex.org/i/waterfall-illusion" rel="noopener noreferrer nofollow" target="_blank">The Illusions Index</a></em>
 </p>
 <h4><strong>3. Sydney Opera House Illusion</strong></h4>
 <p>The next illusion is a fun one. To witness the<strong> Sydney Opera House Illusion</strong>,
@@ -97,9 +96,9 @@ fuller faster with less food.</p>
 <p><em>A gif demonstrating the Ebbinghaus illusion. Created in Canva by Jamie Uy.</em>
 </p>
 <p>What’s curious about illusions like these (Ebbinghaus illusions) is that
-we are not born to be fooled by them. Children under the age of 10 are
-less permeable to its effect, and it is believed that we grow more context
-sensitive over time.</p>
+we are not born to be fooled by them. A <a href="https://pubmed.ncbi.nlm.nih.gov/20712737/" rel="noopener nofollow" target="_blank">2010 study</a> found that
+children under the age of 10 are less permeable to its effect, and it is
+believed that we grow more context sensitive over time.</p>
 <h4><strong>4. Looking into another dimension</strong></h4>
 <p>You might not have heard of an autostereogram, but you’ve most likely
 tried out a Magic Eye picture illusion. Our eyes can perceive 3D shapes
@@ -109,7 +108,7 @@ up two images to interpret depth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Optical_Illusion_autostereogram_01_1.jpg">
 </div>
-<p><em>MagicEye.js by Ian Pearce&nbsp;•&nbsp;<a href="https://github.com/peeinears/MagicEye.js" rel="noopener noreferrer nofollow" target="_blank">Fork on Github</a></em>
+<p><em>Image credit: MagicEye.js by Ian Pearce/<a href="https://github.com/peeinears/MagicEye.js" rel="noopener noreferrer nofollow" target="_blank">Fork on Github</a></em>
 </p>
 <p>One way that our brain perceives depth is through our binocular vision,
 using the two similar but slightly different visuals from both eyes. This
@@ -160,5 +159,5 @@ showing that there's More Than Meets the Mind.</p>
 <p><em>This article was originally published in Science Centre Singapore's previous blog, </em>I
 Saw the Science<em>, on 22 April 2021. The article has been republished with new graphics and lightly edited for </em>Void
 Deck.</p>
-<p><em>Last updated: 25 October 2024</em>
+<p><em>Last updated: 1 November 2024</em>
 </p>
