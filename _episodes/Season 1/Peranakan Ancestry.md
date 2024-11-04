@@ -20,7 +20,7 @@ a doctor (hint: involves a hit medical TV drama).&nbsp;
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank">Spotify</a>,
 <a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, and <a href="https://music.amazon.com/podcasts/16e9064d-264a-4182-ab15-756ae9b238cb/void-deck" rel="noopener nofollow" target="_blank">Amazon Music</a>.</p>
-<p>Subscribe to Void Deck wherever you get your podcasts to get notified
+<p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
 <p>We find out:</p>
@@ -88,7 +88,7 @@ prevention and targets for new drug development.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br><em>This transcript has been lightly edited for readibility. </em>
+<br><em>This transcript has been lightly edited for readability. </em>
 <br>
 <br><strong>Rishii </strong>Whoa!</p>
 <p><strong>Jacy </strong>That is mindblowing.&nbsp;</p>
@@ -97,7 +97,8 @@ okay, not everyone, but a lot of the people who are listening to this podcast
 are probably related to Genghis Khan.</p>
 <p><strong>Prof. Foo </strong>Yeah, it's true. Yes, because if you can say
 that Genghis Khan has a descendant today, then he must be an ancestor to
-everybody today, if he has passed the isogenetic point.
+everybody today, if he has passed the <a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">isogenetic point</a>.
+<br>
 <br>[Upbeat electronica music playing]</p>
 <p><strong>Rishii </strong>Hey there, welcome to <em>Void Deck</em>, a casual
 science podcast brought to you by Science Centre Singapore. We bring science
@@ -344,7 +345,7 @@ but a lot of the people who are listening to this podcast are probably
 related to Genghis Khan.</p>
 <p><strong>Prof. Foo </strong>Yeah, it's true. Yes, because if you can say
 that Genghis Khan has a descendant today, then he must be an ancestor to
-everybody today, if he has passed that isogenetic point.</p>
+everybody today, if he has passed that <a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">isogenetic point</a>.</p>
 <p><strong>Rishii </strong>Whoa, okay. That's a fact that I'm going to use
 as any icebreaker now that I'm a descendant of Genghis Khan. But that's
 so interesting, right? I don't think we've looked at ancestry that way,
