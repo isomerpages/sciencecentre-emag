@@ -94,7 +94,8 @@ prevention and targets for new drug development.</p>
 <p><strong>Jacy </strong>That is mindblowing.&nbsp;</p>
 <p><strong>Rishii </strong>So<strong> </strong>you're saying that everyone,
 okay, not everyone, but a lot of the people who are listening to this podcast
-are probably related to Genghis Khan.</p>
+are probably related to Genghis Khan. <em>[Editor's note: </em><a href="https://www.sciencedirect.com/science/article/pii/S0002929707605874" rel="noopener nofollow" target="_blank">A 2003 study</a><em> estimated that 16 million men were likely descended from Genghis Khan.]</em>
+</p>
 <p><strong>Prof. Foo </strong>Yeah, it's true. Yes, because if you can say
 that Genghis Khan has a descendant today, then he must be an ancestor to
 everybody today, if he has passed the <a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">isogenetic point</a>.
@@ -322,7 +323,8 @@ back my ancestry, I was hoping to be related to some South Indian king,
 or some royalty. Would you be able to actually trace it back to a single
 person?</p>
 <p><strong>Prof. Foo </strong>Well, so, Rishii, you probably are a descendant
-of Kublai Khan and Genghis Khan. So there are people who --</p>
+of Kublai Khan and Genghis Khan. <em>[Editor's note: </em><a href="https://www.sciencedirect.com/science/article/pii/S0002929707605874" rel="noopener nofollow" target="_blank">A 2003 study</a><em> estimated that 16 million men were likely descended from Genghis Khan.] </em>So
+there are people who --</p>
 <p><strong>Rishii </strong>--That's pretty cool.</p>
 <p><strong>Prof. Foo </strong>I think all of us are, so that's the sad thing
 too. So there is a line of research that is looking exactly at evolution
