@@ -18,9 +18,8 @@ a doctor (hint: involves a hit medical TV drama).&nbsp;
 <br><strong>[Embed YouTube video]</strong>
 </p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: <a href="https://open.spotify.com/" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
-</a>, <a href="https://www.melisten.sg/" rel="noopener nofollow" target="_blank"><u>melisten</u></a>.</p>
+<p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank">Spotify</a>,
+<a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, and <a href="https://music.amazon.com/podcasts/16e9064d-264a-4182-ab15-756ae9b238cb/void-deck" rel="noopener nofollow" target="_blank">Amazon Music</a>.</p>
 <p>Subscribe to Void Deck wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
@@ -58,7 +57,8 @@ future of regenerative medicine</p>
 <br>06:56 Inception and findings of the Singapore Peranakan Genome Project
 <br>15:32 Genghis Khan and genetic isopoints
 <br>18:48 Is your 185th million grandfather a fish?
-<br>21:02 Mid-roll ad: Science Centre Singapore
+<br>21:02 [Mid-roll ad] Bioethics: We could, but should we? at Science Centre
+Singapore
 <br>21:26 Paiseh question: what is DNA?
 <br>23:58 Epigenetics and heart health
 <br>28:02 Word association game
@@ -467,8 +467,8 @@ and allowed it to divide, it will always divide into more liver cells because
 the code is hardwired there. So, only the songs of a liver cell will sing.</p>
 <p>But if you find a way to rewire the genome and make it sing different
 songs, you can actually turn the liver cell into a heart cell. And that
-was the groundbreaking Nobel Prize 20 years ago. So, with that knowledge,
-everyone has gone hunting for the rewiring processes.</p>
+was <a href="https://www.nobelprize.org/prizes/medicine/2012/press-release/" rel="noopener nofollow" target="_blank">the groundbreaking Nobel Prize 20 years ago</a>.
+So, with that knowledge, everyone has gone hunting for the rewiring processes.</p>
 <p>And the thinking is that in our context of the heart, if the songs are
 going out of tune, can we find specific ways to retune it so that the wires
 are back into health? Okay. And that's the epigenetic research that we're
@@ -652,6 +652,19 @@ at Science Centre Singapore and get your tickets at <a href="https://academic.ou
 <p>Dialogue with Time - Embrace Aging
 <br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Credits</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This episode of <em>Void Deck</em> was hosted by Rishii Vijayahkumar and
+Jacy Mok. Scripting, writing, sound engineering, and admin was done by
+Jamie Uy. Additional production help was provided by Lydia Konig and Joyce
+Sia. The episode graphics were designed by Jansen Michelle and podcast
+cover art illustrated by Vikki Li Qi. The background music "Data Flow"
+and "Spatial" was created by Fugu Vibes. Special thanks to Prof. Foo for
+coming on the show.</p>
 </div>
 </details>
 </div>
