@@ -460,11 +460,11 @@ on epigenetics, if I'm not wrong. So, Prof just gave us a very good analogy
 about what epigenetics is. And I believe he's referring to his research
 on how the epigenetics affects heart health and also heart disease. So,
 maybe you can tell us a bit about that.</p>
-<p><strong>Prof. Foo </strong>Yeah, Jacy, thanks. So, it's also around Nobel
-Prize winning stuff that came out 20 years ago when they discovered that
-the way that different parts of the genome is being used is based on certain
-modification and features that drive how the genome is used in each cell
-type.</p>
+<p><strong>Prof. Foo </strong>Yeah, Jacy, thanks. So, it's also around
+<a href="https://www.nobelprize.org/prizes/medicine/2012/press-release/" rel="noopener nofollow" target="_blank">Nobel Prize winning stuff</a>that came out 20 years ago when they discovered
+that the way that different parts of the genome is being used is based
+on certain modification and features that drive how the genome is used
+in each cell type.</p>
 <p>And so much to a point where if you can rewire some of these modifications,
 you can actually make the cell change and behave differently. So, to give
 a more concrete analogy, if you take liver cell and you grow it on a plate
