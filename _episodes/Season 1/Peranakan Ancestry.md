@@ -98,7 +98,7 @@ are probably related to Genghis Khan. <em>[Editor's note: </em><a href="https://
 </p>
 <p><strong>Prof. Foo </strong>Yeah, it's true. Yes, because if you can say
 that Genghis Khan has a descendant today, then he must be an ancestor to
-everybody today, if he has passed the <a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">isogenetic point</a>.
+everybody today, if he has passed the [<a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">genetic isopoint</a>].
 <br>
 <br>[Upbeat electronica music playing]</p>
 <p><strong>Rishii </strong>Hey there, welcome to <em>Void Deck</em>, a casual
@@ -340,16 +340,16 @@ it's more a web than a tree.</p>
 <p><strong>Rishii </strong>Okay. I see that's an interesting way to put it,
 like a web.</p>
 <p><strong>Prof. Foo </strong>So in this web, if you go back enough times,
-there's such a thing known as a genetic isopoint where everybody that lived
-in that year, if they have descendants living today, they would be the
-ancestor of everybody today.</p>
+there's such a thing known as a <a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">genetic isopoint</a> where
+everybody that lived in that year, if they have descendants living today,
+they would be the ancestor of everybody today.</p>
 <p><strong>Jacy </strong>Whoa, that is mind-blowing.</p>
 <p><strong>Rishii </strong>So you're saying that everyone, okay, not everyone,
 but a lot of the people who are listening to this podcast are probably
 related to Genghis Khan.</p>
 <p><strong>Prof. Foo </strong>Yeah, it's true. Yes, because if you can say
 that Genghis Khan has a descendant today, then he must be an ancestor to
-everybody today, if he has passed that <a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">isogenetic point</a>.</p>
+everybody today, if he has passed that [<a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">genetic isopoint</a>].</p>
 <p><strong>Rishii </strong>Whoa, okay. That's a fact that I'm going to use
 as any icebreaker now that I'm a descendant of Genghis Khan. But that's
 so interesting, right? I don't think we've looked at ancestry that way,
