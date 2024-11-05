@@ -53,8 +53,8 @@ future of regenerative medicine</p>
 <h4><strong>Timestamps</strong></h4>
 <p>00:00 Preview
 <br>00:24 Intro
-<br>01:27 Prof. Foo's personal journey to becoming a doctor
-<br>06:56 Inception and findings of the Singapore Peranakan Genome Project
+<br>01:27 Prof. Foo's journey to becoming a doctor
+<br>06:56 Singapore Peranakan Genome Project
 <br>15:32 Genghis Khan and genetic isopoints
 <br>18:48 Is your 185th million grandfather a fish?
 <br>21:02 [Mid-roll ad] Bioethics: We could, but should we? at Science Centre
@@ -82,6 +82,11 @@ the heart epigenome in continuing aspirations to discover mechanisms of
 disease for new therapies or biomarkers. Today, he spends a lot of time
 mentoring young scientist, alongside growing research on heart disease
 prevention and targets for new drug development.</p>
+<h4><strong>Correction</strong></h4>
+<p>The episode misstates the number of Peranakans whole-genome sequenced
+by the Singapore Peranakan Genome Project. The study collected blood samples
+from 177 self-declared Singapore Peranakan volunteers, not 700. Thanks
+Colin Chee for spotting!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Transcript</strong>
