@@ -664,9 +664,9 @@ at Science Centre Singapore and get your tickets at <a href="https://academic.ou
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of <em>Void Deck</em> was hosted by Rishii Vijayahkumar and
-Jacy Mok. Scripting, writing, sound engineering, and admin was done by
-Jamie Uy. Additional production help was provided by Lydia Konig and Joyce
-Sia. The episode graphics were designed by Jansen Michelle and podcast
+Jacy Mok. Scripting, writing, sound engineering, and outreach was done
+by Jamie Uy. Additional production help was provided by Lydia Konig and
+Joyce Sia. The episode graphics were designed by Jansen Michelle and podcast
 cover art illustrated by Vikki Li Qi. The background music "Data Flow"
 and "Spatial" was created by Fugu Vibes. Special thanks to Prof. Foo for
 coming on the show.</p>
