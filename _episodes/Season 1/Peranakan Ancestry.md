@@ -223,7 +223,8 @@ culture. So he reached out to me.</p>
 carry out Peranakan project on the back of the population sequencing project.
 So we managed to persuade the leaders of the population project to give
 us a thousand samples to sequence Peranakans. So we ended up sequencing
-700 Peranakan and studying the genetic admixture. <em>[Editor's correction: the study collected blood samples from 177, not 700, self-declared Singapore Peranakan volunteers.]</em>
+700* Peranakan and studying the genetic admixture. <em>[Correction: </em>
+<a href="https://doi.org/10.1093/molbev/msab187" rel="noopener nofollow" target="_blank">the study</a><em> collected blood samples from 177, not 700, self-declared Singapore Peranakan volunteers.]</em>
 </p>
 <p><strong>Jacy </strong>Wow, that's so cool. So maybe for the laypeople
 who don't really know so much about DNA and sequencing, could you explain
@@ -310,8 +311,8 @@ of individuals that are self-declaring as Peranakans.</p>
 that this is more cultural than a hard and fast rule. You can't say you
 are not Peranakan because you don't have this. Because a lot of them are
 practising Peranakans today culturally. But in the general analysis of
-the entire 700 people <em>[editor's correction: 177 people]</em>, most of
-them have 5% amount of Malay ancestry in genetics in their genome.</p>
+the entire 700* people <em>[correction: <a href="https://doi.org/10.1093/molbev/msab187" rel="noopener nofollow" target="_blank">177 people</a>]</em>,
+most of them have 5% amount of Malay ancestry in genetics in their genome.</p>
 <p>Which is more than you would find in a person who is self-declared as
 a Chinese, like myself, for example.</p>
 <p><strong>Rishii </strong>Oh, that's interesting.</p>
