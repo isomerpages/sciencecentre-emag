@@ -43,17 +43,6 @@ sections:
       image: /images/Void_Deck_Mala_Illustrations__03.jpg
       alt: Sichuan peppercorn molecule.
   - infopic:
-      title: "Science Cafe: Robots Dreaming (Oct 2024)"
-      subtitle: Tech, robotics, ai
-      id: infopic
-      description: Attendees dined with Ameca, one of the world’s most advanced
-        humanoid robots, and participated in a game show poking the brains of
-        local computer scientists.
-      button: Read more
-      url: /sci-cafe-oct-2024
-      image: /images/SCafe00.jpg
-      alt: Ameca, a humanoid robot.
-  - infopic:
       title: A Guide to Singapore's Street Trees
       subtitle: Environment, Sustainability
       id: infopic
@@ -64,33 +53,37 @@ sections:
       image: /images/Street_Trees_Trumpet_Tree_Compressed.jpg
       alt: A trumpet tree.
   - infopic:
+      title: "Science Cafe: Robots Dreaming (Oct 2024)"
+      subtitle: Tech, robotics, ai
+      id: infopic
+      description: Attendees dined with Ameca, one of the world’s most advanced
+        humanoid robots, and participated in a game show poking the brains of
+        local computer scientists.
+      button: Read more
+      url: /sci-cafe-oct-2024
+      image: /images/SciCafe__HomepageInfopic.png
+      alt: Ameca, a humanoid robot.
+  - infopic:
       title: Prof Brian Cox Shows Us The Solar System
       subtitle: Astronomy, physics, reviews
       id: infopic
       description: We chat with rockstar physicist Professor Brian Cox on his latest
         BBC astronomy series, Solar System. Read his musings on strange worlds
         and cosmic voids!
-      button: Button Text
+      button: Read More
       url: /bbc-solar-system
-      alt: Image alt text
+      alt: Still from BBC Solar System
+      image: /images/BBCSolarSystem_HomepageInfopic_FINAL.png
   - infopic:
       title: Love in the Age of Algorithms
       subtitle: psychology, tech, society
       id: infopic
       description: Cupid's arrow, gone digital. We interview a psychologist and a
         dating app CEO to decode the phenomenon of online dating.
-      button: Button Text
+      button: Read More
       image: /images/Online_Dating_01.jpg
-      alt: Image alt text
-  - infopic:
-      title: "Edible Cutlery: An Appetising Answer to Plastic Waste"
-      subtitle: sustainability, innovation
-      id: infopic
-      description: Singapore has a plastic waste problem. Could edible cutlery take a
-        bite out of our city's disposables dilemma?
-      button: Button Text
-      url: /edible-cutlery
-      alt: Image alt text
+      alt: Lovers emerging from phones
+      url: /online-dating
   - infopic:
       title: The Wonders of Optical Illusions
       subtitle: brain, perception, optics
@@ -98,9 +91,20 @@ sections:
       description: Seeing is believing...right? Discover four optical illusions we
         experience everyday that will make you realise there's more than meets
         the mind!
-      button: Button Text
+      button: Read More
       image: /images/Optical_Illusions_Face.png
-      alt: Image alt text
+      alt: A woman with two faces
+      url: /optical-illusions
+  - infopic:
+      title: "Edible Cutlery: An Appetising Answer to Plastic Waste"
+      subtitle: sustainability, innovation
+      id: infopic
+      description: Singapore has a plastic waste problem. Could edible cutlery take a
+        bite out of our city's disposables dilemma?
+      button: Read More
+      url: /edible-cutlery
+      alt: Ingredients in Crunch Cutlery
+      image: /images/EdibleCutlery_HomepageInfopic_FINAL.png
   - infopic:
       title: Battling Sleep Deprivation in Singapore with Pokémon Sleep
       subtitle: sleep, health, tech, games
@@ -108,10 +112,10 @@ sections:
       description: Could a popular mobile app game help restless Singaporeans sleep
         more? We talk to local sleep scientists and try Pokémon Sleep for
         ourselves.
-      button: Button Text
+      button: Read More
       url: /pokemon-sleep
       image: /images/sleep_deprivation_01.jpg
-      alt: Image alt text
+      alt: A sleepless Singaporean
   - infopic:
       title: "Kitchen Science: Bubble Tea"
       subtitle: food, diy, chemistry
@@ -121,5 +125,5 @@ sections:
       button: Read more
       url: /bubble-tea
       image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
-      alt: Image alt text
+      alt: Rainbow spilling from boba tea
 ---
