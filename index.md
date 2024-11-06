@@ -85,6 +85,16 @@ sections:
       alt: Lovers emerging from phones
       url: /online-dating
   - infopic:
+      title: "Edible Cutlery: An Appetising Answer to Plastic Waste"
+      subtitle: sustainability, innovation
+      id: infopic
+      description: Singapore has a plastic waste problem. Could edible cutlery take a
+        bite out of our city's disposables dilemma?
+      button: Read More
+      url: /edible-cutlery
+      alt: Ingredients in Crunch Cutlery
+      image: /images/EdibleCutlery_HomepageInfopic_FINAL.png
+  - infopic:
       title: The Wonders of Optical Illusions
       subtitle: brain, perception, optics
       id: infopic
@@ -95,16 +105,6 @@ sections:
       image: /images/Optical_Illusions_Face.png
       alt: A woman with two faces
       url: /optical-illusions
-  - infopic:
-      title: "Edible Cutlery: An Appetising Answer to Plastic Waste"
-      subtitle: sustainability, innovation
-      id: infopic
-      description: Singapore has a plastic waste problem. Could edible cutlery take a
-        bite out of our city's disposables dilemma?
-      button: Read More
-      url: /edible-cutlery
-      alt: Ingredients in Crunch Cutlery
-      image: /images/EdibleCutlery_HomepageInfopic_FINAL.png
   - infopic:
       title: Battling Sleep Deprivation in Singapore with Pokémon Sleep
       subtitle: sleep, health, tech, games
