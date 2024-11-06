@@ -95,17 +95,6 @@ sections:
       alt: Ingredients in Crunch Cutlery
       image: /images/EdibleCutlery_HomepageInfopic_FINAL.png
   - infopic:
-      title: The Wonders of Optical Illusions
-      subtitle: brain, perception, optics
-      id: infopic
-      description: Seeing is believing...right? Discover four optical illusions we
-        experience everyday that will make you realise there's more than meets
-        the mind!
-      button: Read More
-      image: /images/Optical_Illusions_Face.png
-      alt: A woman with two faces
-      url: /optical-illusions
-  - infopic:
       title: Battling Sleep Deprivation in Singapore with Pokémon Sleep
       subtitle: sleep, health, tech, games
       id: infopic
@@ -116,6 +105,17 @@ sections:
       url: /pokemon-sleep
       image: /images/sleep_deprivation_01.jpg
       alt: A sleepless Singaporean
+  - infopic:
+      title: The Wonders of Optical Illusions
+      subtitle: brain, perception, optics
+      id: infopic
+      description: Seeing is believing...right? Discover four optical illusions we
+        experience everyday that will make you realise there's more than meets
+        the mind!
+      button: Read More
+      image: /images/Optical_Illusions_Face.png
+      alt: A woman with two faces
+      url: /optical-illusions
   - infopic:
       title: "Kitchen Science: Bubble Tea"
       subtitle: food, diy, chemistry
