@@ -1,6 +1,6 @@
 ---
 title: Battling Sleep Deprivation in Singapore with Pokémon Sleep
-permalink: /sleep-deprivation/
+permalink: /pokemon-sleep/
 variant: tiptap
 description: Singaporeans are notoriously sleep-deprived. Can a fun mobile game
   app help us rest better?

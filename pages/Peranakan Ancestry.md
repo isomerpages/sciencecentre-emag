@@ -3,7 +3,6 @@ title: Peranakan Ancestry
 permalink: /peranakan-ancestry/
 variant: tiptap
 description: ""
-third_nav_title: Season 1
 ---
 <h4><strong>Episode 1: Tracing Peranakan Ancestry with Prof. Roger Foo (NUS Medicine)</strong></h4>
 <p>You've probably seen those vibrant Peranakan shophouses in Joo Chiat –
@@ -18,10 +17,9 @@ a doctor (hint: involves a hit medical TV drama).&nbsp;
 <br><strong>[Embed YouTube video]</strong>
 </p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: <a href="https://open.spotify.com/" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
-</a>, <a href="https://www.melisten.sg/" rel="noopener nofollow" target="_blank"><u>melisten</u></a>.</p>
-<p>Subscribe to Void Deck wherever you get your podcasts to get notified
+<p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank">Spotify</a>,
+<a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, and <a href="https://music.amazon.com/podcasts/16e9064d-264a-4182-ab15-756ae9b238cb/void-deck" rel="noopener nofollow" target="_blank">Amazon Music</a>.</p>
+<p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
 <p>We find out:</p>
@@ -54,11 +52,12 @@ future of regenerative medicine</p>
 <h4><strong>Timestamps</strong></h4>
 <p>00:00 Preview
 <br>00:24 Intro
-<br>01:27 Prof. Foo's personal journey to becoming a doctor
-<br>06:56 Inception and findings of the Singapore Peranakan Genome Project
+<br>01:27 Prof. Foo's journey to becoming a doctor
+<br>06:56 Singapore Peranakan Genome Project
 <br>15:32 Genghis Khan and genetic isopoints
 <br>18:48 Is your 185th million grandfather a fish?
-<br>21:02 Mid-roll ad: Science Centre Singapore
+<br>21:02 [Mid-roll ad] Bioethics: We could, but should we? at Science Centre
+Singapore
 <br>21:26 Paiseh question: what is DNA?
 <br>23:58 Epigenetics and heart health
 <br>28:02 Word association game
@@ -82,22 +81,29 @@ the heart epigenome in continuing aspirations to discover mechanisms of
 disease for new therapies or biomarkers. Today, he spends a lot of time
 mentoring young scientist, alongside growing research on heart disease
 prevention and targets for new drug development.</p>
+<h4><strong>Correction</strong></h4>
+<p>The episode misstates the number of Peranakans whole-genome sequenced
+by the Singapore Peranakan Genome Project. The study collected blood samples
+from 177 self-declared Singapore Peranakan volunteers, not 700. Thanks
+Colin Chee for spotting!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Transcript</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br><em>This transcript has been lightly edited for readibility. </em>
+<br><em>This transcript has been lightly edited for readability. </em>
 <br>
 <br><strong>Rishii </strong>Whoa!</p>
 <p><strong>Jacy </strong>That is mindblowing.&nbsp;</p>
 <p><strong>Rishii </strong>So<strong> </strong>you're saying that everyone,
 okay, not everyone, but a lot of the people who are listening to this podcast
-are probably related to Genghis Khan.</p>
+are probably related to Genghis Khan. <em>[Editor's note: </em><a href="https://www.sciencedirect.com/science/article/pii/S0002929707605874" rel="noopener nofollow" target="_blank">A 2003 study</a><em> estimated that 16 million men were likely descended from Genghis Khan.]</em>
+</p>
 <p><strong>Prof. Foo </strong>Yeah, it's true. Yes, because if you can say
 that Genghis Khan has a descendant today, then he must be an ancestor to
-everybody today, if he has passed the isogenetic point.
+everybody today, if he has passed the [<a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">genetic isopoint</a>].
+<br>
 <br>[Upbeat electronica music playing]</p>
 <p><strong>Rishii </strong>Hey there, welcome to <em>Void Deck</em>, a casual
 science podcast brought to you by Science Centre Singapore. We bring science
@@ -220,8 +226,10 @@ culture. So he reached out to me.</p>
 <p>I mean, we work in the same building and he asked if we would like to
 carry out Peranakan project on the back of the population sequencing project.
 So we managed to persuade the leaders of the population project to give
-us a thousand samples, a thousand allocation to sequence Peranakan. So
-we ended up sequencing 700 Peranakan and studying the genetic admixture.</p>
+us a thousand samples to sequence Peranakans. So we ended up sequencing
+700* Peranakan and studying the genetic admixture. <em>[Correction: </em>
+<a href="https://doi.org/10.1093/molbev/msab187" rel="noopener nofollow" target="_blank">the study</a><em> collected blood samples from 177, not 700, self-declared Singapore Peranakan volunteers.]</em>
+</p>
 <p><strong>Jacy </strong>Wow, that's so cool. So maybe for the laypeople
 who don't really know so much about DNA and sequencing, could you explain
 a bit about what exactly is admixture?</p>
@@ -307,8 +315,8 @@ of individuals that are self-declaring as Peranakans.</p>
 that this is more cultural than a hard and fast rule. You can't say you
 are not Peranakan because you don't have this. Because a lot of them are
 practising Peranakans today culturally. But in the general analysis of
-the entire 700 people, most of them have 5% amount of Malay ancestry in
-genetics in their genome.</p>
+the entire 700* people <em>[correction: <a href="https://doi.org/10.1093/molbev/msab187" rel="noopener nofollow" target="_blank">177 people</a>]</em>,
+most of them have 5% amount of Malay ancestry in genetics in their genome.</p>
 <p>Which is more than you would find in a person who is self-declared as
 a Chinese, like myself, for example.</p>
 <p><strong>Rishii </strong>Oh, that's interesting.</p>
@@ -320,7 +328,8 @@ back my ancestry, I was hoping to be related to some South Indian king,
 or some royalty. Would you be able to actually trace it back to a single
 person?</p>
 <p><strong>Prof. Foo </strong>Well, so, Rishii, you probably are a descendant
-of Kublai Khan and Genghis Khan. So there are people who --</p>
+of Kublai Khan and Genghis Khan. <em>[Editor's note: </em><a href="https://www.sciencedirect.com/science/article/pii/S0002929707605874" rel="noopener nofollow" target="_blank">A 2003 study</a><em> estimated that 16 million men were likely descended from Genghis Khan.] </em>So
+there are people who --</p>
 <p><strong>Rishii </strong>--That's pretty cool.</p>
 <p><strong>Prof. Foo </strong>I think all of us are, so that's the sad thing
 too. So there is a line of research that is looking exactly at evolution
@@ -335,16 +344,16 @@ it's more a web than a tree.</p>
 <p><strong>Rishii </strong>Okay. I see that's an interesting way to put it,
 like a web.</p>
 <p><strong>Prof. Foo </strong>So in this web, if you go back enough times,
-there's such a thing known as a genetic isopoint where everybody that lived
-in that year, if they have descendants living today, they would be the
-ancestor of everybody today.</p>
+there's such a thing known as a <a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">genetic isopoint</a> where
+everybody that lived in that year, if they have descendants living today,
+they would be the ancestor of everybody today.</p>
 <p><strong>Jacy </strong>Whoa, that is mind-blowing.</p>
 <p><strong>Rishii </strong>So you're saying that everyone, okay, not everyone,
 but a lot of the people who are listening to this podcast are probably
 related to Genghis Khan.</p>
 <p><strong>Prof. Foo </strong>Yeah, it's true. Yes, because if you can say
 that Genghis Khan has a descendant today, then he must be an ancestor to
-everybody today, if he has passed that isogenetic point.</p>
+everybody today, if he has passed that [<a href="https://www.scientificamerican.com/article/humans-are-all-more-closely-related-than-we-commonly-think/" rel="noopener nofollow" target="_blank">genetic isopoint</a>].</p>
 <p><strong>Rishii </strong>Whoa, okay. That's a fact that I'm going to use
 as any icebreaker now that I'm a descendant of Genghis Khan. But that's
 so interesting, right? I don't think we've looked at ancestry that way,
@@ -455,11 +464,11 @@ on epigenetics, if I'm not wrong. So, Prof just gave us a very good analogy
 about what epigenetics is. And I believe he's referring to his research
 on how the epigenetics affects heart health and also heart disease. So,
 maybe you can tell us a bit about that.</p>
-<p><strong>Prof. Foo </strong>Yeah, Jacy, thanks. So, it's also around Nobel
-Prize winning stuff that came out 20 years ago when they discovered that
-the way that different parts of the genome is being used is based on certain
-modification and features that drive how the genome is used in each cell
-type.</p>
+<p><strong>Prof. Foo </strong>Yeah, Jacy, thanks. So, it's also around
+<a href="https://www.nobelprize.org/prizes/medicine/2012/press-release/" rel="noopener nofollow" target="_blank">Nobel Prize winning stuff</a>that came out 20 years ago when they discovered
+that the way that different parts of the genome is being used is based
+on certain modification and features that drive how the genome is used
+in each cell type.</p>
 <p>And so much to a point where if you can rewire some of these modifications,
 you can actually make the cell change and behave differently. So, to give
 a more concrete analogy, if you take liver cell and you grow it on a plate
@@ -467,8 +476,8 @@ and allowed it to divide, it will always divide into more liver cells because
 the code is hardwired there. So, only the songs of a liver cell will sing.</p>
 <p>But if you find a way to rewire the genome and make it sing different
 songs, you can actually turn the liver cell into a heart cell. And that
-was the groundbreaking Nobel Prize 20 years ago. So, with that knowledge,
-everyone has gone hunting for the rewiring processes.</p>
+was <a href="https://www.nobelprize.org/prizes/medicine/2012/press-release/" rel="noopener nofollow" target="_blank">the groundbreaking Nobel Prize 20 years ago</a>.
+So, with that knowledge, everyone has gone hunting for the rewiring processes.</p>
 <p>And the thinking is that in our context of the heart, if the songs are
 going out of tune, can we find specific ways to retune it so that the wires
 are back into health? Okay. And that's the epigenetic research that we're
@@ -652,6 +661,19 @@ at Science Centre Singapore and get your tickets at <a href="https://academic.ou
 <p>Dialogue with Time - Embrace Aging
 <br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Credits</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This episode of <em>Void Deck</em> was hosted by Rishii Vijayahkumar and
+Jacy Mok. Scripting, writing, sound engineering, and outreach was done
+by Jamie Uy. Additional production help was provided by Lydia Konig and
+Joyce Sia. The episode graphics were designed by Jansen Michelle and podcast
+cover art illustrated by Vikki Li Qi. The background music "Data Flow"
+and "Spatial" was created by Fugu Vibes. Special thanks to Prof. Foo for
+coming on the show.</p>
 </div>
 </details>
 </div>
