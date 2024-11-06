@@ -63,4 +63,63 @@ sections:
       url: /sg-trees
       image: /images/Street_Trees_Trumpet_Tree_Compressed.jpg
       alt: A trumpet tree.
+  - infopic:
+      title: Prof Brian Cox Shows Us The Solar System
+      subtitle: Astronomy, physics, reviews
+      id: infopic
+      description: We chat with rockstar physicist Professor Brian Cox on his latest
+        BBC astronomy series, Solar System. Read his musings on strange worlds
+        and cosmic voids!
+      button: Button Text
+      url: /bbc-solar-system
+      alt: Image alt text
+  - infopic:
+      title: Love in the Age of Algorithms
+      subtitle: psychology, tech, society
+      id: infopic
+      description: Cupid's arrow, gone digital. We interview a psychologist and a
+        dating app CEO to decode the phenomenon of online dating.
+      button: Button Text
+      image: /images/Online_Dating_01.jpg
+      alt: Image alt text
+  - infopic:
+      title: "Edible Cutlery: An Appetising Answer to Plastic Waste"
+      subtitle: sustainability, innovation
+      id: infopic
+      description: Singapore has a plastic waste problem. Could edible cutlery take a
+        bite out of our city's disposables dilemma?
+      button: Button Text
+      url: /edible-cutlery
+      alt: Image alt text
+  - infopic:
+      title: The Wonders of Optical Illusions
+      subtitle: brain, perception, optics
+      id: infopic
+      description: Seeing is believing...right? Discover four optical illusions we
+        experience everyday that will make you realise there's more than meets
+        the mind!
+      button: Button Text
+      image: /images/Optical_Illusions_Face.png
+      alt: Image alt text
+  - infopic:
+      title: Battling Sleep Deprivation in Singapore with Pokémon Sleep
+      subtitle: sleep, health, tech, games
+      id: infopic
+      description: Could a popular mobile app game help restless Singaporeans sleep
+        more? We talk to local sleep scientists and try Pokémon Sleep for
+        ourselves.
+      button: Button Text
+      url: /pokemon-sleep
+      image: /images/sleep_deprivation_01.jpg
+      alt: Image alt text
+  - infopic:
+      title: "Kitchen Science: Bubble Tea"
+      subtitle: food, diy, chemistry
+      id: infopic
+      description: Sip on the sweet science of bubble tea by learning how to make your
+        very own chewy pearls!
+      button: Read more
+      url: /bubble-tea
+      image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
+      alt: Image alt text
 ---
