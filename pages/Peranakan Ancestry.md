@@ -12,13 +12,10 @@ Al Nahyan Professor of Medicine at the National University of Singapore.
 Prof. Foo was one of the researchers behind the Singapore Peranakan Genome
 Project. We unravel some mind-blowing research about heritage and the human
 heart. We also hear a bit about Prof. Foo's personal journey to becoming
-a doctor (hint: involves a hit medical TV drama).&nbsp;
-<br>
-<br><strong>[Embed YouTube video]</strong>
-</p>
+a doctor (hint: involves a hit medical TV drama).&nbsp;</p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank">Spotify</a>,
-<a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, and <a href="https://music.amazon.com/podcasts/16e9064d-264a-4182-ab15-756ae9b238cb/void-deck" rel="noopener nofollow" target="_blank">Amazon Music</a>.</p>
+<a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, and <a href="https://bit.ly/voiddeckyoutube" rel="noopener nofollow" target="_blank">YouTube</a>.</p>
 <p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
@@ -670,12 +667,12 @@ at Science Centre Singapore and get your tickets at <a href="https://academic.ou
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of <em>Void Deck</em> was hosted by Rishii Vijayahkumar and
-Jacy Mok. Scripting, writing, sound engineering, and outreach was done
-by Jamie Uy. Additional production help was provided by Lydia Konig and
-Joyce Sia. The episode graphics were designed by Jansen Michelle and podcast
-cover art illustrated by Vikki Li Qi. The background music "Data Flow"
-and "Spatial" was created by Fugu Vibes. Special thanks to Prof. Foo for
-coming on the show.</p>
+Jacy Mok. Scripting, sound engineering, and outreach was done by Jamie
+Uy. Sound recording and editing assistance was provided by Lydia Konig
+and Joyce Sia. The episode graphics were designed by Jansen Michelle and
+podcast cover art illustrated by Vikki Li Qi. The background music "Data
+Flow" and "Spatial" was created by Fugu Vibes. Special thanks to Prof.
+Foo for coming on the show.</p>
 </div>
 </details>
 </div>
