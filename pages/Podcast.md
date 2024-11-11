@@ -26,11 +26,11 @@ in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Graphic of scientist wearing headphones" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof. Roger Foo from NUS Medicine" src="/images/Voiddeck_Youtube_Thumbnail_Ep_1_01_min.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Episode 1</div>
+<div class="isomer-card-title">Episode 1: Tracing Peranakan Ancestry with Prof. Roger Foo (NUS Medicine)</div>
 <div class="isomer-card-description">Coming soon! Follow us on your favourite podcast platform to get notified
 when our first episode drops.</div>
 </div>
@@ -38,5 +38,5 @@ when our first episode drops.</div>
 </div>
 <p></p>
 <hr>
-<p><em>Last updated: 31 October 2024</em>
+<p><em>Last updated: 11 November 2024</em>
 </p>
