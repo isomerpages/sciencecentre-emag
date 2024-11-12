@@ -2,8 +2,10 @@
 title: Peranakan Ancestry
 permalink: /peranakan-ancestry/
 variant: tiptap
-description: ""
+description: Unravel the mysteries of DNA, heritage, and the human heart in the
+  first Void Deck podcast episode, featuring Prof. Roger Foo (NUS Medicine).
 third_nav_title: Season 1
+image: /images/Voiddeck_Youtube_Thumbnail_Ep_1_01_min.png
 ---
 <h4><strong>Episode 1: Tracing Peranakan Ancestry with Prof. Roger Foo (NUS Medicine)</strong></h4>
 <p>You've probably seen those vibrant Peranakan shophouses in Joo Chiat –
