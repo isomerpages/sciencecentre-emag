@@ -22,8 +22,8 @@ in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VD_Podcast_Logo_SCS_Logo_Corrected_3000_min.png">
 </div>
 <h4><strong>Season 1</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/trailer" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Key visual" src="/images/VD_Podcast_Trailer_Thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trailer: Exploring the Universe from the Heartlands</div><div class="isomer-card-description">Launching Science Centre Singapore's first-ever podcast, taking you from Jurong to Jupiter and beyond.</div><div class="isomer-card-link">Listen to the trailer</div></div></a>
-<div class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/trailer" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Key visual" src="/images/VD_Podcast_Trailer_Thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trailer: Exploring the Universe from the Heartlands</div><div class="isomer-card-description">Launching Science Centre Singapore's first-ever podcast, taking you from Jurong to Jupiter and beyond.</div><div class="isomer-card-link">Listen here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/peranakan-ancestry" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof. Roger Foo from NUS Medicine" src="/images/Voiddeck_Youtube_Thumbnail_Ep_1_01_min.png">
@@ -31,12 +31,15 @@ in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Episode 1: Tracing Peranakan Ancestry with Prof. Roger Foo (NUS Medicine)</div>
-<div class="isomer-card-description">Coming soon! Follow us on your favourite podcast platform to get notified
-when our first episode drops.</div>
+<div class="isomer-card-description">You've probably seen those vibrant Peranakan shophouses in Joo Chiat –
+but how did this unique mixed-heritage community come to be in Singapore?
+To discover more, we speak with Prof. Roger Foo, the first Zayed bin Sultan
+Al Nahyan Professor of Medicine at the National University of Singapore.</div>
+<div class="isomer-card-link">Listen here</div>
 </div>
-</div>
+</a>
 </div>
 <p></p>
 <hr>
-<p><em>Last updated: 11 November 2024</em>
+<p><em>Last updated: 12 November 2024</em>
 </p>
