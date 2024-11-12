@@ -16,5 +16,5 @@ Jurong to Jupiter and beyond. Get curious with us!</p>
 <h4><strong>Listen to the Trailer</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/2sP769I326bsWIdrcusS3e?si=b798c4d1e3d4450f" rel="noopener nofollow" target="_blank">Spotify</a>,
 <a href="https://podcasts.apple.com/us/podcast/exploring-the-universe-from-the-heartlands/id1776840729?i=1000674867287" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, and <a href="https://youtu.be/DJlv0Fyhom4?si=ew3JVS0OqFxC4SUs" rel="noopener nofollow" target="_blank">YouTube</a>.</p>
-<p>Subscribe wherever you get your podcasts to get notified when the first
+<p>Subscribe wherever you get your podcasts to get notified when the next
 episode drops.</p>
