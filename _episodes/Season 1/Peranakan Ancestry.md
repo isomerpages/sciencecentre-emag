@@ -646,11 +646,14 @@ R., Xu, J., Shu, Q., Du, R., Yang, H., Hurles, M. E., Robinson, E., … Tyler-Sm
 C. (2003). The genetic legacy of the Mongols. <em>The American Journal of Human Genetics</em>,
 72(3), 717–721.
 <br><a href="https://doi.org/10.1086/367774" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1086/367774</a>
+</p>
+<p>
 <br>Third Spacing Episode 69: What is it like being a clinician scientist?
 <a href="https://open.spotify.com/episode/34nzeJwVjNPgycpOvnVOHl?si=CTBXyTaIRniV5iVeXURe-g&amp;nd=1&amp;dlsi=d2c1dd7c0dad442c" rel="noopener noreferrer nofollow" target="_blank">https://open.spotify.com/episode/34nzeJwVjNPgycpOvnVOHl?si=CTBXyTaIRniV5iVeXURe-g&amp;nd=1&amp;dlsi=d2c1dd7c0dad442c</a>
 </p>
-<p>The Nobel Prize in Physiology or Medicine 2004
-<br><a href="https://www.nobelprize.org/prizes/medicine/2004/7438-the-nobel-prize-in-physiology-or-medicine-2004-2004-5/" rel="noopener noreferrer nofollow" target="_blank">https://www.nobelprize.org/prizes/medicine/2004/7438-the-nobel-prize-in-physiology-or-medicine-2004-2004-5/</a>&nbsp;</p>
+<p>The Nobel Prize in Physiology or Medicine 2012
+<br><a href="https://www.nobelprize.org/prizes/medicine/2012/press-release/" rel="noopener noreferrer nofollow" target="_blank">https://www.nobelprize.org/prizes/medicine/2012/press-release/</a>
+</p>
 <p>Prof. Foo's Website
 <br><a href="https://www.foo-lab.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.foo-lab.sg/</a>
 </p>
