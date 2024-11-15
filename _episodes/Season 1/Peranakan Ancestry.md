@@ -626,46 +626,44 @@ in the Culturally Unique Peranakan Chinese Population in Southeast Asia,
 Molecular Biology and Evolution 38:4463-4474 (2021)
 <br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://academic.oup.com/mbe/article/38/10/4463/6307269</a>&nbsp;</p>
 <p>A*STAR Research: Unravelling the ancestry of a unique community
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://research.a-star.edu.sg/articles/highlights/unravelling-the-ancestry-of-a-unique-community/</a>
+<br><a href="https://research.a-star.edu.sg/articles/highlights/unravelling-the-ancestry-of-a-unique-community/" rel="noopener noreferrer nofollow" target="_blank">https://research.a-star.edu.sg/articles/highlights/unravelling-the-ancestry-of-a-unique-community/</a>
 </p>
 <p>A*STAR News: Genomic Analysis Of Peranakan Chinese Reveals Insight Into
 Ancestry
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.a-star.edu.sg/News/astarNews/news/press-releases/genomic-analysis-of-peranakan-chinese-reveals-insight-into-ancestry</a>&nbsp;</p>
+<br><a href="https://www.a-star.edu.sg/News/astarNews/news/press-releases/genomic-analysis-of-peranakan-chinese-reveals-insight-into-ancestry" rel="noopener noreferrer nofollow" target="_blank">https://www.a-star.edu.sg/News/astarNews/news/press-releases/genomic-analysis-of-peranakan-chinese-reveals-insight-into-ancestry</a>&nbsp;</p>
 <p>"Genes of Myths and Legends" by Dawn Marie Lee in <em>THE PERANAKAN </em>Magazine
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.peranakan.org.sg/wp-content/uploads/pdf-light-viewer/770-pdfs/page-00032.pdf</a>
+<br><a href="https://www.peranakan.org.sg/wp-content/uploads/pdf-light-viewer/770-pdfs/page-00032.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.peranakan.org.sg/wp-content/uploads/pdf-light-viewer/770-pdfs/page-00032.pdf</a>
 </p>
 <p>PRECISE-SG100K
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/partners/precise-sg100k/</a>
+<br><a href="https://www.npm.sg/partners/precise-sg100k/" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/partners/precise-sg100k/</a>
 </p>
 <p>Wellcome Collection's Library of the Human Genome
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://wellcomecollection.org/articles/the-key-to-memory--write-it-down</a>
+<br><a href="https://wellcomecollection.org/articles/the-key-to-memory--write-it-down" rel="noopener noreferrer nofollow" target="_blank">https://wellcomecollection.org/articles/the-key-to-memory--write-it-down</a>
 </p>
 <p>Zerjal, T., Xue, Y., Bertorelle, G., Wells, R. S., Bao, W., Zhu, S., Qamar,
 R., Ayub, Q., Mohyuddin, A., Fu, S., Li, P., Yuldasheva, N., Ruzibakiev,
 R., Xu, J., Shu, Q., Du, R., Yang, H., Hurles, M. E., Robinson, E., … Tyler-Smith,
 C. (2003). The genetic legacy of the Mongols. <em>The American Journal of Human Genetics</em>,
 72(3), 717–721.
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1086/367774</a>
-</p>
-<p>
+<br><a href="https://doi.org/10.1086/367774" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1086/367774</a>
 <br>Third Spacing Episode 69: What is it like being a clinician scientist?
-<a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://open.spotify.com/episode/34nzeJwVjNPgycpOvnVOHl?si=CTBXyTaIRniV5iVeXURe-g&amp;nd=1&amp;dlsi=d2c1dd7c0dad442c</a>
+<a href="https://open.spotify.com/episode/34nzeJwVjNPgycpOvnVOHl?si=CTBXyTaIRniV5iVeXURe-g&amp;nd=1&amp;dlsi=d2c1dd7c0dad442c" rel="noopener noreferrer nofollow" target="_blank">https://open.spotify.com/episode/34nzeJwVjNPgycpOvnVOHl?si=CTBXyTaIRniV5iVeXURe-g&amp;nd=1&amp;dlsi=d2c1dd7c0dad442c</a>
 </p>
 <p>The Nobel Prize in Physiology or Medicine 2004
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.nobelprize.org/prizes/medicine/2004/7438-the-nobel-prize-in-physiology-or-medicine-2004-2004-5/</a>&nbsp;</p>
+<br><a href="https://www.nobelprize.org/prizes/medicine/2004/7438-the-nobel-prize-in-physiology-or-medicine-2004-2004-5/" rel="noopener noreferrer nofollow" target="_blank">https://www.nobelprize.org/prizes/medicine/2004/7438-the-nobel-prize-in-physiology-or-medicine-2004-2004-5/</a>&nbsp;</p>
 <p>Prof. Foo's Website
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.foo-lab.sg/</a>
+<br><a href="https://www.foo-lab.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.foo-lab.sg/</a>
 </p>
 <p>Project RESET
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.foo-lab.sg/project-reset</a>
+<br><a href="https://www.foo-lab.sg/project-reset" rel="noopener noreferrer nofollow" target="_blank">https://www.foo-lab.sg/project-reset</a>
 </p>
 <p>Want to learn more about the human body? Check out the following exhibitions
-at Science Centre Singapore and get your tickets at <a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.gevme.com/scsonlinetickets</a>:</p>
+at Science Centre Singapore and get your tickets at <a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">https://www.gevme.com/scsonlinetickets</a>:</p>
 <p>Bioethics: We Could, But Should We?
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/bioethics-exhibition</a>
+<br><a href="https://www.science.edu.sg/whats-on/exhibitions/bioethics-exhibition" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/bioethics-exhibition</a>
 </p>
 <p>Dialogue with Time - Embrace Aging
-<br><a href="https://academic.oup.com/mbe/article/38/10/4463/6307269" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing</a>
+<br><a href="https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/dialogue-with-time-embrace-ageing</a>
 </p>
 </div>
 </details>
