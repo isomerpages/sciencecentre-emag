@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: DIY
 ---
-<p></p>
+<h4>Taste the sweet science behind Singapore's beloved kaya jam and discover the eggy alchemy that creates its creamy consistency. Downloadable activity sheet included!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo of kaya toast by Marcus Loke on Unsplash" src="/images/VD_Homepage_Infopics__2_.png">
 </div>
@@ -110,6 +110,7 @@ the refrigerator and let it cool to room temperature before having it.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Printable kaya jam recipe." src="/images/Kaya_Jam_VD_Activity_Template.png">
 </div>
-<p>
-<br><em>Instruction images generated using DALL-E<br>Article and activity sheet by KidsSTOP™ Educators</em>
+<p><em><br>Article and activity sheet produced by KidsSTOP™ Educators</em>
+</p>
+<p><em>Instruction images generated using DALL-E</em>
 </p>
