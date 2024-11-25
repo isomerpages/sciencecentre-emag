@@ -50,7 +50,7 @@ Yaakub (IBCI)</div>
 <div class="isomer-card-description">We all know Singapore as a Garden City, but what about seeing Singapore
 as an island country? We dive into the lesser-known marine elements of
 Singapore's tropical environments with Dr. Siti Maryam Yaakub, Senior Director
-of International Blue Carbon Institute. Coming soon!</div>
+of the International Blue Carbon Institute. Coming soon!</div>
 </div>
 </div>
 </div>
