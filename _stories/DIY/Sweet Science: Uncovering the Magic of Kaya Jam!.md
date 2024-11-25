@@ -5,3 +5,89 @@ variant: tiptap
 description: ""
 third_nav_title: DIY
 ---
+<p></p>
+<p><strong>Kaya Jam</strong>
+</p>
+<p>Toasted bread spread evenly with rich, creamy kaya jam reminds us of our
+local Singaporean dish. Coconut jam also known as kaya jam is made from
+coconut cream, eggs, sugar, and sometimes pandan leaves for additional
+flavouring. Kaya jam is a sweet and creamy spread that can be found in
+almost every neighbourhood coffee shop.&nbsp;</p>
+<p><strong>The Origins of Kaya Jam</strong>
+</p>
+<p>When Hainanese immigrants came to Singapore in the 19th century, many
+of them worked as cooks for the British people. As most of the British
+people left Singapore in the 20th century, the&nbsp; Hainanese immigrants
+started their own businesses by selling food at the local coffee shops,
+also known as kopitiams. They adapted the original English-style fruit
+based jams used in breakfast and created kaya jam. Hainanese cooks and
+kopitiam were responsible for popularising the consumption and taste of
+Kaya that most Singaporeans know today.&nbsp;</p>
+<p><strong>The Science of Kaya Jam</strong>
+</p>
+<p>So what gives kaya its thick consistency? When the kaya jam mixture is
+heated on the stove, the heat causes the proteins in the eggs to thicken.
+Just like how we fry eggs in the pan, the heat from the fire causes the
+egg to solidify. This is known as coagulation, which gives kaya its creamy
+and spreadable texture</p>
+<p>For our little friends, think of the egg yolk and egg whites as a big
+group of tiny building blocks all stuck together. When we warm it up, those
+blocks start to shake and wiggle because they’re getting hot. Some of them
+even break apart and start to stick to each other in new ways, creating
+a thick, yummy mixture.</p>
+<p><strong>Here are some discussion topics for parents and educators to have with your little ones when you’re making your very own kaya jam.</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>What do you think will happen to the egg if we cook it for 2 seconds?</p>
+</li>
+<li>
+<p>What do you think will happen if we cook the egg over very low heat instead?&nbsp;</p>
+</li>
+</ol>
+<p><strong><em>Make your own Kaya Jam at home&nbsp;</em></strong>
+</p>
+<p><strong>Here are the ingredients and steps needed to make 1 cup of Kaya Jam:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>200 ml canned coconut cream</p>
+</li>
+<li>
+<p>4 egg yolks from large eggs, beaten</p>
+</li>
+<li>
+<p>50g white sugar</p>
+</li>
+<li>
+<p>50g palm sugar</p>
+</li>
+<li>
+<p>3 pandan leaves, knotted</p>
+</li>
+</ol>
+<p>Step 1: Separate the egg whites from the egg yolks.</p>
+<p>Step 2: Add 200ml of coconut cream, 50g white sugar, 50g palm sugar and
+3 knotted pandan leaves to a pot on medium heat. Heat until the sugar is
+melted.&nbsp;</p>
+<p>Step 3: Beat 4 egg yolks in a separate bowl and pour in ¼ of the coconut
+cream mixture into the egg yolk bowl.</p>
+<p>Step 4: Pour the egg yolk bowl mixture back into the pot, and stir everything
+together on medium heat.</p>
+<p>Step 5: Stir the mixture for 8 minutes on medium heat or until the mixture
+thickens.</p>
+<p>Step 6: Set aside the kaya jam for it to cool down completely. To store,
+transfer the kaya jam into a glass jar and keep it in the refrigerator.&nbsp;</p>
+<p>Now, you have your very own simple homemade kaya jam, ready to eat anytime
+you feel like having a sweet treat. Remember to remove the kaya jam from
+the refrigerator and let it cool to room temperature before having it.&nbsp;</p>
+<p><strong><a href="/files/Kaya_Jam_VD_Activity_Template_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the printable recipe sheet below!</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Printable kaya jam recipe." src="/images/Kaya_Jam_VD_Activity_Template.png">
+</div>
+<p><em>Written by KidsSTOP™ Educators</em>
+<br><em>Featured image by</em>  <em><a href="https://unsplash.com/@marcusloke?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Marcus Loke</a> on <a href="https://unsplash.com/photos/toasted-bread-with-sauce-xrb-Ud4RStE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<br><em>Recipe instruction images generated using DALL-E </em>
+</p>
+<p></p>
