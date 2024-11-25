@@ -11,15 +11,15 @@ image: /images/Voiddeck_Youtube_Thumbnail_Ep_2_min.png
 <p>We all know Singapore as a Garden City, but what about seeing Singapore
 as an island country? We dive into the lesser-known marine elements of
 Singapore's tropical environments with Dr. Siti Maryam Yaakub, Senior Director
-of International Blue Carbon Institute. We talk about her passion for unsung
-underwater heroes like seagrass, her journey to becoming a marine ecologist,
-and what makes mangroves and coastal habitats so important in the fight
-against climate change.</p>
+of the International Blue Carbon Institute. We talk about her passion for
+unsung underwater heroes like seagrass, her journey to becoming a marine
+ecologist, and what makes mangroves and coastal habitats so important in
+the fight against climate change.</p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
 </a>, <a href="https://bit.ly/voiddeckyoutube" rel="noopener nofollow" target="_blank">YouTube</a>,
-and <a href="https://music.amazon.in/podcasts/16e9064d-264a-4182-ab15-756ae9b238cb/void-deck" rel="noopener nofollow" target="_blank"><u>Amazon Music</u></a>.</p>
+and <a href="https://bit.ly/voiddeckamazonmusic" rel="noopener nofollow" target="_blank"><u>Amazon Music</u></a>.</p>
 <p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
