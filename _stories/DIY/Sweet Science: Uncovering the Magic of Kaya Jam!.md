@@ -6,6 +6,11 @@ description: ""
 third_nav_title: DIY
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kaya jam by Marcus Loke on Unsplash" src="/images/VD_Homepage_Infopics__1_.png">
+</div>
+<p><em>Photo by</em>  <em><a href="https://unsplash.com/@marcusloke?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Marcus Loke</a> on <a href="https://unsplash.com/photos/toasted-bread-with-sauce-xrb-Ud4RStE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+</p>
 <p><strong>Kaya Jam</strong>
 </p>
 <p>Toasted bread spread evenly with rich, creamy kaya jam reminds us of our
@@ -87,7 +92,5 @@ the refrigerator and let it cool to room temperature before having it.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="Printable kaya jam recipe." src="/images/Kaya_Jam_VD_Activity_Template.png">
 </div>
 <p><em>Written by KidsSTOP™ Educators</em>
-<br><em>Featured image by</em>  <em><a href="https://unsplash.com/@marcusloke?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Marcus Loke</a> on <a href="https://unsplash.com/photos/toasted-bread-with-sauce-xrb-Ud4RStE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
-<br><em>Recipe instruction images generated using DALL-E </em>
+<br><em>Recipe instruction images generated using DALL-E</em>
 </p>
-<p></p>
