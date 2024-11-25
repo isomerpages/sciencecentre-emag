@@ -126,4 +126,14 @@ sections:
       url: /bubble-tea
       image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
       alt: Rainbow spilling from boba tea
+  - infopic:
+      title: "Sweet Science: Uncovering the Magic of Kaya Jam!"
+      subtitle: food, diy, chemistry
+      id: infopic
+      description: Learn about the Hainanese origins and eggy alchemy behind this
+        beloved Singapore breakfast dish. Includes a printable recipe sheet!
+      button: Read More
+      url: /kaya-jam
+      image: /images/VD_Homepage_Infopics__1_.png
+      alt: Photo by Marcus Loke/Unsplash
 ---
