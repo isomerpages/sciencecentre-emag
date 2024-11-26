@@ -37,24 +37,9 @@ To discover more, we speak with Prof. Roger Foo, the first Zayed bin Sultan
 Al Nahyan Professor of Medicine at the National University of Singapore.</div>
 <div class="isomer-card-link">Listen here</div>
 </div>
-</a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr. Siti Maryam Yaakub" src="/images/Voiddeck_Youtube_Thumbnail_Ep_2_min.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Episode 2: Diving into Singapore's Marine Ecology with Dr. Siti Maryam
-Yaakub (IBCI)</div>
-<div class="isomer-card-description">We all know Singapore as a Garden City, but what about seeing Singapore
-as an island country? We dive into the lesser-known marine elements of
-Singapore's tropical environments with Dr. Siti Maryam Yaakub, Senior Director
-of the International Blue Carbon Institute. Coming soon!</div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="/marine-ecology" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Siti Maryam Yaakub" src="/images/Voiddeck_Youtube_Thumbnail_Ep_2_min.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Episode 2: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub (IBCI)</div><div class="isomer-card-description">We all know Singapore as a Garden City, but what about seeing Singapore as an island nation? We dive into the marine elements of Singapore's tropical environments and learn about seagrasses and mangroves with Dr. Siti Maryam Yaakub, Senior Director of the International Blue Carbon Institute. </div><div class="isomer-card-link">Listen here</div></div></a>
 </div>
 <p></p>
 <hr>
-<p><em>Last updated: 25 November 2024</em>
+<p><em>Last updated: 26 November 2024</em>
 </p>
