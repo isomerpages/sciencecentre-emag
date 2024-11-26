@@ -6,6 +6,7 @@ description: We learn about seagrass, unsung superheroes in the fight against
   climate change, and Singapore's mangrove ecosystems from Dr. Siti Maryam
   Yaakub, Senior Director of the International Blue Carbon Institute.
 image: /images/Voiddeck_Youtube_Thumbnail_Ep_2_min.png
+third_nav_title: Season 1
 ---
 <h4><strong>Episode 2: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub (International Blue Carbon Institute)</strong></h4>
 <p>We all know Singapore as a Garden City, but what about seeing Singapore
@@ -15,11 +16,14 @@ of the International Blue Carbon Institute. We talk about her passion for
 unsung underwater heroes like seagrass, her journey to becoming a marine
 ecologist, and what makes mangroves and coastal habitats so important in
 the fight against climate change.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/21LP8cJzZLg?si=S5_txlSym6gIbQ_5"></iframe>
+</div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
-</a>, <a href="https://bit.ly/voiddeckyoutube" rel="noopener nofollow" target="_blank">YouTube</a>,
-and <a href="https://bit.ly/voiddeckamazonmusic" rel="noopener nofollow" target="_blank"><u>Amazon Music</u></a>.</p>
+</a>, and <a href="https://bit.ly/voiddeckamazonmusic" rel="noopener nofollow" target="_blank"><u>Amazon Music</u></a>.</p>
 <p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
@@ -780,27 +784,27 @@ planet. See you next episode! See you next episode!</p>
 adjacent to a highly urbanised city–state’, <em>Marine Pollution Bulletin</em>,
 83(2), pp. 417–424. <a href="https://doi.org/10.1016/j.marpolbul.2014.01.012" rel="noopener noreferrer nofollow" target="_blank">doi:10.1016/j.marpolbul.2014.01.012</a>.</p>
 <p></p>
-<p>Dr. Siti’s LinkedIn Profile</p>
-<p><a href="https://www.linkedin.com/in/sitimy/" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/sitimy/</a>&nbsp;</p>
+<p>Dr. Siti’s LinkedIn Profile
+<br><a href="https://www.linkedin.com/in/sitimy/" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/sitimy/</a>&nbsp;</p>
 <p></p>
-<p>International Blue Carbon Institute</p>
-<p><a href="https://www.conservation.org/about/international-blue-carbon-institute" rel="noopener noreferrer nofollow" target="_blank">https://www.conservation.org/about/international-blue-carbon-institute</a>&nbsp;</p>
+<p>International Blue Carbon Institute
+<br><a href="https://www.conservation.org/about/international-blue-carbon-institute" rel="noopener noreferrer nofollow" target="_blank">https://www.conservation.org/about/international-blue-carbon-institute</a>&nbsp;</p>
 <p></p>
-<p>Team SeaGrass</p>
-<p><a href="http://teamseagrass.blogspot.sg/" rel="noopener noreferrer nofollow" target="_blank">http://teamseagrass.blogspot.sg/</a>&nbsp;</p>
+<p>Team SeaGrass
+<br><a href="http://teamseagrass.blogspot.sg/" rel="noopener noreferrer nofollow" target="_blank">http://teamseagrass.blogspot.sg/</a>&nbsp;</p>
 <p></p>
-<p>Wild Singapore</p>
-<p><a href="http://www.wildsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.wildsingapore.com/</a>&nbsp;</p>
+<p>Wild Singapore
+<br><a href="http://www.wildsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.wildsingapore.com/</a>&nbsp;</p>
 <p></p>
-<p>How to Save a Planet</p>
-<p><a href="https://gimletmedia.com/shows/howtosaveaplanet" rel="noopener noreferrer nofollow" target="_blank">https://gimletmedia.com/shows/howtosaveaplanet</a>&nbsp;</p>
+<p>How to Save a Planet
+<br><a href="https://gimletmedia.com/shows/howtosaveaplanet" rel="noopener noreferrer nofollow" target="_blank">https://gimletmedia.com/shows/howtosaveaplanet</a>&nbsp;</p>
 <p></p>
 <p>Earth Alive Exhibition at Science Centre Singapore
 <br><a href="https://gimletmedia.com/shows/howtosaveaplanet" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/earth-alive</a>
 </p>
 <p></p>
-<p>Climate Changed Exhibition at Science Centre Singapore</p>
-<p><a href="https://www.science.edu.sg/whats-on/exhibitions/climate-changed" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/climate-changed</a>
+<p>Climate Changed Exhibition at Science Centre Singapore
+<br><a href="https://www.science.edu.sg/whats-on/exhibitions/climate-changed" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/climate-changed</a>
 </p>
 </div>
 </details>
