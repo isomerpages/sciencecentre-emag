@@ -950,4 +950,5 @@ Special thanks to Christopher for coming on the show.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p><em>Last updated 9 December 2024</em>
+</p>
