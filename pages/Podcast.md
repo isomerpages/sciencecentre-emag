@@ -38,8 +38,23 @@ Al Nahyan Professor of Medicine at the National University of Singapore.</div>
 <div class="isomer-card-link">Listen here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/marine-ecology" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Siti Maryam Yaakub" src="/images/Ep2PodcastPageSmall.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Episode 2: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub (IBCI)</div><div class="isomer-card-description">We all know Singapore as a Garden City, but what about seeing Singapore as an island nation? We dive into the marine elements of Singapore's tropical environments and learn about seagrasses and mangroves with Dr. Siti Maryam Yaakub, Senior Director of the International Blue Carbon Institute.</div><div class="isomer-card-link">Listen here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/podcast" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. Christopher Luwanga" src="/images/Ep3PodcastPageSmall.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Episode 3: Exploring Spacetech with Dr. Christopher Luwanga (Galamad Aerospace)</div>
+<div class="isomer-card-description">Singapore may be known as the Little Red Dot, but its ambitions are astronomical.
+Blast off into the world of spacetech with Dr. Christopher Luwanga, the
+CEO and founder of Galamad Aerospace, a space start-up based in Singapore.
+We discuss reuseable satellites and the future of space exploration!</div>
+<div class="isomer-card-link">Coming soon</div>
+</div>
+</a>
 </div>
 <p></p>
 <hr>
-<p><em>Last updated: 26 November 2024</em>
+<p><em>Last updated: 28 November 2024</em>
 </p>
