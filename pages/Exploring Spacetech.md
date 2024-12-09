@@ -910,30 +910,30 @@ LinkedIn. Alright guys, we'll see you next time.</p>
 <p><a href="https://galamad.space/" rel="noopener noreferrer nofollow" target="_blank">https://galamad.space/</a>&nbsp;</p>
 <p></p>
 <p>Dr. Christopher Luwanga’s LinkedIn</p>
-<p><a href="https://galamad.space/" rel="noopener noreferrer nofollow" target="_blank">https://sg.linkedin.com/in/christopher-luwanga</a>&nbsp;</p>
+<p><a href="https://sg.linkedin.com/in/christopher-luwanga" rel="noopener noreferrer nofollow" target="_blank">https://sg.linkedin.com/in/christopher-luwanga</a>&nbsp;</p>
 <p></p>
 <p>Space start-up raises US$1.05m to build satellites in Malawi</p>
-<p><a href="https://galamad.space/" rel="noopener noreferrer nofollow" target="_blank">https://www.ntu.edu.sg/cas/news-events/news/details/space-start-up-raises-usd1.05m-to-build-satellites-in-malawi</a>&nbsp;</p>
+<p><a href="https://www.ntu.edu.sg/cas/news-events/news/details/space-start-up-raises-usd1.05m-to-build-satellites-in-malawi" rel="noopener noreferrer nofollow" target="_blank">https://www.ntu.edu.sg/cas/news-events/news/details/space-start-up-raises-usd1.05m-to-build-satellites-in-malawi</a>&nbsp;</p>
 <p></p>
 <p>High Impact Thesis Podcast by NTU World of Wisdom: Episode 29--Dr. Christopher
 Luwanga [Founder]: Decoding the Ionosphere&nbsp;</p>
-<p><a href="https://galamad.space/" rel="noopener noreferrer nofollow" target="_blank">https://podcasters.spotify.com/pod/show/ntuwow-hitpodcast/episodes/29--Dr--Christopher-Luwanga-Founder-Decoding-the-Ionosphere-e2idmmi/a-ab5v29l</a>&nbsp;</p>
+<p><a href="https://podcasters.spotify.com/pod/show/ntuwow-hitpodcast/episodes/29--Dr--Christopher-Luwanga-Founder-Decoding-the-Ionosphere-e2idmmi/a-ab5v29l" rel="noopener noreferrer nofollow" target="_blank">https://podcasters.spotify.com/pod/show/ntuwow-hitpodcast/episodes/29--Dr--Christopher-Luwanga-Founder-Decoding-the-Ionosphere-e2idmmi/a-ab5v29l</a>&nbsp;</p>
 <p></p>
 <p>Luwanga, C., Fang, T., Chandran, A., &amp; Lee, Y. (2022). Automatic spread‐f
 detection using Deep Learning. <em>Radio Science</em>, <em>57</em>(5).
-<a href="https://galamad.space/" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1029/2021rs007419</a>&nbsp;</p>
+<a href="https://doi.org/10.1029/2021rs007419" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1029/2021rs007419</a>&nbsp;</p>
 <p></p>
 <p>NTU launches 10th satellite into space</p>
-<p><a href="https://galamad.space/" rel="noopener noreferrer nofollow" target="_blank">https://www.ntu.edu.sg/news/detail/ntu-launches-10th-satellite-into-space</a>&nbsp;</p>
+<p><a href="https://www.ntu.edu.sg/news/detail/ntu-launches-10th-satellite-into-space" rel="noopener noreferrer nofollow" target="_blank">https://www.ntu.edu.sg/news/detail/ntu-launches-10th-satellite-into-space</a>&nbsp;</p>
 <p></p>
 <p>Want to continue exploring the cosmos? Check out Science Centre Singapore’s
 exhibitions and programmes below:</p>
 <p></p>
 <p>Space Explorers: THE INFINITE</p>
-<p><a href="https://galamad.space/" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/space-explorers---the-infinite</a>&nbsp;</p>
+<p><a href="https://www.science.edu.sg/whats-on/space-explorers---the-infinite" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/space-explorers---the-infinite</a>&nbsp;</p>
 <p></p>
 <p>Stargazing at Science Centre Singapore’s Observatory</p>
-<p><a href="https://galamad.space/" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/workshops-activities/stargazing</a>&nbsp;</p>
+<p><a href="https://www.science.edu.sg/whats-on/workshops-activities/stargazing" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/workshops-activities/stargazing</a>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
