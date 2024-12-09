@@ -16,7 +16,7 @@ founder of Galamad Aerospace, a space start-up based in Singapore. We discuss
 his journey growing up in Malawi to completing his engineering PhD at Nanyang
 Technological University in Singapore. Along the way, Christopher talks
 about the awe-inspiring vastness of the universe, the importance of reuseable
-satellites, and shares his vision of the future of space exploration.&nbsp;</p>
+satellites, and his vision of the future of space exploration.&nbsp;</p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank"><u>Apple Podcasts </u>
