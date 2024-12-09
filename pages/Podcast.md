@@ -22,7 +22,7 @@ in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VD_Podcast_Logo_SCS_Logo_Corrected_3000_min.png">
 </div>
 <h4><strong>Season 1</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/podcast" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Christopher Luwanga" src="/images/Ep3PodcastPageSmall.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Episode 3: Exploring Spacetech with Dr. Christopher Luwanga (Galamad Aerospace)</div><div class="isomer-card-description">Singapore may be known as the Little Red Dot, but its ambitions are astronomical. Blast off into the world of spacetech with Dr. Christopher Luwanga, the CEO and founder of Galamad Aerospace, a space start-up based in Singapore. We discuss reuseable satellites and the future of space exploration!</div><div class="isomer-card-link">Coming soon</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/exploring-spacetech" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Christopher Luwanga" src="/images/Ep3PodcastPageSmall.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Episode 3: Exploring Spacetech with Dr. Christopher Luwanga (Galamad Aerospace)</div><div class="isomer-card-description">Singapore may be known as the Little Red Dot, but its ambitions are astronomical. Blast off into the world of spacetech with Dr. Christopher Luwanga, the CEO and founder of Galamad Aerospace, a space start-up based in Singapore. We discuss reuseable satellites and the future of space exploration!</div><div class="isomer-card-link">Listen here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/marine-ecology" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -55,5 +55,5 @@ Jurong to Jupiter and beyond.</div>
 </div>
 <p></p>
 <hr>
-<p><em>Last updated: 9 December 2024</em>
+<p><em>Last updated: 10 December 2024</em>
 </p>
