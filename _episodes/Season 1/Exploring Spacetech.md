@@ -6,6 +6,7 @@ description: Blast off into outer space and hear about the spacetech industry
   from Dr. Christopher Luwanga, CEO and Founder of Galamad Aerospace, in this
   episode of Void Deck.
 image: /images/VD_Ep3_YouTube_Thumbnail_compressed.jpg
+third_nav_title: Season 1
 ---
 <h4><strong>Episode 3: Exploring Spacetech with Dr. Christopher Luwanga (Galamad Aerospace)</strong></h4>
 <p>Singapore may be known as the Little Red Dot, but its ambitions are astronomical.
@@ -17,11 +18,13 @@ his journey growing up in Malawi to completing his engineering PhD at Nanyang
 Technological University in Singapore. Along the way, Christopher talks
 about the awe-inspiring vastness of the universe, the importance of reuseable
 satellites, and his vision of the future of space exploration.&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pwP-jqLw87Y?si=2x5flQECmWMsbX2e"></iframe>
+</div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank"><u>Apple Podcasts </u>
-</a>, <a href="https://bit.ly/voiddeckyoutube" rel="noopener nofollow" target="_blank">YouTube</a>,
-and <a href="https://bit.ly/voiddeckamazonmusic" rel="noopener nofollow" target="_blank"><u>Amazon Music</u></a>.</p>
+</a>, and <a href="https://bit.ly/voiddeckamazonmusic" rel="noopener nofollow" target="_blank"><u>Amazon Music</u></a>.</p>
 <p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
@@ -950,5 +953,5 @@ Special thanks to Christopher for coming on the show.</p>
 </div>
 </details>
 </div>
-<p><em>Last updated 9 December 2024</em>
+<p><em>Last updated 10 December 2024</em>
 </p>
