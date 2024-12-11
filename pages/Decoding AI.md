@@ -422,11 +422,11 @@ as an assistant and not giving them answers.</p>
 <p></p>
 <p>So, for example, if you look at Salman Khan's Khan Academy, which is really
 well known in the United States and provides free courses to kids, he has
-a ChatGPT version that he calls <a href="https://www.khanmigo.ai/" rel="noopener nofollow" target="_blank">Khan Migo</a>. And Khan Migo will not
-give children the answer. In fact, it will be like a Socrates, like it
-will have a debate with them. So they will say, we want the answer to this
-for my homework. And I'll say, no, no, no. Did you try this? And they'll
-be like, yeah, we tried that. It didn't work.</p>
+a ChatGPT version that he calls <a href="https://www.khanmigo.ai/" rel="noopener nofollow" target="_blank">Khan Migo</a>. And Khan Migo will not give
+children the answer. In fact, it will be like a Socrates, like it will
+have a debate with them. So they will say, we want the answer to this for
+my homework. And I'll say, no, no, no. Did you try this? And they'll be
+like, yeah, we tried that. It didn't work.</p>
 <p></p>
 <p>So it is that engagement. It is more an Oxford/Cambridge-style tutorial
 system and less that Asian exam system. It's more about really understanding
@@ -801,14 +801,69 @@ work, you can follow her on LinkedIn and explore her website at <a href="https:/
 <summary><strong>Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Dr. Ayesha Khanna's Website</p>
+<p><a href="https://www.ayeshakhanna.com" rel="noopener noreferrer nofollow" target="_blank">https://www.ayeshakhanna.com</a>
+</p>
 <p></p>
+<p>Khanmigo by Khan Academy</p>
+<p><a href="https://www.khanmigo.ai/" rel="noopener noreferrer nofollow" target="_blank">https://www.khanmigo.ai/</a>
+</p>
+<p></p>
+<p>Mayo Clinic research finds AI-enabled ECGs may identify patients at greater
+risk of stroke, cognitive decline</p>
+<p><a href="https://mcpress.mayoclinic.org/healthy-brain/mayo-clinic-research-finds-ai-enabled-ecgs-may-identify-patients-at-greater-risk-of-stroke-cognitive-decline/" rel="noopener noreferrer nofollow" target="_blank">https://mcpress.mayoclinic.org/healthy-brain/mayo-clinic-research-finds-ai-enabled-ecgs-may-identify-patients-at-greater-risk-of-stroke-cognitive-decline/</a>
+</p>
+<p></p>
+<p>China’s lonely hearts reboot online romance with artificial intelligence</p>
+<p><a href="https://www.washingtonpost.com/world/2021/08/06/china-online-dating-love-replika/" rel="noopener noreferrer nofollow" target="_blank">https://www.washingtonpost.com/world/2021/08/06/china-online-dating-love-replika/</a>
+</p>
+<p></p>
+<p>Vaswani, Ashish; Shazeer, Noam; Parmar, Niki; Uszkoreit, Jakob; Jones,
+Llion; Gomez, Aidan N; Kaiser, Łukasz; Polosukhin, Illia (2017). "Attention
+is All you Need". Advances in Neural Information Processing Systems. 30.
+Curran Associates, Inc.</p>
+<p><a href="https://arxiv.org/abs/1706.03762" rel="noopener noreferrer nofollow" target="_blank">https://arxiv.org/abs/1706.03762</a>
+</p>
+<p></p>
+<p>This Artificial Intelligence Learns like a Baby</p>
+<p><a href="https://www.scientificamerican.com/podcast/episode/this-artificial-intelligence-learns-like-a-widdle-baby/" rel="noopener noreferrer nofollow" target="_blank">https://www.scientificamerican.com/podcast/episode/this-artificial-intelligence-learns-like-a-widdle-baby/</a>
+</p>
+<p></p>
+<p>MIT sociologist Sherry Turkle on the psychological impacts of bot relationships</p>
+<p><a href="https://www.npr.org/2024/08/02/g-s1-14793/mit-sociologist-sherry-turkle-on-the-psychological-impacts-of-bot-relationships" rel="noopener noreferrer nofollow" target="_blank">https://www.npr.org/2024/08/02/g-s1-14793/mit-sociologist-sherry-turkle-on-the-psychological-impacts-of-bot-relationships</a>
+</p>
+<p></p>
+<p>Here’s What Happens When Your Lawyer Uses ChatGPT</p>
+<p><a href="https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html" rel="noopener noreferrer nofollow" target="_blank">https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html</a>
+</p>
+<p></p>
+<p>Want to continue your AI learning IRL? Check out our tech-related exhibitions
+at Science Centre Singapore:</p>
+<p></p>
+<p>Future Makers</p>
+<p><a href="https://www.science.edu.sg/whats-on/exhibitions/future-makers" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/future-makers</a>
+</p>
+<p></p>
+<p>Smart Nation PlayScape</p>
+<p><a href="https://www.science.edu.sg/whats-on/exhibitions/smart-nation-playscape" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/smart-nation-playscape</a>
+</p>
+<p></p>
+<p>E3: E-mmersive Experiential Environments</p>
+<p><a href="https://www.science.edu.sg/whats-on/exhibitions/e3" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/e3</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Credits</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This episode of <em>Void Deck</em> was hosted by Rishii Vijayahkumar and
+Meng Hwee Lim. The episode was produced, written, edited, and sound engineered
+by Jamie Uy. Sound recording and post-production assistance was provided
+by Lydia Konig and Joyce Sia. The episode graphics were designed by Vanessa
+Ng and podcast cover art was illustrated by Vikki Li Qi. The background
+music "Data Flow" and "Spatial" was created by Fugu Vibes. Special thanks
+to Dr. Ayesha for coming on the show.</p>
 </div>
 </details>
 </div>
