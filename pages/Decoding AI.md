@@ -861,9 +861,9 @@ at Science Centre Singapore:</p>
 Meng Hwee Lim. The episode was produced, written, edited, and sound engineered
 by Jamie Uy. Sound recording and post-production assistance was provided
 by Lydia Konig and Joyce Sia. The episode graphics were designed by Vanessa
-Ng and podcast cover art was illustrated by Vikki Li Qi. The background
-music "Data Flow" and "Spatial" was created by Fugu Vibes. Special thanks
-to Dr. Ayesha for coming on the show.</p>
+Ng and Jamie Uy. The podcast cover art was illustrated by Vikki Li Qi.
+The background music "Data Flow" and "Spatial" was created by Fugu Vibes.
+Special thanks to Dr. Ayesha for coming on the show.</p>
 </div>
 </details>
 </div>
