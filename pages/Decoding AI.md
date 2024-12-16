@@ -15,8 +15,8 @@ Dr. Ayesha Khanna, co-founder and CEO of Addo AI and a globally recognized
 AI expert based in Singapore. Dr. Khanna shares insights on how AI is revolutionising
 businesses, the impact of AI in the classroom, why seeing AI as adding
 to and not replacing human talent is crucial in the future of work. Plus,
-we hear whether sci-fi films like Terminator showing a robot uprising are
-onto something.</p>
+we hear whether sci-fi films like <em>The Terminator</em> showing a robot
+uprising are onto something.</p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
@@ -863,7 +863,7 @@ by Jamie Uy. Sound recording and post-production assistance was provided
 by Lydia Konig and Joyce Sia. The episode graphics were designed by Vanessa
 Ng and Jamie Uy. The podcast cover art was illustrated by Vikki Li Qi.
 The background music "Data Flow" and "Spatial" was created by Fugu Vibes.
-Special thanks to Dr. Ayesha for coming on the show.</p>
+Special thanks to Dr. Khanna for coming on the show.</p>
 </div>
 </details>
 </div>
