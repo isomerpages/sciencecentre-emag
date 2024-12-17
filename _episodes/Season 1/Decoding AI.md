@@ -6,6 +6,7 @@ description: In this podcast episode, we decode the complex world of artificial
   intelligence with Dr. Ayesha Khanna, co-founder and CEO of Addo AI and a
   globally recognized AI expert based in Singapore.
 image: /images/Ep4_Decoding_AI_YT_Thumbnail.png
+third_nav_title: Season 1
 ---
 <h4><strong>Episode 4: Decoding Artificial Intelligence with Dr. Ayesha Khanna (Addo AI)</strong></h4>
 <p>In a world where AI is rapidly transforming industries, Singapore is positioning
@@ -17,11 +18,13 @@ businesses, the impact of AI in the classroom, why seeing AI as adding
 to and not replacing human talent is crucial in the future of work. Plus,
 we hear whether sci-fi films like <em>The Terminator</em> showing a robot
 uprising are onto something.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KMDij1ExhS4?si=UatNxrxT5y0QmCZ7"></iframe>
+</div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
-</a>, <a href="https://bit.ly/voiddeckyoutube" rel="noopener nofollow" target="_blank">YouTube</a>,
-and <a href="https://bit.ly/voiddeckamazonmusic" rel="noopener nofollow" target="_blank"><u>Amazon Music</u></a>.</p>
+</a>, and <a href="https://bit.ly/voiddeckamazonmusic" rel="noopener nofollow" target="_blank"><u>Amazon Music</u></a>.</p>
 <p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
@@ -868,6 +871,6 @@ Special thanks to Dr. Khanna for coming on the show.</p>
 </details>
 </div>
 <hr>
-<p><em>Last updated 16 December 2024</em>
+<p><em>Last updated 17 December 2024</em>
 </p>
 <p></p>
