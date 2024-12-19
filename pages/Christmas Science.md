@@ -19,9 +19,9 @@ is a whole lot of science. Let’s unwrap the scientific elements of some
 festive traditions.&nbsp;</p>
 <h4><strong>The Chemistry of Christmas Feasting</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChemistryChristmasFeast.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Christmas_Science_Article.png">
 </div>
-<p><em>Graphic created in Canva by Jamie Uy. Christmas dinner photo credits: <a href="https://unsplash.com/@jediahowen?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Jed Owen</a>/<a href="https://unsplash.com/photos/brown-bread-on-white-ceramic-plate-EgG6wcsjFtE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<p><em>Collage created in Canva by Jamie Uy. Christmas dinner photo credits: <a href="https://unsplash.com/@jediahowen?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Jed Owen</a>/<a href="https://unsplash.com/photos/brown-bread-on-white-ceramic-plate-EgG6wcsjFtE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
 </p>
 <p>What makes a good holiday menu, gastronomically and chemically? Typical
 Christmas foods like pudding and mince pie may not be so common in Singapore,
@@ -36,12 +36,11 @@ ingredients sharing flavour compounds (chemical profiles) are more likely
 to pair well than ingredients with different flavour compounds. For example,
 red wine and red meat.&nbsp;</p>
 <p>However, another theory that has emerged is <a href="http://arxiv.org/abs/1704.03330" rel="noopener noreferrer nofollow" target="_blank">food bridging</a>, where a third
-ingredient “smoothes contrast between ingredients” that have dissimilar
-flavour compounds. Researchers found that elements of these principles
-appear across culinary traditions, albeit in interesting ways: they concluded
-Southeast Asian food, for example, <a href="http://arxiv.org/abs/1704.03330" rel="noopener noreferrer nofollow" target="_blank">“avoids food-pairing and follows food-bridging.”&nbsp;</a>
+ingredient <a href="http://arxiv.org/abs/1704.03330" rel="noopener nofollow" target="_blank">"smoothes contrast between ingredients"</a> that
+have dissimilar flavour compounds. Researchers found that elements of these
+principles appear across culinary traditions, albeit in interesting ways:
+they concluded Southeast Asian food, for example, <a href="http://arxiv.org/abs/1704.03330" rel="noopener noreferrer nofollow" target="_blank">“avoids food-pairing and follows food-bridging.”&nbsp;</a>
 </p>
-<p>[INSERT INFOGRAPHIC/MAP OF INGREDIENT FLAVOUR PROFILES]</p>
 <p>If you want to experiment with some novel new Christmas menus, try looking
 for ingredients that share chemical profiles, or a third ingredient that
 could merge unusual flavours (watch this <em><a href="https://www.newscientist.com/article/mg26034692-300-how-to-use-flavour-bridging-to-cook-a-bizarre-but-tasty-holiday-meal/" rel="noopener noreferrer nofollow" target="_blank">New Scientist </a></em>
@@ -54,7 +53,7 @@ for some bubbly fun (drink responsibly!).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChristmasLightup2024.png">
 </div>
-<p><em>Crowd enjoys the Christmas light-up event on 1 December 2024 at Science Centre Singapore. Credits: Science Centre Singapore</em>
+<p><em>Visitors enjoy the Christmas light-up event on 1 December 2024 at Science Centre Singapore. Credits: Science Centre Singapore</em>
 </p>
 <p>Love strolling and admiring the Christmas light-up along Orchard Road?
 If you’ve ever tried to decorate a Christmas tree with fairy lights, you
@@ -95,7 +94,7 @@ it’s physics!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChristmasCarolsMath.png">
 </div>
-<p><em>Graphic created in Canva by Jamie Uy. </em>
+<p><em>Graphic created in Canva by Jamie Uy.</em>
 </p>
 <p>Mariah Carey’s time to shine is here. Besides infinitely repeating Christmas
 carols in shopping malls, though, are there any interesting mathematical
@@ -104,7 +103,7 @@ patterns in holiday song lyrics?&nbsp;</p>
 in the <a href="https://genius.com/Christmas-songs-the-twelve-days-of-christmas-lyrics" rel="noopener nofollow" target="_blank">"Twelve Days of Christmas"</a>?&nbsp;</p>
 <p>Lucky for you, mathematicians have broken down <a href="https://www.mathscareers.org.uk/the-maths-inside-the-twelve-days-of-christmas/" rel="noopener noreferrer nofollow" target="_blank">the math</a> behind
 the classic song’s running total of gifts like turtle doves, golden rings,
-and partridges in a petri–oops, pear trees!</p>
+and a partridge in a petri–oops, pear tree!</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -273,16 +272,16 @@ because they can be represented in dot form to make a triangle.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScisationalChristmas2024.jpg">
 </div>
-<p>Step into a <a href="https://www.science.edu.sg/whats-on/workshops-activities/gex-programmes/sci-sational-christmas2024" rel="noopener nofollow" target="_blank">Sci-sational Christmas</a> at
+<p>For more holiday science, step into a <a href="https://www.science.edu.sg/whats-on/workshops-activities/gex-programmes/sci-sational-christmas2024" rel="noopener nofollow" target="_blank">Sci-sational Christmas</a> at
 Science Centre Singapore! Visit Elf Village in Hall A from 14-December—25
 December 2024. Discover enchanting scents of the yuletide season and play
 as one of Santa’s elves as you engineer a cosy dome! Activity hours and
 more information can be found <a href="https://www.science.edu.sg/whats-on/workshops-activities/gex-programmes/sci-sational-christmas2024" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Want to give the gift of learning all year-round? Sign up for an <a href="https://www.science.edu.sg/visit-us/promotions/science-centre-singapore-christmas-special" rel="noopener nofollow" target="_blank">Annual Pass</a> with
+<p>Want to give the gift of science all year-round? Sign up for an <a href="https://www.science.edu.sg/visit-us/promotions/science-centre-singapore-christmas-special" rel="noopener nofollow" target="_blank">Annual Pass</a> with
 the promo code <strong>XMASHOLIDAY</strong> (valid until 31 December 2024)
-to enjoy unlimited access to the Science Centre Singapore or KidsSTOP (depending
-on your pass type), along with exclusive benefits like special discounts,
-members-only events, and surprises throughout the year.&nbsp;</p>
+to enjoy unlimited access to the Science Centre Singapore or KidsSTOP™
+(depending on your pass type), along with exclusive benefits like special
+discounts, members-only events, and surprises throughout the year.&nbsp;</p>
 <p>Visit the <a href="https://www.science.edu.sg/visit-us/promotions/science-centre-singapore-christmas-special" rel="noopener nofollow" target="_blank">Annual Pass Holiday Booth</a> in
 the entrance to Science Centre Singapore from 29 November—29 December 2024,
 10:00am-2:00pm daily to learn more and enjoy festive perks from a free
