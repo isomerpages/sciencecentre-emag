@@ -145,4 +145,5 @@ sections:
       button: Read more
       url: /christmas-science
       image: /images/ChristmasScienceBluePinkCollage.png
+      alt: Holiday items & science tools
 ---
