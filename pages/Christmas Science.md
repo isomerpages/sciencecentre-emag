@@ -7,13 +7,14 @@ description: Unwrap the merry mysteries behind festive phenomena, from
 ---
 <h1><strong>Ho-Ho-How? Christmas Science Revealed</strong></h1>
 <h4>Unravel the merry mysteries behind festive phenomena, from tangle-prone tree lights to mathematically musical carols!</h4>
-<p>[INSERT FEATURE IMAGE]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A collage of Christmas trinkets and scientific tools." src="/images/ChristmasScienceBluePinkCollage.png">
+</div>
 <p>Chemistree, oh, chemistree… It’s the jolliest time of the year! Behind
 the sparkle of holiday magic like tinsel, eggnog, and presents, though,
 is a whole lot of science. Let’s unwrap the scientific elements of some
 festive traditions.&nbsp;</p>
-<p><strong>The Chemistry of Christmas Feasting</strong>
-</p>
+<h4><strong>The Chemistry of Christmas Feasting</strong></h4>
 <p>[INSERT DUO-TONE SCRAPBOOK GRAPHIC OF LOCAL CHRISTMAS FOOD]</p>
 <p>What makes a good holiday menu, gastronomically and chemically? Typical
 Christmas foods like pudding and mince pie may not be so common in Singapore,
@@ -40,9 +41,12 @@ could merge unusual flavours (watch this <em><a href="https://www.newscientist.c
 <p>You can also concoct some science yourself with these Christmas <a href="https://www.sciencefocus.com/science/improve-christmas-cocktails-science" rel="noopener noreferrer nofollow" target="_blank">cocktail recipes</a> from<em> BBC Science Focus</em> that
 use food-pairing to combine coffee and chocolate, and cranberry and lime
 for some bubbly fun (drink responsibly!).</p>
-<p><strong>The Physics of Christmas Tree Lights</strong>
+<h4><strong>The Physics of Christmas Tree Lights</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChristmasLightup2024.png">
+</div>
+<p><em>Crowd enjoys the Christmas light-up event on 1 December 2024 at Science Centre Singapore.</em>
 </p>
-<p>[INSERT DUO-TONE POP UP GRAPHIC OF CHRISTMAS LIGHT-UP]</p>
 <p>Love strolling and admiring the Christmas light-up along Orchard Road?
 If you’ve ever tried to decorate a Christmas tree with fairy lights, you
 know that stringing up all those lights is a lot harder than it looks.</p>
@@ -252,7 +256,9 @@ day, 3 the second day, 6 the third day), they make up a set of numbers
 known as <a href="https://www.seh.ox.ac.uk/blog/the-maths-of-the-12-days-of-christmas" rel="noopener noreferrer nofollow" target="_blank">triangular numbers</a>,
 because they can be represented in dot form to make a triangle.</p>
 <h4><strong>Yule Love These Holiday Activities at Science Centre Singapore!&nbsp;</strong></h4>
-<p>[INSERT CHRISTMAS EVENT PHOTOS]&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScisationalChristmas2024.jpg">
+</div>
 <p>Step into a <a href="https://www.science.edu.sg/whats-on/workshops-activities/gex-programmes/sci-sational-christmas2024" rel="noopener nofollow" target="_blank">Sci-sational Christmas</a> at
 Science Centre Singapore! Visit Elf Village in Hall A from 14-December—25
 December 2024. Discover enchanting scents of the yuletide season and play
