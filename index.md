@@ -137,7 +137,7 @@ sections:
       image: /images/VD_Homepage_Infopics__1_.png
       alt: Photo by Marcus Loke/Unsplash
   - infopic:
-      title: Ho-Ho-How? Christmas Science Revealed
+      title: "Ho Ho How: Christmas Science Revealed"
       subtitle: CULTURE, CHRISTMAS, HOLIDAY
       id: infopic
       description: Unwrap the merry mysteries behind festive phenomena, from
