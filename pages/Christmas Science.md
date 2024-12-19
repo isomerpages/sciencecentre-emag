@@ -6,7 +6,7 @@ description: Unwrap the merry mysteries behind festive phenomena, from
   tangle-prone tree lights to the mathematical patterns in carols!
 ---
 <h1><strong>Ho-Ho-How? Christmas Science Revealed</strong></h1>
-<h4>Unravel the merry mysteries behind festive phenomena, from tangle-prone tree lights to mathematically musical carols!</h4>
+<h4>Unwrap the merry mysteries behind festive phenomena, from tangle-prone tree lights to mathematical lyrics in classic carols!</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A collage of Christmas trinkets and scientific tools." src="/images/ChristmasScienceBluePinkCollage.png">
