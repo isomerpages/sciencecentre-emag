@@ -7,7 +7,6 @@ description: Unwrap the merry mysteries behind festive phenomena, from
 image: /images/ChristmasScienceBluePinkCollage.png
 third_nav_title: Culture
 ---
-<h1><strong>Ho-Ho-How? Christmas Science Revealed</strong></h1>
 <h4>Unwrap the merry mysteries behind festive phenomena, from tangle-prone tree lights to mathematical lyrics in classic carols!</h4>
 <p></p>
 <div class="isomer-image-wrapper">
