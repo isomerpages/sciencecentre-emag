@@ -7,15 +7,20 @@ description: Unwrap the merry mysteries behind festive phenomena, from
 ---
 <h1><strong>Ho-Ho-How? Christmas Science Revealed</strong></h1>
 <h4>Unravel the merry mysteries behind festive phenomena, from tangle-prone tree lights to mathematically musical carols!</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A collage of Christmas trinkets and scientific tools." src="/images/ChristmasScienceBluePinkCollage.png">
 </div>
+<p><em>Collage created in Canva by Jamie Uy</em>
+</p>
 <p>Chemistree, oh, chemistree… It’s the jolliest time of the year! Behind
 the sparkle of holiday magic like tinsel, eggnog, and presents, though,
 is a whole lot of science. Let’s unwrap the scientific elements of some
 festive traditions.&nbsp;</p>
 <h4><strong>The Chemistry of Christmas Feasting</strong></h4>
-<p>[INSERT DUO-TONE SCRAPBOOK GRAPHIC OF LOCAL CHRISTMAS FOOD]</p>
+<p></p>
+<p><em>Credits: <a href="https://unsplash.com/@jediahowen?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Jed Owen</a>/<a href="https://unsplash.com/photos/brown-bread-on-white-ceramic-plate-EgG6wcsjFtE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+</p>
 <p>What makes a good holiday menu, gastronomically and chemically? Typical
 Christmas foods like pudding and mince pie may not be so common in Singapore,
 but <a href="https://www.straitstimes.com/lifestyle/food/4-traditional-kristang-recipes-for-christmas" rel="noopener noreferrer nofollow" target="_blank">Eurasian delicacies</a> like
@@ -45,7 +50,7 @@ for some bubbly fun (drink responsibly!).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChristmasLightup2024.png">
 </div>
-<p><em>Crowd enjoys the Christmas light-up event on 1 December 2024 at Science Centre Singapore.</em>
+<p><em>Crowd enjoys the Christmas light-up event on 1 December 2024 at Science Centre Singapore. Credits: Science Centre Singapore</em>
 </p>
 <p>Love strolling and admiring the Christmas light-up along Orchard Road?
 If you’ve ever tried to decorate a Christmas tree with fairy lights, you
