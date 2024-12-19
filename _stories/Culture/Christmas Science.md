@@ -20,6 +20,7 @@ the sparkle of holiday magic like tinsel, eggnog, and presents, though,
 is a whole lot of science. Let’s unwrap the scientific elements of some
 festive traditions.&nbsp;</p>
 <h4><strong>The Chemistry of Christmas Feasting</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_Christmas_Science_Article.png">
 </div>
@@ -46,13 +47,13 @@ they concluded Southeast Asian food, for example, <a href="http://arxiv.org/abs/
 <p>If you want to experiment with some novel new Christmas menus, try exploring
 this <a href="https://www.nature.com/articles/s41598-020-79422-8" rel="noopener nofollow" target="_blank">flavour graph</a> to
 look for ingredients that share chemical profiles, or a third ingredient
-that could merge unusual flavours (watch this <em><a href="https://www.newscientist.com/article/mg26034692-300-how-to-use-flavour-bridging-to-cook-a-bizarre-but-tasty-holiday-meal/" rel="noopener noreferrer nofollow" target="_blank">New Scientist </a></em>
-<a href="https://www.newscientist.com/article/mg26034692-300-how-to-use-flavour-bridging-to-cook-a-bizarre-but-tasty-holiday-meal/" rel="noopener noreferrer nofollow" target="_blank">experimental</a><em><a href="https://www.newscientist.com/article/mg26034692-300-how-to-use-flavour-bridging-to-cook-a-bizarre-but-tasty-holiday-meal/" rel="noopener noreferrer nofollow" target="_blank"> </a></em>
-<a href="https://www.newscientist.com/article/mg26034692-300-how-to-use-flavour-bridging-to-cook-a-bizarre-but-tasty-holiday-meal/" rel="noopener noreferrer nofollow" target="_blank">Christmas dinner</a>&nbsp;for inspiration).</p>
+that could merge unusual flavours (watch this <em>New Scientist</em>  <a href="https://www.newscientist.com/article/mg26034692-300-how-to-use-flavour-bridging-to-cook-a-bizarre-but-tasty-holiday-meal/" rel="noopener nofollow" target="_blank">experimental Christmas dinner</a>&nbsp;for
+inspiration).</p>
 <p>You can also concoct some science yourself with these festive <a href="https://www.sciencefocus.com/science/improve-christmas-cocktails-science" rel="noopener noreferrer nofollow" target="_blank">cocktail recipes</a> from<em> BBC Science Focus</em> that
 use food-pairing to combine coffee and chocolate, and cranberry and lime
 for some bubbly fun (drink responsibly!).</p>
 <h4><strong>The Physics of Christmas Tree Lights</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChristmasLightup2024.png">
 </div>
@@ -94,6 +95,7 @@ to use twist ties to secure cord sections, or wrap the Christmas tree lights
 tightly around cardboard sheets and tape down the edges. It’s knot you,
 it’s physics!</p>
 <h4><strong>The Mathematics of Christmas Carols</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChristmasCarolsMath.png">
 </div>
