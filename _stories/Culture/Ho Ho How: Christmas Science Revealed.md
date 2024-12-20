@@ -278,9 +278,9 @@ because they can be represented in dot form to make a triangle.</p>
 </div>
 <p>For more holiday science, step into a <a href="https://www.science.edu.sg/whats-on/workshops-activities/gex-programmes/sci-sational-christmas2024" rel="noopener nofollow" target="_blank">Sci-sational Christmas</a> at
 Science Centre Singapore! Visit Elf Village in Hall A from 14-December—25
-December 2024. Discover enchanting scents of the yuletide season and play
-as one of Santa’s elves as you engineer a cosy dome! Activity hours and
-more information can be found <a href="https://www.science.edu.sg/whats-on/workshops-activities/gex-programmes/sci-sational-christmas2024" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+December 2024. Discover enchanting scents of the yuletide season, engineer
+an igloo, and make some crafts with Santa's elves! Activity hours and more
+information can be found <a href="https://www.science.edu.sg/whats-on/workshops-activities/gex-programmes/sci-sational-christmas2024" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Want to give the gift of science all year-round? Sign up for an <a href="https://www.science.edu.sg/visit-us/promotions/science-centre-singapore-christmas-special" rel="noopener nofollow" target="_blank">Annual Pass</a> with
 the promo code <strong>XMASHOLIDAY</strong> (valid until 31 December 2024)
 to enjoy unlimited access to the Science Centre Singapore or KidsSTOP™
