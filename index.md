@@ -136,4 +136,14 @@ sections:
       url: /kaya-jam
       image: /images/VD_Homepage_Infopics__1_.png
       alt: Photo by Marcus Loke/Unsplash
+  - infopic:
+      title: "Ho Ho How: Christmas Science Revealed"
+      subtitle: CULTURE, CHRISTMAS, HOLIDAY
+      id: infopic
+      description: Unwrap the merry mysteries behind festive phenomena, from
+        tangle-prone tree lights to mathematical lyrics in classic carols.
+      button: Read more
+      url: /christmas-science
+      image: /images/ChristmasScienceBluePinkCollage.png
+      alt: Holiday items & science tools
 ---
