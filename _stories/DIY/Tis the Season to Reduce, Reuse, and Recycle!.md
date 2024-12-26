@@ -60,6 +60,9 @@ reflect on how we can take care of the Earth.&nbsp;</p>
 <p>By practicing the 3 Rs (Reduce, Reuse, Recycle), we can help make this
 holiday season a little greener!</p>
 <h4><strong>Make your own DIY Christmas decorations</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasex.png">
+</div>
 <p>Here are the materials you will need:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -94,26 +97,39 @@ decoration. Here are a few ideas:</p>
 <p>Toilet paper rolls: These can be turned into mini stars, flowers, or fun
 shapes.</p>
 <p>Bottle caps: These are great for creating snowmen, or ornaments.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasmaterials.jpg">
+</div>
 <p><strong>Step 2: Cutting and Shaping</strong>
 </p>
 <p>Toilet paper roll wreaths: Take one or more toilet paper rolls, cut them
 into smaller rings, and glue them together to make a wreath or a flower.</p>
 <p>Bottle cap ornaments: If you’re using bottle caps, glue them together
 to form shapes like a snowman or a simple ornament.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasstep2.png">
+</div>
 <p><strong>Step 3: Decorating</strong>
 </p>
 <p>Now the fun part begins, Decorating!&nbsp;</p>
 <p>Use:</p>
 <p>. Old wrapping paper to cover your creations or cut into smaller pieces
 to create patterns.</p>
-<p>. Colour or glitter your ornaments in festive colors like red, green,
+<p>. Colour or glitter your ornaments in festive colours like red, green,
 gold, or silver.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasstep3.png">
+</div>
 <p><strong>Step 4: Hang and Enjoy!</strong>
 </p>
 <p>Once your decorations are dry (if you used glue), you can hang them on
 the Christmas tree, around the house, or even on the window for a festive
 touch. Your creations will not only look beautiful but will also be a reminder
 of how fun it is to reuse and recycle!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasendproduct.jpg">
+</div>
 <p>This holiday season, let’s make a promise to be mindful of the planet
 while we celebrate with our loved ones. Whether it’s reducing waste, reusing
 items, or recycling, small actions can make a big difference. So, let’s
