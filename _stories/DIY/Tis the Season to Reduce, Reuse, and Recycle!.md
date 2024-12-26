@@ -6,8 +6,7 @@ description: Get ready to sleigh the recycling game this festive season by
   transforming everyday household objects into Christmas decorations!
 third_nav_title: DIY
 ---
-<p><em>Get crafty with everyday household items this holiday season! Transform toilet rolls and bottle caps into festive decorations and learn how the three Rs (reduce, reuse, recycle) </em>
-</p>
+<h4>Become an eco-elf in this holiday activity! Transform toilet rolls and bottle caps into festive decorations and learn how the three Rs (reduce, reuse, recycle) can help us embrace a green Christmas.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/decorated_christmas_tree__1_.jpg">
 </div>
@@ -65,6 +64,8 @@ holiday season a little greener!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasex.png">
 </div>
+<p><em>Source: KidsSTOP™ </em>
+</p>
 <p>Here are the materials you will need:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -102,16 +103,19 @@ shapes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasmaterials.jpg">
 </div>
+<p><em>Source: KidsSTOP™ </em>
+</p>
 <p><strong>Step 2: Cutting and Shaping</strong>
 </p>
 <p>Toilet paper roll wreaths: Take one or more toilet paper rolls, cut them
 into smaller rings, and glue them together to make a wreath or a flower.</p>
 <p>Bottle cap ornaments: If you’re using bottle caps, glue them together
 to form shapes like a snowman or a simple ornament.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasstep2.png">
 </div>
+<p><em>Source: KidsSTOP™ </em>
+</p>
 <p><strong>Step 3: Decorating</strong>
 </p>
 <p>Now the fun part begins, Decorating!&nbsp;</p>
@@ -123,6 +127,8 @@ gold, or silver.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasstep3.png">
 </div>
+<p><em>Source: KidsSTOP™ </em>
+</p>
 <p><strong>Step 4: Hang and Enjoy!</strong>
 </p>
 <p>Once your decorations are dry (if you used glue), you can hang them on
@@ -132,6 +138,8 @@ of how fun it is to reuse and recycle!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasendproduct.jpg">
 </div>
+<p><em>Photo credit: KidsSTOP™ </em>
+</p>
 <p>This holiday season, let’s make a promise to be mindful of the planet
 while we celebrate with our loved ones. Whether it’s reducing waste, reusing
 items, or recycling, small actions can make a big difference. So, let’s
