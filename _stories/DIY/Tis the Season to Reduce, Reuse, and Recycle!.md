@@ -6,14 +6,16 @@ description: Get ready to sleigh the recycling game this festive season by
   transforming everyday household objects into Christmas decorations!
 third_nav_title: DIY
 ---
-<p>Christmas is a magical time of year filled with fun, family, food, and,
-of course, gifts! However, during the holiday season, it’s easy to create
-a lot of waste from wrapping paper to decorations to leftover food.</p>
+<p><em>Get crafty with everyday household items this holiday season! Transform toilet rolls and bottle caps into festive decorations and learn how the three Rs (reduce, reuse, recycle) </em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/decorated_christmas_tree__1_.jpg">
 </div>
 <p><em>Photo credit: <a href="https://www.freepik.com/free-photo/decorated-christmas-tree_1389884.htm" rel="noopener nofollow" target="_blank">Freepik</a></em>
 </p>
+<p>Christmas is a magical time of year filled with fun, family, food, and,
+of course, gifts! However, during the holiday season, it’s easy to create
+a lot of waste from wrapping paper to decorations to leftover food.</p>
 <h4><strong>Wastage During Festive Seasons</strong></h4>
 <p>Did you know in 2023, the total amount of waste disposed of in Singapore
 amounted to 1.67 million metric tonnes? That’s the same as 334,000 elephants
