@@ -33,20 +33,20 @@ protecting the Earth!</p>
 an important role in preventing waste generation and bringing about a multitude
 of benefits such as conserving natural resources and reducing pollution.
 (Find out more about the three Rs <a href="https://www.gov.sg/article/Reduce-Reuse-Recycle-Simple-Steps-for-a-Sustainable-Future" rel="noopener noreferrer nofollow" target="_blank">here</a>!)</p>
-<p><strong><em>Reduce </em></strong>means to use things carefully to reduce
+<p>1. <strong><em>Reduce </em></strong>means to use things carefully to reduce
 the amount of waste created by consuming less resources. For example, cutting
 back the amount of wrapping paper you use.&nbsp;</p>
 <p><em>Reducing </em>the items that we buy and use helps to save raw materials
 (like trees and metals) that are used to make other things. The less we
 use, the less waste we create, and the less pollution we cause.&nbsp;</p>
-<p><strong><em>Reuse </em></strong>means finding new ways to use things again
-instead of throwing them away. For example, using the same gift bags and
-ornaments instead of buying new ones.&nbsp;</p>
+<p>2. <strong><em>Reuse </em></strong>means finding new ways to use things
+again instead of throwing them away. For example, using the same gift bags
+and ornaments instead of buying new ones.&nbsp;</p>
 <p><em>Reusing </em>helps us to save energy and resources because we won’t
 need to make new products. It’s like finding new ways to play with things
 that you already have! The less we throw away, the less trash we create,
 and the more room we have to enjoy nature.&nbsp;</p>
-<p><strong><em>Recycle </em></strong>means turning something old into something
+<p>3. <strong><em>Recycle </em></strong>means turning something old into something
 new. For example, using leftover wrapping paper to create your own decorations
 this upcoming holiday season.&nbsp;</p>
 <p><em>Recycling</em> helps turn trash into treasure! The many things that
