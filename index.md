@@ -146,4 +146,15 @@ sections:
       url: /christmas-science
       image: /images/ChristmasScienceBluePinkCollage.png
       alt: Holiday items & science tools
+  - infopic:
+      title: Tis the Season to Reduce, Reuse, and Recycle!
+      subtitle: DIY, CRAFT, SUSTAINABILITY
+      id: infopic
+      description: Become an eco-elf in this holiday activity! Transform everyday
+        items into festive decorations and learn how the three Rs can help us
+        embrace a green Christmas.
+      button: Read More
+      url: /tis-the-season-to-reduce-reuse-and-recycle
+      image: /images/diyxmasft4.jpg
+      alt: Image alt text
 ---
