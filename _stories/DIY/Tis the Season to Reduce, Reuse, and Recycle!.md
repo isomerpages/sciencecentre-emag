@@ -64,7 +64,7 @@ holiday season a little greener!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasex.png">
 </div>
-<p><em>Source: KidsSTOP™ </em>
+<p><em>Source: KidsSTOP™</em>
 </p>
 <p>Here are the materials you will need:</p>
 <ol data-tight="true" class="tight">
@@ -103,7 +103,7 @@ shapes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasmaterials.jpg">
 </div>
-<p><em>Source: KidsSTOP™ </em>
+<p><em>Source: KidsSTOP™</em>
 </p>
 <p><strong>Step 2: Cutting and Shaping</strong>
 </p>
@@ -114,7 +114,7 @@ to form shapes like a snowman or a simple ornament.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasstep2.png">
 </div>
-<p><em>Source: KidsSTOP™ </em>
+<p><em>Source: KidsSTOP™</em>
 </p>
 <p><strong>Step 3: Decorating</strong>
 </p>
@@ -127,7 +127,7 @@ gold, or silver.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasstep3.png">
 </div>
-<p><em>Source: KidsSTOP™ </em>
+<p><em>Source: KidsSTOP™</em>
 </p>
 <p><strong>Step 4: Hang and Enjoy!</strong>
 </p>
@@ -138,7 +138,7 @@ of how fun it is to reuse and recycle!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diyxmasendproduct.jpg">
 </div>
-<p><em>Photo credit: KidsSTOP™ </em>
+<p><em>Photo credit: KidsSTOP™</em>
 </p>
 <p>This holiday season, let’s make a promise to be mindful of the planet
 while we celebrate with our loved ones. Whether it’s reducing waste, reusing
