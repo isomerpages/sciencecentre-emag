@@ -51,16 +51,14 @@ up their own disco balls.</p>
 <p>More recently, the disco ball experienced what the <em><a href="https://www.nytimes.com/2022/04/26/style/disco-ball-comeback.html" rel="noopener nofollow" target="_blank">New York Times</a> </em>called
 a "comeback" during the COVID-19 pandemic, with searches of the item surging
 on various e-shopping platforms as consumers sought to inject joy and embrace
-nostalgia during times of crisis. Apple even added the <a href="https://selector.news/2022/03/20/apple-iphone-disco-ball-emoji/" rel="noopener nofollow" target="_blank">disco ball emoji</a> in
-2021 .</p>
-<p>These spheres of joy are manufactured by moulding metal into perfect spheres,
-cutting glass mirrors into strips or smaller shapes to affix to the sphere
-with glue paste, and testing the final products for its reflectiveness
-and light refraction. You can watch the mesmerising process of two artisanal
-disco ball factories here: one from the <a href="https://youtu.be/XXA-bQj5n9Q?si=v2yBwYxIRyOgiSQr" rel="noopener nofollow" target="_blank">USA</a> and one
-from <a href="https://youtu.be/CnnTzKPM6tw?si=o1X1LRBzk_OZ73HK" rel="noopener nofollow" target="_blank">Japan</a>. <strong>[REVISE TO FIT </strong>
-<a href="https://theawesomer.com/how-mirror-balls-are-made/737713/" rel="noopener nofollow" target="_blank">THIS PROCESS</a>
-</p>
+nostalgia during times of crisis. Apple even added the disco ball emoji
+in 2021 after years of being the top-requested emoji according to <a href="https://blog.emojipedia.org/top-emoji-requests-2018/" rel="noopener nofollow" target="_blank">Emojipedia</a>.</p>
+<p>The resurgence of disco ball has created new consumer demand. How are
+these ever-popular sparkly novelties manufactured? The video below documents
+how disco balls are made in a factory in Japan, showing how sheet metal
+is bent into half spheres, which are then screwed together, covered with
+tiny mirror tiles, applied with cement to fill mirror gaps, and finally
+tested for adequate light reflection.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CnnTzKPM6tw?si=ujkry6XpaL5rOGAd"></iframe>
 </div>
