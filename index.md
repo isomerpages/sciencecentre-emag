@@ -24,6 +24,16 @@ sections:
       image: /images/IMG_8763.png
       alt: Disco ball
   - infopic:
+      title: "Ho Ho How: Christmas Science Revealed"
+      subtitle: CULTURE, CHRISTMAS, HOLIDAY
+      id: infopic
+      description: Unwrap the merry mysteries behind festive phenomena, from
+        tangle-prone tree lights to mathematical lyrics in classic carols.
+      button: Read more
+      url: /christmas-science
+      image: /images/ChristmasScienceBluePinkCollage.png
+      alt: Holiday items & science tools
+  - infopic:
       title: "Night at the Museum: Stargazing at Science Centre Singapore"
       subtitle: astronomy, space
       id: infopic
@@ -147,16 +157,6 @@ sections:
       url: /kaya-jam
       image: /images/VD_Homepage_Infopics__1_.png
       alt: Photo by Marcus Loke/Unsplash
-  - infopic:
-      title: "Ho Ho How: Christmas Science Revealed"
-      subtitle: CULTURE, CHRISTMAS, HOLIDAY
-      id: infopic
-      description: Unwrap the merry mysteries behind festive phenomena, from
-        tangle-prone tree lights to mathematical lyrics in classic carols.
-      button: Read more
-      url: /christmas-science
-      image: /images/ChristmasScienceBluePinkCollage.png
-      alt: Holiday items & science tools
   - infopic:
       title: Tis the Season to Reduce, Reuse, and Recycle!
       subtitle: DIY, CRAFT, SUSTAINABILITY
