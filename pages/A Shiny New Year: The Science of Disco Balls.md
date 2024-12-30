@@ -22,15 +22,18 @@ in a 1897 issue of <em>The Electrical Worker</em>, a trade publication in
 Charlestown, Massachusetts, in a description of a ballroom that featured
 a "mirrored ball" above a dance floor. However, this was a one-off item
 not intended for commercial use.</p>
-<p>The next tangible disco ball was a <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">"myriad reflector"</a> about
-27 inches in diameter with over 1200 tiny mirrors patented by Louis Bernard
-Woeste in 1917. In the 1920s, the myriad reflector was sold to entertainment
-venues like <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a> to
+<p>The next tangible disco ball was a <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">"myriad reflector"</a> patented
+by Louis Bernard Woeste in 1917. A globe 27 inches wide plastered with
+over 1200 tiny mirrors, the device was advertised for its novel lighting
+effects, with <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">one magazine ad</a> cheekily
+comparing the myriad reflector's magnificent illuminations to the Milky
+Way or constellations. In the 1920s, this proto-disco ball was sold to
+entertainment venues like <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a> to
 throw brilliant, radiant light around the room in an era where glitzy artificial
 lighting was not common.</p>
-<p>The disco ball famously reached its peak popularity in the 1970s with
-disco fever and bands like the Bee Gees taking off across the USA and even
-in Singapore, where <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/disco-fever/" rel="noopener nofollow" target="_blank">local discotheques</a> hung
+<p>However, the disco ball famously reached its peak popularity in the 1970s
+with disco fever and bands like the Bee Gees taking off across the USA
+and even in Singapore, where <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/disco-fever/" rel="noopener nofollow" target="_blank">local discotheques</a> hung
 up their own disco balls.</p>
 <p>More recently, the disco ball experienced what the <em><a href="https://www.nytimes.com/2022/04/26/style/disco-ball-comeback.html" rel="noopener nofollow" target="_blank">New York Times</a> </em>called
 a "comeback" during the COVID-19 pandemic, with searches of the item surging
