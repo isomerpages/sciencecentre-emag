@@ -65,22 +65,24 @@ tested for adequate light reflection.</p>
 </div>
 <p>Disco balls aren't just pretty ornaments or kitschy decor from the past.
 In fact, applying the principles of disco balls to the space industry may
-one day mean we can welcome the new year in style on Mars or another planet
-in the future.</p>
-<p>In 1976, NASA's Laser Geodynamics Satellite (LAGEOS) launched, a 408-kg
+one day mean we can welcome the new year in style on another planet in
+the future.</p>
+<p>In 1976, NASA launched the Laser Geodynamics Satellite (LAGEOS), a 408-kg
 satellite with "no sensors, electronics, [nor] moving parts" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).
 This unique "brass core surrounded by an aluminum shell that's covered
-in 426 retroreflectors" closely resembled a "giant disco ball" (<a href="https://www.space.com/32981-nasa-disco-ball-satellite-still-in-space.html" rel="noopener nofollow" target="_blank">Space.com</a>).</p>
+in 426 retroreflectors" closely resembled a "giant disco ball" (<a href="https://www.space.com/32981-nasa-disco-ball-satellite-still-in-space.html" rel="noopener nofollow" target="_blank">Space.com</a>).
+By shining laser beams at LAGEOS and tracking the time the time is takes
+for the laser beam to travel back to Earth, scientists can glean a wealth
+of information about the Earth's geophysics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image Credit: NASA/MSFC" src="/images/lageos.png">
 </div>
 <p><em>LAGEOS I Satellite, taken in 1976. Source: NASA/MSFC</em>
 </p>
 <p>LAGEOS is still orbiting Earth today as a permanent reference point for
-"high-precision laser ranging", its "hundreds of reflecting prisms" helping
-scientists "measure the movement of Earth’s tectonic plates, detect irregularities
-in the rotation of the planet, weigh it, and track small shifts in its
-center of mass" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).
+"high-precision laser ranging", helping scientists "measure the movement
+of Earth’s tectonic plates, detect irregularities in the rotation of the
+planet, weigh it, and track small shifts in its center of mass" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).
 It's remarkable to think that all of this data can come from throwing a
 giant disco ball in space!</p>
 <p>Disco balls could also aid astronomy here on Earth. This year, a group
@@ -99,9 +101,12 @@ by Laura Hiscott, researcher Robert Cumming explains that he got the idea
 for the paper after hanging up a disco ball for a New Year's Eve party,
 watching the light reflect off the disco ball, and realising that <a href="https://physicsworld.com/a/light-fever-bringing-disco-to-astronomy/" rel="noopener nofollow" target="_blank">"each bright patch on the walls was an image of the Sun."</a>
 </p>
-<p>The deceptively simple object of the disco ball helps illustrate how science
-and art make our world merry and bright. As we reflect on the end of the
-year, here's to wishing you a sci-sational, shiny start to 2025!</p>
+<p>As we say goodbye to 2024, the shimmering disco ball showcases the interplay
+between science, art, and celebration. From illuminating dance floors to
+aiding space exploration and astronomical observations, these glittering
+spheres remind us that innovation often comes from unexpected places. Here's
+to a future as bright and full of discovery as the countless reflections
+from our beloved disco balls!</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
