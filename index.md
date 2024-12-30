@@ -13,6 +13,17 @@ sections:
       alignment: left
       backgroundColor: black
   - infopic:
+      title: "From Parties to Planets: The Science of Disco Balls"
+      subtitle: LIGHT, PHYSICS, ASTRONOMY
+      id: infopic
+      description: "Disco balls: New Year's Eve decor turned scientific tool? Unpack
+        the origins of this festive ornament and its applications in space
+        exploration and astronomy."
+      button: Read More
+      url: /disco-balls
+      image: /images/IMG_8763.png
+      alt: Disco ball
+  - infopic:
       title: "Night at the Museum: Stargazing at Science Centre Singapore"
       subtitle: astronomy, space
       id: infopic
