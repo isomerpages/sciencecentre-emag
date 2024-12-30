@@ -81,9 +81,14 @@ of information about the Earth's geophysics.</p>
 <p>LAGEOS is still orbiting Earth today as a permanent reference point for
 "high-precision laser ranging", helping scientists "measure the movement
 of Earth’s tectonic plates, detect irregularities in the rotation of the
-planet, weigh it, and track small shifts in its center of mass" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).
-It's remarkable to think that all of this data can come from throwing a
-giant disco ball in space!</p>
+planet, weigh it, and track small shifts in its center of mass" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).</p>
+<p>LAGEOS-2, an idential sister satellite builted by the Italian Space Agency,
+was launched in 1992. The satellite has continued to transmit invaluable
+data back to scientists on Earth, including more precise data confirming
+one of the predictions of Einsten's theory of relativity that Earth's rotation
+drags the fabric of space-time (<a href="https://www.space.com/456-einstein-warped-view-space-confirmed.html" rel="noopener nofollow" target="_blank">Space.com</a>).
+It's remarkable to think that all of this data can come from throwing two
+giant disco balls in space!</p>
 <p>Disco balls could also aid astronomy here on Earth. This year, a group
 of astronomers from various institutions published <a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">a paper in </a><em><a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">Physics Education</a></em> titled
 "<a href="https://arxiv.org/abs/2309.14173" rel="noopener nofollow" target="_blank">Why every observatory needs a disco ball"</a>.
