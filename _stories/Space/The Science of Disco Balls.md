@@ -10,10 +10,9 @@ to shiny confetti, fizzy champagne, and glittery outfits. Not to mention:
 splendid light shows and dancing late into the night! You may have seen
 disco balls suspended above revellers at New Year's Eve parties, but have
 you considered the disco ball as a technological device?</p>
-<p>In this feature, we peel back the reflective layers of this party favourite
-and explore the physics of the disco ball, the scientific origins of this
-holiday decor, and how festive fun can even help us illuminate the future
-of space science.</p>
+<p>In this feature, we unpack the science behind this party favourite and
+explore the physics of the disco ball, the origins of this holiday decor,
+and how festive fun can even help us illuminate the future of space science.</p>
 <blockquote>
 <p>"I'm a mirrorball / I'll show you every version of yourself tonight /
 I'll get you out on the floor / Shimmering beautiful" - Taylor Swift, "Mirrorball"</p>
