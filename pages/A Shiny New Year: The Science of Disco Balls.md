@@ -31,6 +31,11 @@ Way or constellations. In the 1920s, this proto-disco ball was sold to
 entertainment venues like <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a> to
 throw brilliant, radiant light around the room in an era where glitzy artificial
 lighting was not common.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Patent for the myriad reflector in 1917." src="/images/earlydiscoball.png">
+</div>
+<p><em>Patent for the myriad reflector in 1917. Source: <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">Mental Floss</a></em>
+</p>
 <p>However, the disco ball famously reached its peak popularity in the 1970s
 with disco fever and bands like the Bee Gees taking off across the USA
 and even in Singapore, where <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/disco-fever/" rel="noopener nofollow" target="_blank">local discotheques</a> hung
@@ -46,7 +51,9 @@ cutting glass mirrors into strips or smaller shapes to affix to the sphere
 with glue paste, and testing the final products for its reflectiveness
 and light refraction. You can watch the mesmerising process of two artisanal
 disco ball factories here: one from the <a href="https://youtu.be/XXA-bQj5n9Q?si=v2yBwYxIRyOgiSQr" rel="noopener nofollow" target="_blank">USA</a> and one
-from <a href="https://youtu.be/CnnTzKPM6tw?si=o1X1LRBzk_OZ73HK" rel="noopener nofollow" target="_blank">Japan</a>.</p>
+from <a href="https://youtu.be/CnnTzKPM6tw?si=o1X1LRBzk_OZ73HK" rel="noopener nofollow" target="_blank">Japan</a>. <strong>[REVISE TO FIT </strong>
+<a href="https://theawesomer.com/how-mirror-balls-are-made/737713/" rel="noopener nofollow" target="_blank">THIS PROCESS</a>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CnnTzKPM6tw?si=ujkry6XpaL5rOGAd"></iframe>
 </div>
@@ -60,6 +67,11 @@ in the future.</p>
 satellite with "no sensors, electronics, [nor] moving parts" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>),
 "a brass core surrounded by an aluminum shell that's covered in 426 retroreflectors"
 that closely resembled a "giant disco ball" (<a href="https://www.space.com/32981-nasa-disco-ball-satellite-still-in-space.html" rel="noopener nofollow" target="_blank">Space.com</a>).</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image Credit: NASA/MSFC" src="/images/lageos.png">
+</div>
+<p><em>LAGEOS I Satellite, taken in 1976. Source: NASA/MSFC</em>
+</p>
 <p>LAGEOS is still orbiting Earth today as a permanent reference point for
 "high-precision laser ranging", its "hundreds of reflecting prisms" helping
 scientists "measure the movement of Earth’s tectonic plates, detect irregularities
