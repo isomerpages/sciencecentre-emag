@@ -7,6 +7,12 @@ description: "Disco balls: New Year's Eve decor turned scientific tool? Unpack
   and astronomy."
 third_nav_title: Space
 ---
+<h4>Disco balls: New Year's Eve decor turned scientific tool? Unpack the origins of this festive ornament and its applications in space exploration and astronomy.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo by Paul Zoetemeijer" src="/images/IMG_8766.png">
+</div>
+<p><em>Source: Paul Zoetemeijer/<a href="https://unsplash.com/photos/closeup-photography-of-mirror-ball-ruujnFOHS30" rel="noopener nofollow" target="_blank">Unsplash</a></em>
+</p>
 <p>New Year's Eve: a time for glitz and glamour, from spectacular fireworks
 to shiny confetti, fizzy champagne, and glittery outfits. Not to mention:
 splendid light shows and dancing late into the night! You may have seen
