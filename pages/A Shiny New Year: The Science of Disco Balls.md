@@ -11,18 +11,18 @@ bubbly pop music and dancing late into the night!</p>
 but how did this glimmering orb come to be? In this feature, we peel back
 the reflective layers of the disco ball and uncover the delightfully scientific
 core of this party favourite. We also explore how these festive ornaments
-can help propel innovation in the future!</p>
+can help shine a light forward for space science!</p>
 <blockquote>
 <p>"I'm a mirrorball / I'll show you every version of yourself tonight /
 I'll get you out on the floor / Shimmering beautiful" - Taylor Swift, "Mirrorball"</p>
 </blockquote>
-<p>Interestingly, the party staple disco ball was invented by electricians.
-The <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">first mention of a disco ball</a> appears
+<p>Interestingly, the disco ball was first invented by electricians for a
+shindig. The <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">earliest mention of a disco ball</a> appears
 in a 1897 issue of <em>The Electrical Worker</em>, a trade publication in
 Charlestown, Massachusetts, in a description of a ballroom that featured
-a "mirrored ball" above a dance floor. However, this seemed to be a one-off
-item.</p>
-<p>The next tangible disco ball was a <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">"myriad reflector"</a> about
+a "mirrored ball" above a dance floor. However, this was a one-off item
+not intended for commercial use.</p>
+<p>The next tangible disco ball was a <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">"myriad reflector"</a> about
 27 inches in diameter with over 1200 tiny mirrors patented by Louis Bernard
 Woeste in 1917. In the 1920s, the myriad reflector was sold to entertainment
 venues like <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a> to
