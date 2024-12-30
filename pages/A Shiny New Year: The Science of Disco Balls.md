@@ -98,3 +98,8 @@ watching the ball's illuminations, and realising that <a href="https://physicswo
 <p>The deceptively simple object of the disco ball helps show us how science
 and art make our world merry and bright. As we reflect on the end of the
 year, here's to wishing you a sci-sational, shiny start to 2025!</p>
+<p><strong><em>Written by Jamie Uy</em></strong>
+</p>
+<hr>
+<p><em>Last updated 30 December 2024</em>
+</p>
