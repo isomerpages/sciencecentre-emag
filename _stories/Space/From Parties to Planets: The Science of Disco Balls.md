@@ -91,23 +91,23 @@ of information about the Earth's geophysics.</p>
 "high-precision laser ranging", helping scientists "measure the movement
 of Earth’s tectonic plates, detect irregularities in the rotation of the
 planet, weigh it, and track small shifts in its center of mass" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).</p>
-<p>LAGEOS-2, an idential sister satellite builted by the Italian Space Agency,
+<p>LAGEOS-2, an identical sister satellite built by the Italian Space Agency,
 was launched in 1992. The satellite has continued to transmit invaluable
-data back to scientists on Earth, including more precise data confirming
-one of the predictions of Einsten's theory of relativity that Earth's rotation
-drags the fabric of space-time (<a href="https://www.space.com/456-einstein-warped-view-space-confirmed.html" rel="noopener nofollow" target="_blank">Space.com</a>).
+information, including more precise data confirming one of the predictions
+of Einstein's theory of relativity that Earth's rotation drags the fabric
+of space-time (<a href="https://www.space.com/456-einstein-warped-view-space-confirmed.html" rel="noopener nofollow" target="_blank">Space.com</a>).
 It's remarkable to think that all of this data can come from throwing two
 giant disco balls in space!</p>
 <p>Disco balls could also aid astronomy here on Earth. This year, a group
 of astronomers from various institutions published <a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">a paper in </a><em><a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">Physics Education</a></em> titled
 "<a href="https://arxiv.org/abs/2309.14173" rel="noopener nofollow" target="_blank">Why every observatory needs a disco ball"</a>.
 They proposed that disco balls could be operated by observatories as cheap
-and readily available pinhole cameras that could "project bright light
-sources (such as the Sun) on a wall or screen" for large groups.</p>
+and readily available pinhole cameras to "project bright light sources
+(such as the Sun) on a wall or screen" for large groups.</p>
 <p>The researchers experimented with implementing disco balls when observing
 various astronomical phenomena such as solar eclipses and concluded that
 "commercial disco balls provide a safe, effective and instructive way of
-observing the Sun", not to mention, and "easy and fun" way to engage the
+observing the Sun", along with being an "easy and fun" way to engage the
 public with science (<a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">Cumming et al., 2024</a>).</p>
 <p>In a feature for <em><a href="https://physicsworld.com/a/light-fever-bringing-disco-to-astronomy/" rel="noopener nofollow" target="_blank">Physics World</a> </em>written
 by Laura Hiscott, researcher Robert Cumming explains that he got the idea
