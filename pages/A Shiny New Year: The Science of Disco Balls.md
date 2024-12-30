@@ -30,13 +30,13 @@ in an 1897 issue of <em>The Electrical Worker</em>, a trade publication
 in Charlestown, Massachusetts, within a description of a ballroom that
 featured a "mirrored ball" above a dance floor. However, this was a one-off
 item not intended for commercial use.</p>
-<p>The next tangible disco ball was a <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">"myriad reflector"</a> patented
-by Louis Bernard Woeste in 1917. A globe 27 inches wide plastered with
-over 1200 tiny mirrors, the device was advertised for its novel lighting
-effects, with <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">one magazine ad</a> cheekily
-comparing the myriad reflector's magnificent illuminations to the Milky
-Way or constellations. In the 1920s, this proto-disco ball was sold to
-entertainment venues like <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a> to
+<p>The first commercial disco ball was patented as a <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">"myriad reflector"</a> by
+Louis Bernard Woeste in 1917. A globe 27 inches wide plastered with over
+1200 tiny mirrors, the device was advertised for its novel lighting effects,
+with <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">one magazine ad</a> cheekily
+comparing the myriad reflector's illuminations to the sparkling magnificence
+of the Milky Way. In the 1920s, this proto-disco ball was sold to entertainment
+venues like <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a> to
 throw brilliant, radiant light around the room in an era where special
 artificial lighting was not common.</p>
 <div class="isomer-image-wrapper">
@@ -52,8 +52,7 @@ up their own disco balls.</p>
 a "comeback" during the COVID-19 pandemic, with searches of the item surging
 on various e-shopping platforms as consumers sought to inject joy and embrace
 nostalgia during times of crisis. Apple even added the <a href="https://selector.news/2022/03/20/apple-iphone-disco-ball-emoji/" rel="noopener nofollow" target="_blank">disco ball emoji</a> in
-2021 <strong>[why?].</strong>
-</p>
+2021 .</p>
 <p>These spheres of joy are manufactured by moulding metal into perfect spheres,
 cutting glass mirrors into strips or smaller shapes to affix to the sphere
 with glue paste, and testing the final products for its reflectiveness
