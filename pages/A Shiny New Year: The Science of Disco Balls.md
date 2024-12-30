@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>New Year's Eve: a time for glitz and glamour, from spectacular fireworks
-to to shiny confetti, fizzy champagne, and glittery outfits. Not to mention:
+to shiny confetti, fizzy champagne, and glittery outfits. Not to mention:
 bubbly pop music and dancing late into the night! You may have seen disco
 balls suspended above revellers at New Year's Eve parties, but have you
 considered the disco ball as a technological device?</p>
@@ -17,10 +17,16 @@ help us illuminate the future of space science.</p>
 <p>"I'm a mirrorball / I'll show you every version of yourself tonight /
 I'll get you out on the floor / Shimmering beautiful" - Taylor Swift, "Mirrorball"</p>
 </blockquote>
-<p>Interestingly, the disco ball was first invented by electricians for a
-shindig. The <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">earliest mention of a disco ball</a> appears
-in a 1897 issue of <em>The Electrical Worker</em>, a trade publication in
-Charlestown, Massachusetts, in a description of a ballroom that featured
+<p>How does the disco ball create the "shimmering beautiful" light shows
+referenced in Taylor Swift's song? Disco balls are spherical objects covered
+with hundreds or thousands of tiny mirrors. When a light shines on the
+disco ball, the many little mirrors reflect the light beam at myriad angles
+all at the same, throwing light spots all over the room. As the disco ball
+rotates, the light spots move, creating brilliant displays.</p>
+<p>Fittingly, the dazzling novel lighting effect was first engineered by
+electricians for a shindig. The <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">earliest mention of a disco ball</a> appears
+in an 1897 issue of <em>The Electrical Worker</em>, a trade publication
+in Charlestown, Massachusetts, in a description of a ballroom that featured
 a "mirrored ball" above a dance floor. However, this was a one-off item
 not intended for commercial use.</p>
 <p>The next tangible disco ball was a <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">"myriad reflector"</a> patented
