@@ -7,9 +7,9 @@ description: ""
 <p>New Year's Eve: a time for glitz and glamour, from spectacular fireworks
 to to shiny confetti, fizzy champagne, and glittery outfits. Not to mention:
 bubbly pop music and dancing late into the night!</p>
-<p>You may have seen disco balls being sold as New Year's Eve party decorations,
-but how did this glimmering orb come to be? In this feature, we peel back
-the reflective layers of the disco ball and uncover the delightfully scientific
+<p>You may have seen disco balls at New Year's Eve party decorations, but
+how did this glimmering orb come to be? In this feature, we peel back the
+reflective layers of the disco ball and uncover the delightfully scientific
 core of this party favourite. We also explore how these festive ornaments
 can help shine a light forward for space science!</p>
 <blockquote>
