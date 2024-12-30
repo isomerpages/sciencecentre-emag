@@ -50,8 +50,7 @@ around the room in an era where special artificial lighting was not common.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8771.png">
 </div>
-<p></p>
-<p><em>Patent for the myriad reflector in 1917. Source: <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">Mental Floss</a></em>
+<p><em>Patent for the myriad reflector in 1917. Source: <a href="https://patents.google.com/patent/US1214863A/en" rel="noopener nofollow" target="_blank">Google Patents</a></em>
 </p>
 <p>The disco ball famously reached its peak popularity in the 1970s with
 disco fever and bands like the Bee Gees taking off across the USA and even
@@ -85,7 +84,7 @@ of information about the Earth's geophysics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image Credit: NASA/MSFC" src="/images/lageos.png">
 </div>
-<p><em>LAGEOS I Satellite, taken in 1976. Source: NASA/MSFC</em>
+<p><em>LAGEOS I Satellite. Image Credit: <a href="https://www.nasa.gov/image-article/lageos-i-satellite-1976/" rel="noopener nofollow" target="_blank">NASA/MSFC</a></em>
 </p>
 <p>LAGEOS is still orbiting Earth today as a permanent reference point for
 "high-precision laser ranging", helping scientists "measure the movement
