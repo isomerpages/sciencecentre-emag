@@ -47,10 +47,10 @@ of the Milky Way.</p>
 <p>In the 1920s, this proto-disco ball was sold to entertainment venues like
 <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a>to throw brilliant, radiant light
 around the room in an era where special artificial lighting was not common.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8771.png">
 </div>
+<p></p>
 <p><em>Patent for the myriad reflector in 1917. Source: <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">Mental Floss</a></em>
 </p>
 <p>The disco ball famously reached its peak popularity in the 1970s with
