@@ -62,8 +62,6 @@ tested for adequate light reflection.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CnnTzKPM6tw?si=ujkry6XpaL5rOGAd"></iframe>
 </div>
-<p><strong>[ADD SCIENTIFIC FACT ABOUT WHAT MAKES A 'GOOD' DISCO BALL HERE]</strong>
-</p>
 <p>Disco balls aren't just pretty ornaments or kitschy decor from the past.
 In fact, applying the principles of disco balls to the space industry may
 one day mean we can welcome the new year in style on Mars or another planet
