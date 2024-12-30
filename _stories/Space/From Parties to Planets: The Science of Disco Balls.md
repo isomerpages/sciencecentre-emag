@@ -50,6 +50,10 @@ around the room in an era where special artificial lighting was not common.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Patent for the myriad reflector in 1917." src="/images/earlydiscoball.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8771.png">
+</div>
 <p><em>Patent for the myriad reflector in 1917. Source: <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">Mental Floss</a></em>
 </p>
 <p>The disco ball famously reached its peak popularity in the 1970s with
