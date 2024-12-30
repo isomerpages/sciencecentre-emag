@@ -27,9 +27,9 @@ displays.</p>
 <p>Fittingly, the dazzling novel lighting effect was first engineered by
 electricians for a shindig. The <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">earliest mention of a disco ball</a> appears
 in an 1897 issue of <em>The Electrical Worker</em>, a trade publication
-in Charlestown, Massachusetts, in a description of a ballroom that featured
-a "mirrored ball" above a dance floor. However, this was a one-off item
-not intended for commercial use.</p>
+in Charlestown, Massachusetts, within a description of a ballroom that
+featured a "mirrored ball" above a dance floor. However, this was a one-off
+item not intended for commercial use.</p>
 <p>The next tangible disco ball was a <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">"myriad reflector"</a> patented
 by Louis Bernard Woeste in 1917. A globe 27 inches wide plastered with
 over 1200 tiny mirrors, the device was advertised for its novel lighting
@@ -37,8 +37,8 @@ effects, with <a href="https://www.mentalfloss.com/article/64276/myriad-reflecto
 comparing the myriad reflector's magnificent illuminations to the Milky
 Way or constellations. In the 1920s, this proto-disco ball was sold to
 entertainment venues like <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a> to
-throw brilliant, radiant light around the room in an era where glitzy artificial
-lighting was not common.</p>
+throw brilliant, radiant light around the room in an era where special
+artificial lighting was not common.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Patent for the myriad reflector in 1917." src="/images/earlydiscoball.png">
 </div>
