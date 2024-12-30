@@ -67,9 +67,9 @@ In fact, applying the principles of disco balls to the space industry may
 one day mean we can welcome the new year in style on Mars or another planet
 in the future.</p>
 <p>In 1976, NASA's Laser Geodynamics Satellite (LAGEOS) launched, a 408-kg
-satellite with "no sensors, electronics, [nor] moving parts" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>),
-"a brass core surrounded by an aluminum shell that's covered in 426 retroreflectors"
-that closely resembled a "giant disco ball" (<a href="https://www.space.com/32981-nasa-disco-ball-satellite-still-in-space.html" rel="noopener nofollow" target="_blank">Space.com</a>).</p>
+satellite with "no sensors, electronics, [nor] moving parts" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).
+This unwieldy "brass core surrounded by an aluminum shell that's covered
+in 426 retroreflectors" closely resembled a "giant disco ball" (<a href="https://www.space.com/32981-nasa-disco-ball-satellite-still-in-space.html" rel="noopener nofollow" target="_blank">Space.com</a>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image Credit: NASA/MSFC" src="/images/lageos.png">
 </div>
@@ -82,12 +82,12 @@ in the rotation of the planet, weigh it, and track small shifts in its
 center of mass" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).
 Wild to think that all of this data can come from throwing a giant disco
 ball in space!</p>
-<p>Disco balls could also aid astronomy education down on Earth. This year,
-a group of astronomers from various institutions published <a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">a paper in </a><em><a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">Physics Education</a></em> titled
+<p>Disco balls could also aid astronomy down here on Earth. This year, a
+group of astronomers from various institutions published <a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">a paper in </a><em><a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad1fa0" rel="noopener nofollow" target="_blank">Physics Education</a></em> titled
 "<a href="https://arxiv.org/abs/2309.14173" rel="noopener nofollow" target="_blank">Why every observatory needs a disco ball"</a>.
-They proposed that disco balls could be operated by observatories and classrooms
-as cheap and readily available pinhole cameras that could "project bright
-light sources (such as the Sun) on a wall or screen" for large groups.</p>
+They proposed that disco balls could be operated by observatories as cheap
+and readily available pinhole cameras that could "project bright light
+sources (such as the Sun) on a wall or screen" for large groups.</p>
 <p>The researchers experimented with implementing disco balls when observing
 various astronomical phenomena such as solar eclipses and concluded that
 "commercial disco balls provide a safe, effective and instructive way of
@@ -96,9 +96,9 @@ public with science (<a href="https://iopscience.iop.org/article/10.1088/1361-65
 <p>In a feature for <em><a href="https://physicsworld.com/a/light-fever-bringing-disco-to-astronomy/" rel="noopener nofollow" target="_blank">Physics World</a> </em>written
 by Laura Hiscott, researcher Robert Cumming explains that he got the idea
 for the paper after hanging up a disco ball for a New Year's Eve party,
-watching the ball's illuminations, and realising that <a href="https://physicsworld.com/a/light-fever-bringing-disco-to-astronomy/" rel="noopener nofollow" target="_blank">"each bright patch on the walls was an image of the Sun."</a>
+watching the light reflect off the disco ball, and realising that <a href="https://physicsworld.com/a/light-fever-bringing-disco-to-astronomy/" rel="noopener nofollow" target="_blank">"each bright patch on the walls was an image of the Sun."</a>
 </p>
-<p>The deceptively simple object of the disco ball helps show us how science
+<p>The deceptively simple object of the disco ball helps illustrate how science
 and art make our world merry and bright. As we reflect on the end of the
 year, here's to wishing you a sci-sational, shiny start to 2025!</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
