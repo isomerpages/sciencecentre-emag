@@ -35,25 +35,24 @@ Louis Bernard Woeste in 1917. A globe 27 inches wide plastered with over
 1200 tiny mirrors, the device was advertised for its novel lighting effects,
 with <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">one magazine ad</a> cheekily
 comparing the myriad reflector's illuminations to the sparkling magnificence
-of the Milky Way. In the 1920s, this proto-disco ball was sold to entertainment
-venues like <a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a> to
-throw brilliant, radiant light around the room in an era where special
-artificial lighting was not common.</p>
+of the Milky Way.</p>
+<p>In the 1920s, this proto-disco ball was sold to entertainment venues like
+<a href="https://www.mentalfloss.com/article/653099/disco-ball-facts-history" rel="noopener nofollow" target="_blank">dance halls, jazz clubs, and circuses</a>to throw brilliant, radiant light
+around the room in an era where special artificial lighting was not common.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Patent for the myriad reflector in 1917." src="/images/earlydiscoball.png">
 </div>
 <p><em>Patent for the myriad reflector in 1917. Source: <a href="https://www.mentalfloss.com/article/64276/myriad-reflector-early-forgotten-disco-ball" rel="noopener nofollow" target="_blank">Mental Floss</a></em>
 </p>
-<p>However, the disco ball famously reached its peak popularity in the 1970s
-with disco fever and bands like the Bee Gees taking off across the USA
-and even in Singapore, where <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/disco-fever/" rel="noopener nofollow" target="_blank">local discotheques</a> installed
+<p>The disco ball famously reached its peak popularity in the 1970s with
+disco fever and bands like the Bee Gees taking off across the USA and even
+in Singapore, where <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/disco-fever/" rel="noopener nofollow" target="_blank">local discotheques</a> installed
 their own disco balls.</p>
 <p>More recently, the disco ball experienced what<em> <a href="https://www.nytimes.com/2022/04/26/style/disco-ball-comeback.html" rel="noopener nofollow" target="_blank">The New York Times</a> </em>described
 as a "comeback" during the COVID-19 pandemic, with searches of the item
-surging on various online shopping platforms as consumers sought joy and
-nostalgic comfort during times of crisis. Apple even added the disco ball
-emoji in 2021 after years of being the top-requested emoji according to
-<a href="https://blog.emojipedia.org/top-emoji-requests-2018/" rel="noopener nofollow" target="_blank">Emojipedia</a>.</p>
+surging on various online shopping platforms as consumers sought nostalgic
+joy during times of crisis. Apple even added the disco ball emoji in 2021
+after years of being the top-requested emoji according to <a href="https://blog.emojipedia.org/top-emoji-requests-2018/" rel="noopener nofollow" target="_blank">Emojipedia</a>.</p>
 <p>The resurgence of disco ball created new consumer demand. How are these
 ever-popular sparkly novelties manufactured? The video below documents
 how disco balls are made in a factory in Japan, showing how sheet metal
@@ -71,7 +70,7 @@ the future.</p>
 satellite with "no sensors, electronics, [nor] moving parts" (<a href="https://science.nasa.gov/mission/lageos" rel="noopener nofollow" target="_blank">NASA Science</a>).
 This unique "brass core surrounded by an aluminum shell that's covered
 in 426 retroreflectors" closely resembled a "giant disco ball" (<a href="https://www.space.com/32981-nasa-disco-ball-satellite-still-in-space.html" rel="noopener nofollow" target="_blank">Space.com</a>).
-By shining laser beams at LAGEOS and tracking the time the time is takes
+By shining laser beams at LAGEOS and tracking the time the time it takes
 for the laser beam to travel back to Earth, scientists can glean a wealth
 of information about the Earth's geophysics.</p>
 <div class="isomer-image-wrapper">
