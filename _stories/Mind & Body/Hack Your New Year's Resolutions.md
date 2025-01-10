@@ -25,7 +25,7 @@ people feel like they can begin with a clean slate.</p>
 <p>While the New Year is perhaps the biggest example of this, you can take
 advantage of the "fresh start effect" anytime. Technically, what we benchmark
 as New Year's Day in the Western world (January 1 in the Gregorian calendar),
-<a href="https://www.nationalgeographic.com/travel/article/calendar-new-year-celebrations-around-world" rel="noopener noreferrer nofollow" target="_blank"><u>isn't a universal rule</u>
+<a href="https://www.nationalgeographic.com/travel/article/calendar-new-year-celebrations-around-world" rel="noopener noreferrer nofollow" target="_blank"><u>isn't a universal rule </u>
 </a>for the start of the year. Several Asian traditions celebrate the new
 year based on different calendars; for example, Chinese New Year occurs
 on the <a href="https://lammuseum.wfu.edu/education/teachers/chinese-new-year/history-of-chinese-new-year/" rel="noopener noreferrer nofollow" target="_blank"><u>second new moon following the winter solstice</u></a>,
