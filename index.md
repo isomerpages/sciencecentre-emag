@@ -13,6 +13,14 @@ sections:
       alignment: left
       backgroundColor: black
   - infopic:
+      title: Hack Your New Year's Resolutions
+      subtitle: Psychology, Neuroscience
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/IMG_8973.png
+      alt: Image alt text
+  - infopic:
       title: "From Parties to Planets: The Science of Disco Balls"
       subtitle: LIGHT, PHYSICS, ASTRONOMY
       id: infopic
