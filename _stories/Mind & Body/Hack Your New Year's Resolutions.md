@@ -109,7 +109,7 @@ is on my New Year's resolutions list (you can read my <a href="/pokemon-sleep" r
 However, as opposed to feeling disheartened when I inevitably end up watching
 an entire Netflix series in one night, I'll change things up this year
 by being more curious and setting myself up for smaller but more doable
-sleep wins.</p>
+sleep wins. Here's to making 2025 your year!</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
 <br><strong><em>Featured image created in Canva</em></strong>
 </p>
