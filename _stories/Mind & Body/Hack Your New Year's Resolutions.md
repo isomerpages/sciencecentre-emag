@@ -8,11 +8,15 @@ third_nav_title: Mind & Body
 ---
 <h4>Make 2025 your year with these insights from psychology and neuroscience.</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Brain with a party hat and confetti." src="/images/IMG_8973.png">
+</div>
 <p>What are your New Year's resolutions? In 2024, <a href="https://sg.yougov.com/consumer/articles/48336-what-are-singaporeans-top-new-year-resolutions-for-2024" rel="noopener noreferrer nofollow" target="_blank"><u>YouGov</u></a> reported
 that 61% of Singapore residents wanted to improve their physical health,
 while 53% included managing money better on their resolution list. Whether
 it's finally hitting the gym or curbing spending on bubble tea, psychology
 and behavioural science can help you get a science-backed start to 2025.&nbsp;&nbsp;</p>
+<h4><strong>The Fresh Start Effect</strong></h4>
 <p>You've probably heard the phrase "new year, new you." Behavioral scientists
 call this drive to achieve personal growth following temporal landmarks
 the <a href="https://www.psychologytoday.com/intl/blog/4000-mondays/202412/fresh-starts-the-psychology-behind-new-year-motivation?msockid=0e9b106fe0af61863b7b04eae1ea6015" rel="noopener noreferrer nofollow" target="_blank"><u>fresh start effect</u></a>.
@@ -34,6 +38,7 @@ while Deepavali takes place on <em><a href="https://www.nationalgeographic.com/t
 </a>based on the Hindu lunisolar calendar. There are opportunities for fresh
 starts anywhere you look, even with something as simple as a new week if
 you treat it like a new beginning.</p>
+<h4><strong>Smarter Goal Setting</strong></h4>
 <p>To milk the benefits of that psychological boost around a fresh start,
 introspect and identify what exactly you want to achieve. Beginning in
 the 1960s, psychologists <a href="https://www.bing.com/ck/a?!&amp;&amp;p=612520324d8124e1cf5704ef6c1f599440c87a3d52f95068bd2eea6088e07256JmltdHM9MTczNjI5NDQwMA&amp;ptn=3&amp;ver=2&amp;hsh=4&amp;fclid=0e9b106f-e0af-6186-3b7b-04eae1ea6015&amp;psq=Edwin+Locke+and+Gary+Latham+goal+setting+theory&amp;u=a1aHR0cHM6Ly9tZWQuc3RhbmZvcmQuZWR1L2NvbnRlbnQvZGFtL3NtL3Mtc3BpcmUvZG9jdW1lbnRzL1BELmxvY2tlLWFuZC1sYXRoYW0tcmV0cm9zcGVjdGl2ZV9QYXBlci5wZGY&amp;ntb=1" rel="noopener noreferrer nofollow" target="_blank"><u>Edwin Locke and Gary Latham</u></a> began
@@ -61,6 +66,7 @@ goals (introducing positive behaviours) were significantly more successful
 than those who framed their resolutions as avoidance-oriented goals, with
 58.9% of approach-oriented participants achieving their goal compared to
 47.1% of the avoidance-oriented participants.</p>
+<h4><strong>Be Kind to Yourself</strong></h4>
 <p>And if you're already struggling with your New Year's resolutions, don't
 despair. You're not alone. Shockingly, research reveals that as many as
 <a href="https://www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/202412/why-new-years-resolutions-set-you-up-to-fail?msockid=0e9b106fe0af61863b7b04eae1ea6015" rel="noopener noreferrer nofollow" target="_blank"><u>80%</u>
@@ -91,18 +97,18 @@ which can help train your brain since <a href="https://abcnews.go.com/GMA/Wellne
 </p>
 <p>Another joyful take on the New Year's resolution is the recent TikTok
 trend of creating <a href="https://www.msn.com/en-us/health/wellness/never-stick-to-new-years-resolutions-tiktoks-bingo-card-theory-might-just-help/ar-AA1wHBaj?ocid=BingNewsSerp" rel="noopener noreferrer nofollow" target="_blank"><u>bingo cards</u></a>.
-People fill in bingo card squares with small or big wins they want to challenge
-themselves to achieve over the year, and “play” with their friends and
-family to see who can fill up their cards first. This practice can help
-overcome the all-or-nothing thinking that often dooms New Year's resolutions,
-while introducing social accountability, flexibility, and fun so achieving
-that goal doesn't seem like a daunting checklist anymore.</p>
+You fill in bingo card squares with small goals you want to achieve over
+the year, and “play” with your friends and family to see who can cross
+off all their squares first. This practice can help overcome the all-or-nothing
+thinking that often dooms New Year's resolutions, while introducing social
+accountability, flexibility, and fun so achieving that goal doesn't seem
+like a daunting checklist anymore.</p>
 <p>As for myself, this is my third year in a row where getting enough sleep
 is on my New Year's resolutions list (you can read my <a href="/pokemon-sleep" rel="noopener nofollow" target="_blank">2024 New Year's experiment with gamifying sleep</a> here).
 However, as opposed to feeling disheartened when I inevitably end up watching
 an entire Netflix series in one night, I'll change things up this year
-by being more curious and setting myself up for smaller but sustainable
-shuteye wins.</p>
+by being more curious and setting myself up for smaller but more doable
+sleep wins.</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
