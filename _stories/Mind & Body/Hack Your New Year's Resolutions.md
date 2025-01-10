@@ -98,11 +98,11 @@ overcome the all-or-nothing thinking that often dooms New Year's resolutions,
 while introducing social accountability, flexibility, and fun so achieving
 that goal doesn't seem like a daunting checklist anymore.</p>
 <p>As for myself, this is my third year in a row where getting enough sleep
-is on my New Year's resolutions list (you can read my previous 2024 New
-Year's sleep experiment with gamifying sleep here). However, as opposed
-to feeling disheartened when I inevitably end up watching an entire Netflix
-series in one night, I'll change things up this year by being more curious
-and setting myself up for smaller but sustainable shuteye wins.</p>
+is on my New Year's resolutions list (you can read my <a href="/pokemon-sleep" rel="noopener nofollow" target="_blank">2024 New Year's experiment with gamifying sleep</a> here).
+However, as opposed to feeling disheartened when I inevitably end up watching
+an entire Netflix series in one night, I'll change things up this year
+by being more curious and setting myself up for smaller but sustainable
+shuteye wins.</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
