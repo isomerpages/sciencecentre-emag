@@ -16,10 +16,12 @@ sections:
       title: Hack Your New Year's Resolutions
       subtitle: Psychology, Neuroscience
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Make 2025 your year and set better New Year's resolutions with
+        these insights from psychology and neuroscience.
+      button: Read More
       image: /images/IMG_8973.png
-      alt: Image alt text
+      alt: Brain with party hat
+      url: /new-year-resolutions
   - infopic:
       title: "From Parties to Planets: The Science of Disco Balls"
       subtitle: LIGHT, PHYSICS, ASTRONOMY
