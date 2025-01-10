@@ -88,11 +88,12 @@ set up your environment in a different way to foster success (e.g. grocery
 shopping when you’re not hungry and preparing healthier pantry options
 in advance). As psychotherapist Amy Morin writes in her blog post for Psychology
 Today, <a href="https://www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/202412/why-new-years-resolutions-set-you-up-to-fail?msockid=0e9b106fe0af61863b7b04eae1ea6015" rel="noopener noreferrer nofollow" target="_blank"><u>"hugely successful people approach failure as feedback, not the end."</u></a>&nbsp;</p>
+<h4><strong>Have Fun!</strong></h4>
 <p>This iterative process of self-discovery can even be fun. People are turning
 to more creative and playful alternatives to the traditional New Year's
 resolution list in recent years, for example, crafting <a href="https://abcnews.go.com/GMA/Wellness/make-vision-board-reach-goals-new-year-neurologist/story?id=105991569" rel="noopener noreferrer nofollow" target="_blank"><u>vision boards</u></a>,
-poster collages of pictures representing one's aspirations. Looking at
-these vision boards encourage <a href="https://abcnews.go.com/GMA/Wellness/make-vision-board-reach-goals-new-year-neurologist/story?id=105991569" rel="noopener noreferrer nofollow" target="_blank"><u>visualization</u></a>,
+poster collages of pictures representing one's aspirations. Neurologist
+Dr. Leah Croll reports looking at these vision boards encourages <a href="https://abcnews.go.com/GMA/Wellness/make-vision-board-reach-goals-new-year-neurologist/story?id=105991569" rel="noopener noreferrer nofollow" target="_blank"><u>visualization</u></a>,
 which can help train your brain since <a href="https://abcnews.go.com/GMA/Wellness/make-vision-board-reach-goals-new-year-neurologist/story?id=105991569" rel="noopener noreferrer nofollow" target="_blank"><u>“visualizing a desired outcome can activate the same neural pathways as actually experiencing it.”</u></a>
 </p>
 <p>Another joyful take on the New Year's resolution is the recent TikTok
@@ -110,6 +111,7 @@ an entire Netflix series in one night, I'll change things up this year
 by being more curious and setting myself up for smaller but more doable
 sleep wins.</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
+<br><strong><em>Featured image created in Canva</em></strong>
 </p>
 <hr>
 <p><em>Last updated 10 Jan 2025</em>
