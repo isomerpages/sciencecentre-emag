@@ -6,7 +6,7 @@ description: Make 2025 your year by learning how to set better New Year's
   resolutions using these insights from psychology and neuroscience.
 third_nav_title: Mind & Body
 ---
-<h4>Make 2025 your year with these insights from psychology and neuroscience.</h4>
+<h4>Make 2025 your year with these insights on how to make better New Year's resolutions from psychology and neuroscience.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Brain with a party hat and confetti." src="/images/IMG_8973.png">
