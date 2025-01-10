@@ -6,6 +6,8 @@ description: Make 2025 your year by learning how to set better New Year's
   resolutions using these insights from psychology and neuroscience.
 third_nav_title: Mind & Body
 ---
+<h4>Make 2025 your year with these insights from psychology and neuroscience.</h4>
+<p></p>
 <p>What are your New Year's resolutions? In 2024, <a href="https://sg.yougov.com/consumer/articles/48336-what-are-singaporeans-top-new-year-resolutions-for-2024" rel="noopener noreferrer nofollow" target="_blank"><u>YouGov</u></a> reported
 that 61% of Singapore residents wanted to improve their physical health,
 while 53% included managing money better on their resolution list. Whether
