@@ -28,7 +28,7 @@ sections:
       url: /new-year-resolutions
   - textcards:
       title: Highlights
-      subtitle: More Content
+      subtitle: Content
       id: textcards
       cards:
         - title: STORIES
