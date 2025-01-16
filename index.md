@@ -38,7 +38,7 @@ sections:
         - title: PODCAST
           description: Decoding Artificial Intelligence with Dr. Ayesha Khanna (AddoAl)
           linktext: Learn more
-          url: ""
+          url: https://staging.dzle8oeqpm1f1.amplifyapp.com/decoding-ai/
         - title: VIDEOS
           description: The Wok Hei in Hokkien Mee
           linktext: Learn more
