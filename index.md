@@ -34,7 +34,7 @@ sections:
         - title: STORIES
           description: "From Parties to Planets: The Science of Disco Balls"
           linktext: Learn more
-          url: ""
+          url: https://staging.dzle8oeqpm1f1.amplifyapp.com/disco-balls/
         - title: PODCAST
           description: Decoding Artificial Intelligence with Dr. Ayesha Khanna (AddoAl)
           linktext: Learn more
