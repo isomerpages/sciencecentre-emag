@@ -33,7 +33,7 @@ sections:
       cards:
         - title: STORIES
           description: "From Parties to Planets: The Science of Disco Balls"
-          linktext: more
+          linktext: Learn more
           url: ""
         - title: PODCAST
           description: Decoding Artificial Intelligence with Dr. Ayesha Khanna (AddoAl)
