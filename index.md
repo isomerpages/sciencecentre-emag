@@ -12,6 +12,10 @@ sections:
       variant: image
       alignment: left
       backgroundColor: black
+      key_highlights:
+        - title: Explore the Universe from the Heartland
+          description: ""
+          url: ""
   - infopic:
       title: Hack Your New Year's Resolutions
       subtitle: Psychology, Neuroscience - NEW
