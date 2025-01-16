@@ -42,7 +42,7 @@ sections:
         - title: VIDEOS
           description: The Wok Hei in Hokkien Mee
           linktext: Learn more
-          url: ""
+          url: https://staging.dzle8oeqpm1f1.amplifyapp.com/videos/
   - infopic:
       title: "From Parties to Planets: The Science of Disco Balls"
       subtitle: LIGHT, PHYSICS, ASTRONOMY
