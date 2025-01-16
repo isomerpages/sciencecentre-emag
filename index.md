@@ -14,7 +14,7 @@ sections:
       backgroundColor: black
   - infopic:
       title: Hack Your New Year's Resolutions
-      subtitle: Psychology, Neuroscience
+      subtitle: Psychology, Neuroscience - NEW
       id: infopic
       description: Make 2025 your year and set better New Year's resolutions with
         these insights from psychology and neuroscience.
@@ -22,6 +22,23 @@ sections:
       image: /images/IMG_8973.png
       alt: Brain with party hat
       url: /new-year-resolutions
+  - textcards:
+      title: Highlights
+      subtitle: More Content
+      id: textcards
+      cards:
+        - title: STORIES
+          description: "From Parties to Planets: The Science of Disco Balls"
+          linktext: more
+          url: ""
+        - title: PODCAST
+          description: Decoding Artificial Intelligence with Dr. Ayesha Khanna (AddoAl)
+          linktext: Learn more
+          url: ""
+        - title: VIDEOS
+          description: The Wok Hei in Hokkien Mee
+          linktext: Learn more
+          url: ""
   - infopic:
       title: "From Parties to Planets: The Science of Disco Balls"
       subtitle: LIGHT, PHYSICS, ASTRONOMY
