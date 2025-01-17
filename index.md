@@ -13,9 +13,15 @@ sections:
       alignment: left
       backgroundColor: black
       key_highlights:
-        - title: Explore the Universe from the Heartland
+        - title: STORIES
           description: ""
-          url: ""
+          url: https://voiddeck.science.edu.sg/disco-balls/
+        - title: PODCAST
+          description: ""
+          url: https://voiddeck.science.edu.sg/podcast/
+        - title: VIDEO
+          description: ""
+          url: https://voiddeck.science.edu.sg/videos/
   - infopic:
       title: Hack Your New Year's Resolutions
       subtitle: Psychology, Neuroscience - NEW
