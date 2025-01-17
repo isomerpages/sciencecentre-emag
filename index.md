@@ -188,4 +188,8 @@ sections:
       url: /tis-the-season-to-reduce-reuse-and-recycle
       image: /images/diyxmasft4.jpg
       alt: Image alt text
+  - resources:
+      title: Highlights
+      subtitle: CONTENT
+      id: resources
 ---
