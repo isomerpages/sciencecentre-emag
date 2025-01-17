@@ -43,6 +43,12 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Learn more
           url: https://staging.dzle8oeqpm1f1.amplifyapp.com/videos/
+  - infobar:
+      title: '"Some spice-lovers might find pleasure amidst the pain. "'
+      id: infobar
+      description: The Chemistry of Mala Xiang Guo
+      button: Read More
+      url: https://voiddeck.science.edu.sg/mala-chemistry/
   - infopic:
       title: "Ho Ho How: Christmas Science Revealed"
       subtitle: CULTURE, CHRISTMAS, HOLIDAY
