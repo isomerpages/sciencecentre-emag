@@ -7,7 +7,7 @@ description: Make 2025 your year and set better New Year's resolutions using
 third_nav_title: Mind & Body
 image: /images/IMG_8973.png
 ---
-<h4>Make 2025 your year with these insights on how to make better New Year's resolutions from psychology and neuroscience.</h4>
+<h4>Make 2025 your year with these insights from psychology and neuroscience on how to make better New Year's resolutions.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Brain with a party hat and confetti." src="/images/IMG_8973.png">
@@ -53,11 +53,10 @@ for beginners.</p>
 <p>If you do have some experience in the area where you want to improve,
 though, the power of setting a numerical target shouldn't be overlooked.
 One example is how many marathon runners set a goal of running a marathon
-in less than four hours. <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener nofollow" target="_blank">A study published in </a><em><a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener nofollow" target="_blank">Management Science</a></em>
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener nofollow" target="_blank"></a>gathered data from 10 million marathon runners and found that a lot
-more runners "finish in three hours and 59 minutes rather than four hours
-and one minute," suggesting that setting such targets can help drive better
-performance.</p>
+in less than four hours. <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener nofollow" target="_blank">A study published in </a><em><a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener nofollow" target="_blank">Management Science</a></em>gathered
+data from 10 million marathon runners and found that a lot more runners
+"finish in three hours and 59 minutes rather than four hours and one minute,"
+suggesting that setting such targets can help drive better performance.</p>
 <p>Reframing a negative habit you want to kick as a <a href="https://theconversation.com/the-science-behind-building-healthy-habits-can-help-you-keep-your-new-years-resolution-219947" rel="noopener noreferrer nofollow" target="_blank"><u>positive habit</u></a> you
 want to foster may also lead to success. For instance, you could reframe
 "stop being sedentary" as "take a 15-minute stroll after dinner each day."
