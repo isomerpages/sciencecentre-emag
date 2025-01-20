@@ -201,17 +201,18 @@ sections:
       image: /images/diyxmasft4.jpg
       alt: Image alt text
   - infocols:
-      title: "Pitch: Your Proposed Article Title"
-      subtitle: Get Involved
+      title: Pitch us your science story
+      subtitle: Write for Void Deck
       id: infocols
-      linktext: Learn more
+      linktext: Email us
       infoboxes:
-        - title: "1."
-          description: Your Full Name, Email Address, Current Position and Affiliation
-        - title: "2."
-          description: Your 150-300 word pitch (including big idea/thesis, significance
-            for Singaporean millennials and older)
-        - title: "3."
-          description: Your Social Media Handles, Links or attachments of previous science
+        - title: 1. Personal details
+          description: Your full name, email address, current position and affiliation
+        - title: 2. Article focus
+          description: Your 150-300 word pitch (including proposed title, big idea/thesis,
+            significance for Singaporean millennials and older)
+        - title: 3. Science writing portfolio
+          description: Your social media handles, links or attachments of previous science
             writing, if any
+      url: write-for-us/
 ---
