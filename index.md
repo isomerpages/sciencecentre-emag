@@ -12,6 +12,49 @@ sections:
       variant: image
       alignment: left
       backgroundColor: black
+      key_highlights:
+        - title: STORIES
+          description: ""
+          url: https://voiddeck.science.edu.sg/disco-balls/
+        - title: PODCAST
+          description: ""
+          url: https://voiddeck.science.edu.sg/podcast/
+        - title: VIDEO
+          description: ""
+          url: https://voiddeck.science.edu.sg/videos/
+  - infopic:
+      title: "Exercise Snacking: Fitness on the Go"
+      subtitle: MIND & BODY, NEW STORY
+      id: infopic
+      description: Discover the potential of bite-sized workouts to boost
+        cardiovascular health and longevity.
+      button: Read more
+      url: /exercise-snacking
+      image: /images/barbell_cookies.png
+      alt: Barbells
+  - textcards:
+      title: Highlights
+      subtitle: Content
+      id: textcards
+      cards:
+        - title: STORIES
+          description: "From Parties to Planets: The Science of Disco Balls"
+          linktext: Learn more
+          url: /disco-balls
+        - title: PODCAST
+          description: Decoding Artificial Intelligence with Dr. Ayesha Khanna (AddoAl)
+          linktext: Learn more
+          url: /decoding-ai
+        - title: VIDEOS
+          description: The Wok Hei in Hokkien Mee
+          linktext: Learn more
+          url: /videos
+  - infobar:
+      title: '"Some spice-lovers might find pleasure amidst the pain."'
+      id: infobar
+      description: The Chemistry of Mala Xiang Guo
+      button: Read More
+      url: /mala-chemistry
   - infopic:
       title: Hack Your New Year's Resolutions
       subtitle: Psychology, Neuroscience
@@ -22,17 +65,6 @@ sections:
       image: /images/IMG_8973.png
       alt: Brain with party hat
       url: /new-year-resolutions
-  - infopic:
-      title: "From Parties to Planets: The Science of Disco Balls"
-      subtitle: LIGHT, PHYSICS, ASTRONOMY
-      id: infopic
-      description: "Disco balls: New Year's Eve decor turned scientific tool? Unpack
-        the origins of this festive ornament and its applications in space
-        exploration and astronomy."
-      button: Read More
-      url: /disco-balls
-      image: /images/IMG_8763.png
-      alt: Disco ball
   - infopic:
       title: "Ho Ho How: Christmas Science Revealed"
       subtitle: CULTURE, CHRISTMAS, HOLIDAY
@@ -178,4 +210,19 @@ sections:
       url: /tis-the-season-to-reduce-reuse-and-recycle
       image: /images/diyxmasft4.jpg
       alt: Image alt text
+  - infocols:
+      title: Pitch us your science story
+      subtitle: Write for Void Deck
+      id: infocols
+      linktext: Email us
+      infoboxes:
+        - title: 1. Personal details
+          description: Your full name, email address, current position and affiliation
+        - title: 2. Article focus
+          description: Your 150-300 word pitch (including proposed title, big idea/thesis,
+            significance for Singaporean millennials and older)
+        - title: 3. Science writing portfolio
+          description: Your social media handles, links or attachments of previous science
+            writing, if any
+      url: write-for-us/
 ---
