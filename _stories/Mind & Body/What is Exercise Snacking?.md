@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Mind & Body
 ---
-<h4>Discover the potential of bite-sized workouts to boost cardiovascular health and longevity. </h4>
+<h4>Discover the potential of bite-sized workouts to boost cardiovascular health and longevity.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Barbell collage designed to look like cookies." src="/images/barbell_cookies.png">
