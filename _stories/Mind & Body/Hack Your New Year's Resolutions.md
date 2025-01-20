@@ -34,11 +34,10 @@ as New Year's Day in the Western world (January 1 in the Gregorian calendar),
 </a>for the start of the year. Several Asian traditions celebrate the new
 year based on different calendars; for example, Chinese New Year occurs
 on the <a href="https://lammuseum.wfu.edu/education/teachers/chinese-new-year/history-of-chinese-new-year/" rel="noopener noreferrer nofollow" target="_blank"><u>second new moon following the winter solstice</u></a>,
-while Deepavali takes place on <em><a href="https://www.nationalgeographic.com/travel/article/calendar-new-year-celebrations-around-world" rel="noopener noreferrer nofollow" target="_blank"><u>amavasya </u></a></em>
-<a href="https://www.nationalgeographic.com/travel/article/calendar-new-year-celebrations-around-world" rel="noopener noreferrer nofollow" target="_blank"><u>(new moon) usually between mid-October to mid-November </u>
-</a>based on the Hindu lunisolar calendar. There are opportunities for fresh
-starts anywhere you look, even with something as simple as a new week if
-you treat it like a new beginning.</p>
+while Deepavali takes place on <a href="https://www.nationalgeographic.com/travel/article/calendar-new-year-celebrations-around-world" rel="noopener nofollow" target="_blank">amavasya (new moon) usually between mid-October to mid-November</a> based
+on the Hindu lunisolar calendar. There are opportunities for fresh starts
+anywhere you look, even with something as simple as a new week if you treat
+it like a new beginning.</p>
 <h4><strong>Smarter Goal Setting</strong></h4>
 <p>To milk the benefits of that psychological boost around a fresh start,
 introspect and identify what exactly you want to achieve. Beginning in
@@ -54,10 +53,11 @@ for beginners.</p>
 <p>If you do have some experience in the area where you want to improve,
 though, the power of setting a numerical target shouldn't be overlooked.
 One example is how many marathon runners set a goal of running a marathon
-in less than four hours. <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener noreferrer nofollow" target="_blank"><u>A study in </u></a><em><a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener noreferrer nofollow" target="_blank"><u>Management Science</u></a> </em>gathered
-data from 10 million marathon runners and found that a lot more runners
-"finish in three hours and 59 minutes rather than four hours and one minute,"
-suggesting that setting such targets can help drive better performance.</p>
+in less than four hours. <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener nofollow" target="_blank">A study published in </a><em><a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener nofollow" target="_blank">Management Science</a></em>
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2417" rel="noopener nofollow" target="_blank"></a>gathered data from 10 million marathon runners and found that a lot
+more runners "finish in three hours and 59 minutes rather than four hours
+and one minute," suggesting that setting such targets can help drive better
+performance.</p>
 <p>Reframing a negative habit you want to kick as a <a href="https://theconversation.com/the-science-behind-building-healthy-habits-can-help-you-keep-your-new-years-resolution-219947" rel="noopener noreferrer nofollow" target="_blank"><u>positive habit</u></a> you
 want to foster may also lead to success. For instance, you could reframe
 "stop being sedentary" as "take a 15-minute stroll after dinner each day."
@@ -77,10 +77,7 @@ approaches, lack structural support, and are results of external pressure
 rather than intrinsically motivated.&nbsp;</p>
 <p>Psychologists recommend focusing on the big picture of gradual improvement
 and adopting a <a href="https://www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/202412/why-new-years-resolutions-set-you-up-to-fail?msockid=0e9b106fe0af61863b7b04eae1ea6015" rel="noopener noreferrer nofollow" target="_blank"><u>self-compassionate attitude</u></a> instead
-of immediately berating yourself for experiencing a setback with your goal.
-<a href="https://www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/202412/why-new-years-resolutions-set-you-up-to-fail?msockid=0e9b106fe0af61863b7b04eae1ea6015" rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u>
-</a>
-</p>
+of immediately berating yourself for experiencing a setback with your goal.</p>
 <p><a href="https://www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/202412/why-new-years-resolutions-set-you-up-to-fail?msockid=0e9b106fe0af61863b7b04eae1ea6015" rel="noopener noreferrer nofollow" target="_blank"><u>Adapting </u></a>after
 bingeing potato chips could mean going back and setting up a smaller, more
 reasonably challenging goal for yourself (e.g. chomp on baked nuts instead
@@ -115,7 +112,7 @@ sleep wins. Here's to making 2025 your year!</p>
 <br><strong><em>Featured image created in Canva</em></strong>
 </p>
 <hr>
-<p><em>Last updated 10 Jan 2025</em>
+<p><em>Last updated 20 January 2025</em>
 </p>
 <p>
 <br>
