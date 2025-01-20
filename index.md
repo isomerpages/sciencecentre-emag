@@ -23,15 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: Hack Your New Year's Resolutions
-      subtitle: Psychology, Neuroscience - NEW
+      title: "Exercise Snacking: Fitness on the Go"
+      subtitle: MIND & BODY, NEW STORY
       id: infopic
-      description: Make 2025 your year and set better New Year's resolutions with
-        these insights from psychology and neuroscience.
-      button: Read More
-      image: /images/IMG_8973.png
-      alt: Brain with party hat
-      url: /new-year-resolutions
+      description: Discover the potential of bite-sized workouts to boost
+        cardiovascular health and longevity.
+      button: Read more
+      url: /exercise-snacking
+      image: /images/barbell_cookies.png
+      alt: Barbells
   - textcards:
       title: Highlights
       subtitle: Content
@@ -40,21 +40,31 @@ sections:
         - title: STORIES
           description: "From Parties to Planets: The Science of Disco Balls"
           linktext: Learn more
-          url: https://staging.dzle8oeqpm1f1.amplifyapp.com/disco-balls/
+          url: /disco-balls
         - title: PODCAST
           description: Decoding Artificial Intelligence with Dr. Ayesha Khanna (AddoAl)
           linktext: Learn more
-          url: https://staging.dzle8oeqpm1f1.amplifyapp.com/decoding-ai/
+          url: /decoding-ai
         - title: VIDEOS
           description: The Wok Hei in Hokkien Mee
           linktext: Learn more
-          url: https://staging.dzle8oeqpm1f1.amplifyapp.com/videos/
+          url: /videos
   - infobar:
       title: '"Some spice-lovers might find pleasure amidst the pain."'
       id: infobar
       description: The Chemistry of Mala Xiang Guo
       button: Read More
-      url: https://voiddeck.science.edu.sg/mala-chemistry/
+      url: /mala-chemistry
+  - infopic:
+      title: Hack Your New Year's Resolutions
+      subtitle: Psychology, Neuroscience
+      id: infopic
+      description: Make 2025 your year and set better New Year's resolutions with
+        these insights from psychology and neuroscience.
+      button: Read More
+      image: /images/IMG_8973.png
+      alt: Brain with party hat
+      url: /new-year-resolutions
   - infopic:
       title: "Ho Ho How: Christmas Science Revealed"
       subtitle: CULTURE, CHRISTMAS, HOLIDAY
