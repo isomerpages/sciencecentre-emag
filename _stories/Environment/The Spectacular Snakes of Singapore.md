@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Environment
 ---
 <p>Wishing you prosperity and wisdom this Year of the Snake! To celebrate
-this Chinese zodiac animal's charm and intelligence, we're surveying what
-makes snakes so impressive and learning about the fascinating snake species
+this Chinese zodiac animal's charm and intelligence, let's look at what
+makes snakes so impressive and survey some of the fascinating snake species
 you can find right here in Singapore.&nbsp;</p>
 <p>Snakes exhibit some special qualities that set them apart in the animal
 kingdom. For instance, their elongated, limbless bodies are covered in
@@ -16,8 +16,8 @@ kingdom. For instance, their elongated, limbless bodies are covered in
 help them to move and retain moisture. Their <a href="https://www.nature.com/articles/news990812-11" rel="noopener noreferrer nofollow" target="_blank"><u>stretchable jaws</u></a> have
 flexible joints allowing them to <a href="https://thehsi.org/2015/05/06/biting-off-more-than-they-can-chew-how-snakes-swallow-large-prey/" rel="noopener noreferrer nofollow" target="_blank"><u>feed on prey much larger than their skulls</u></a>.
 Their famous <a href="https://www.kqed.org/science/1982590/why-do-snakes-have-forked-tongues" rel="noopener noreferrer nofollow" target="_blank"><u>forked tongues</u></a> let
-them “smell” their surroundings to locate prey, while some snakes like
-pythons even have <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2855400/" rel="noopener noreferrer nofollow" target="_blank"><u>heat-sensitive pits</u></a> that
+them “smell” their surroundings to locate prey. Certain snakes like pythons
+even have <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2855400/" rel="noopener noreferrer nofollow" target="_blank"><u>heat-sensitive pits</u></a> that
 detect infrared radiation of warm-blooded prey in the dark like thermal
 imaging.</p>
 <p>Although films and popular media often portray snakes as aggressive animals,
@@ -50,15 +50,45 @@ trees, while fossorial snakes spend most of their lives underground. The
 the small <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/1/811" rel="noopener noreferrer nofollow" target="_blank"><u>Brahminy Blind Snake</u></a> is
 fossorial and feeds on soil-dwelling invertebrates such as ant or termite
 larvae, often being mistaken for an earthworm.&nbsp;</p>
-<p>There are many other curious and captivating snakes native to Singapore.
-Consider the <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/481" rel="noopener noreferrer nofollow" target="_blank"><u>blue Malayan coral snake</u></a> (<em>Calliophis bivirgatus</em>)
+<p>There are many curious and captivating snakes native to Singapore. Consider
+the <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/481" rel="noopener noreferrer nofollow" target="_blank"><u>blue Malayan coral snake</u></a> (<em>Calliophis bivirgatus</em>)
 which boasts<a href="https://www.singaporegeographic.com/wild-animals/blue-coral-snake" rel="noopener noreferrer nofollow" target="_blank"><u> the largest venom glands of any snake</u></a>,
 or the rarely spotted <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/833" rel="noopener noreferrer nofollow" target="_blank"><u>twin-barred tree snake</u></a> (<em>Chrysopelea pelias</em>)
 which can <a href="https://www.singaporegeographic.com/wild-animals/twin-barred-tree-snake" rel="noopener noreferrer nofollow" target="_blank"><u>"glide from tree to tree by flattening its body into an aerofoil-like shape and flinging itself itself from tall trees.”</u></a> Other
-cool species to explore: the puff-faced water snake, dog-toothed cat snake,
-whitespotted slug snake… For more information on snakes and how to spot
-them safely and ethically you can visit the <a href="https://herpsocsingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a>'s
+cool species to explore: the puff-faced water snake, gold-ringed cat snake,
+whitespotted slug snake… For more information on snakes and advice on "herping"
+(searching for amphibians and reptiles in the wild) safely and ethically
+you can visit the <a href="https://herpsocsingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a>'s
 website.</p>
+<p>Let's take a virtual tour of some of remarkable snakes native to our island
+home, photographed by local wildlife photographers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shore pit viper photographed by Neo Xiaoyun." src="/images/ShorePitViper_NeoXiaoyun.jpg">
+</div>
+<p>Photo credit: Neo Xiaoyun @eyes.uncloudedd. Photographer's caption: Shore
+Pit Viper (Cryptelytrops purpureomaculatus) in the Pulau Ubin mangroves.
+This was one of the last snakes in Singapore I sighted before departing
+for my master's education abroad, so it has some significance!&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dog-toothed cat snake photographed by Neo Xiaoyun." src="/images/DogToothedCatSnake_NeoXiaoyun_com.jpg">
+</div>
+<p>Photo credit: Neo Xiaoyun @eyes.uncloudedd. Photographer's caption: We
+sighted this Dog-toothed cat snake (Boiga cynodon) in a small secondary
+forest clearing on Pulau Ubin. This species kickstarted my interest in
+the boiga (or cat snake) genus -- so named because of their proportionately
+large heads and large eyes.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Banded krait photographed by Neo Xiaoyun." src="/images/BandedKrait_NeoXiaoyun.jpg">
+</div>
+<p>Photo credit: Neo Xiaoyun @eyes.uncloudedd. Photographer's caption: The
+banded krait (Bungarus fasciatus) is one of&nbsp;seven species of venomous
+snakes native to Singapore. Despite this fearsome label, it is not an aggressive
+species and will not bite if left unprovoked.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Help! Snake Spotted!</strong>
+</p>
 <p>If you encounter a snake in a public area, stay calm and remember that
 snakes are shy creatures and will not attack unless disturbed or provoked.
 Observe from a safe distance and back away slowly so the snake can retreat.
@@ -81,9 +111,9 @@ slither into view (weekdays only).&nbsp;</p>
 <p>For more creepy crawly fun, bring the family to <a href="https://www.science.edu.sg/whats-on/exhibitions/savage-garden" rel="noopener noreferrer nofollow" target="_blank"><u>Savage Garden</u></a>,
 our latest exhibition at Science Centre Singapore featuring carnivorous
 plants and how they ensnare their prey. Tickets for KidsSTOP™ and Science
-Centre Singapore are available <a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. Here's to
-growing our STEM wisdom and nurturing a harmonious relationship with nature
-this Year of the Snake!</p>
+Centre Singapore are available <a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>Here's to growing our STEM wisdom and nurturing a harmonious relationship
+with nature this Year of the Snake!</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <p><strong><em>Special thanks to the <a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a> for their assistance sourcing photos</em></strong>
