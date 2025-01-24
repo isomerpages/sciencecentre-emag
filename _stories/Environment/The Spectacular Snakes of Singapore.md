@@ -62,6 +62,77 @@ and ethically you can visit the <a href="https://herpsocsingapore.wordpress.com/
 website.</p>
 <p>Let's take a virtual tour of some of remarkable snakes native to our island
 home, photographed by local wildlife enthusiasts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Paradise tree snake photographed by Emmanuel Goh." src="/images/ParadiseTreeSnake_EmmanuelGoh_com.png">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/theartofherping/" rel="noopener nofollow" target="_blank">Emmanuel Goh</a>.
+Photographer's caption: A paradise tree snake (<em>Chrysopelea paradisi</em>)
+navigates a shrub.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="House wolf snake photographed by Emmanuel Goh." src="/images/HouseWolfSnake_EmmanuelGoh_com.png">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/theartofherping/" rel="noopener nofollow" target="_blank">Emmanuel Goh</a>.
+Photographer's caption: A house wolf snake (<em>Lycodon capucinus</em>)
+exploring the concrete pavement of Changi Beach.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sumatran Spitting Cobra photographed by Tan Robbin." src="/images/SumatranSpittingCobra_TanRobbin.jpg">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
+Photographer's caption: A curious Sumatran Spitting Cobra (<em>Naja sumatrana</em>).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Striped Kukri Snake photographed by Tan Robbin." src="/images/StripedKukriSnake_TanRobbin.jpg">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
+Photographer's caption: The Striped Kukri Snake (<em>Oligodon octolineatus</em>)
+is named as such due to its sharp teeth which resemble the kukri knives
+used by the gurkhas.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Male Wagler's pit viper photographed by Tan Robbin." src="/images/MaleWaglersPitViper_TanRobbin.jpg">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
+Photographer's caption: Sexual dimorphism between an adult male Wagler's
+Pit Viper (with green) and an adult female Wagler's Pit Viper (with yellow).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Female Wagler's pit viper photographed by Tan Robbin." src="/images/FemaleWaglersPitViper_TanRobbin.jpg">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
+Photographer's caption: Sexual dimorphism between an adult male Wagler's
+Pit Viper (with green) and an adult female Wagler's Pit Viper (with yellow).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Female Wagler's pit viper photographed by Cheo Zi Han." src="/images/FemaleWaglersPitViper_CheoZiHan_com.jpg">
+</div>
+<p>Photo credit: Cheo Zi Han. Photographer's caption: A female Wagler's pit
+viper (<em>Tropidolaemus wagleri</em>).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Reticulated python photographed by Tan Robbin." src="/images/ReticulatedPython_TanRobbin.jpg">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
+Photographer's caption: A Reticulated Python (<em>Malayopython reticulatus</em>)
+on the forest floor.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Oriental whip snake photographed by Tan Robbin." src="/images/OrientalWhipSnake_TanRobbin.jpg">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
+Photographer's caption: An Oriental Whip Snake (<em>Ahaetulla prasina</em>)
+climbs a palm.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Painted bronzeback photographed by Tan Robbin." src="/images/PaintedBronzeback_TanRobbin.jpg">
+</div>
+<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
+Photographer's caption: The Pained Bronzeback (<em>Dendrelaphis pictus</em>)
+might be plain in coloration, but a closer look reveals beautiful blue
+intersitials.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dog-toothed cat snake photographed by Neo Xiaoyun." src="/images/DogToothedCatSnake_NeoXiaoyun_com.jpg">
 </div>
@@ -70,13 +141,16 @@ Photographer's caption: We sighted this dog-toothed cat snake (<em>Boiga cynodon
 in a small secondary forest clearing on Pulau Ubin. This species kickstarted
 my interest in the boiga (or cat snake) genus—so named because of their
 proportionately large heads and large eyes.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Banded krait photographed by Neo Xiaoyun." src="/images/BandedKrait_NeoXiaoyun.jpg">
 </div>
-<p>Photo credit: Neo Xiaoyun @eyes.uncloudedd. Photographer's caption: The
-banded krait (<em>Bungarus fasciatus</em>) is one of&nbsp;seven species
-of venomous snakes native to Singapore. Despite this fearsome label, it
-is not an aggressive species and will not bite if left unprovoked.&nbsp;</p>
+<p>Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>.
+Photographer's caption: The banded krait (<em>Bungarus fasciatus</em>)
+is one of&nbsp;seven species of venomous snakes native to Singapore. Despite
+this fearsome label, it is not an aggressive species and will not bite
+if left unprovoked.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shore Pit Viper photographed by Neo Xiaoyun." src="/images/ShorePitViper_NeoXiaoyun.jpg">
 </div>
@@ -85,7 +159,6 @@ Photographer's caption: Shore Pit Viper (<em>Cryptelytrops purpureomaculatus</em
 in the Pulau Ubin mangroves. This was one of the last snakes in Singapore
 I sighted before departing for my master's education abroad, so it has
 some significance!&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Help! Snake Spotted!</strong>
 </p>
 <p>If you encounter a snake in a public area, stay calm and remember that
@@ -117,6 +190,4 @@ with nature this Year of the Snake!</p>
 </p>
 <p><strong><em>Special thanks to the <a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a> for their assistance sourcing photos</em></strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
