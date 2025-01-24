@@ -46,8 +46,8 @@ creatures can be found basking on the pavement; however, they are generally
 shy, preferring to <a href="https://www.straitstimes.com/singapore/what-to-do-if-a-snake-sneaks-up-on-you-stay-calm-and-back-away-slowly" rel="noopener noreferrer nofollow" target="_blank"><u>retreat away</u></a> from
 humans.</p>
 <p>Singapore is home to <a href="https://www.ourwildneighbours.sg/our-wild-neighbours/snakes" rel="noopener noreferrer nofollow" target="_blank"><u>67 species</u></a> of
-snakes, ranging from the tiny 20-centimeter Brahminy blind snake (<em>Ramphotyphlops braminus</em>),
-one of the to the gigantic reticulated python (<em>Malayopython reticulatus</em>),
+snakes, ranging from the tiny 20-centimeter Brahminy blind snake (<em>Ramphotyphlops braminus</em>)
+to the gigantic reticulated python (<em>Malayopython reticulatus</em>)
 which can grow up to over <a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/snakes" rel="noopener noreferrer nofollow" target="_blank"><u>9 meters</u></a> in
 length. Due to Singapore’s tropical climate, <a href="https://www.ourwildneighbours.sg/our-wild-neighbours/snakes" rel="noopener noreferrer nofollow" target="_blank"><u>snakes are active all year round</u></a>.</p>
 <p>While most people imagine snakes smoothly gliding on the ground, Singapore
