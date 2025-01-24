@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/241024_Hero_Image.png
+      background: /images/241024_hero_image.png
       variant: image
       alignment: left
       backgroundColor: black
@@ -23,15 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Exercise Snacking: Fitness on the Go"
-      subtitle: MIND & BODY, NEW STORY
+      title: The Spectacular Snakes of Singapore
+      subtitle: ENVIRONMENT, NEW STORY
       id: infopic
-      description: Discover the potential of bite-sized workouts to boost
-        cardiovascular health and longevity.
-      button: Read more
-      url: /exercise-snacking
-      image: /images/barbell_cookies.png
-      alt: Barbells
+      description: Slither into the Year of the Snake by exploring some of the
+        fascinating snake species native to Singapore.
+      button: Read More
+      url: /sg-snakes
+      image: /images/DogToothedCatSnake_NeoXiaoyun_com.jpg
+      alt: Dog-toothed cat snake
   - textcards:
       title: Highlights
       subtitle: Content
@@ -55,6 +55,16 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: "Exercise Snacking: Fitness on the Go"
+      subtitle: Health, Fitness, Exercise
+      id: infopic
+      description: Discover the potential of bite-sized workouts to boost
+        cardiovascular health and longevity.
+      button: Read more
+      url: /exercise-snacking
+      image: /images/barbell_cookies.png
+      alt: Barbells
   - infopic:
       title: Hack Your New Year's Resolutions
       subtitle: Psychology, Neuroscience
