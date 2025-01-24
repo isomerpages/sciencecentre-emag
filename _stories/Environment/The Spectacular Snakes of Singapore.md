@@ -12,7 +12,7 @@ image: /images/DogToothedCatSnake_NeoXiaoyun_com.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dog-toothed cat snake by Neo Xiaoyun." src="/images/DogToothedCatSnake_NeoXiaoyun_com.jpg">
 </div>
-<p><em>A dog-toothed cat snake. Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>.</em>
+<p><em>A dog-toothed cat snake. Photo credit: <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">Neo Xiaoyun</a>.</em>
 </p>
 <p>Wishing you prosperity and wisdom this Year of the Snake! To celebrate
 this Chinese zodiac animal's charm and intelligence, let's look at what
@@ -102,16 +102,13 @@ used by the gurkhas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Male Wagler's pit viper photographed by Tan Robbin." src="/images/MaleWaglersPitViper_TanRobbin.jpg">
 </div>
-<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
-Photographer's caption: Sexual dimorphism between an adult male Wagler's
-Pit Viper (with green) and an adult female Wagler's Pit Viper (with yellow).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Female Wagler's pit viper photographed by Tan Robbin." src="/images/FemaleWaglersPitViper_TanRobbin.jpg">
 </div>
-<p>Photo credit: <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>.
-Photographer's caption: Sexual dimorphism between an adult male Wagler's
-Pit Viper (with green) and an adult female Wagler's Pit Viper (with yellow).</p>
+<p>Photo credits (top and bottom): <a href="https://www.instagram.com/robbintann/" rel="noopener nofollow" target="_blank">Tan Robbin</a>. Photographer's
+caption: Sexual dimorphism between an adult male Wagler's Pit Viper (with
+green) and an adult female Wagler's Pit Viper (with yellow).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Female Wagler's pit viper photographed by Cheo Zi Han." src="/images/FemaleWaglersPitViper_CheoZiHan_com.jpg">
@@ -144,7 +141,7 @@ intersitials.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dog-toothed cat snake photographed by Neo Xiaoyun." src="/images/DogToothedCatSnake_NeoXiaoyun_com.jpg">
 </div>
-<p>Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>.
+<p>Photo credit: <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">Neo Xiaoyun</a>.
 Photographer's caption: We sighted this dog-toothed cat snake (<em>Boiga cynodon</em>)
 in a small secondary forest clearing on Pulau Ubin. This species kickstarted
 my interest in the boiga (or cat snake) genus—so named because of their
@@ -153,7 +150,7 @@ proportionately large heads and large eyes.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Banded krait photographed by Neo Xiaoyun." src="/images/BandedKrait_NeoXiaoyun.jpg">
 </div>
-<p>Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>.
+<p>Photo credit: <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">Neo Xiaoyun</a>.
 Photographer's caption: The banded krait (<em>Bungarus fasciatus</em>)
 is one of&nbsp;seven species of venomous snakes native to Singapore. Despite
 this fearsome label, it is not an aggressive species and will not bite
@@ -162,7 +159,7 @@ if left unprovoked.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shore Pit Viper photographed by Neo Xiaoyun." src="/images/ShorePitViper_NeoXiaoyun.jpg">
 </div>
-<p>Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>.
+<p>Photo credit: <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">Neo Xiaoyun</a>.
 Photographer's caption: Shore Pit Viper (<em>Cryptelytrops purpureomaculatus</em>)
 in the Pulau Ubin mangroves. This was one of the last snakes in Singapore
 I sighted before departing for my master's education abroad, so it has
