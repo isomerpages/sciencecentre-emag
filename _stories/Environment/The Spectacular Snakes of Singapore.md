@@ -7,7 +7,7 @@ description: Happy Lunar New Year! Usher in the Year of the Snake by exploring
 third_nav_title: Environment
 image: /images/DogToothedCatSnake_NeoXiaoyun_com.jpg
 ---
-<h4>Usher in the Year of the Snake by exploring some of the fascinating snake species native to Singapore.</h4>
+<h4>Slither into the Year of the Snake by exploring some of the fascinating snake species native to Singapore.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dog-toothed cat snake by Neo Xiaoyun." src="/images/DogToothedCatSnake_NeoXiaoyun_com.jpg">
