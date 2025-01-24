@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/241024_Hero_Image.png
+      background: /images/241024_hero_image.png
       variant: image
       alignment: left
       backgroundColor: black
@@ -22,6 +22,16 @@ sections:
         - title: VIDEO
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
+  - infopic:
+      title: The Spectacular Snakes of Singapore
+      subtitle: ENVIRONMENT, NEW STORY
+      id: infopic
+      description: Happy Lunar New Year! Usher in the Year of the Snake by exploring
+        some of the spectacular snake species native to Singapore.
+      button: Read More
+      url: /sg-snakes
+      image: /images/DogToothedCatSnake_NeoXiaoyun_com.jpg
+      alt: Dog-toothed cat snake
   - textcards:
       title: Highlights
       subtitle: Content
