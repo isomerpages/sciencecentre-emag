@@ -22,16 +22,6 @@ sections:
         - title: VIDEO
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
-  - infopic:
-      title: "Exercise Snacking: Fitness on the Go"
-      subtitle: MIND & BODY, NEW STORY
-      id: infopic
-      description: Discover the potential of bite-sized workouts to boost
-        cardiovascular health and longevity.
-      button: Read more
-      url: /exercise-snacking
-      image: /images/barbell_cookies.png
-      alt: Barbells
   - textcards:
       title: Highlights
       subtitle: Content
@@ -55,6 +45,16 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: "Exercise Snacking: Fitness on the Go"
+      subtitle: Health, Fitness, Exercise
+      id: infopic
+      description: Discover the potential of bite-sized workouts to boost
+        cardiovascular health and longevity.
+      button: Read more
+      url: /exercise-snacking
+      image: /images/barbell_cookies.png
+      alt: Barbells
   - infopic:
       title: Hack Your New Year's Resolutions
       subtitle: Psychology, Neuroscience
