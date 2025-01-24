@@ -5,7 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Environment
 ---
-<h4>Wishing you prosperity and wisdom this Year of the Snake! To celebrate this Chinese zodiac animal's charm and intelligence, let's look at what makes snakes so impressive and survey some of the fascinating snake species you can find right here in Singapore.&nbsp;</h4>
+<h4>Usher in the Year of the Snake by exploring some of the fascinating snake species native to Singapore.</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dog-toothed cat snake by Neo Xiaoyun." src="/images/DogToothedCatSnake_NeoXiaoyun_com.jpg">
+</div>
+<p><em>A dog-toothed cat snake. Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>. </em>
+</p>
+<p>Wishing you prosperity and wisdom this Year of the Snake! To celebrate
+this Chinese zodiac animal's charm and intelligence, let's look at what
+makes snakes so impressive and survey some of the fascinating snake species
+you can find right here in Singapore.&nbsp;</p>
 <p>Snakes exhibit some special qualities that set them apart in the animal
 kingdom. For instance, their elongated, limbless bodies are covered in
 <a href="https://www.nationalgeographic.com/animals/reptiles/facts/snakes-1" rel="noopener nofollow" target="_blank">scales</a>made of keratin (yes, the same material as human fingernails!)
