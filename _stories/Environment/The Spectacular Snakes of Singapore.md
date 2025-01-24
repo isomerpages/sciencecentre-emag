@@ -10,7 +10,7 @@ third_nav_title: Environment
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dog-toothed cat snake by Neo Xiaoyun." src="/images/DogToothedCatSnake_NeoXiaoyun_com.jpg">
 </div>
-<p><em>A dog-toothed cat snake. Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>. </em>
+<p><em>A dog-toothed cat snake. Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>.</em>
 </p>
 <p>Wishing you prosperity and wisdom this Year of the Snake! To celebrate
 this Chinese zodiac animal's charm and intelligence, let's look at what
@@ -169,12 +169,12 @@ some significance!&nbsp;</p>
 </p>
 <p>If you encounter a snake in a public area, stay calm and remember that
 snakes are shy creatures and will not attack unless disturbed or provoked.
-Observe from a safe distance and back away slowly so the snake can retreat.
-If you are at home, keep your family and pets away from the snake and leave
-the doors and windows open in the room for the snake to escape. Do not
-attempt to wrangle the animal and call NParks’ 24-hr Animal Response Centre
-(1800-476-1600) or ACRES (9783-7782) for assistance if required. You can
-consult this handy snake <a href="https://drive.google.com/drive/folders/1RtIY6mm5NoB18T2EQURK41q85P5MCRzz" rel="noopener noreferrer nofollow" target="_blank"><u>advisory</u></a> from
+Observe from a safe distance and back away slowly so the snake can retreat.</p>
+<p>If you are at home, keep your family and pets away from the snake and
+leave the doors and windows open in the room for the snake to escape. Do
+not attempt to wrangle the animal and call NParks’ 24-hr Animal Response
+Centre (1800-476-1600) or ACRES (9783-7782) for assistance if required.
+You can consult this handy snake <a href="https://drive.google.com/drive/folders/1RtIY6mm5NoB18T2EQURK41q85P5MCRzz" rel="noopener noreferrer nofollow" target="_blank"><u>advisory</u></a> from
 Our Wild Neighbours for more helpful information.&nbsp;</p>
 <p><strong>Increase Your Sssmarts this Year of the Snake at Science Centre Singapore</strong>
 </p>
