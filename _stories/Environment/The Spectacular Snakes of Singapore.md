@@ -165,7 +165,7 @@ Photographer's caption: Shore Pit Viper (<em>Cryptelytrops purpureomaculatus</em
 in the Pulau Ubin mangroves. This was one of the last snakes in Singapore
 I sighted before departing for my master's education abroad, so it has
 some significance!&nbsp;</p>
-<p><strong>Help! Snake Spotted!</strong>
+<p><strong>What do I do if I encounter a snake?</strong>
 </p>
 <p>If you encounter a snake in a public area, stay calm and remember that
 snakes are shy creatures and will not attack unless disturbed or provoked.
