@@ -59,10 +59,10 @@ lizards and frogs. In contrast, the small <a href="https://www.nparks.gov.sg/flo
 often mistaken for an earthworm, is fossorial and feeds on soil-dwelling
 invertebrates such as ant or termite larvae.&nbsp;</p>
 <p>There are many curious and captivating snakes native to Singapore. Consider
-the <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/481" rel="noopener noreferrer nofollow" target="_blank"><u>blue Malayan coral snake</u></a> (<em>Calliophis bivirgatus</em>)
-which boasts<a href="https://www.singaporegeographic.com/wild-animals/blue-coral-snake" rel="noopener noreferrer nofollow" target="_blank"><u> the largest venom glands of any snake</u></a>,
-or the rarely spotted <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/833" rel="noopener noreferrer nofollow" target="_blank"><u>twin-barred tree snake</u></a> (<em>Chrysopelea pelias</em>)
-which can <a href="https://www.singaporegeographic.com/wild-animals/twin-barred-tree-snake" rel="noopener noreferrer nofollow" target="_blank"><u>"glide from tree to tree by flattening its body into an aerofoil-like shape and flinging itself itself from tall trees.”</u></a> Other
+the <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/481" rel="noopener noreferrer nofollow" target="_blank"><u>blue Malayan coral snake</u></a> (<em>Calliophis bivirgatus</em>),
+which boasts<a href="https://www.singaporegeographic.com/wild-animals/blue-coral-snake" rel="noopener noreferrer nofollow" target="_blank"><u> the largest venom glands of any snake</u></a>.
+Or the mesmerizing, rarely-seen <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/833" rel="noopener noreferrer nofollow" target="_blank"><u>twin-barred tree snake</u></a> (<em>Chrysopelea pelias</em>),
+which can <a href="https://www.singaporegeographic.com/wild-animals/twin-barred-tree-snake" rel="noopener noreferrer nofollow" target="_blank"><u>"glide from tree to tree by flattening its body into an aerofoil-like shape and flinging itself from tall trees.”</u></a> Other
 delightfully named species to explore: the <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/835" rel="noopener nofollow" target="_blank">puff-faced water snake</a>,
 <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/484" rel="noopener nofollow" target="_blank">gold-ringed cat snake</a>, <a href="https://www.ecologyasia.com/verts/snakes/white-spotted-slug-snake.htm" rel="noopener nofollow" target="_blank">white-spotted slug snake</a>…
 For more information on snakes and advice on herping (searching for amphibians
