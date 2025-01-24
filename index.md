@@ -26,8 +26,8 @@ sections:
       title: The Spectacular Snakes of Singapore
       subtitle: ENVIRONMENT, NEW STORY
       id: infopic
-      description: Happy Lunar New Year! Usher in the Year of the Snake by exploring
-        some of the spectacular snake species native to Singapore.
+      description: Slither into the Year of the Snake by exploring some of the
+        fascinating snake species native to Singapore.
       button: Read More
       url: /sg-snakes
       image: /images/DogToothedCatSnake_NeoXiaoyun_com.jpg
