@@ -198,4 +198,3 @@ with nature this Year of the Snake!</p>
 </p>
 <p><strong><em>Special thanks to the <a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a> for their assistance sourcing photos</em></strong>
 </p>
-<p>What Should I Do if I Encounter a Snake?</p>
