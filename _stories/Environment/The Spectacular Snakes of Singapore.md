@@ -8,9 +8,8 @@ third_nav_title: Environment
 <h4>Wishing you prosperity and wisdom this Year of the Snake! To celebrate this Chinese zodiac animal's charm and intelligence, let's look at what makes snakes so impressive and survey some of the fascinating snake species you can find right here in Singapore.&nbsp;</h4>
 <p>Snakes exhibit some special qualities that set them apart in the animal
 kingdom. For instance, their elongated, limbless bodies are covered in
-<a href="https://www.nationalgeographic.com/animals/reptiles/facts/snakes-1" rel="noopener noreferrer nofollow" target="_blank"><u>scales</u>
-</a>made of keratin (yes, the same material as human fingernails!) that help
-them to move and retain moisture. Their <a href="https://www.nature.com/articles/news990812-11" rel="noopener noreferrer nofollow" target="_blank"><u>stretchable jaws</u></a> have
+<a href="https://www.nationalgeographic.com/animals/reptiles/facts/snakes-1" rel="noopener nofollow" target="_blank">scales</a>made of keratin (yes, the same material as human fingernails!)
+that help them to move and retain moisture. Their <a href="https://www.nature.com/articles/news990812-11" rel="noopener noreferrer nofollow" target="_blank"><u>stretchable jaws</u></a> have
 flexible joints allowing them to <a href="https://thehsi.org/2015/05/06/biting-off-more-than-they-can-chew-how-snakes-swallow-large-prey/" rel="noopener noreferrer nofollow" target="_blank"><u>feed on prey much larger than their skulls</u></a>.
 Their famous <a href="https://www.kqed.org/science/1982590/why-do-snakes-have-forked-tongues" rel="noopener noreferrer nofollow" target="_blank"><u>forked tongues</u></a> let
 them “smell” their surroundings to locate prey. Certain snakes like pythons
