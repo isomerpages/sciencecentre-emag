@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/241024_hero_image.png
+      background: /images/hero_image2.png
       variant: image
       alignment: left
       backgroundColor: black
