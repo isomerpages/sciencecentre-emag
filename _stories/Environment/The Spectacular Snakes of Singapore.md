@@ -34,7 +34,7 @@ web as predators of small animals and prey to larger mammals and birds"
 according to <a href="https://www.nparks.gov.sg/-/media/wmd/for-advisories/snakes/an-advisory-on-snakes--booklet-form.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>NParks’ advisory on snakes</u></a>.&nbsp;</p>
 <p>Snakes have adapted to Singapore's highly urbanised environments by travelling
 through drains and canals to hunt rats and other animals. These <a href="https://www.straitstimes.com/singapore/what-to-do-if-a-snake-sneaks-up-on-you-stay-calm-and-back-away-slowly" rel="noopener noreferrer nofollow" target="_blank"><u>ectothermic</u></a> (cold-blooded)
-creatures can be found basking on the pavement, however, they are generally
+creatures can be found basking on the pavement; however, they are generally
 shy, preferring to <a href="https://www.straitstimes.com/singapore/what-to-do-if-a-snake-sneaks-up-on-you-stay-calm-and-back-away-slowly" rel="noopener noreferrer nofollow" target="_blank"><u>retreat away</u></a> from
 humans.</p>
 <p>Singapore is home to <a href="https://www.ourwildneighbours.sg/our-wild-neighbours/snakes" rel="noopener noreferrer nofollow" target="_blank"><u>67 species</u></a> of
@@ -46,46 +46,45 @@ length. Due to Singapore’s tropical climate, <a href="https://www.ourwildneigh
 also has arboreal snakes and fossorial snakes. Arboreal snakes reside in
 trees, while fossorial snakes spend most of their lives underground. The
 <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/830" rel="noopener noreferrer nofollow" target="_blank"><u>painted bronzeback</u>
-</a>, for example, is arboreal and feeds on lizards and frogs. In contrast,
-the small <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/1/811" rel="noopener noreferrer nofollow" target="_blank"><u>Brahminy Blind Snake</u></a> is
-fossorial and feeds on soil-dwelling invertebrates such as ant or termite
-larvae, often being mistaken for an earthworm.&nbsp;</p>
+</a>(<em>Dendrelaphis pictus</em>), for example, is arboreal and feeds on
+lizards and frogs. In contrast, the small <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/1/811" rel="noopener noreferrer nofollow" target="_blank"><u>Brahminy Blind Snake</u></a>,
+often mistaken for an earthworm, is fossorial and feeds on soil-dwelling
+invertebrates such as ant or termite larvae.&nbsp;</p>
 <p>There are many curious and captivating snakes native to Singapore. Consider
 the <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/481" rel="noopener noreferrer nofollow" target="_blank"><u>blue Malayan coral snake</u></a> (<em>Calliophis bivirgatus</em>)
 which boasts<a href="https://www.singaporegeographic.com/wild-animals/blue-coral-snake" rel="noopener noreferrer nofollow" target="_blank"><u> the largest venom glands of any snake</u></a>,
 or the rarely spotted <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/833" rel="noopener noreferrer nofollow" target="_blank"><u>twin-barred tree snake</u></a> (<em>Chrysopelea pelias</em>)
 which can <a href="https://www.singaporegeographic.com/wild-animals/twin-barred-tree-snake" rel="noopener noreferrer nofollow" target="_blank"><u>"glide from tree to tree by flattening its body into an aerofoil-like shape and flinging itself itself from tall trees.”</u></a> Other
-cool species to explore: the puff-faced water snake, gold-ringed cat snake,
-whitespotted slug snake… For more information on snakes and advice on "herping"
-(searching for amphibians and reptiles in the wild) safely and ethically
-you can visit the <a href="https://herpsocsingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a>'s
+delightfully named species to explore: the puff-faced water snake, gold-ringed
+cat snake, whitespotted slug snake… For more information on snakes and
+advice on herping (searching for amphibians and reptiles in the wild) safely
+and ethically you can visit the <a href="https://herpsocsingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a>'s
 website.</p>
 <p>Let's take a virtual tour of some of remarkable snakes native to our island
-home, photographed by local wildlife photographers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shore pit viper photographed by Neo Xiaoyun." src="/images/ShorePitViper_NeoXiaoyun.jpg">
-</div>
-<p>Photo credit: Neo Xiaoyun @eyes.uncloudedd. Photographer's caption: Shore
-Pit Viper (Cryptelytrops purpureomaculatus) in the Pulau Ubin mangroves.
-This was one of the last snakes in Singapore I sighted before departing
-for my master's education abroad, so it has some significance!&nbsp;</p>
-<p></p>
+home, photographed by local wildlife enthusiasts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dog-toothed cat snake photographed by Neo Xiaoyun." src="/images/DogToothedCatSnake_NeoXiaoyun_com.jpg">
 </div>
-<p>Photo credit: Neo Xiaoyun @eyes.uncloudedd. Photographer's caption: We
-sighted this Dog-toothed cat snake (Boiga cynodon) in a small secondary
-forest clearing on Pulau Ubin. This species kickstarted my interest in
-the boiga (or cat snake) genus -- so named because of their proportionately
-large heads and large eyes.&nbsp;</p>
-<p></p>
+<p>Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>.
+Photographer's caption: We sighted this dog-toothed cat snake (<em>Boiga cynodon</em>)
+in a small secondary forest clearing on Pulau Ubin. This species kickstarted
+my interest in the boiga (or cat snake) genus—so named because of their
+proportionately large heads and large eyes.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Banded krait photographed by Neo Xiaoyun." src="/images/BandedKrait_NeoXiaoyun.jpg">
 </div>
 <p>Photo credit: Neo Xiaoyun @eyes.uncloudedd. Photographer's caption: The
-banded krait (Bungarus fasciatus) is one of&nbsp;seven species of venomous
-snakes native to Singapore. Despite this fearsome label, it is not an aggressive
-species and will not bite if left unprovoked.&nbsp;</p>
+banded krait (<em>Bungarus fasciatus</em>) is one of&nbsp;seven species
+of venomous snakes native to Singapore. Despite this fearsome label, it
+is not an aggressive species and will not bite if left unprovoked.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shore Pit Viper photographed by Neo Xiaoyun." src="/images/ShorePitViper_NeoXiaoyun.jpg">
+</div>
+<p>Photo credit: Neo Xiaoyun <a href="https://www.instagram.com/eyes.uncloudedd/" rel="noopener nofollow" target="_blank">@eyes.uncloudedd</a>.
+Photographer's caption: Shore Pit Viper (<em>Cryptelytrops purpureomaculatus</em>)
+in the Pulau Ubin mangroves. This was one of the last snakes in Singapore
+I sighted before departing for my master's education abroad, so it has
+some significance!&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Help! Snake Spotted!</strong>
 </p>
