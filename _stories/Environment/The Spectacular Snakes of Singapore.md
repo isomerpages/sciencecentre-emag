@@ -61,10 +61,10 @@ the <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/481" rel="noopene
 which boasts<a href="https://www.singaporegeographic.com/wild-animals/blue-coral-snake" rel="noopener noreferrer nofollow" target="_blank"><u> the largest venom glands of any snake</u></a>,
 or the rarely spotted <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/833" rel="noopener noreferrer nofollow" target="_blank"><u>twin-barred tree snake</u></a> (<em>Chrysopelea pelias</em>)
 which can <a href="https://www.singaporegeographic.com/wild-animals/twin-barred-tree-snake" rel="noopener noreferrer nofollow" target="_blank"><u>"glide from tree to tree by flattening its body into an aerofoil-like shape and flinging itself itself from tall trees.”</u></a> Other
-delightfully named species to explore: the puff-faced water snake, gold-ringed
-cat snake, whitespotted slug snake… For more information on snakes and
-advice on herping (searching for amphibians and reptiles in the wild) safely
-and ethically you can visit the <a href="https://herpsocsingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a>'s
+delightfully named species to explore: the <a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/835" rel="noopener nofollow" target="_blank">puff-faced water snake</a>,
+<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/484" rel="noopener nofollow" target="_blank">gold-ringed cat snake</a>, <a href="https://www.ecologyasia.com/verts/snakes/white-spotted-slug-snake.htm" rel="noopener nofollow" target="_blank">white-spotted slug snake</a>…
+For more information on snakes and advice on herping (searching for amphibians
+and reptiles in the wild) safely and ethically you can visit the <a href="https://herpsocsingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Herpetological Society of Singapore</u></a>'s
 website.</p>
 <p>Let's take a virtual tour of some of remarkable snakes native to our island
 home, photographed by local wildlife enthusiasts.</p>
