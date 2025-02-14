@@ -57,6 +57,11 @@ Song Dynasty are the <a href="https://www.nature.com/articles/s41598-017-15815-6
 hips," qualities that persist in contemporary wild rose species. Today
 there are over <a href="https://www.therosesociety.org.uk/about-roses/" rel="noopener noreferrer nofollow" target="_blank"><u>300 species of roses and tens of thousands of cultivars</u></a> bred
 for unique fragrances, colours, and scents.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Li Di's Red and White Cotton Roses (1197 AD). Source: Daily Art Magazine" src="/images/01_Li_Di_Red_and_White_Cotton_Roses_Southern_Song_Dynasty_1197_color_on_silk_Tokyo_National_Museum_Tokyo_Japan_1536x864.jpg">
+</div>
+<p><em>Detail of Li Di's Red and White Cotton Roses from 1197 AD, color on silk, Tokyo National Museum, Tokyo, Japan. Source: <a href="https://www.dailyartmagazine.com/masterpiece-story-red-and-white-cotton-roses-by-li-di/" rel="noopener nofollow" target="_blank">Daily Art Magazine</a></em>
+</p>
 <p>While English idioms like “there is no rose without a thorn” are common
 and there are countless songs about the dangers of love’s sharp spikes,
 <a href="https://libanswers.nybg.org/faq/222797" rel="noopener noreferrer nofollow" target="_blank"><u>roses actually don’t have thorns</u>
