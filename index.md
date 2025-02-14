@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/241024_hero_image.png
+      background: /images/hero_image2.png
       variant: image
       alignment: left
       backgroundColor: black
@@ -23,15 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: The Spectacular Snakes of Singapore
+      title: "Romance in Bloom: All About Roses"
       subtitle: ENVIRONMENT, NEW STORY
       id: infopic
-      description: Slither into the Year of the Snake by exploring some of the
-        fascinating snake species native to Singapore.
+      description: This Valentine's Day, get to know the horticultural origins and
+        plant science behind this cherished bloom.
       button: Read More
-      url: /sg-snakes
-      image: /images/DogToothedCatSnake_NeoXiaoyun_com.jpg
-      alt: Dog-toothed cat snake
+      url: /roses
+      image: /images/Roses_VD_Article_Feature_Image.png
+      alt: Rose
   - textcards:
       title: Highlights
       subtitle: Content
@@ -55,6 +55,16 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: The Spectacular Snakes of Singapore
+      subtitle: ANIMALS, NATURE
+      id: infopic
+      description: Slither into the Year of the Snake by exploring some of the
+        fascinating snake species native to Singapore.
+      button: Read More
+      url: /sg-snakes
+      image: /images/DogToothedCatSnake_NeoXiaoyun_com.jpg
+      alt: Dog-toothed cat snake
   - infopic:
       title: "Exercise Snacking: Fitness on the Go"
       subtitle: Health, Fitness, Exercise
