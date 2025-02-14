@@ -72,6 +72,12 @@ woody points of certain shrubs and trees”, while prickles “form from the
 skin of the plant, similar to how hair grows” according to <a href="https://amp.cnn.com/cnn/2024/08/01/science/rose-thorn-prickles-evolution-study" rel="noopener noreferrer nofollow" target="_blank"><u>CNN</u></a>.
 These prickles help <a href="https://edition.cnn.com/2024/08/01/science/rose-thorn-prickles-evolution-study/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>defend roses</u></a> against
 animals who would otherwise chomp on them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rose prickles. Photo credit: JJ Harrison/Wikimedia Commons" src="/images/Rose_Prickles.jpg">
+</div>
+<p><em>Rose prickles. Photo credit: <a href="https://en.wikipedia.org/wiki/File:Rose_Prickles.jpg" rel="noopener nofollow" target="_blank">JJ Harrison/Wikimedia Commons</a>.</em>
+</p>
 <p>If finding your life partner is a thorny subject for you this Valentine’s
 Day,&nbsp;you may find comfort that you’ll never truly be alone in the
 fascinating world of plant genetics. Recent research has uncovered how
