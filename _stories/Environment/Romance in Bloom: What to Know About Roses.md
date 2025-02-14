@@ -32,7 +32,7 @@ Botanists experimented with new rose varieties to meet consumer demands.&nbsp;</
 <p>One famous rose cultivar is the American Beauty Rose. Bred by Henri Lédéchaux
 in France in 1875, the American Beauty spread across the northeastern United
 States with its deep pink and crimson colours. Bestowed with the nickname
-<a href="https://time.com/5519476/roses-symbol-love-valentines-day/" rel="noopener noreferrer nofollow" target="_blank"><u> “millionaire’s rose”</u>
+<a href="https://time.com/5519476/roses-symbol-love-valentines-day/" rel="noopener noreferrer nofollow" target="_blank"><u>“millionaire’s rose”</u>
 </a>for its hefty price in the 1800s, this classic variety continues to be
 a popular Valentine’s Day purchase to this day.</p>
 <p>The scientific definition of a rose is <a href="https://www.britannica.com/question/What-is-a-rose" rel="noopener noreferrer nofollow" target="_blank"><u>a woody perennial flowering plant in the genus </u></a><em><a href="https://www.britannica.com/question/What-is-a-rose" rel="noopener noreferrer nofollow" target="_blank"><u>Rosa</u></a></em>.
