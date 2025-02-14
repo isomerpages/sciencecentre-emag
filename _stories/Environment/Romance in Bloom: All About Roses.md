@@ -8,7 +8,7 @@ description: Love is in the air and roses are the hottest flower of the holiday.
 third_nav_title: Environment
 image: /images/Roses_VD_Article_Feature_Image.png
 ---
-<h4>Love is in the air and roses are the hottest flower of the holiday. This Valentine's Day, get to know the horticultural origins and plant science behind this cherished bloom.</h4>
+<h4>Love is in the air, and so is the sweet fragrance of roses. This Valentine's Day, get to know the horticultural origins and plant science behind this cherished bloom.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A rose." src="/images/Roses_VD_Article_Feature_Image.png">
@@ -18,8 +18,8 @@ image: /images/Roses_VD_Article_Feature_Image.png
 <p>Roses have long symbolized Valentine's Day, even more than heart-shaped
 chocolates or cuddly teddy bears. The trade group Society of American Florists
 estimates that <a href="https://edition.cnn.com/2019/02/13/business/roses-flowers-valentines-day/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>more than 250 million roses</u></a> alone
-are produced just for 14 February. This captivating bloom garners big bucks
-- the international rose trade market amounted to<a href="https://www.spglobal.com/market-intelligence/en/news-insights/research/festival-favour-and-freight-global-rose-trade" rel="noopener noreferrer nofollow" target="_blank"><u> 4.58 billion USD</u></a> in
+are produced just for 14 February. This captivating bloom garners big bucks:
+the international rose trade market amounted to<a href="https://www.spglobal.com/market-intelligence/en/news-insights/research/festival-favour-and-freight-global-rose-trade" rel="noopener noreferrer nofollow" target="_blank"><u> 4.58 billion USD</u></a> in
 2020.&nbsp;</p>
 <p>Let's get to the roots of these beautiful plants, tracing their journey
 from ancient origins to modern-day symbols of love.</p>
@@ -41,7 +41,7 @@ States with its deep pink and crimson colours. Bestowed with the nickname
 <a href="https://time.com/5519476/roses-symbol-love-valentines-day/" rel="noopener noreferrer nofollow" target="_blank"><u>“millionaire’s rose”</u>
 </a>for its hefty price in the 1800s, this classic variety continues to be
 a popular Valentine’s Day purchase to this day.</p>
-<p>The scientific definition of a rose is <a href="https://www.britannica.com/question/What-is-a-rose" rel="noopener noreferrer nofollow" target="_blank"><u>a woody perennial flowering plant in the genus </u></a><em><a href="https://www.britannica.com/question/What-is-a-rose" rel="noopener noreferrer nofollow" target="_blank"><u>Rosa</u></a></em>.
+<p>The scientific definition of a rose is <a href="https://www.britannica.com/question/What-is-a-rose" rel="noopener nofollow" target="_blank">a woody perennial flowering plant in the genus </a><em><a href="https://www.britannica.com/question/What-is-a-rose" rel="noopener nofollow" target="_blank">Rosa</a></em>.
 The <em>Rosa</em> genus includes approximately 100 species of perennial shrubs
 in the rose family <em><a href="https://www.britannica.com/plant/Rosaceae" rel="noopener noreferrer nofollow" target="_blank"><u>Rosaceae</u></a></em>.
 Roses are closely affiliated with several other economically important
@@ -67,17 +67,17 @@ Song Dynasty are the <a href="https://www.nature.com/articles/s41598-017-15815-6
 </a>had "five-petaled flowers, distinctive oval serrated leaves and colourful
 hips," qualities that persist in contemporary wild rose species. Today
 there are over <a href="https://www.therosesociety.org.uk/about-roses/" rel="noopener noreferrer nofollow" target="_blank"><u>300 species of roses and tens of thousands of cultivars</u></a> bred
-for unique fragrances, colours, and scents.</p>
+for unique colours, shapes, sizes, growth habits, and scents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Li Di's Red and White Cotton Roses (1197 AD). Source: Daily Art Magazine" src="/images/01_Li_Di_Red_and_White_Cotton_Roses_Southern_Song_Dynasty_1197_color_on_silk_Tokyo_National_Museum_Tokyo_Japan_1536x864.jpg">
 </div>
-<p><em>Detail of Li Di's Red and White Cotton Roses from 1197 AD, color on silk, Tokyo National Museum, Tokyo, Japan. Source: <a href="https://www.dailyartmagazine.com/masterpiece-story-red-and-white-cotton-roses-by-li-di/" rel="noopener nofollow" target="_blank">Daily Art Magazine</a></em>
+<p><em>Detail of Li Di's </em>Red and White Cotton Roses <em>from 1197 AD, color on silk, Tokyo National Museum, Tokyo, Japan. Source: <a href="https://www.dailyartmagazine.com/masterpiece-story-red-and-white-cotton-roses-by-li-di/" rel="noopener nofollow" target="_blank">Daily Art Magazine</a></em>
 </p>
 <p>While English idioms like “there is no rose without a thorn” are common
-and there are countless songs about the dangers of love’s sharp spikes,
-<a href="https://libanswers.nybg.org/faq/222797" rel="noopener noreferrer nofollow" target="_blank"><u>roses actually don’t have thorns</u>
-</a>. In botanical language, those pokey bits sticking out from the stem are
-actually prickles.&nbsp;</p>
+and there are countless songs about the barbed nature of this flower of
+love, <a href="https://libanswers.nybg.org/faq/222797" rel="noopener noreferrer nofollow" target="_blank"><u>roses actually don’t have thorns</u></a>.
+Strictly speaking, in botanical language, those pokey bits sticking out
+from the stem are actually prickles.&nbsp;</p>
 <p>What’s the difference? In plant science terms, thorns refer to the “sharp
 woody points of certain shrubs and trees”, while prickles “form from the
 skin of the plant, similar to how hair grows” according to <a href="https://amp.cnn.com/cnn/2024/08/01/science/rose-thorn-prickles-evolution-study" rel="noopener noreferrer nofollow" target="_blank"><u>CNN</u></a>.
