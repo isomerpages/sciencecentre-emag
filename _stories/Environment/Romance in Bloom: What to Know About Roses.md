@@ -20,7 +20,6 @@ from ancient origins to modern-day symbols of love.</p>
 England, it became fashionable to send elaborate floral bouquets as <a href="https://www.atlasobscura.com/articles/how-flowerobsessed-victorians-encoded-messages-in-bouquets" rel="noopener noreferrer nofollow" target="_blank"><u>secret messages</u></a>.
 Each flower and colour was paired with a particular emotion, with red roses
 signifying love.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Rose from Victorian floral dictionary. Photo credit: Mann Library" src="/images/victorian_rose.jpg">
 </div>
@@ -47,6 +46,11 @@ Europe, <a href="https://www.britannica.com/plant/rose-plant" rel="noopener nore
 According to fossil records, roses originated in Central Asia approximately
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4551085/" rel="noopener noreferrer nofollow" target="_blank"><u>thirty million years ago</u>
 </a>.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Source: Conart et al. (2022)" src="/images/Overview_of_the_evolution_of_the_Rosaceae_family_and_of_the_Rosa_genus_a_Antique.png">
+</div>
+<p><em>Fig. 1 from <a href="https://academic.oup.com/mbe/article/39/2/msac002/6505224" rel="noopener nofollow" target="_blank">Conart et al. (2022)</a> providing an overview of the evolution of the Rosaceae family and of the Rosa genus. (a) Antique murals in (∼1,700 B.C.). Arrow shows the original drawing of a wild rose (the other drawing was made during an irreversible restoration). (b) Antique murals in Pompei (∼79 A.C.). Roses were painted with dozens of petals (arrow). (c) Synthetic phylogeny and evolution diagram obtained by simplification of data from <a href="https://academic.oup.com/aob/article-abstract/115/2/275/93307" class="link link-ref link-reveal xref-bibr" rel="noopener noreferrer nofollow" target="_blank">Fougère-Danezan et al. (2015)</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1055790315000779" class="link link-ref link-reveal xref-bibr" rel="noopener noreferrer nofollow" target="_blank">Zhu et al. (2015)</a>, <a href="https://academic.oup.com/mbe/article/34/2/262/2528249" class="link link-ref link-reveal xref-bibr" rel="noopener noreferrer nofollow" target="_blank">Xiang et al. (2017)</a>, <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14461" class="link link-ref link-reveal xref-bibr" rel="noopener noreferrer nofollow" target="_blank">Zhang et al. (2017)</a>, and <a href="https://link.springer.com/article/10.1186/s12862-019-1479-z" class="link link-ref link-reveal xref-bibr" rel="noopener noreferrer nofollow" target="_blank">Debray et al. (2019)</a>.</em>
+</p>
 <p><a href="https://www.gardensbythebay.com.sg/en/learn-with-us/explore-resources/whats-blooming/roses.html" rel="noopener noreferrer nofollow" target="_blank"><u>Ancient civilisations</u></a> like
 the Chinese, Egyptians, Greeks and Romans helped pioneer rose cultivation.
 In fact, the<a href="https://www.kew.org/plants/roses" rel="noopener noreferrer nofollow" target="_blank"><u> first rose garden</u></a> was
