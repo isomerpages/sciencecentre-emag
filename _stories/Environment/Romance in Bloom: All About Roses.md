@@ -93,7 +93,7 @@ animals who would otherwise chomp on them.</p>
 Day,&nbsp;you may find comfort that you’ll never truly be alone in the
 fascinating world of plant genetics. Recent research has uncovered how
 similar features like prickles emerge amongst unrelated plant species.
-A <a href="https://www.science.org/doi/10.1126/science.ado1663" rel="noopener nofollow" target="_blank">A 2024 study published in </a><em><a href="https://www.science.org/doi/10.1126/science.ado1663" rel="noopener nofollow" target="_blank">Science</a></em> concluded
+<a href="https://www.science.org/doi/10.1126/science.ado1663" rel="noopener nofollow" target="_blank">A 2024 study published in</a><em><a href="https://www.science.org/doi/10.1126/science.ado1663" rel="noopener nofollow" target="_blank">Science</a></em> concluded
 that one ancient gene family called "Lonely Guy" is responsible for the
 prickles in many diverse plants such as roses and <a href="https://www.science.org/doi/10.1126/science.adr2473" rel="noopener noreferrer nofollow" target="_blank"><u>other key crops such as wild eggplant, cucumber, and rice</u></a> that
 evolved over millions of years. Quite an impressive legacy for a "Lonely
