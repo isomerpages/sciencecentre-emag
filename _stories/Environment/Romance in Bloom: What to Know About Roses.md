@@ -8,6 +8,12 @@ description: Love is in the air and roses are the hottest flower of the holiday.
 third_nav_title: Environment
 ---
 <h4>Love is in the air and roses are the hottest flower of the holiday. This Valentine's Day, get to know the horticultural origins and plant science behind this cherished bloom.</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A rose." src="/images/Roses_VD_Article_Feature_Image.png">
+</div>
+<p><em>Graphic created in Canva.</em>
+</p>
 <p>Roses have long symbolized Valentine's Day, even more than heart-shaped
 chocolates or cuddly teddy bears. The trade group Society of American Florists
 estimates that <a href="https://edition.cnn.com/2019/02/13/business/roses-flowers-valentines-day/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>more than 250 million roses</u></a> alone
