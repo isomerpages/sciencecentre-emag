@@ -23,15 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Romance in Bloom: All About Roses"
-      subtitle: ENVIRONMENT, NEW STORY
+      title: The Science of the Silver Screen
+      subtitle: CULTURE, MOVIES, NEW STORY
       id: infopic
-      description: This Valentine's Day, get to know the horticultural origins and
-        plant science behind this cherished bloom.
+      description: As Oscars season rolls around, go behind-the-scenes to discover the
+        technology, chemistry, and optics behind movie theatre magic.
       button: Read More
-      url: /roses
-      image: /images/Roses_VD_Article_Feature_Image.png
-      alt: Rose
+      url: /silver-screen
+      image: /images/oscars_article_emag_infopic.png
+      alt: Oscar statue
   - textcards:
       title: Highlights
       subtitle: Content
@@ -55,6 +55,16 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: "Romance in Bloom: All About Roses"
+      subtitle: ENVIRONMENT, FLOWERS, BOTANY
+      id: infopic
+      description: This Valentine's Day, get to know the horticultural origins and
+        plant science behind this cherished bloom.
+      button: Read More
+      url: /roses
+      image: /images/Roses_VD_Article_Feature_Image.png
+      alt: Rose
   - infopic:
       title: The Spectacular Snakes of Singapore
       subtitle: ANIMALS, NATURE
