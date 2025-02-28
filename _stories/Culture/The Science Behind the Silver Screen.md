@@ -90,7 +90,7 @@ into 3D.</p>
 </div>
 <p><em>Diagram contrasting view of anaglyph and polarized 3D glasses. Source: <a href="https://dx.doi.org/10.5815/ijieeb.2021.01.04" rel="noopener noreferrer nofollow" target="_blank">Laghari et al. (2021)</a></em>
 </p>
-<p>While 3D movies might be considered passing fads, the 2000s saw another
+<p>While 3D movies might be considered a novelty gag, the 2000s saw another
 3D renaissance with James Cameron’s <em>Avatar</em>. According to <em><a href="https://www.popularmechanics.com/culture/movies/a5067/4339455/" rel="noopener noreferrer nofollow" target="_blank">Popular Mechanics</a></em>, <em>Avatar </em>pioneered
 new technologies such as a 3D camera that presented an augmented-reality
 view by "integrating the live actors into CG environments on the viewfinder.”
