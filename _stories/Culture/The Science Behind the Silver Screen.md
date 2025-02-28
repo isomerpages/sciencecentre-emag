@@ -8,8 +8,11 @@ description: As the Oscars roll around, grab your popcorn and go
 third_nav_title: Culture
 ---
 <h4><em>As the Oscars roll around, grab your popcorn and go behind-the-scenes to discover the technology, chemistry, and physics behind movie theatre magic.&nbsp;</em></h4>
-<p><strong>Silver Screen: The Shiny Origins of Cinema</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Oscar statues overlaid with different film technologies." src="/images/oscars_article_featured_img.png">
+</div>
+<h4><strong>Silver Screen: The Shiny Origins of Cinema</strong></h4>
 <p>You've probably heard the phrase "silver screen" associated with cinema.
 Since the 1920s, the term has become <a href="https://www.dictionary.com/e/silver-screen-terms/" rel="noopener noreferrer nofollow" target="_blank">synonymous with the entire film industry</a>.
 While this catchy phrase may seem like just advertising hype, it actually
@@ -24,6 +27,9 @@ in the United States of America throughout the 1950s. Following the advent
 of "talkies" (movies with synchronized sound), film projectionists further
 improved silver screens. Screens were <a href="https://www.youtube.com/watch?v=AyAs5861m34" rel="noopener nofollow" target="_blank">perforated with tiny holes</a> allowing
 for clearer sound from speakers positioned behind the screen.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="An ad for a silver screen from Williams Screen Co." src="/images/SilverScreen_LR.png">
+</div>
 <p><em>Left: An advertisement for silver screens from Williams Screen Co. Right: Photograph of Willams’s tear-proof silver screen. Source: <a href="https://www.pbswesternreserve.org/productions/around-akron-with-blue-green/" rel="noopener noreferrer nofollow" target="_blank">PBS/Around Akron with Blue Green</a></em>
 </p>
 <p>The association between silver and cinema also links back to the chemistry
@@ -34,7 +40,10 @@ of silver halide compounds that reacted when exposed to light. Cellulose
 nitrate was renowned for its <a href="https://www.bfi.org.uk/features/all-about-nitrate-film" rel="noopener noreferrer nofollow" target="_blank">"luminosity and metallic lustre"</a> and
 <a href="https://www.bfi.org.uk/features/all-about-nitrate-film" rel="noopener noreferrer nofollow" target="_blank">"jewel-like"</a>colours. However, it was also <a href="https://www.bfi.org.uk/features/all-about-nitrate-film" rel="noopener noreferrer nofollow" target="_blank">highly flammable</a>,
 prompting manufacturers to pursue safer film bases after the 1950s.</p>
-<p><em>Photograph of nitrate film. Source: <a href="https://www.nfsa.gov.au/latest/funding-announced-expanded-nitrate-preservation-facility" rel="noopener noreferrer nofollow" target="_blank">National Film and Sound Archive of Australia</a></em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photograph of nitrate film." src="/images/Nitrate_edited.png">
+</div>
+<p><em>Photograph of nitrate film. Original photo source: <a href="https://www.nfsa.gov.au/latest/funding-announced-expanded-nitrate-preservation-facility" rel="noopener noreferrer nofollow" target="_blank">National Film and Sound Archive of Australia,</a></em>  <em>edited by Ai Xin Qin</em>
 </p>
 <p>Today, cellulose nitrate is classified as dangerous and carefully handled
 by film archivists. Silver screens have replaced largely by <a href="https://entertainment.howstuffworks.com/movie-screen.htm" rel="noopener noreferrer nofollow" target="_blank">matte white screens</a> offering
@@ -75,9 +84,12 @@ use light's direction, rather than colour, to filter images for each eye.
 One image is polarized vertically, the other horizontally. Like anaglyph
 glasses, the viewer's brain then did the magic of combining both images
 into 3D.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Diagram showing anaglyph 3D glasses versus polarized 3D glasses." src="/images/ew_of_anaglyph_and_polarized_3D_glasses.png">
+</div>
 <p><em>Diagram contrasting view of anaglyph and polarized 3D glasses. Source: <a href="https://dx.doi.org/10.5815/ijieeb.2021.01.04" rel="noopener noreferrer nofollow" target="_blank">Laghari et al. (2021)</a></em>
 </p>
-<p>While 3D movies are sometimes considered novelty gags, the 2000s saw another
+<p>While 3D movies might be considered passing fads, the 2000s saw another
 3D renaissance with James Cameron’s <em>Avatar</em>. According to <em><a href="https://www.popularmechanics.com/culture/movies/a5067/4339455/" rel="noopener noreferrer nofollow" target="_blank">Popular Mechanics</a></em>, <em>Avatar </em>pioneered
 new technologies such as a 3D camera that presented an augmented-reality
 view by "integrating the live actors into CG environments on the viewfinder.”
@@ -101,6 +113,11 @@ For the average viewer, the screen fills <a href="https://www.youtube.com/watch?
 including peripheral vision where motion detection is particularly sensitive.
 This creates an uncanny sense of really flying through space, trekking
 through rainforests, or scaling mountains.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photograph of Science Centre Singapore's Omni-Theatre dome screen." src="/images/ot_banner_2_min.jpg">
+</div>
+<p><em>Photograph of Science Centre Singapore's Omni-Theatre dome screen. Source: Science Centre Singapore</em>
+</p>
 <p>In 2015, the Omni-Theatre upgraded to an 8K digital planetarium projector
 system featuring <a href="https://www.christiedigital.com/help-center/customer-stories/science-centre-singapore-omni-theatre-en/" rel="noopener noreferrer nofollow" target="_blank">five Christie Mirage 304K projectors</a>.
 This system includes a real-time science and astronomy database, allowing
@@ -108,6 +125,11 @@ educators to show stunning, ultra-high resolution&nbsp;visuals of the night
 sky from any date at the click of a mouse. Want to see the awe-inspiring
 Omni-Theatre dome screen yourself? Movie tickets are available <a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Lights, Camera, Science!</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="E3 exhibition at Science Centre Singapore." src="/images/e3image.jpg">
+</div>
+<p><em>E3 exhibition at Science Centre Singapore. Source: Science Centre Singapore</em>
 </p>
 <p>Discover hands-on exhibitions exploring the scientific principles behind
 movies at <a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore</a>.
