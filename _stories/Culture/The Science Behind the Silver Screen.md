@@ -28,10 +28,10 @@ for clearer sound from speakers positioned behind the screen.</p>
 </p>
 <p>The association between silver and cinema also links back to the chemistry
 of early filmstrips, which used "<a href="https://www.bfi.org.uk/features/all-about-nitrate-film" rel="noopener noreferrer nofollow" target="_blank">microscopic reactive silver salts</a>.”
-Kodak's first commercially available photographic film roll in 1889 used
+Kodak's first commercially available photographic film roll in <a href="https://hazardsincollections.org.uk/nitrate-film/what-is-it" rel="noopener nofollow" target="_blank">1889</a> used
 <a href="https://lightform.com/blog/the-history-of-projection-technology" rel="noopener noreferrer nofollow" target="_blank">cellulose nitrate</a>, a film stock that contained an emulsion composed
 of silver halide compounds that reacted when exposed to light. Cellulose
-nitrate was renown for its <a href="https://www.bfi.org.uk/features/all-about-nitrate-film" rel="noopener noreferrer nofollow" target="_blank">"luminosity and metallic lustre"</a> and
+nitrate was renowned for its <a href="https://www.bfi.org.uk/features/all-about-nitrate-film" rel="noopener noreferrer nofollow" target="_blank">"luminosity and metallic lustre"</a> and
 <a href="https://www.bfi.org.uk/features/all-about-nitrate-film" rel="noopener noreferrer nofollow" target="_blank">"jewel-like"</a>colours. However, it was also <a href="https://www.bfi.org.uk/features/all-about-nitrate-film" rel="noopener noreferrer nofollow" target="_blank">highly flammable</a>,
 prompting manufacturers to pursue safer film bases after the 1950s.</p>
 <p><em>Photograph of nitrate film. Source: <a href="https://www.nfsa.gov.au/latest/funding-announced-expanded-nitrate-preservation-facility" rel="noopener noreferrer nofollow" target="_blank">National Film and Sound Archive of Australia</a></em>
@@ -40,8 +40,7 @@ prompting manufacturers to pursue safer film bases after the 1950s.</p>
 by film archivists. Silver screens have replaced largely by <a href="https://entertainment.howstuffworks.com/movie-screen.htm" rel="noopener noreferrer nofollow" target="_blank">matte white screens</a> offering
 better viewing angles and colour accuracy, although their highly reflective
 properties remain useful for 3D movies. Nevertheless, the phrase "silver
-screen" endures, a linguistic artifact signalling cinema's technological
-evolution.</p>
+screen" endures, signalling cinema's technological evolution.</p>
 <p><strong>3D Movies: Tricking Your Brain</strong>
 </p>
 <p>How do 3D movies create eye-popping effects, transporting viewers right
