@@ -8,7 +8,7 @@ description: As the Oscars roll around, grab your popcorn and go
 third_nav_title: Culture
 image: /images/oscars_article_emag_infopic.png
 ---
-<h4><em>As the Oscars roll around, grab your popcorn and go behind-the-scenes to discover the technology, chemistry, and physics behind movie theatre magic.&nbsp;</em></h4>
+<h4>As the Oscars roll around, grab your popcorn and go behind-the-scenes to discover the technology, chemistry, and physics behind movie theatre magic.&nbsp;</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Oscar statues overlaid with different film technologies." src="/images/oscars_article_featured_img.png">
