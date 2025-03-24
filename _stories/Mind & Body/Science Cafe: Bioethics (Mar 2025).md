@@ -27,11 +27,21 @@ mazes: Dr Voo Teck Chuan, Head of SingHealth Office of Ethics in Healthcare
 and Advisor for the SingHealth Duke-NUS Medical Humanities Institute, alongside
 Dr Chow Chiu Leung, Senior Consultant Geriatrician at Changi General Hospital
 and Co-lead for SingHealth Duke-NUS Medical Humanities Institute in Bioethics.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Chow Chiu Leung and Dr Voo Teck Chuan" src="/images/intext_experts.png">
+</div>
 <p>The evening unfolded through two thought-provoking activities. The first
 was a clever word association game where groups contributed unique terms
 related to a bioethical topic—with the catch that duplicate submissions
 were eliminated. Our speakers then had to deduce the original topic from
 these clues, adding an element of playful challenge to serious subjects.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Participant playing in game at Bioethics Science Cafe" src="/images/intext_game1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Game from Bioethics Science Cafe at Science Centre Singapore." src="/images/intext_game.png">
+</div>
 <p>The second activity proved particularly revealing. Participants used voting
 cards to express their stance on various ethical scenarios, which grew
 progressively more complex. Take, for instance, the seemingly straightforward
@@ -46,6 +56,9 @@ harm), autonomy (respecting patient choices), and justice (balancing individual
 needs with societal resources). These principles often come into play in
 challenging scenarios where healthcare providers must make difficult decisions
 about patient care prioritisation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo of Bioethics Science Cafe at Science Centre Singapore." src="/images/intext_principles.png">
+</div>
 <p>Intrigued? <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe" rel="noopener nofollow" target="_blank">Keep updated</a> with
 our Science Café sessions to mingle with other science enthusiasts in our
 monthly informal dinner series. Join us for our next <a href="https://www.gevme.com/ScienceCafe" rel="noopener nofollow" target="_blank">Science Café</a> session
@@ -57,7 +70,7 @@ intersection of science and society, but this time in the field of astronomy.</p
 portraying the ethical dilemmas posed by AI robotic surgeries, gene editing
 in human embryos, biological self-experimentation, and brain organoid research.
 Tickets to Science Centre Singapore are available on <a href="https://www.science.edu.sg/" rel="noopener nofollow" target="_blank">our website</a>.</p>
-<p><em>Written by Lydia Konig<br>Featured illustration by Ai Xin Qin</em>
+<p><em>Text and photos by Lydia Konig<br>Featured illustration by Ai Xin Qin</em>
 </p>
 <hr>
 <p>Last updated: 24 March 2025</p>
