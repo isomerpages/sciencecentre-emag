@@ -8,7 +8,7 @@ description: Science Centre Singapore's Science Cafe session on Bioethics held
 third_nav_title: Mind & Body
 image: /images/bioethics_emag1.png
 ---
-<h4>Science Centre Singapore's Science Café dinner series redefines nightlife with AI, art, cosmic mysteries, and more, enhanced by innovative experiences. Read on to relive our latest Science Café session on bioethics.</h4>
+<h4>Science Centre Singapore's Science Café dinner series for adults aged 18 and above redefines nightlife with AI, art, cosmic mysteries, and more, enhanced by innovative experiences. Read on to relive our latest Science Café session on bioethics.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tiny scientists debating in the petri dish of a microscope." src="/images/bioethics_emag2.png">
@@ -71,7 +71,8 @@ our Science Café sessions to mingle with other science enthusiasts in our
 monthly informal dinner series. Join us for our next <a href="https://www.gevme.com/ScienceCafe" rel="noopener nofollow" target="_blank">Science Café</a> session
 on Saturday, 12 April, 14:00-15:30 as part of the Dot in Space festival
 at Singapore Science Park, where we'll continue to explore the fascinating
-intersection of science and society, but this time in the field of astronomy.</p>
+intersection of science and society, but this time in the field of astronomy
+(open to ages 18 and up).</p>
 <p>To discover more about bioethics, visit Science Centre Singapore's exhibition
 <a href="https://www.science.edu.sg/whats-on/exhibitions/bioethics-exhibition" rel="noopener nofollow" target="_blank">Bioethics: We Could, But Should We?</a>to step into immersive dioramas
 portraying the ethical dilemmas posed by AI robotic surgeries, gene editing
