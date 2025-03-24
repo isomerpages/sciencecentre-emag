@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Mind & Body
 ---
+<h4>Science Centre Singapore's Science Café dinner series redefines nightlife with AI, art, cosmic mysteries, and more, enhanced by innovative experiences. Read on to relive our latest Science Café session on bioethics.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tiny scientists debating in the petri dish of a microscope." src="/images/bioethics_emag2.png">
@@ -35,10 +36,10 @@ was a clever word association game where groups contributed unique terms
 related to a bioethical topic—with the catch that duplicate submissions
 were eliminated. Our speakers then had to deduce the original topic from
 these clues, adding an element of playful challenge to serious subjects.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Participant playing in game at Bioethics Science Cafe" src="/images/intext_game1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Game from Bioethics Science Cafe at Science Centre Singapore." src="/images/intext_game.png">
 </div>
@@ -49,6 +50,9 @@ question about the ethics of consuming lab-grown meat. The discussion became
 more nuanced when considering scenarios like growing meat from one's own
 cells for personal consumption. It was fascinating to observe how opinions
 shifted as new layers of complexity were introduced.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Participants playing a game at Bioethics Science Cafe." src="/images/intext_game2.png">
+</div>
 <p>Both speakers enriched the session with compelling case studies that left
 participants deep in thought. They introduced fundamental principles of
 clinical ethics, including beneficence (doing good), non-maleficence (avoiding
@@ -70,7 +74,9 @@ intersection of science and society, but this time in the field of astronomy.</p
 portraying the ethical dilemmas posed by AI robotic surgeries, gene editing
 in human embryos, biological self-experimentation, and brain organoid research.
 Tickets to Science Centre Singapore are available on <a href="https://www.science.edu.sg/" rel="noopener nofollow" target="_blank">our website</a>.</p>
-<p><em>Text and photos by Lydia Konig<br>Featured illustration by Ai Xin Qin</em>
+<p><strong><em>Text and photos by Lydia Konig<br>Featured illustration by Ai Xin Qin</em></strong>
 </p>
 <hr>
-<p>Last updated: 24 March 2025</p>
+<p><em>Last updated: 24 March 2025</em>
+</p>
+<p></p>
