@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Mind & Body
 ---
-<p>Science Café: Bioethics (Mar 2025)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tiny scientists debating in the petri dish of a microscope." src="/images/bioethics_emag2.png">
+</div>
 <p>In a refreshing twist to conventional discussions, Science Centre Singapore's
 latest <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe" rel="noopener nofollow" target="_blank">Science Café</a> session,
 "Bioethics: Charting a Course With Your Moral Compass", held on Friday,
