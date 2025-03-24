@@ -23,15 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: The Science of the Silver Screen
-      subtitle: CULTURE, MOVIES, NEW STORY
+      title: "Science Cafe: Bioethics (Mar 2025)"
+      subtitle: MIND & BODY, EVENTS, NEW STORY
       id: infopic
-      description: As Oscars season rolls around, go behind-the-scenes to discover the
-        technology, chemistry, and optics behind movie theatre magic.
+      description: Attendees explored ethical questions shaping the future of
+        medicine, technology, and humanity with experts in bioethics through fun
+        party activities.
       button: Read More
-      url: /silver-screen
-      image: /images/oscars_article_emag_infopic.png
-      alt: Oscar statue
+      url: /sci-cafe-bioethics
+      image: /images/bioethics_emag1.png
+      alt: Featured bioethics graphic
   - textcards:
       title: Highlights
       subtitle: Content
@@ -55,6 +56,16 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: The Science of the Silver Screen
+      subtitle: CULTURE, MOVIES, FILM
+      id: infopic
+      description: As Oscars season rolls around, go behind-the-scenes to discover the
+        technology, chemistry, and optics behind movie theatre magic.
+      button: Read More
+      url: /silver-screen
+      image: /images/oscars_article_emag_infopic.png
+      alt: Oscar statue
   - infopic:
       title: "Romance in Bloom: All About Roses"
       subtitle: ENVIRONMENT, FLOWERS, BOTANY
