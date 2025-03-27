@@ -68,6 +68,11 @@ many in Singapore.</p>
 <h4><strong>Make your own delicious Moon Phases chart below!</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Oreo moon phase gif" src="/images/hari_raya_horiz.gif">
+</div>
+<p><em>Animation credit: Ai Xin Qin</em>
+</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Page 1 of Oreo Moon Phases activity." src="/images/Void_Deck_Activity_Sheet1.png">
 </div>
 <p></p>
