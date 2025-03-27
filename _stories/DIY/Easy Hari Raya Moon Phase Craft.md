@@ -74,6 +74,11 @@ many in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Oreo moon phase activity page 2." src="/images/Void_Deck_Activity_Sheet2.png">
 </div>
-<p>Download a printable version of the activity sheet here.</p>
+<p>Download a printable version of the activity sheet below.</p>
 <p><a href="/files/Void_Deck_Activity_Sheet.pdf" rel="noopener nofollow" target="_blank">Oreo Moon Phases</a>
+</p>
+<p><strong><em>Article and activity sheet produced by KidsSTOP™ Educators</em></strong>
+</p>
+<hr>
+<p><em>Last updated: 27 March 2025</em>
 </p>
