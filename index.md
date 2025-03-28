@@ -22,6 +22,16 @@ sections:
         - title: VIDEO
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
+  - infopic:
+      title: Easy Hari Raya Moon Phase Craft
+      subtitle: HARI RAYA, EID, ASTRONOMY
+      id: infopic
+      description: Make your own yummy moon phases treat and learn more about the
+        importance of the moon during Hari Raya!
+      button: Read More
+      url: /hari-raya-moon-craft
+      image: /images/hari_raya_horiz.gif
+      alt: Oreo moon phases
   - textcards:
       title: Highlights
       subtitle: Content
