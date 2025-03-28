@@ -76,15 +76,15 @@ many in Singapore.</p>
 <p><em>Animation credit: Ai Xin Qin</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Page 1 of Oreo Moon Phases activity." src="/images/Void_Deck_Activity_Sheet1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Oreo moon phases activity page 1" src="/images/Void_Deck_Activity_Sheet_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Oreo moon phase activity page 2." src="/images/Void_Deck_Activity_Sheet2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Oreo moon phases activity page 2" src="/images/Void_Deck_Activity_Sheet_2.png">
 </div>
+<p></p>
 <p>Download a printable version of the activity sheet below.</p>
-<p><a href="/files/Void_Deck_Activity_Sheet.pdf" rel="noopener nofollow" target="_blank">Oreo Moon Phases</a>
-</p>
+<p></p>
 <p><strong><em>Article and activity sheet produced by KidsSTOP™ Educators</em></strong>
 </p>
 <hr>
