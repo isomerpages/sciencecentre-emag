@@ -23,16 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Science Cafe: Bioethics (Mar 2025)"
-      subtitle: MIND & BODY, EVENTS, NEW STORY
+      title: Easy Hari Raya Moon Phase Craft
+      subtitle: HARI RAYA, EID, ASTRONOMY
       id: infopic
-      description: Attendees explored ethical questions shaping the future of
-        medicine, technology, and humanity with experts in bioethics through fun
-        party activities.
+      description: Make your own yummy moon phases treat and learn more about the
+        importance of the moon during Hari Raya!
       button: Read More
-      url: /sci-cafe-bioethics
-      image: /images/bioethics_emag1.png
-      alt: Featured bioethics graphic
+      url: /hari-raya-moon-craft
+      image: /images/hari_raya_horiz.gif
+      alt: Oreo moon phases
   - textcards:
       title: Highlights
       subtitle: Content
@@ -56,6 +55,17 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: "Science Cafe: Bioethics (Mar 2025)"
+      subtitle: MEDICINE, BIOETHICS, EVENTS
+      id: infopic
+      description: Attendees explored ethical questions shaping the future of
+        medicine, technology, and humanity with experts in bioethics through fun
+        party activities.
+      button: Read More
+      url: /sci-cafe-bioethics
+      image: /images/bioethics_emag1.png
+      alt: Featured bioethics graphic
   - infopic:
       title: The Science of the Silver Screen
       subtitle: CULTURE, MOVIES, FILM
