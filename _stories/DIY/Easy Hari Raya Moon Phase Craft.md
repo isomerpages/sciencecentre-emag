@@ -37,11 +37,10 @@ calendar follows the lunar cycle. This means that the dates of Islamic
 holidays like Eid are determined by the sighting of the new moon, which
 marks the end of the month of Ramadan and the beginning of the next month,
 Syawal. (<a href="https://governmentscienceandengineering.blog.gov.uk/2024/04/10/the-moon-and-the-celebration-of-eid-al-fitr/" rel="noopener noreferrer nofollow" target="_blank">Find out more about the Moon and the celebration of Eid here!</a>)&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Moon phases diagram" src="/images/1920px_Moon_phases_en.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Moon phases diagram from NASA/JPL-Caltech" src="/images/moon_phases_jpl.png">
 </div>
-<p><em>Diagram credit: <a href="https://commons.wikimedia.org/wiki/File:Fases_lunars.png#/media/File:Moon_phases_en.jpg/2" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></em>
+<p><em>Diagram credit: <a href="https://science.nasa.gov/moon/moon-phases/" rel="noopener nofollow" target="_blank">NASA/JPL-Caltech</a></em>
 </p>
 <p>In Singapore, the Islamic Religious Council of Singapore (MUIS) plays
 a vital role in observing the moon's phases to announce the official date
@@ -82,11 +81,12 @@ many in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Oreo moon phases activity page 2" src="/images/Void_Deck_Activity_Sheet_2.png">
 </div>
-<p></p>
-<p>Download a printable version of the activity sheet below.</p>
-<p></p>
+<p>Click on the link below to download a printable version of the activity
+sheet.</p>
+<p><a href="/files/voiddeck_oreomoonphase_activitysheet.pdf" rel="noopener nofollow" target="_blank">Oreo Moon Phases Activity Sheet</a>
+</p>
 <p><strong><em>Article and activity sheet produced by KidsSTOP™ Educators</em></strong>
 </p>
 <hr>
-<p><em>Last updated: 27 March 2025</em>
+<p><em>Last updated: 28 March 2025</em>
 </p>
