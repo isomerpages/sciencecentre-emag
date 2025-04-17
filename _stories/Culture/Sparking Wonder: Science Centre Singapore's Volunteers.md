@@ -155,18 +155,19 @@ experimented with bubbles as tall as themselves.</p>
 assistive technologies like a braille typewriter at Science Centre’s World
 Autism Day event from 28-31 March 2024, helped support a holistic and inclusive
 science community.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community booth at World Autism Day 2025 event held at Science Centre Singapore." src="/images/worldautismday.png">
-</div>
-<p><em>Community booth at World Autism Day 2025 event held at Science Centre Singapore. Photo credits: Science Centre Singapore.</em>
-</p>
 <p>Volunteering at the Centre has provided volunteers with a platform to
 meet other like-minded science geeks and foster a positive science culture
 in Singapore.</p>
 <p>"Volunteering at Science Centre has made me more confident to present
 and talk to people I have not met before, and also make new friends along
-the way," Sreeya said.</p>
+the way," Sreeya said.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A volunteer interacting with the public at Dot in Space 2025" src="/images/DotinSpace.jpg">
+</div>
+<p><em>A volunteer in action at Dot In Space 2025. Photo credits: Science Centre Singapore.</em>
+</p>
 <h4><strong>Your Energy Matters! Volunteer to Spark Discovery at Science Centre Singapore</strong></h4>
 <p>This year, as Science Centre Singapore celebrates its 48th birthday and
 the nation launches SG60, be part of Science Centre’s iconic history and
