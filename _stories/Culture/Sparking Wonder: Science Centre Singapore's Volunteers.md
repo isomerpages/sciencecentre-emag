@@ -27,16 +27,16 @@ in Singapore.</p>
 <h4><strong>From Visitor to Volunteer</strong></h4>
 <p>Many Singaporeans have fond memories of school excursions or family trips
 to the Centre’s iconic exhibits, from the crackling lightning demonstrations
-of the Tesla coil to the gravity-defying climbing Einstein puppet. For
-some wide-eyed young visitors, these outings have a lasting impact.</p>
+of the Tesla coil to the gravity-defying climbing Albert Einstein puppet.
+For some wide-eyed young visitors, these outings have a lasting impact.</p>
 <p>19-year-old Nayantara Liz Njondimackal, a biomedical engineering student
 at the University of Sheffield, remembers marveling at a simple science
 demonstration as a child: a Science Centre educator balancing a paper butterfly
 to explain gravity. Little did she know this would be one of the events
 setting her future career path in motion.</p>
-<p>Several years later, Njondimackal had the opportunity as a volunteer to
-engage kids at a balancing butterfly station for the It’s Physics Time
-event held from 31 August to 8 September 2024 in the Future Makers exhibition.</p>
+<p>Several years later, Njondimackal had the opportunity to engage kids at
+a balancing butterfly station for the It’s Physics Time event held from
+31 August to 8 September 2024 in the Future Makers exhibition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Volunteer Nayantara Liz Njondimackal showing balancing dragonfly craft to visitors." src="/images/physics_time_nayantara.png">
@@ -156,9 +156,6 @@ assistive technologies like a braille typewriter at Science Centre’s World
 Autism Day event from 28-31 March 2024, helped support a holistic and inclusive
 science community.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community pop-up booth at World Autism Day event." src="/images/worldautismday.png">
-</div>
 <p><em>Photo credits: Science Centre Singapore.</em>
 </p>
 <p>Volunteering at the Centre has provided volunteers with a platform to
@@ -170,8 +167,7 @@ the way," Sreeya said.</p>
 <h4><strong>Your Energy Matters! Volunteer to Spark Discovery at Science Centre Singapore</strong></h4>
 <p>This year, as Science Centre Singapore celebrates its 48th birthday and
 the nation launches SG60, be part of Science Centre’s iconic history and
-help</p>
-<p>inspire Singapore’s future STEM changemakers. We are looking for energetic,
+help inspire Singapore’s future STEM changemakers. We are looking for energetic,
 enthusiastic individuals to join our phenomenal team of volunteers supporting
 STEM events for the public, from stargazing sessions at the Observatory
 to hands-on workshops at KidsSTOP™.</p>
