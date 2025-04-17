@@ -156,7 +156,10 @@ assistive technologies like a braille typewriter at Science Centre’s World
 Autism Day event from 28-31 March 2024, helped support a holistic and inclusive
 science community.</p>
 <p></p>
-<p><em>Photo credits: Science Centre Singapore.</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community booth at World Autism Day 2025 event held at Science Centre Singapore." src="/images/worldautismday.png">
+</div>
+<p><em>Community booth at World Autism Day 2025 event held at Science Centre Singapore. Photo credits: Science Centre Singapore.</em>
 </p>
 <p>Volunteering at the Centre has provided volunteers with a platform to
 meet other like-minded science geeks and foster a positive science culture
