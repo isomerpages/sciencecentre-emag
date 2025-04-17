@@ -181,7 +181,7 @@ Our volunteer programme is open to anyone aged 14 and above, from all background
 contact <a href="mailto:volunteers@science.edu.sg" rel="noopener noreferrer nofollow" target="_blank">volunteers@science.edu.sg</a> to
 learn more.</p>
 <p><em>Written by Jamie Uy</em>
-<br><em>Illustrated by Ai Xin Qin</em>
+<br><em>Illustrated by Qin Ai Xin</em>
 </p>
 <hr>
 <p><em>Published 17 April 2025</em>
