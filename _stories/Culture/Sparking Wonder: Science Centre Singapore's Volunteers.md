@@ -31,7 +31,7 @@ some wide-eyed young visitors, these outings have a lasting impact.</p>
 <p>19-year-old Nayantara Liz Njondimackal, a biomedical engineering student
 at the University of Sheffield, remembers marveling at a simple science
 demonstration as a child: a Science Centre educator balancing a paper butterfly
-with to explain gravity. Little did she know this would be one of the events
+to explain gravity. Little did she know this would be one of the events
 setting her future career path in motion.</p>
 <p>Several years later, Njondimackal had the opportunity as a volunteer to
 engage kids at a balancing butterfly station for the It’s Physics Time
@@ -142,7 +142,7 @@ Science Party proved to her that science can be made "relatable to everyone."</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Celebrating KidsSTOP's tenth anniversary" src="/images/kidsstopbdaycake.png">
 </div>
-<p><em>Photo credits: Science Centre Singapore.</em>
+<p><em>Celebrating KidsSTOP™'s tenth anniversary with a giant cake at KidsSTOP™ Mess-ive Science Party.  Photo credits: Science Centre Singapore.</em>
 </p>
 <p>A 32-year-old volunteer who preferred to remain anonymous further emphasised
 the importance of making science accessible and engaging.</p>
