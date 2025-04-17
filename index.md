@@ -23,22 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: "Sparking Wonder: Science Centre Singapore's Volunteers"
+      subtitle: stem, community, new story
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Easy Hari Raya Moon Phase Craft
-      subtitle: HARI RAYA, EID, ASTRONOMY
-      id: infopic
-      description: Make your own yummy moon phases treat and learn more about the
-        importance of the moon during Hari Raya!
+      description: Whether creating human-sized bubbles or explaining the cosmos,
+        Science Centre Singapore's volunteers are transforming complex topics
+        into moments of wonder.
       button: Read More
-      url: /hari-raya-moon-craft
-      image: /images/hari_raya_horiz.gif
-      alt: Oreo moon phases
+      alt: A volunteer doing science demo
+      url: /scs-volunteers
+      image: /images/VolunteerFeature_E_mag_Alt.png
   - textcards:
       title: Highlights
       subtitle: Content
@@ -62,6 +56,16 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: Easy Hari Raya Moon Phase Craft
+      subtitle: HARI RAYA, EID, ASTRONOMY
+      id: infopic
+      description: Make your own yummy moon phases treat and learn more about the
+        importance of the moon during Hari Raya!
+      button: Read More
+      url: /hari-raya-moon-craft
+      image: /images/hari_raya_horiz.gif
+      alt: Oreo moon phases
   - infopic:
       title: "Science Cafe: Bioethics (Mar 2025)"
       subtitle: MEDICINE, BIOETHICS, EVENTS
