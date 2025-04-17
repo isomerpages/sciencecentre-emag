@@ -142,7 +142,7 @@ Science Party proved to her that science can be made "relatable to everyone."</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Celebrating KidsSTOP's tenth anniversary" src="/images/kidsstopbdaycake.png">
 </div>
-<p><em>Celebrating KidsSTOP™'s tenth anniversary with a giant cake at KidsSTOP™ Mess-ive Science Party.  Photo credits: Science Centre Singapore.</em>
+<p><em>Celebrating KidsSTOP™'s tenth anniversary with a giant cake at KidsSTOP™ Mess-ive Science Party. Photo credits: Science Centre Singapore.</em>
 </p>
 <p>A 32-year-old volunteer who preferred to remain anonymous further emphasised
 the importance of making science accessible and engaging.</p>
