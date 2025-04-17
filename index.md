@@ -26,9 +26,8 @@ sections:
       title: "Sparking Wonder: Science Centre Singapore's Volunteers"
       subtitle: stem, community, new story
       id: infopic
-      description: Whether creating human-sized bubbles or explaining the cosmos,
-        Science Centre Singapore's volunteers are transforming complex topics
-        into moments of wonder.
+      description: From stargazing sessions to DNA workshops, Science Centre
+        Singapore's volunteers are inspiring the scientists of tomorrow.
       button: Read More
       alt: A volunteer doing science demo
       url: /scs-volunteers
