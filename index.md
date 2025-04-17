@@ -23,6 +23,13 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Easy Hari Raya Moon Phase Craft
       subtitle: HARI RAYA, EID, ASTRONOMY
       id: infopic
