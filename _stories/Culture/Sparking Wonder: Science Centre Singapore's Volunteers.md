@@ -118,7 +118,70 @@ was "very taxing but extremely rewarding."</p>
 <p>By communicating science to the public, Zhang “see[s] volunteering as
 a way to remind myself of my original passion when I chose to pursue a
 career in scientific research.”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Young girl peers through telescope to moon gaze at Mid-Autumn Family FUN 2024" src="/images/sccc.png">
+</div>
 <p><em>A young girl peers through a telescope to moon gaze during Mid-Autumn Family FUN 2024. Photo credit: Singapore Chinese Cultural Centre.</em>
 </p>
+<h4><strong>Positive Science Community</strong></h4>
+<p>Whether they're students, working professionals, or science enthusiasts,
+these volunteers share a common goal: making science exciting for all.
+Through these interactions, volunteers from all backgrounds find themselves
+part of a diverse and vibrant science community.</p>
+<p>14-year-old triple science student B. K. Sreeya, a science aficionado
+who also participates in her school’s science and environmental club, decided
+to volunteer as “Science Centre provided an opportunity to interact with
+people from different age groups,” from toddlers to senior citizens.</p>
+<p>“Most might think STEM is something that they cannot relate to because
+they usually think of deep research projects or advanced clinical trials…it
+can be quite ‘chim’ or ‘atas’,” Sreeya noted over email. However, her experience
+facilitating science activities with young children at the KidsSTOP™ Mess-ive
+Science Party proved to her that science can be made "relatable to everyone."</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celebrating KidsSTOP's tenth anniversary" src="/images/kidsstopbdaycake.png">
+</div>
+<p><em>Photo credits: Science Centre Singapore.</em>
+</p>
+<p>A 32-year-old volunteer who preferred to remain anonymous further emphasised
+the importance of making science accessible and engaging.</p>
+<p>“Science can also be fun... it can be catered to a young age and also
+be playful,” he said, reflecting on activities like the bubble-making station
+at KidsSTOP™ Mess-ive Science Party from 31 May-9 June 2024, where kids
+experimented with bubbles as tall as themselves.</p>
+<p>His other volunteer experiences, such as teaching visitors how to use
+assistive technologies like a braille typewriter at Science Centre’s World
+Autism Day event from 28-31 March 2024, helped support a holistic and inclusive
+science community.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community pop-up booth at World Autism Day event." src="/images/worldautismday.png">
+</div>
+<p><em>Photo credits: Science Centre Singapore.</em>
+</p>
+<p>Volunteering at the Centre has provided volunteers with a platform to
+meet other like-minded science geeks and foster a positive science culture
+in Singapore.</p>
+<p>"Volunteering at Science Centre has made me more confident to present
+and talk to people I have not met before, and also make new friends along
+the way," Sreeya said.</p>
+<h4><strong>Your Energy Matters! Volunteer to Spark Discovery at Science Centre Singapore</strong></h4>
+<p>This year, as Science Centre Singapore celebrates its 48th birthday and
+the nation launches SG60, be part of Science Centre’s iconic history and
+help</p>
+<p>inspire Singapore’s future STEM changemakers. We are looking for energetic,
+enthusiastic individuals to join our phenomenal team of volunteers supporting
+STEM events for the public, from stargazing sessions at the Observatory
+to hands-on workshops at KidsSTOP™.</p>
+<p>Get started with us on this cosmic journey and ignite scientific curiosity!
+Our volunteer programme is open to anyone aged 14 and above, from all backgrounds
+- no science background required. Sign up at <a href="https://www.science.edu.sg/visit-us/join-us/volunteering" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/visit-us/join-us/volunteering</a> or
+contact <a href="mailto:volunteers@science.edu.sg" rel="noopener noreferrer nofollow" target="_blank">volunteers@science.edu.sg</a> to
+learn more.</p>
+<p><em>Written by Jamie Uy</em>
+<br><em>Illustrated by Ai Xin Qin</em>
+</p>
+<hr>
+<p><em>Published 17 April 2025</em>
+</p>
