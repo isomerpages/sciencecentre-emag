@@ -22,6 +22,16 @@ sections:
         - title: VIDEO
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
+  - infopic:
+      title: When Science Meets the Force
+      subtitle: pop culture, sci-fi, new story
+      id: infopic
+      description: May the Fourth be with you! We explore how Star Wars inspires
+        science and interview (Jedi) Master Science Educator James Emmann Lim.
+      button: Read More
+      url: /maythefourth
+      image: /images/DSC00014.jpg
+      alt: Science Educator James Lim
   - textcards:
       title: Highlights
       subtitle: Content
