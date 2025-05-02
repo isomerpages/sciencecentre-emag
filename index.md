@@ -22,16 +22,6 @@ sections:
         - title: VIDEO
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
-  - infopic:
-      title: "Sparking Wonder: Science Centre Singapore's Volunteers"
-      subtitle: stem, community, new story
-      id: infopic
-      description: From stargazing sessions to DNA workshops, Science Centre
-        Singapore's volunteers are inspiring the scientists of tomorrow.
-      button: Read More
-      alt: A volunteer doing science demo
-      url: /scs-volunteers
-      image: /images/VolunteerFeature_E_mag_Alt.png
   - textcards:
       title: Highlights
       subtitle: Content
@@ -55,6 +45,16 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: "Sparking Wonder: Science Centre Singapore's Volunteers"
+      subtitle: stem, community, VOLUNTEERING
+      id: infopic
+      description: From stargazing sessions to DNA workshops, Science Centre
+        Singapore's volunteers are inspiring the scientists of tomorrow.
+      button: Read More
+      alt: A volunteer doing science demo
+      url: /scs-volunteers
+      image: /images/VolunteerFeature_E_mag_Alt.png
   - infopic:
       title: Easy Hari Raya Moon Phase Craft
       subtitle: HARI RAYA, EID, ASTRONOMY
