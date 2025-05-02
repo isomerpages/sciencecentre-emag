@@ -23,15 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Sparking Wonder: Science Centre Singapore's Volunteers"
-      subtitle: stem, community, new story
+      title: When Science Meets the Force
+      subtitle: pop culture, sci-fi, new story
       id: infopic
-      description: From stargazing sessions to DNA workshops, Science Centre
-        Singapore's volunteers are inspiring the scientists of tomorrow.
+      description: May the Fourth be with you! We explore how Star Wars inspires
+        science and interview (Jedi) Master Science Educator James Emmann Lim.
       button: Read More
-      alt: A volunteer doing science demo
-      url: /scs-volunteers
-      image: /images/VolunteerFeature_E_mag_Alt.png
+      url: /maythefourth
+      image: /images/DSC00014.jpg
+      alt: Science Educator James Lim
   - textcards:
       title: Highlights
       subtitle: Content
@@ -55,6 +55,16 @@ sections:
       description: The Chemistry of Mala Xiang Guo
       button: Read More
       url: /mala-chemistry
+  - infopic:
+      title: "Sparking Wonder: Science Centre Singapore's Volunteers"
+      subtitle: stem, community, VOLUNTEERING
+      id: infopic
+      description: From stargazing sessions to DNA workshops, Science Centre
+        Singapore's volunteers are inspiring the scientists of tomorrow.
+      button: Read More
+      alt: A volunteer doing science demo
+      url: /scs-volunteers
+      image: /images/VolunteerFeature_E_mag_Alt.png
   - infopic:
       title: Easy Hari Raya Moon Phase Craft
       subtitle: HARI RAYA, EID, ASTRONOMY
