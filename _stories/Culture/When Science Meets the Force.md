@@ -10,6 +10,12 @@ third_nav_title: Culture
 image: /images/DSC00014.jpg
 ---
 <h4>May the Fourth be with you! To prepare for Star Wars Day, we explore how stories from a galaxy far, far away have inspired science in Singapore and interview James Emmann Lim, one of Science Centre Singapore’s (Jedi) Master Science Educators.</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Master Science Educator James Emmann Lim with his Star Wars themed desk at Science Centre Singapore." src="/images/DSC00014.jpg">
+</div>
+<p><em>Master Science Educator James Emmann Lim with his Star Wars themed desk at Science Centre Singapore.</em>
+</p>
 <p>From massive sea bugs to groundbreaking artificial skin, Star Wars has
 left its mark on science. Earlier this year, when an ASEAN team of researchers
 including Prof. Peter Ng from the Lee Kong Chian Natural History Museum
@@ -60,7 +66,7 @@ James explains. He mentions how famous science communicators like <a href="https
 used Star Wars to unpack scientific principles from hypothetical interstellar
 travel to the reality of sound in space.</p>
 <p>While the films take creative liberties—like the <a href="https://warwick.ac.uk/news/knowledgecentre/science/maths-statistics/starwarsasteroid" rel="noopener noreferrer nofollow" target="_blank">unrealistically dense asteroid belts</a> the
-Millennium Falcon manoeuvres , or the <a href="https://www.bbc.com/news/magazine-24518305" rel="noopener noreferrer nofollow" target="_blank">improbably loud </a><em><a href="https://www.bbc.com/news/magazine-24518305" rel="noopener noreferrer nofollow" target="_blank">pew-pew</a></em>
+Millennium Falcon manoeuvres , or the <a href="https://www.bbc.com/news/magazine-24518305" rel="noopener noreferrer nofollow" target="_blank">improbably loud </a><em><a href="https://www.bbc.com/news/magazine-24518305" rel="noopener noreferrer nofollow" target="_blank">pew-pew </a></em>
 <a href="https://www.bbc.com/news/magazine-24518305" rel="noopener noreferrer nofollow" target="_blank">blaster guns</a>—these scenes spark valuable conversations about the real-world
 physics of space.</p>
 <p>James gives the example of the Kaminoan clone army in Star Wars as fiction
