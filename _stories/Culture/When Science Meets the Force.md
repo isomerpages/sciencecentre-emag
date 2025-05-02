@@ -144,7 +144,7 @@ Singapore’s upcoming Science Café session, "Sci-Fi or Sci-Fact?" on Friday
 <p>Science Café is a monthly informal dinner series for adults 18 and above
 where speakers share their takes on interdisciplinary STEM topics, from
 AI and art to South Polar dinosaurs and forensic science. Join us to enjoy
-a new kind of geeky nightlife! Tickets available here: <a rel="noopener noreferrer nofollow" target="_blank">https://programmes.tickets.science.edu.sg/attraction/science-caf-58833</a>.</p>
+a new kind of geeky nightlife! Tickets available <a href="https://programmes.tickets.science.edu.sg/attraction/science-caf-58833" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><em>Written by Jamie Uy<br>Photography by Ai Xin Qin</em>
 </p>
 <hr>
