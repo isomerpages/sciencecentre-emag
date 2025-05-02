@@ -103,7 +103,7 @@ from scratch. &nbsp;Building the props "was the hook for me, being an engineer
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="James Lim showcasing a Captain Rex helmet at his desk." src="/images/DSC00009.jpg">
 </div>
-<p><em>James Lim showcasing a Captain Rex helmet at his desk.</em>
+<p><em>James Emmann Lim showcasing a Captain Rex helmet at his desk.</em>
 </p>
 <p>As a former industrial engineer, James&nbsp;was excited to apply his manufacturing
 knowledge to Star Wars fandom. "All the things [of propmaking] were familiar,
