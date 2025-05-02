@@ -93,6 +93,11 @@ knowledge to Star Wars fandom. "All the things [of propmaking] were familiar,
 like my armour or vacuum foam ... how to deal with fillers, Bondo material,
 how to glue, how to snap things, paint, cut… these are all engineering
 things," James observes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Star Wars clone trooper helmets at James Lim's desk." src="/images/DSC00008.jpg">
+</div>
+<p><em>Clone trooper helmets at James Emmann Lim's desk.</em>
+</p>
 <p>He even moulds or machines intricate little bits called "greeblies" or
 "greebles" to make props look more utilitarian and complex, like real armour
 straight out of science-fiction.&nbsp;</p>
