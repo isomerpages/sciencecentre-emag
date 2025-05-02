@@ -56,6 +56,11 @@ to create invisibility shields, and examined alien-looking organisms under
 microscopes. At booths manned by Star Wars fan groups, visitors built their
 very own lightsabers using household materials, joined bounty hunts looking
 for droids, and exercised their artistic skills in toy photography workshops.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="May the Fourth 2024 celebrations at Science Centre Singapore. Photo credits: #MAYTHE4THSG" src="/images/Maythe4th_Science_Centre.jpg">
+</div>
+<p><em>May the Fourth 2024 celebrations at Science Centre Singapore. Photo credits: #MAYTHE4THSG.</em>
+</p>
 <p>At Science Centre Singapore, Star Wars serves as more than entertainment—it's
 a powerful force for public engagement with science. When organising Sci-Fi
 Fiesta and the Star Wars Day weekend, James Emmann Lim, a Master Science
