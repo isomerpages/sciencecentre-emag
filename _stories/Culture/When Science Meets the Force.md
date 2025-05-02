@@ -99,6 +99,12 @@ for staff Dinner and Dance events.</p>
 niche in the local Star Wars fan community building screen-accurate costumes
 from scratch. &nbsp;Building the props "was the hook for me, being an engineer
 [since] I like to tinker," James said.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="James Lim showcasing a Captain Rex helmet at his desk." src="/images/DSC00009.jpg">
+</div>
+<p><em>James Lim showcasing a Captain Rex helmet at his desk.</em>
+</p>
 <p>As a former industrial engineer, James&nbsp;was excited to apply his manufacturing
 knowledge to Star Wars fandom. "All the things [of propmaking] were familiar,
 like my armour or vacuum foam ... how to deal with fillers, Bondo material,
