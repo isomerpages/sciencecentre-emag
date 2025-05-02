@@ -39,8 +39,9 @@ works to transform what was once science fiction into tangible innovation.</p>
 <p>While Star Wars may seem more fantasy than hardcore science fiction, its
 fusion of mythological storytelling and futuristic technology has spurred
 real-world scientific advancement—from <a href="https://www.sciencealert.com/scientists-have-created-star-wars-style-holograms-in-the-lab" rel="noopener noreferrer nofollow" target="_blank">holograms</a> to
-<a href="https://www.techradar.com/computing/artificial-intelligence/nvidia-google-and-disneys-ai-powered-star-wars-robot-is-absolutely-the-droid-ive-been-looking-for" rel="noopener noreferrer nofollow" target="_blank">robotics</a>. At Science Centre Singapore, the interplay between science
-fiction and science fact creates powerful opportunities for STEM learning.</p>
+<a href="https://www.techradar.com/computing/artificial-intelligence/nvidia-google-and-disneys-ai-powered-star-wars-robot-is-absolutely-the-droid-ive-been-looking-for" rel="noopener noreferrer nofollow" target="_blank">artificial intelligence</a>. At Science Centre Singapore, the interplay
+between science fiction and science fact creates powerful opportunities
+for STEM learning.</p>
 <h4><strong>A Force for Science Education</strong></h4>
 <p>Star Wars’s impact on public engagement with science in Singapore began
 with the release of the first Star Wars film here in 1978. A year later,
@@ -77,9 +78,8 @@ James explains. He mentions how famous science communicators like <a href="https
 used Star Wars to unpack scientific principles from hypothetical interstellar
 travel to the reality of sound in space.</p>
 <p>While the films take creative liberties—like the <a href="https://warwick.ac.uk/news/knowledgecentre/science/maths-statistics/starwarsasteroid" rel="noopener noreferrer nofollow" target="_blank">unrealistically dense asteroid belts</a> the
-Millennium Falcon manoeuvres , or the <a href="https://www.bbc.com/news/magazine-24518305" rel="noopener noreferrer nofollow" target="_blank">improbably loud </a><em><a href="https://www.bbc.com/news/magazine-24518305" rel="noopener noreferrer nofollow" target="_blank">pew-pew </a></em>
-<a href="https://www.bbc.com/news/magazine-24518305" rel="noopener noreferrer nofollow" target="_blank">blaster guns</a>—these scenes spark valuable conversations about the real-world
-physics of space.</p>
+Millennium Falcon manoeuvres , or the <a href="https://www.bbc.com/news/magazine-24518305" rel="noopener nofollow" target="_blank">improbably loud pew-pew blaster gun noises</a>—these
+scenes spark valuable conversations about the real-world physics of space.</p>
 <p>James gives the example of the Kaminoan clone army in Star Wars as fiction
 that can get audiences curious to find out more about genetic engineering,
 cloning, and biotechnology.</p>
