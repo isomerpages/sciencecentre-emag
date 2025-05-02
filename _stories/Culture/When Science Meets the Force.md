@@ -14,7 +14,7 @@ image: /images/DSC00014.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Master Science Educator James Emmann Lim with his Star Wars themed desk at Science Centre Singapore." src="/images/DSC00014.jpg">
 </div>
-<p><em>Master Science Educator James Emmann Lim with his Star Wars themed desk at Science Centre Singapore.</em>
+<p><em>Master Science Educator James Emmann Lim with his Star Wars themed desk.</em>
 </p>
 <p>From massive sea bugs to groundbreaking artificial skin, Star Wars has
 left its mark on science. Earlier this year, when an ASEAN team of researchers
@@ -53,9 +53,15 @@ the stage for future science fiction initiatives.</p>
 with local fan group #MayThe4thSG during the 4-5 May weekend. At Sci-Fi
 Fiesta stations, visitors built space vehicles, played with light reflection
 to create invisibility shields, and examined alien-looking organisms under
-microscopes. At booths manned by Star Wars fan groups, visitors built their
-very own lightsabers using household materials, joined bounty hunts looking
-for droids, and exercised their artistic skills in toy photography workshops.</p>
+microscopes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kids building rocket ships out of everyday craft materials at Tinkering Studio during Sci-Fi Fiesta." src="/images/scififiesta_station2.jpg">
+</div>
+<p><em>Kids crafting rocket ships at Tinkering Studio during Sci-Fi Fiesta. Photo credits: Science Centre Singapore.</em>
+</p>
+<p>At booths manned by Star Wars fan groups, visitors built their very own
+lightsabers using household materials, joined bounty hunts looking for
+droids, and exercised their artistic skills in toy photography workshops.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="May the Fourth 2024 celebrations at Science Centre Singapore. Photo credits: #MAYTHE4THSG" src="/images/Maythe4th_Science_Centre.jpg">
 </div>
