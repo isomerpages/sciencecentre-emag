@@ -23,15 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: When Science Meets the Force
-      subtitle: pop culture, sci-fi, new story
+      title: "Science Café: Beyond the Stars (Apr 2025)"
+      subtitle: SPACE, ASTRONOMY - NEW STORY
       id: infopic
-      description: May the Fourth be with you! We explore how Star Wars inspires
-        science and interview (Jedi) Master Science Educator James Emmann Lim.
+      description: Held as part of this year's Dot in Space festival, attendees
+        marvelled at how the stars have guided people across different cultures
+        for centuries.
       button: Read More
-      url: /maythefourth
-      image: /images/DSC00014.jpg
-      alt: Science Educator James Lim
+      url: /sci-cafe-beyond-the-stars
+      alt: Orion constellation myths
+      image: /images/DIS_emag.gif
   - textcards:
       title: Highlights
       subtitle: Content
@@ -56,6 +57,16 @@ sections:
       button: Read More
       url: /mala-chemistry
   - infopic:
+      title: When Science Meets the Force
+      subtitle: pop culture, sci-fi, new story
+      id: infopic
+      description: May the Fourth be with you! We explore how Star Wars inspires
+        science and interview (Jedi) Master Science Educator James Emmann Lim.
+      button: Read More
+      url: /maythefourth
+      image: /images/DSC00014.jpg
+      alt: Science Educator James Lim
+  - infopic:
       title: "Sparking Wonder: Science Centre Singapore's Volunteers"
       subtitle: stem, community, VOLUNTEERING
       id: infopic
@@ -76,7 +87,7 @@ sections:
       image: /images/hari_raya_horiz.gif
       alt: Oreo moon phases
   - infopic:
-      title: "Science Cafe: Bioethics (Mar 2025)"
+      title: "Science Café: Bioethics (Mar 2025)"
       subtitle: MEDICINE, BIOETHICS, EVENTS
       id: infopic
       description: Attendees explored ethical questions shaping the future of
@@ -187,7 +198,7 @@ sections:
       image: /images/Street_Trees_Trumpet_Tree_Compressed.jpg
       alt: A trumpet tree.
   - infopic:
-      title: "Science Cafe: Robots Dreaming (Oct 2024)"
+      title: "Science Café: Robots Dreaming (Oct 2024)"
       subtitle: Tech, robotics, ai
       id: infopic
       description: Attendees dined with Ameca, one of the world’s most advanced
