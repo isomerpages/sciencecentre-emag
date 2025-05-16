@@ -31,7 +31,8 @@ sections:
         for centuries.
       button: Read More
       url: /sci-cafe-beyond-the-stars
-      alt: Image alt text
+      alt: Orion constellation myths
+      image: /images/DIS_emag.gif
   - textcards:
       title: Highlights
       subtitle: Content
