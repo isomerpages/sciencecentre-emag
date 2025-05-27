@@ -74,7 +74,7 @@ all contribute to the final result.</p>
 <img style="width: 100%" height="auto" width="100%" alt="A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso." src="/images/2_Grind_Size_and_Time.png">
 </div>
 <p>
-<br><em>A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso. </em>
+<br><em>A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso.</em>
 </p>
 <p>A fine grind suits espresso’s quick, pressurised burst. A coarse grind
 works better for longer brewing styles like cold brew. Use the wrong grind,
