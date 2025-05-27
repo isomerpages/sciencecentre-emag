@@ -45,7 +45,6 @@ bit the part. Picture a short black in a frosted demitasse cup crowned
 with a thick crema, reminiscent of the froth you’d find on a cappuccino.
 The device boasted espresso-style coffee using ground beans, with the option
 for quick and easy brews using coffee pods.</p>
-<p></p>
 <p>[MEDIA INSERT]</p>
 <p><em>A portable espresso maker in action.</em>
 </p>
@@ -70,12 +69,10 @@ however, remains relatively stable over this period.</p>
 even affect how the machine performs. Brewing coffee is a science experiment
 where variables like time, temperature, pressure, grind, and bean freshness
 all contribute to the final result.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso." src="/images/2_Grind_Size_and_Time.png">
 </div>
-<p>
-<br><em>A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso.</em>
+<p><em>A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso.</em>
 </p>
 <p>A fine grind suits espresso’s quick, pressurised burst. A coarse grind
 works better for longer brewing styles like cold brew. Use the wrong grind,
@@ -89,7 +86,6 @@ beans, sock-filtered, and flung between kettles for cooling and aeration.
 The menu? It was intimidating at first. Kopi-O, kopi-C, sweetened or less
 sweet, evaporated or condensed milk, hot or cold, in a bag or a cup, for
 here or takeaway.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A guide to Singapore kopi." src="/images/kopi_menu.png">
 </div>
@@ -102,8 +98,8 @@ I started to wonder</p>
 <p>It turns out that caffeine intake isn’t just about the taste of the coffee.
 It is also influenced by how it’s brewed and the dose. Kopi often uses
 more grounds, a longer steep, and a larger volume per serving, which can
-result in a higher caffeine dose than a single espresso shot.</p>
-<p>
+result in a higher caffeine dose than a single espresso shot.
+<br>
 <br>The surprising caffeine kick of kopi reminded me of the summer I started
 drinking cold brew. The extraction process for cold brew is a lot slower.
 It is made by steeping coarsely ground coffee in cold water for 12 to 24
@@ -116,7 +112,6 @@ I developed a suspicious eye twitch.</p>
 <p>A strong coffee flavour does not necessarily mean you are getting more
 caffeine, as milder-tasting types may lead you to drink more, potentially
 increasing the overall effect.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caffeine content per standard serving of kopi, latte (single espresso shot), and black milk tea." src="/images/4_caffeine_1_updated.png">
 </div>
@@ -132,13 +127,11 @@ balance between being health-conscious and satisfying my taste buds. From
 adapting to new brewing tools, experimenting with grind size, and navigating
 the Singaporean kopi culture, this adventure has taught me that coffee
 is never just coffee. It is chemistry, culture, and a constant negotiation
-between flavour, function, and the occasional twitchy eyelid.
-<br>
-</p>
+between flavour, function, and the occasional twitchy eyelid.</p>
 <p><strong><em>Written by Simon Daniele</em></strong>
 <br><strong><em>Illustrated by Ai Xin Qin</em></strong>
 </p>
 <hr>
-<p>
+<p><em>Published 28 May 2025</em>
 <br>
 </p>
