@@ -45,7 +45,8 @@ bit the part. Picture a short black in a frosted demitasse cup crowned
 with a thick crema, reminiscent of the froth you’d find on a cappuccino.
 The device boasted espresso-style coffee using ground beans, with the option
 for quick and easy brews using coffee pods.</p>
-<p>[MEDIA INSERT]</p>
+<p><a href="https://youtube.com/shorts/yqH5et2jTlM?si=--uINDFSQVn8qtUY" rel="noopener noreferrer nofollow" target="_blank">https://youtube.com/shorts/yqH5et2jTlM?si=--uINDFSQVn8qtUY</a>
+</p>
 <p><em>A portable espresso maker in action.</em>
 </p>
 <p>I unpacked it on my first morning in Singapore. This piece of high-end
