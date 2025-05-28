@@ -9,9 +9,12 @@ third_nav_title: Mind & Body
 image: /images/kopi_header.png
 ---
 <h4>An Australian PhD researcher’s quest for caffeine in Singapore and how a love for espresso became an unexpected journey through the chemistry and culture of kopi.</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Illustration of traditional kopi cup surrounded by little scientists in lab coats." src="/images/kopi_header.png">
 </div>
+<p><em>A collage showing scientists brewing a traditional cup of kopi. Illustration credits: Ai Xin Qin.</em>
+</p>
 <p>I’ve recently arrived in Singapore for a PhD research internship at Science
 Centre Singapore. Coming from Perth in Western Australia, espresso is my
 go-to, whether brewed at home or grabbed from a local café. But in Singapore,
@@ -30,7 +33,7 @@ day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Effects of caffeine on the brain." src="/images/1_Adenosine_FINAL.png">
 </div>
-<p><em>How caffeine works.</em>
+<p><em>How caffeine works. Illustration credits: Ai Xin Qin.</em>
 </p>
 <p>So, I chose to pack a portable option, a handheld electric espresso maker.
 When I stumbled across this online, I couldn’t believe what I saw. A portable
@@ -48,7 +51,7 @@ for quick and easy brews using coffee pods.</p>
 <div class="iframe-wrapper">
 <iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yqH5et2jTlM"></iframe>
 </div>
-<p><em>A portable espresso maker in action.</em>
+<p><em>A portable espresso maker in action. Video credits: Simon Daniele.</em>
 </p>
 <p>I unpacked it on my first morning in Singapore. This piece of high-end
 tech looked as impressive as the marketing promised. Of course, once I
@@ -74,7 +77,7 @@ all contribute to the final result.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso." src="/images/2_Grind_Size_and_Time.png">
 </div>
-<p><em>A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso.</em>
+<p><em>A comparison of grind size and brewing time for cold brew, French press, pour-over, and espresso. Illustration credits: Ai Xin Qin.</em>
 </p>
 <p>A fine grind suits espresso’s quick, pressurised burst. A coarse grind
 works better for longer brewing styles like cold brew. Use the wrong grind,
@@ -91,7 +94,7 @@ here or takeaway.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A guide to Singapore kopi." src="/images/kopi_menu.png">
 </div>
-<p><em>A guide to Singapore kopi.</em>
+<p><em>A guide to Singapore kopi. Illustration credits: Ai Xin Qin.</em>
 <br>
 <br>Initially, I assumed kopi would have less caffeine than a traditional
 espresso. After all, kopi is less concentrated than espresso. But after
@@ -117,7 +120,7 @@ increasing the overall effect.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caffeine content per standard serving of kopi, latte (single espresso shot), and black milk tea." src="/images/4_caffeine_1_updated.png">
 </div>
-<p><em>Caffeine content per standard serving of kopi, latte (with single espresso shot), and black milk tea.</em>
+<p><em>Caffeine content per standard serving of kopi, latte (with single espresso shot), and black milk tea. Illustration credits: Ai Xin Qin.</em>
 </p>
 <p>Then there’s the matter of sugar, additives, and general well-being. Arriving
 in Singapore, I was immediately struck by the A to D health scoring known
@@ -131,7 +134,9 @@ the Singaporean kopi culture, this adventure has taught me that coffee
 is never just coffee. It is chemistry, culture, and a constant negotiation
 between flavour, function, and the occasional twitchy eyelid.</p>
 <p><strong><em>Written by Simon Daniele</em></strong>
-<br><strong><em>Illustrated by Ai Xin Qin</em></strong>
+</p>
+<p><em>Simon is a PhD candidate at Curtin University and a member of the Australian Research Council Centre of Excellence for the Digital Child. As the recipient of a Scitech industry scholarship, he investigates how transmedia learning in Science Discovery Centres fosters problem-solving in children aged 6 to 8. As part of his research, he spent three months at Science Centre Singapore, sharing insights and adapting his framework for institutions in Southeast Asia.</em>
+<br>
 </p>
 <hr>
 <p><em>Published 28 May 2025</em>
