@@ -99,7 +99,7 @@ here or takeaway.</p>
 <br>Initially, I assumed kopi would have less caffeine than a traditional
 espresso. After all, kopi is less concentrated than espresso. But after
 a few mornings spent buzzing through to-do lists at twice my usual speed,
-I started to wonder</p>
+I started to wonder.</p>
 <p>It turns out that caffeine intake isn’t just about the taste of the coffee.
 It is also influenced by how it’s brewed and the dose. Kopi often uses
 more grounds, a longer steep, and a larger volume per serving, which can
