@@ -23,16 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Science Café: Beyond the Stars (Apr 2025)"
-      subtitle: SPACE, ASTRONOMY - NEW STORY
+      title: Kopi, Caffeine, and Me
+      subtitle: Mind & Body, Coffee, New Story
       id: infopic
-      description: Held as part of this year's Dot in Space festival, attendees
-        marvelled at how the stars have guided people across different cultures
-        for centuries.
+      description: An Australian PhD researcher’s quest for caffeine in Singapore and
+        how a love for espresso led to an exploration of the chemistry and
+        culture of kopi.
       button: Read More
-      url: /sci-cafe-beyond-the-stars
-      alt: Orion constellation myths
-      image: /images/DIS_emag.gif
+      url: /kopi-caffeine-and-me
+      image: /images/kopi_header.png
+      alt: Kopi cup
   - textcards:
       title: Highlights
       subtitle: Content
@@ -57,8 +57,19 @@ sections:
       button: Read More
       url: /mala-chemistry
   - infopic:
+      title: "Science Café: Beyond the Stars (Apr 2025)"
+      subtitle: SPACE, ASTRONOMY, Culture
+      id: infopic
+      description: Held as part of this year's Dot in Space festival, attendees
+        marvelled at how the stars have guided people across different cultures
+        for centuries.
+      button: Read More
+      url: /sci-cafe-beyond-the-stars
+      alt: Orion constellation myths
+      image: /images/DIS_emag.gif
+  - infopic:
       title: When Science Meets the Force
-      subtitle: pop culture, sci-fi, new story
+      subtitle: pop culture, sci-fi, movies
       id: infopic
       description: May the Fourth be with you! We explore how Star Wars inspires
         science and interview (Jedi) Master Science Educator James Emmann Lim.
