@@ -44,4 +44,91 @@ teammates for humans, making work easier and more efficient!</p>
 <p><em>Photo Credit: Hyundai Motor Group/<a href="https://www.pexels.com/photo/assembling-machines-in-factory-19233057/" rel="noopener nofollow" target="_blank">Pexels</a></em>
 </p>
 <p></p>
+<p>Robotic hands serve recreational purposes as well such as the arms of
+the claw machine. Imagine having them help you get your favourite Labubu
+soft toy! Find out how you can <a href="https://www.youtube.com/watch?v=3jAdgpunsK0" rel="noopener noreferrer nofollow" target="_blank"><u>DIY your own claw machine at home</u></a> with
+these simple materials!</p>
+<p></p>
+<h4><strong>The Need for Sustainability and Conservation</strong></h4>
+<p></p>
+<p>Beyond their use in industries and everyday convenience, robotic hands
+can also play a crucial role in addressing global sustainability challenges.
+With their precision and ability to handle delicate tasks, they can be
+integrated into smart waste management systems to identify, sort, and process
+recyclable materials more efficiently. This helps reduce the environmental
+footprint of human consumption and supports efforts to minimize landfill
+waste. One key area where robotic technology could make a difference is
+in the management of plastic waste, especially the widespread use of disposable
+straws, which remains a pressing issue.
+<br>
+</p>
+<p>Straws are used in large amounts every day across the world. Although
+some restaurants have phased out their use, many beverage chains (e.g.
+bubble tea shops) continue to rely heavily on them. Robotic hands could
+potentially be used to support the collection and sorting of plastic straws
+for recycling or upcycling, giving these items a second life instead of
+letting them pollute our environment.</p>
+<p></p>
+<p>It is estimated that 8.3 billion plastic straws pollute the world's beaches
+and they are 7<sup>th</sup> out of the top 10 plastic items found in ocean
+cleanups. On average, plastic straws take around 200 years to decompose.
+In total, straw waste adds up to 73,000 metric tons per year, which is
+about the weight of 540 Boeing 777 planes. (More statistics on straw pollution
+can be found <a href="https://www.shop-without-plastic.com/blogs/how-much-do-contribute-to-pollution/how-much-do-plastic-straws-contribute-to-pollution?srsltid=AfmBOopCFR-tl14eebTq10rSa_ZRHK_ES9qdzex9TZScoVVztTGvHrFQ" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cleaning up plastic litter on beach: straws, bottles, cups" src="/images/intext4_plasticpollution.png">
+</div>
+<p><em>Photo Credit: Ocean Cleanup Group/<a href="https://unsplash.com/photos/three-people-picking-up-trash-on-a-beach-m52ppyMtAhw" rel="noopener nofollow" target="_blank">Unsplash</a></em>
+</p>
+<p></p>
+<p>If they are not discarded properly, they eventually end up in oceans where
+marine animals mistake them as food, leading to suffocation and death.
+<a href="https://www.plasticpollutioncoalition.org/blog/2017/4/28/are-drinking-straws-dangerous" rel="noopener noreferrer nofollow" target="_blank"><u>Stomachs of penguins and nostrils of sea turtles have been found perforated by plastic straws</u>
+</a>.</p>
+<p></p>
+<p>In parallel, the rise of e-commerce has led to increased cardboard usage,
+as products are packaged for shipping and delivery. In Singapore alone,
+<a href="https://www.straitstimes.com/business/e-commerce-sales-in-spore-expected-to-reach-196b-by-2027-despite-slower-growth-this-year" rel="noopener noreferrer nofollow" target="_blank"><u>e-commerce sales are projected to reach $19.6 billion by 2027</u>
+</a>. With this growth comes a surge in cardboard waste, much of which ends
+up discarded after a single use.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cardboard parcels inside delivery van" src="/images/intext5_ecommerce.png">
+</div>
+<p><em>Photo Credit: Tima Miroshnichenko/<a href="https://www.pexels.com/photo/parcels-inside-a-delivery-van-6170458/" rel="noopener nofollow" target="_blank">Pexels</a></em>
+</p>
+<p></p>
+<p>This is where upcycling, combined with the precision and assistance of
+robotic hands, can offer new possibilities. Upcycling involves creatively
+transforming waste materials into new, higher-value products with practical
+uses. Imagine robotic hands sorting and preparing materials like plastic
+straws and cardboard, assisting makers and crafters in turning trash into
+treasures. Straws can be used to create decorative lights, mini-Christmas
+trees, or earrings while cardboard can be reimagined into toys, organizers,
+or DIY furniture. With a bit of creativity, and perhaps a little robotic
+help, household waste can be transformed into something beautiful and useful,
+supporting both innovation and sustainability. Here are <a href="https://www.boredart.com/2019/08/repurposing-plastic-straw-crafts-ideas.html" rel="noopener noreferrer nofollow" target="_blank"><u>40 ways to repurpose plastic straws</u></a>!
+If you are considering cardboard craft work with your kids, check out these
+<a href="https://www.sassymamasg.com/10-kids-diy-upcycle-cardboard-boxes/" rel="noopener noreferrer nofollow" target="_blank"><u>10 DIY ideas to upcycle cardboard</u>
+</a>as well!</p>
+<p></p>
+<p><em>Did you know that Science Centre Singapore has an interactive robot exhibit called </em>Future
+Makers<em>? Grab a friend or your family and discover it <a href="https://www.science.edu.sg/whats-on/exhibitions/future-makers" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and learn more about the Science Centre’s <a href="https://www.science.edu.sg/stem-inc/applied-learning-programme/sustainability-(pri)" rel="noopener noreferrer nofollow" target="_blank"><u>sustainability learning programmes</u></a>.</em>
+</p>
+<p></p>
+<h4><strong>Building a simple robotic hand</strong></h4>
+<p>Become a robotic engineer in this holiday activity! Transform cardboard
+rolls, drinking straws and air-dry clay into a robotic hand.</p>
+<p></p>
+<p>Through hands-on design, you will learn about the basic mechanics of robotics,
+such as joints, levers, and control systems. As you build, you will enhance
+your problem-solving skills and explore engineering concepts in a playful
+way. At the same time, you will understand the value of upcycling these
+materials into a useful product to perform tasks in our daily life.</p>
+<p></p>
+<p>Click on the link below to download a printable version of the activity
+sheet.</p>
+<p><a href="/files/KS_x_Void_Deck_Robotic_Hand_Activity_Sheet.pdf" rel="noopener nofollow" target="_blank">Robotic Hand Activity Sheet</a>
+</p>
+<p><strong><em>Article and activity sheet produced by KidsSTOP™ Educators</em></strong>
+</p>
 <p></p>
