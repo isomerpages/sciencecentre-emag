@@ -6,6 +6,11 @@ description: ""
 third_nav_title: DIY
 ---
 <h4>Robotic hands are doing it all—assembling gadgets, helping people, and even turning trash into treasure! Find out how these handy helpers are making life cooler, greener, and more fun.</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Final result of robot hand craft" src="/images/robothand_emag.png">
+</div>
+<p></p>
 <p>Robotic parts have many functions to help make life processes easier for
 humans. They can allow control to happen remotely without the presence
 of humans on site. Singapore’s researchers design and deploy robots for
