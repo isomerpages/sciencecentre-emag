@@ -49,6 +49,12 @@ the claw machine. Imagine having them help you get your favourite Labubu
 soft toy! Find out how you can <a href="https://www.youtube.com/watch?v=3jAdgpunsK0" rel="noopener noreferrer nofollow" target="_blank"><u>DIY your own claw machine at home</u></a> with
 these simple materials!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Claw machine" src="/images/intext3_clawmachine2.png">
+</div>
+<p><em>Photo Credit: Element5 Digital/<a href="Photo by Element5 Digital from Pexels: https://www.pexels.com/photo/woman-standing-in-front-of-x-treme-arcade-machine-1293268/" rel="noopener nofollow" target="_blank">Pexels</a></em>
+</p>
+<p></p>
 <h4><strong>The Need for Sustainability and Conservation</strong></h4>
 <p></p>
 <p>Beyond their use in industries and everyday convenience, robotic hands
@@ -110,6 +116,11 @@ supporting both innovation and sustainability. Here are <a href="https://www.bor
 If you are considering cardboard craft work with your kids, check out these
 <a href="https://www.sassymamasg.com/10-kids-diy-upcycle-cardboard-boxes/" rel="noopener noreferrer nofollow" target="_blank"><u>10 DIY ideas to upcycle cardboard</u>
 </a>as well!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Recycle logo with colourful household trash (straws, paper cups, egg carton)" src="/images/intext6_recycle.png">
+</div>
+<p><em>Photo Credit: <a href="https://www.freepik.com/free-photo/recycle-logo-with-colorful-trash_2499085.htm#fromView=image_search_similar&amp;page=1&amp;position=0&amp;uuid=9e93e2aa-e73e-4739-8874-e4f764647501" rel="noopener nofollow" target="_blank">Freepik</a></em>
+</p>
 <p></p>
 <p><em>Did you know that Science Centre Singapore has an interactive robot exhibit called </em>Future
 Makers<em>? Grab a friend or your family and discover it <a href="https://www.science.edu.sg/whats-on/exhibitions/future-makers" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and learn more about the Science Centre’s <a href="https://www.science.edu.sg/stem-inc/applied-learning-programme/sustainability-(pri)" rel="noopener noreferrer nofollow" target="_blank"><u>sustainability learning programmes</u></a>.</em>
@@ -124,7 +135,21 @@ such as joints, levers, and control systems. As you build, you will enhance
 your problem-solving skills and explore engineering concepts in a playful
 way. At the same time, you will understand the value of upcycling these
 materials into a useful product to perform tasks in our daily life.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Robotic hand activity page 1" src="/images/KS_x_Void_Deck_Robotic_Hand_Activity_Sheet.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Robotic hand activity page 2" src="/images/KS_x_Void_Deck_Robotic_Hand_Activity_Sheet2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Robotic hand activity page 3" src="/images/KS_x_Void_Deck_Robotic_Hand_Activity_Sheet3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Robotic hand activity page 4" src="/images/KS_x_Void_Deck_Robotic_Hand_Activity_Sheet4.jpg">
+</div>
 <p>Click on the link below to download a printable version of the activity
 sheet.</p>
 <p><a href="/files/KS_x_Void_Deck_Robotic_Hand_Activity_Sheet.pdf" rel="noopener nofollow" target="_blank">Robotic Hand Activity Sheet</a>
