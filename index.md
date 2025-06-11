@@ -23,6 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: "Robotic Hands: An Easier Life for Us?"
+      subtitle: robotic hand, upcycling, craft
+      id: infopic
+      description: Become a robotic engineer in this holiday activity! Transform
+        cardboard rolls, drinking straws, and air-dry clay into a robotic hand.
+      button: READ MORE
+      url: /robotic-hands-an-easier-life-for-us/
+      image: /images/robothand_emag.png
+      alt: Robotic hand craft
+  - infopic:
       title: Kopi, Caffeine, and Me
       subtitle: Mind & Body, Coffee, New Story
       id: infopic
