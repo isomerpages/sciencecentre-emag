@@ -27,7 +27,7 @@ sections:
       subtitle: robotic hand, upcycling, craft
       id: infopic
       description: Become a robotic engineer in this holiday activity! Transform
-        cardboard rolls, drinking straws and air-dry clay into a robotic hand.
+        cardboard rolls, drinking straws, and air-dry clay into a robotic hand.
       button: READ MORE
       url: /robotic-hands-an-easier-life-for-us/
       image: /images/robothand_emag.png
