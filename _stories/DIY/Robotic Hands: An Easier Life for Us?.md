@@ -135,7 +135,7 @@ Makers<em>? Grab a friend or your family and discover it <a href="https://www.sc
 <p></p>
 <h4><strong>Building a simple robotic hand</strong></h4>
 <p>Become a robotic engineer in this holiday activity! Transform cardboard
-rolls, drinking straws and air-dry clay into a robotic hand.</p>
+rolls, drinking straws, and air-dry clay into a robotic hand.</p>
 <p></p>
 <p>Through hands-on design, you will learn about the basic mechanics of robotics,
 such as joints, levers, and control systems. As you build, you will enhance
