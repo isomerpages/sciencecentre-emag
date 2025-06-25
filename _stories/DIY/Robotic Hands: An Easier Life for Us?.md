@@ -163,4 +163,7 @@ sheet.</p>
 </p>
 <p><strong><em>Article and activity sheet produced by KidsSTOP™ Educators</em></strong>
 </p>
+<hr>
+<p><em>Published: 11 June 2025</em>
+</p>
 <p></p>
