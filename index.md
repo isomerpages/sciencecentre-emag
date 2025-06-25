@@ -23,6 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: "Unearthing the Series: BBC's Walking with Dinosaurs (2025)"
+      subtitle: DINOSAURS, TV, PALEONTOLOGY
+      id: infopic
+      description: xxxxxxx
+      button: READ MORE
+      url: /bbc-walking-with-dinosaurs/
+      image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
+      alt: Image alt text
+  - infopic:
       title: "Robotic Hands: An Easier Life for Us?"
       subtitle: robotic hand, upcycling, craft
       id: infopic
