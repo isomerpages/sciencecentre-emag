@@ -242,6 +242,7 @@ on BBC Earth channel (StarHub channel 407 and Singtel channel 203) on Sunday
 Walking With Dinosaurs at Gardens by The Bay on 5 July, with many dinosaur-themed
 fringe activities that promise fun for all ages.</p>
 <p><strong><em>Written by Lydia Konig<br>Featured image courtesy of BBC Studios</em></strong>
-<br>
-<br>
+</p>
+<hr>
+<p><em>Published: 25 June 2025</em>
 </p>
