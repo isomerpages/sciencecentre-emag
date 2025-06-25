@@ -28,9 +28,9 @@ sections:
       id: infopic
       description: xxxxxxx
       button: READ MORE
-      url: /bbc-walking-with-dinosaurs/
+      url: /bbc-walking-with-dinosaurs-2025/
       image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
-      alt: Image alt text
+      alt: Key Series Art
   - infopic:
       title: "Robotic Hands: An Easier Life for Us?"
       subtitle: robotic hand, upcycling, craft
