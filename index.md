@@ -26,7 +26,9 @@ sections:
       title: "Unearthing the Series: BBC's Walking with Dinosaurs (2025)"
       subtitle: DINOSAURS, TV, PALEONTOLOGY
       id: infopic
-      description: Hear from the people behind XXX
+      description: Discover how scientists and TV crew brought prehistoric giants back
+        to life in BBC's latest series—including an aquatic dinosaur bigger than
+        the T-Rex.
       button: READ MORE
       url: /bbc-walking-with-dinosaurs-2025/
       image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
