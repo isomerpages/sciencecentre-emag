@@ -23,6 +23,41 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: "Unearthing the Series: BBC's Walking with Dinosaurs (2025)"
+      subtitle: DINOSAURS, TV, PALEONTOLOGY
+      id: infopic
+      description: Discover how scientists and TV crew brought prehistoric giants back
+        to life in BBC's latest series—including an aquatic dinosaur bigger than
+        the T-Rex.
+      button: READ MORE
+      url: /bbc-walking-with-dinosaurs-2025/
+      image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
+      alt: Key Series Art
+  - textcards:
+      title: Highlights
+      subtitle: Content
+      id: textcards
+      cards:
+        - title: STORIES
+          description: Kopi, Caffeine, and Me
+          linktext: Learn more
+          url: /kopi-caffeine-and-me
+        - title: PODCAST
+          description: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub
+            (IBCI)
+          linktext: Learn more
+          url: /marine-ecology
+        - title: VIDEOS
+          description: The Wok Hei in Hokkien Mee
+          linktext: Learn more
+          url: /videos
+  - infobar:
+      title: '"Some spice-lovers might find pleasure amidst the pain."'
+      id: infobar
+      description: The Chemistry of Mala Xiang Guo
+      button: Read More
+      url: /mala-chemistry
+  - infopic:
       title: "Robotic Hands: An Easier Life for Us?"
       subtitle: robotic hand, upcycling, craft
       id: infopic
@@ -34,7 +69,7 @@ sections:
       alt: Robotic hand craft
   - infopic:
       title: Kopi, Caffeine, and Me
-      subtitle: Mind & Body, Coffee, New Story
+      subtitle: Mind & Body, Coffee, Health
       id: infopic
       description: An Australian PhD researcher’s quest for caffeine in Singapore and
         how a love for espresso led to an exploration of the chemistry and
@@ -43,29 +78,6 @@ sections:
       url: /kopi-caffeine-and-me
       image: /images/kopi_header.png
       alt: Kopi cup
-  - textcards:
-      title: Highlights
-      subtitle: Content
-      id: textcards
-      cards:
-        - title: STORIES
-          description: "From Parties to Planets: The Science of Disco Balls"
-          linktext: Learn more
-          url: /disco-balls
-        - title: PODCAST
-          description: Decoding Artificial Intelligence with Dr. Ayesha Khanna (AddoAl)
-          linktext: Learn more
-          url: /decoding-ai
-        - title: VIDEOS
-          description: The Wok Hei in Hokkien Mee
-          linktext: Learn more
-          url: /videos
-  - infobar:
-      title: '"Some spice-lovers might find pleasure amidst the pain."'
-      id: infobar
-      description: The Chemistry of Mala Xiang Guo
-      button: Read More
-      url: /mala-chemistry
   - infopic:
       title: "Science Café: Beyond the Stars (Apr 2025)"
       subtitle: SPACE, ASTRONOMY, Culture
