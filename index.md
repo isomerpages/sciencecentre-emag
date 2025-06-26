@@ -26,34 +26,25 @@ sections:
       title: "Unearthing the Series: BBC's Walking with Dinosaurs (2025)"
       subtitle: DINOSAURS, TV, PALEONTOLOGY
       id: infopic
-      description: xxxxxxx
+      description: Hear from the people behind XXX
       button: READ MORE
       url: /bbc-walking-with-dinosaurs-2025/
       image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
       alt: Key Series Art
-  - infopic:
-      title: "Robotic Hands: An Easier Life for Us?"
-      subtitle: robotic hand, upcycling, craft
-      id: infopic
-      description: Become a robotic engineer in this holiday activity! Transform
-        cardboard rolls, drinking straws, and air-dry clay into a robotic hand.
-      button: READ MORE
-      url: /robotic-hands-an-easier-life-for-us/
-      image: /images/robothand_emag.png
-      alt: Robotic hand craft
   - textcards:
       title: Highlights
       subtitle: Content
       id: textcards
       cards:
         - title: STORIES
-          description: "From Parties to Planets: The Science of Disco Balls"
+          description: Kopi, Caffeine, and Me
           linktext: Learn more
-          url: /disco-balls
+          url: /kopi-caffeine-and-me
         - title: PODCAST
-          description: Decoding Artificial Intelligence with Dr. Ayesha Khanna (AddoAl)
+          description: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub
+            (IBCI)
           linktext: Learn more
-          url: /decoding-ai
+          url: /marine-ecology
         - title: VIDEOS
           description: The Wok Hei in Hokkien Mee
           linktext: Learn more
@@ -65,16 +56,15 @@ sections:
       button: Read More
       url: /mala-chemistry
   - infopic:
-      title: "Science Café: Beyond the Stars (Apr 2025)"
-      subtitle: SPACE, ASTRONOMY, Culture
+      title: "Robotic Hands: An Easier Life for Us?"
+      subtitle: robotic hand, upcycling, craft
       id: infopic
-      description: Held as part of this year's Dot in Space festival, attendees
-        marvelled at how the stars have guided people across different cultures
-        for centuries.
-      button: Read More
-      url: /sci-cafe-beyond-the-stars
-      alt: Orion constellation myths
-      image: /images/DIS_emag.gif
+      description: Become a robotic engineer in this holiday activity! Transform
+        cardboard rolls, drinking straws, and air-dry clay into a robotic hand.
+      button: READ MORE
+      url: /robotic-hands-an-easier-life-for-us/
+      image: /images/robothand_emag.png
+      alt: Robotic hand craft
   - infopic:
       title: Kopi, Caffeine, and Me
       subtitle: Mind & Body, Coffee, Health
@@ -86,6 +76,17 @@ sections:
       url: /kopi-caffeine-and-me
       image: /images/kopi_header.png
       alt: Kopi cup
+  - infopic:
+      title: "Science Café: Beyond the Stars (Apr 2025)"
+      subtitle: SPACE, ASTRONOMY, Culture
+      id: infopic
+      description: Held as part of this year's Dot in Space festival, attendees
+        marvelled at how the stars have guided people across different cultures
+        for centuries.
+      button: Read More
+      url: /sci-cafe-beyond-the-stars
+      alt: Orion constellation myths
+      image: /images/DIS_emag.gif
   - infopic:
       title: When Science Meets the Force
       subtitle: pop culture, sci-fi, movies
