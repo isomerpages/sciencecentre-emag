@@ -41,17 +41,6 @@ sections:
       url: /robotic-hands-an-easier-life-for-us/
       image: /images/robothand_emag.png
       alt: Robotic hand craft
-  - infopic:
-      title: Kopi, Caffeine, and Me
-      subtitle: Mind & Body, Coffee, New Story
-      id: infopic
-      description: An Australian PhD researcher’s quest for caffeine in Singapore and
-        how a love for espresso led to an exploration of the chemistry and
-        culture of kopi.
-      button: Read More
-      url: /kopi-caffeine-and-me
-      image: /images/kopi_header.png
-      alt: Kopi cup
   - textcards:
       title: Highlights
       subtitle: Content
@@ -86,6 +75,17 @@ sections:
       url: /sci-cafe-beyond-the-stars
       alt: Orion constellation myths
       image: /images/DIS_emag.gif
+  - infopic:
+      title: Kopi, Caffeine, and Me
+      subtitle: Mind & Body, Coffee, Health
+      id: infopic
+      description: An Australian PhD researcher’s quest for caffeine in Singapore and
+        how a love for espresso led to an exploration of the chemistry and
+        culture of kopi.
+      button: Read More
+      url: /kopi-caffeine-and-me
+      image: /images/kopi_header.png
+      alt: Kopi cup
   - infopic:
       title: When Science Meets the Force
       subtitle: pop culture, sci-fi, movies
