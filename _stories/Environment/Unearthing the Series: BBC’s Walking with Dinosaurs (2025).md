@@ -6,7 +6,7 @@ description: XXXXXX
 third_nav_title: Environment
 image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
 ---
-<h4>From uncovering ancient bite marks to studying alligator muscles, discover how scientists and TV  crew brought prehistoric giants back to life in BBC's new Walking with Dinosaurs series—including a water-dwelling predator bigger than the T-Rex.</h4>
+<h4>From uncovering ancient bite marks to studying alligator muscles, discover how scientists and TV crew brought prehistoric giants back to life in BBC's new<em> Walking with Dinosaurs</em> series—including a water-dwelling predator bigger than the T-Rex.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BBC's Walking With Dinosaurs (2025) Key Series Art" src="/images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg">
