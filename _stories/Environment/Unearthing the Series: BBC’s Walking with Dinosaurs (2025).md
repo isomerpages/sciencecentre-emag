@@ -17,8 +17,8 @@ never before featuring stories based on the latest science. By examining
 the bones left behind and making comparative analyses, the show reveals
 the secrets of how some prehistoric giants once lived, hunted, fought,
 and died.</p>
-<p>The editorial team of Void Deck was privileged to interview Thomas Scott,
-Head of Development at BBC Studios Science Unit, and Dr. Nizar Ibrahim,
+<p>The editorial team of <em>Void Deck</em> was privileged to interview Thomas
+Scott, Head of Development at BBC Studios Science Unit, and Dr. Nizar Ibrahim,
 a vertebrate paleontologist and comparative anatomist featured in Episode
 2 of the series. Episode 2 follows the journey of a Spinosaurus named Sobek,
 at the edge of the Moroccan Sahara, as he takes on the role of being a
@@ -33,10 +33,11 @@ Things take a turn when they face a deadly confrontation.</p>
 <p>The name Spinosaurus may not immediately ring a bell with audiences, but
 Spinosaurus can be even bigger than the more popular Tyrannosaurus Rex,
 and is unique in its traits that enable it to spend most of its time in
-the water. It has a <a href="https://www.google.com/url?q=https://www.thoughtco.com/why-did-spinosaurus-have-a-sail-1092007&amp;sa=D&amp;source=docs&amp;ust=1750833905906266&amp;usg=AOvVaw1qhcLA9kTWRgsTsLfN-DMy" rel="noopener nofollow" target="_blank">sail</a> over
+the water. It has a <a href="https://www.thoughtco.com/why-did-spinosaurus-have-a-sail-1092007" rel="noopener nofollow" target="_blank">sail</a> over
 2 metres tall on its back (yes, a sail!), a paddle tail, and webbed feet.
 These features were perfect for the rivers and swamps in ancient Morocco.</p>
-<p>The following interview has been edited and condensed for clarity.</p>
+<p><em>The following interview has been edited and condensed for clarity.</em>
+</p>
 <p><strong>VD: What was it like working with the VFX and CGI team? Was there anything memorable or challenging in order to get the dinosaurs accurate?</strong>
 </p>
 <p><strong>DR. NIZAR IBRAHIM</strong>: There are lots of challenges because
@@ -238,7 +239,7 @@ swimming with its young on its head<em> (VFX). Photo credits: BBC / Lola Post Pr
 <p>All episodes of <em>Walking With Dinosaurs</em> will be available to stream
 on BBC Player on 30th June. You can also catch the last episode airing
 on BBC Earth channel (StarHub channel 407 and Singtel channel 203) on Sunday
-6 July at 8:00pm. .&nbsp; Don’t miss the BBC Earth Screening Festival featuring
+6 July at 8:00pm.&nbsp;Don’t miss the BBC Earth Screening Festival featuring
 Walking With Dinosaurs at Gardens by The Bay on 5 July, with many dinosaur-themed
 fringe activities that promise fun for all ages.</p>
 <p><strong><em>Written by Lydia Konig<br>Featured image courtesy of BBC Studios</em></strong>
