@@ -17,18 +17,17 @@ image: /images/papertower_emag.gif
 </p>
 <p>Have you ever looked up at the Marina Bay Sands and wondered how that
 big boat stays on top? Or seen towering skyscrapers and thought, “How do
-they not fall over?” Maybe you’ve looked around your neighbourhood, at
-the tall HDB blocks and asked yourself, “How can they hold so many people
-and all of their things?”</p>
-<p>If these thoughts have crossed your mind, then you’re already thinking
-like a structural engineer!</p>
-<p></p>
+they not fall over?”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo by Hu Chen on Unsplash" src="/images/intext_1.png">
 </div>
 <p><em>Photo by<a href="https://unsplash.com/@huchenme?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank"> <u>Hu Chen</u></a> on<a href="https://unsplash.com/photos/marina-bay-sands-singapore-__cBlRzLSTg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank"> <u>Unsplash</u></a></em>
-<br>
 </p>
+<p>Maybe you’ve looked around your neighbourhood, at the tall HDB blocks
+and asked yourself, “How can they hold so many people and all of their
+things?”</p>
+<p>If these thoughts have crossed your mind, then you’re already thinking
+like a structural engineer!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo by Soloman Soh on Pexels" src="/images/intext_2.png">
 </div>
@@ -49,7 +48,6 @@ floors of residents, and even the humble walkways that shelter us from
 the elements.</p>
 <p>Let’s take a closer look!</p>
 <p>(Find out more about what structural engineering is all about <a href="https://www.encardio.com/blog/structural-engineering-the-art-of-design-and-analysis" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo by The Transport Enthusiast DC on Unsplash" src="/images/intext_3.png">
 </div>
@@ -68,7 +66,6 @@ that structural engineers put in place to make sure the viaducts distribute
 weight equally and can support heavy trains every single day!</p>
 <p>(Fascinated by trains? Check out this <a href="https://www.encardio.com/blog/urban-transportation-viaducts-vs-bridges" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> to
 learn more about viaducts.)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo by Chamal Prasanna on Unsplash" src="/images/intext_4.png">
 </div>
