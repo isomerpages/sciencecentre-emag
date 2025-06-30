@@ -23,16 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Unearthing the Series: BBC's Walking with Dinosaurs (2025)"
-      subtitle: DINOSAURS, TV, PALEONTOLOGY
+      title: Smart Shapes, Strong Structures!
+      subtitle: STRUCTURAL ENGINEERING, DIY
       id: infopic
-      description: Discover how scientists and TV crew brought prehistoric giants back
-        to life in BBC's latest series—including an aquatic dinosaur bigger than
-        the T-Rex.
+      description: How many books can sheets of paper rolled up in different shapes
+        support? Learn the surprising strength of paper and the principles of
+        structural engineering.
       button: READ MORE
-      url: /bbc-walking-with-dinosaurs-2025/
-      image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
-      alt: Key Series Art
+      url: /smart-shapes-strong-structures/
+      image: /images/papertower_emag.gif
+      alt: Paper towers of various shapes
   - textcards:
       title: Highlights
       subtitle: Content
@@ -51,6 +51,17 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Learn more
           url: /videos
+  - infopic:
+      title: "Unearthing the Series: BBC's Walking with Dinosaurs (2025)"
+      subtitle: DINOSAURS, TV, PALEONTOLOGY
+      id: infopic
+      description: Discover how scientists and TV crew brought prehistoric giants back
+        to life in BBC's latest series—including an aquatic dinosaur bigger than
+        the T-Rex.
+      button: READ MORE
+      url: /bbc-walking-with-dinosaurs-2025/
+      image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
+      alt: Key Series Art
   - infobar:
       title: '"Some spice-lovers might find pleasure amidst the pain."'
       id: infobar
