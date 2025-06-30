@@ -26,13 +26,13 @@ they not fall over?”</p>
 <p>Maybe you’ve looked around your neighbourhood, at the tall HDB blocks
 and asked yourself, “How can they hold so many people and all of their
 things?”</p>
-<p>If these thoughts have crossed your mind, then you’re already thinking
-like a structural engineer!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo by Soloman Soh on Pexels" src="/images/intext_2.png">
 </div>
 <p><em>Photo by <a href="https://www.pexels.com/@soloman-soh-674993/" rel="noopener noreferrer nofollow" target="_blank"><u>Soloman Soh</u></a> on <a href="https://www.pexels.com/photo/brown-and-white-buildings-near-bridge-3124995/" rel="noopener noreferrer nofollow" target="_blank"><u>Pexels</u></a></em>
 </p>
+<p>If these thoughts have crossed your mind, then you’re already thinking
+like a structural engineer!</p>
 <p><strong>What Is Structural Engineering?</strong>
 <br><strong><br></strong>Structural engineering is all about making things
 like our homes, schools, and even places like playgrounds, strong and safe!</p>
