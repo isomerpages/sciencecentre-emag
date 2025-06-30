@@ -155,9 +155,10 @@ Wishing you a wonderful festive season from Science Centre Singapore!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/diychristmas2.png">
 </div>
-<p><strong><em>Article and activity sheet produced by KidsSTOP™ Educators</em></strong>
+<p><strong><em>Written by Priyashini Subramaniam and Aria Tan</em></strong>
 </p>
 <hr>
-<p><em>Last updated 26 December 2024</em>
+<p><em>Published: 26 December 2024</em>
+<br><em>Last updated: 30 June 2025</em>
 </p>
 <p></p>
