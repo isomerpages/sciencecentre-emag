@@ -161,9 +161,9 @@ materials into a useful product to perform tasks in our daily life.</p>
 sheet.</p>
 <p><a href="/files/KS_x_Void_Deck_Robotic_Hand_Activity_Sheet.pdf" rel="noopener nofollow" target="_blank">Robotic Hand Activity Sheet</a>
 </p>
-<p><strong><em>Article and activity sheet produced by KidsSTOP™ Educators</em></strong>
+<p><strong><em>Written by Benjamin Lim</em></strong>
 </p>
 <hr>
-<p><em>Published: 11 June 2025</em>
+<p><em>Published: 11 June 2025<br>Last updated: 30 June 2025</em>
 </p>
 <p></p>
