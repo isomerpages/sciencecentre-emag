@@ -85,8 +85,9 @@ many in Singapore.</p>
 sheet.</p>
 <p><a href="/files/voiddeck_oreomoonphase_activitysheet.pdf" rel="noopener nofollow" target="_blank">Oreo Moon Phases Activity Sheet</a>
 </p>
-<p><strong><em>Article and activity sheet produced by KidsSTOP™ Educators</em></strong>
+<p><strong><em>Written by Fatin Afiqah Bte Musa</em></strong>
 </p>
 <hr>
-<p><em>Last updated: 28 March 2025</em>
+<p><em>Published: 28 March 2025</em>
+<br><em>Last updated: 30 June 2025</em>
 </p>
