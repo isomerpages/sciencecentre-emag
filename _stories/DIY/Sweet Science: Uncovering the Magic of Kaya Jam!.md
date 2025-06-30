@@ -113,6 +113,9 @@ the refrigerator and let it cool to room temperature before having it.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Printable kaya jam recipe." src="/images/Kaya_Jam_VD_Activity_Template.png">
 </div>
-<p><em><br>Article and activity sheet produced by KidsSTOP™ Educators</em>
-<br><em>Instruction images generated using DALL-E</em>
+<p><em><br></em><strong><em>Written by Choh Xue Ting and Denise Neo</em><br><em>Instruction images generated using DALL-E</em></strong>
 </p>
+<hr>
+<p><em>Last updated: 30 June 2025</em>
+</p>
+<p></p>
