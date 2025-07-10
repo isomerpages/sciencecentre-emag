@@ -23,16 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: Smart Shapes, Strong Structures!
-      subtitle: STRUCTURAL ENGINEERING, DIY
+      title: "Science Café: Science Fiction or Science Fact? (May 2025)"
+      subtitle: SCI-FI, FILM, POETRY
       id: infopic
-      description: How many books can sheets of paper rolled up in different shapes
-        support? Learn the surprising strength of paper and the principles of
-        structural engineering.
+      description: Café-goers participated in a discussion on science fiction film in
+        the ambience of a bookstore at Science Centre Singapore’s Science Café
+        session in May.
       button: READ MORE
-      url: /smart-shapes-strong-structures/
-      image: /images/papertower_emag.gif
-      alt: Paper towers of various shapes
+      url: /sci-cafe-science-fiction/
+      image: /images/SciFi_emag.png
+      alt: Science Café neon sign
   - textcards:
       title: Highlights
       subtitle: Content
@@ -51,6 +51,17 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Learn more
           url: /videos
+  - infopic:
+      title: Smart Shapes, Strong Structures!
+      subtitle: STRUCTURAL ENGINEERING, DIY
+      id: infopic
+      description: How many books can sheets of paper rolled up in different shapes
+        support? Learn the surprising strength of paper and the principles of
+        structural engineering.
+      button: READ MORE
+      url: /smart-shapes-strong-structures/
+      image: /images/papertower_emag.gif
+      alt: Paper towers of various shapes
   - infopic:
       title: "Unearthing the Series: BBC's Walking with Dinosaurs (2025)"
       subtitle: DINOSAURS, TV, PALEONTOLOGY
