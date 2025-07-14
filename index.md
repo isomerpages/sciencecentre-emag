@@ -30,7 +30,7 @@ sections:
         the ambience of a bookstore at Science Centre Singapore’s Science Café
         session in May.
       button: READ MORE
-      url: /sci-cafe-science-fiction/
+      url: /sci-cafe-may-2025/
       image: /images/SciFi_emag.png
       alt: Science Café neon sign
   - textcards:
