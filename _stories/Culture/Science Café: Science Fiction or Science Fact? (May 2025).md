@@ -31,8 +31,8 @@ example being the perception of distance in space versus its actual distance.</p
 </div>
 <p></p>
 <p>Participants were then introduced to local ‘science poet’ Cheyenne Alexandria
-Phillips who showed a sample of poetry form influenced by science – the
-nucleus poem. Where each line’s number of syllables are determined by a
+Phillips who showed a sample of poetry form influenced by science: the
+nucleus poem, where each line’s number of syllables are determined by a
 chosen atom’s number of electrons.</p>
 <p>Later, abstracts from science journals were handed out for a black-out
 poetry activity. For black-out poetry, poets would have to cancel out words
@@ -44,13 +44,11 @@ to form a poem.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Blackout Poetry sample" src="/images/intext_blackout.png">
 </div>
 <p></p>
-<p>Fun fact: speakers, Simon and Cheyenne, and along with café host Meng,
-were all university mates in the same student hall!</p>
 <p>Check out the next <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe" rel="noopener noreferrer nofollow" target="_blank"><u>Science Café session</u></a> happening
 in August on Science and Music (website to be updated in early August).</p>
 <p><strong><em>Written by Lydia Konig</em></strong>
 </p>
 <hr>
-<p><em>Published XXXX 2025</em>
+<p><em>Published 14 July 2025</em>
 </p>
 <p></p>
