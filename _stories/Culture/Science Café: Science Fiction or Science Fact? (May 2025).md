@@ -38,7 +38,8 @@ chosen atom’s number of electrons.</p>
 poetry activity. For black-out poetry, poets would have to cancel out words
 (blacken out with a marker), leaving their own selected remaining words
 to form a poem.</p>
-<p>Here is a sample!</p>
+<p>Here is a sample! Feel free to try it yourself at home with any science
+paper.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Blackout Poetry sample" src="/images/intext_blackout.png">
