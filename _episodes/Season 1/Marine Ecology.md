@@ -773,7 +773,7 @@ science in Singapore.</p>
 <p><strong>LYDIA: </strong>If you want to learn more about the environment,
 visit Science Centre Singapore and check out our exhibitions, Earth Alive
 and Climate Changed, to learn more about what you can do to protect the
-planet. See you next episode! See you next episode!</p>
+planet. See you next episode!</p>
 </div>
 </details>
 <details class="isomer-details">
