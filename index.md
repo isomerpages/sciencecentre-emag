@@ -32,6 +32,7 @@ sections:
       url: /why-your-calendar-changes-every-year/
       image: /images/calendars_emag.gif
       alt: 25 July across different years
+      subtitle: calendars, space, Culture
   - textcards:
       title: Highlights
       subtitle: Content
