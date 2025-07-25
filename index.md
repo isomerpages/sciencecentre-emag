@@ -25,9 +25,9 @@ sections:
   - infopic:
       title: Why Your Calendar Changes Every Year
       id: infopic
-      description: In 2029, Lunar New Year and Hari Raya Puasa are projected to fall
-        on the same day. Why do festive dates shift, and why are calendars not
-        stable markers of time?
+      description: In 2029, Lunar New Year and Hari Raya Puasa are projected to
+        overlap. Why do festive dates shift, and why are calendars not stable
+        markers of time?
       button: READ MORE
       url: /why-your-calendar-changes-every-year/
       image: /images/calendars_emag.gif
