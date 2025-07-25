@@ -7,6 +7,13 @@ description: Did you know that in 2029, Lunar New Year and Hari Raya Puasa are
 third_nav_title: Space
 ---
 <h4>Did you know that in 2029, Lunar New Year and Hari Raya Puasa are projected to fall on the same day? What causes these festive dates to shift each year, and why are our calendars not stable markers of time? Senior Science Educator Meng Hwee Lim explains.</h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gif of the calendar changing from 2020-2025" src="/images/calendars_emag.gif">
+</div>
+<p><em>Comparison of 25 July across different calendars and years. Illustration credits: Ai Xin Qin.</em>
+</p>
 <p>Calendars are strange things. Although a calendar may seem like a reliable
 way to measure the passage of time, what we call a day, week, or month
 do not match the movements of the Earth, Sun, Moon, or stars with total
@@ -25,8 +32,15 @@ We also know when to celebrate key religious festivals, for example, Christmas,
 which is observed on 25<sup>th</sup> December. These are just some of the
 important tasks we assign to the calendar. But how did we form a calendar
 that tells us the above?</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Calendar" src="/images/1_Calendar.jpg">
+</div>
+<p><em>Photo by <a href="https://www.pexels.com/@leeloothefirst/" rel="noopener nofollow" target="_blank">LeeLoo The First</a> on <a href="https://www.pexels.com/photo/brown-framed-eyeglasses-on-a-calendar-5386754/" rel="noopener nofollow" target="_blank">Pexels</a></em>
+</p>
 <h4><strong>Gregorian Calendar</strong></h4>
-<p>The described calendar uses the rising the setting of the sun to mark
+<p>The described calendar uses the rising and the setting of the sun to mark
 and form the calendar, counting the number of days before or after certain
 events to set out the dates. We call this a solar calendar, but it is more
 widely known as the Gregorian calendar. Invented in 1582, it is mainly
