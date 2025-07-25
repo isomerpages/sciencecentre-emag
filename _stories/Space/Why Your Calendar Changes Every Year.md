@@ -12,7 +12,7 @@ third_nav_title: Space
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gif of the calendar changing from 2020-2025" src="/images/calendars_emag.gif">
 </div>
-<p><em>Comparison of 25 July across different calendars and years. Illustration credits: Ai Xin Qin.</em>
+<p><em>Comparison of 25 July across different calendars and years. Animation credits: Ai Xin Qin.</em>
 </p>
 <p>Calendars are strange things. Although a calendar may seem like a reliable
 way to measure the passage of time, what we call a day, week, or month
@@ -37,7 +37,7 @@ that tells us the above?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Calendar" src="/images/1_Calendar.jpg">
 </div>
-<p><em>Photo by <a href="https://www.pexels.com/@leeloothefirst/" rel="noopener nofollow" target="_blank">LeeLoo The First</a> on <a href="https://www.pexels.com/photo/brown-framed-eyeglasses-on-a-calendar-5386754/" rel="noopener nofollow" target="_blank">Pexels</a></em>
+<p><em>Photo Credit: LeeLoo The First/<a href="https://www.pexels.com/photo/brown-framed-eyeglasses-on-a-calendar-5386754/" rel="noopener nofollow" target="_blank">Pexels</a></em>
 </p>
 <h4><strong>Gregorian Calendar</strong></h4>
 <p>The described calendar uses the rising and the setting of the sun to mark
@@ -56,6 +56,12 @@ words, it takes into account the daily rising and setting of the Sun as
 well as the changing phases of the Moon. It is most likely done this way
 because the calendar is used as an agricultural calendar and most likely
 a religious or cultural one as well.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Moon Phase Calendar" src="/images/2_MoonPhaseCalendar.png">
+</div>
+<p><em>2025 Moon Phase Calendar</em>
+</p>
 <p>The first day of the month always starts with the new moon phases of the
 moon, and a month ends when the next new moon starts. This goes on for
 12 months. On average, there are 12 full moons in a year so this lines
@@ -70,6 +76,13 @@ just like this year (2025), where there will be two 6th lunar months. This
 is part of a larger pattern between the Sun and Moon that lasts for 19
 years, known as the Metonic cycle. In these 19 years, there will be 12
 years with 12 months, and 7 leap years with 13 months.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Depiction of the 19 years of the Metonic cycle as a wheel" src="/images/3_MetonicCycle.jpg">
+</div>
+<p><em>Depiction of the 19 years of the Metonic cycle as a wheel from a 9th-century computistic manuscript made in St. Emmeram's Abbey. Photo Credit: Bavarian State Library, Public Domain/<a href="https://commons.wikimedia.org/wiki/File:CLM_14456_70v71r.jpg" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></em>
+</p>
 <p>But why go through all the trouble of tracking the days and months? Because,
 like their Western counterparts, the Chinese also use this calendar to
 tell them when to start planting and when the new year starts. Adding this
@@ -91,6 +104,13 @@ little shorter here and there, no need to worry if the 12 months do not
 add up to a year. This is because the purpose of the Islamic calendar is
 not agricultural but religious. The calendar is used to determine the dates
 of important Islamic holidays and rituals like Ramadan and Eid celebrations.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Islamic Calendar 2025" src="/images/4_MUISCalendar.png">
+</div>
+<p><em>2025 <a href="/files/4_MUISCalendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Islamic Calendar</a>. Photo Credit: <a href="https://www.muis.gov.sg/resources/islamic-calendar" rel="noopener nofollow" target="_blank">MUIS</a></em>
+</p>
 <p>The Islamic calendar consists of 12 months and runs slightly shorter than
 our Gregorian calendar, again by 11 days. Over some 33 odd years, one would
 see the Islamic holidays move earlier and earlier in the year and cycle
@@ -120,6 +140,12 @@ both the lunar and lunisolar calendar is that the Islamic and Chinese calendar
 months start and end on the same day. With the ever-shifting lunar calendar
 together with the roughly static lunisolar calendar, there are bound to
 be days where Chinese and Islamic festive occasions converge.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinese New Year and Hari Raya Projected Dates 2029-2031" src="/images/5_Gongxi_Raya.png">
+</div>
+<p><em>Projected dates for Lunar New Year (Left) and Hari Raya Puasa (Right)</em>
+</p>
 <p>For example, Lunar New Year and Hari Raya Puasa are projected to fall
 on the same day in 2029, 2030, and 2031. The two celebrations will not
 overlap in 2028 and 2032 as these years are leap years where an extra month
