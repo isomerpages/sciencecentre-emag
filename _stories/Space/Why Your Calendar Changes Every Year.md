@@ -6,7 +6,7 @@ description: Did you know that in 2029, Lunar New Year and Hari Raya Puasa are
   projected to fall on the same day?
 third_nav_title: Space
 ---
-<h4>Did you know that Lunar New Year and Hari Raya Puasa are projected to overlap in 2029, 2030, and 2031? What causes these festive dates to shift each year, and why are our calendars not stable markers of time? Senior Science Educator Meng Hwee Lim explains.</h4>
+<h4>Did you know that Lunar New Year and Hari Raya Puasa are projected to overlap in 2029, 2030, and 2031? What causes these festive dates to shift each year, and why aren't our calendars stable markers of time? Senior Science Educator Meng Hwee Lim explains.</h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
