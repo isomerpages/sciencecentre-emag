@@ -12,7 +12,7 @@ third_nav_title: Space
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gif of the calendar changing from 2020-2025" src="/images/calendars_emag.gif">
 </div>
-<p><em> Comparison of the Western calendar 25 July date with its equivalents in Chinese and Islamic calendars across various years. Animation credits: Ai Xin Qin.</em>
+<p><em>Comparison of the Western calendar 25 July date with its equivalents in Chinese and Islamic calendars across various years. Animation credits: Ai Xin Qin.</em>
 </p>
 <p>Calendars are strange things. Although a calendar may seem like a reliable
 way to measure the passage of time, what we call a day, week, or month
