@@ -23,16 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Science Café: Science Fiction or Science Fact? (May 2025)"
-      subtitle: SCI-FI, FILM, POETRY
+      title: Why Your Calendar Changes Every Year
       id: infopic
-      description: Café-goers participated in a discussion on science fiction film in
-        the ambience of a bookstore at Science Centre Singapore’s Science Café
-        session in May.
+      description: In 2029, Lunar New Year and Hari Raya Puasa are projected to fall
+        on the same day. Why do festive dates shift, and why are calendars not
+        stable markers of time?
       button: READ MORE
-      url: /sci-cafe-may-2025/
-      image: /images/SciFi_emag.png
-      alt: Science Café neon sign
+      url: /why-your-calendar-changes-every-year/
+      image: /images/calendars_emag.gif
+      alt: 25 July across different years
   - textcards:
       title: Highlights
       subtitle: Content
@@ -52,6 +51,17 @@ sections:
           linktext: Learn more
           url: /videos
   - infopic:
+      title: "Science Café: Science Fiction or Science Fact? (May 2025)"
+      subtitle: SCI-FI, FILM, POETRY
+      id: infopic
+      description: Café-goers participated in a discussion on science fiction film in
+        the ambience of a bookstore at Science Centre Singapore’s Science Café
+        session in May.
+      button: READ MORE
+      url: /sci-cafe-may-2025/
+      image: /images/SciFi_emag.png
+      alt: Science Café neon sign
+  - infopic:
       title: Smart Shapes, Strong Structures!
       subtitle: STRUCTURAL ENGINEERING, DIY
       id: infopic
@@ -62,6 +72,12 @@ sections:
       url: /smart-shapes-strong-structures/
       image: /images/papertower_emag.gif
       alt: Paper towers of various shapes
+  - infobar:
+      title: '"Some spice-lovers might find pleasure amidst the pain."'
+      id: infobar
+      description: The Chemistry of Mala Xiang Guo
+      button: Read More
+      url: /mala-chemistry
   - infopic:
       title: "Unearthing the Series: BBC's Walking with Dinosaurs (2025)"
       subtitle: DINOSAURS, TV, PALEONTOLOGY
@@ -73,12 +89,6 @@ sections:
       url: /bbc-walking-with-dinosaurs-2025/
       image: /images/1_WWD_Hero_Iconic_A3_Landscape_420x297mm_72dpi_RGB_BBCE.jpg
       alt: Key Series Art
-  - infobar:
-      title: '"Some spice-lovers might find pleasure amidst the pain."'
-      id: infobar
-      description: The Chemistry of Mala Xiang Guo
-      button: Read More
-      url: /mala-chemistry
   - infopic:
       title: "Robotic Hands: An Easier Life for Us?"
       subtitle: robotic hand, upcycling, craft
