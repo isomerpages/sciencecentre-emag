@@ -6,13 +6,13 @@ description: Did you know that in 2029, Lunar New Year and Hari Raya Puasa are
   projected to fall on the same day?
 third_nav_title: Space
 ---
-<h4>Did you know that in 2029, Lunar New Year and Hari Raya Puasa are projected to fall on the same day? What causes these festive dates to shift each year, and why are our calendars not stable markers of time? Senior Science Educator Meng Hwee Lim explains.</h4>
+<h4>Did you know that Lunar New Year and Hari Raya Puasa are projected to overlap in 2029, 2030, and 2031? What causes these festive dates to shift each year, and why are our calendars not stable markers of time? Senior Science Educator Meng Hwee Lim explains.</h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gif of the calendar changing from 2020-2025" src="/images/calendars_emag.gif">
 </div>
-<p><em>Comparison of 25 July across different calendars and years. Animation credits: Ai Xin Qin.</em>
+<p><em> Comparison of the Western calendar 25 July date with its equivalents in Chinese and Islamic calendars across various years. Animation credits: Ai Xin Qin.</em>
 </p>
 <p>Calendars are strange things. Although a calendar may seem like a reliable
 way to measure the passage of time, what we call a day, week, or month
@@ -43,24 +43,25 @@ that tells us the above?</p>
 <p>The described calendar uses the rising and the setting of the sun to mark
 and form the calendar, counting the number of days before or after certain
 events to set out the dates. We call this a solar calendar, but it is more
-widely known as the Gregorian calendar. Invented in 1582, it is mainly
-used in the Western world, and remarkably, this centuries-old method still
-dictates how we set our days and dates internationally.</p>
+widely known as the <a href="https://www.livescience.com/45768-gregorian-calendar.html" rel="noopener nofollow" target="_blank">Gregorian calendar</a>.
+Invented in <a href="https://www.grc.nasa.gov/www/k-12/Numbers/Math/Mathematical_Thinking/calendar_calculations.htm" rel="noopener nofollow" target="_blank">1582</a>,
+it is mainly used in the Western world, and remarkably, this centuries-old
+method still dictates how we set our days and dates internationally.</p>
 <p>But there are many other cultures around the world that have formed their
 own calendars. Consider, for example, the Chinese lunar calendar and the
 Islamic calendar.</p>
 <h4><strong>Chinese Calendar</strong></h4>
-<p>Let's start with the Chinese lunar calendar. Counter to its name, it is
-not just a lunar calendar but what we call a lunisolar calendar. In other
-words, it takes into account the daily rising and setting of the Sun as
-well as the changing phases of the Moon. It is most likely done this way
-because the calendar is used as an agricultural calendar and most likely
-a religious or cultural one as well.</p>
+<p>Let's start with the <a href="https://eclipse.gsfc.nasa.gov/SEhelp/calendars.html#Chinese" rel="noopener nofollow" target="_blank">Chinese lunar calendar</a>.
+Counter to its name, it is not just a lunar calendar but what we call a
+lunisolar calendar. In other words, it takes into account the daily rising
+and setting of the Sun as well as the changing phases of the Moon. It is
+most likely done this way because the calendar is used as an agricultural
+calendar and most likely a religious or cultural one as well.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Moon Phase Calendar" src="/images/2_MoonPhaseCalendar.png">
 </div>
-<p><em>2025 Moon Phase Calendar</em>
+<p><em>2025 Moon Phase Calendar. Illustration Credit: Ai Xin Qin.</em>
 </p>
 <p>The first day of the month always starts with the new moon phases of the
 moon, and a month ends when the next new moon starts. This goes on for
@@ -97,13 +98,13 @@ from the phase and position of the moon how far along one is in that month.
 Full moon? You are about halfway through the month.</p>
 <h4><strong>Islamic Calendar</strong></h4>
 <p>What if you don't add in this extra month and just follow the moon? Well,
-you end up with a calendar system like the Islamic calendar, which is a
-purely lunar calendar. The month starts when there is a new moon and ends
-when the new moon comes again. No need to worry if the lunar month is a
-little shorter here and there, no need to worry if the 12 months do not
-add up to a year. This is because the purpose of the Islamic calendar is
-not agricultural but religious. The calendar is used to determine the dates
-of important Islamic holidays and rituals like Ramadan and Eid celebrations.</p>
+you end up with a calendar system like the <a href="https://eclipse.gsfc.nasa.gov/SEhelp/calendars.html#Islamic" rel="noopener nofollow" target="_blank">Islamic calendar</a>,
+which is a purely lunar calendar. The month starts when there is a new
+moon and ends when the new moon comes again. No need to worry if the lunar
+month is a little shorter here and there, no need to worry if the 12 months
+do not add up to a year. This is because the purpose of the Islamic calendar
+is not agricultural but religious. The calendar is used to determine the
+dates of important Islamic holidays and rituals like Ramadan and Eid celebrations.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -144,16 +145,16 @@ be days where Chinese and Islamic festive occasions converge.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chinese New Year and Hari Raya Projected Dates 2029-2031" src="/images/5_Gongxi_Raya.png">
 </div>
-<p><em>Projected dates for Lunar New Year (Left) and Hari Raya Puasa (Right)</em>
+<p><em>Projected dates for Lunar New Year (Left) and Hari Raya Puasa (Right). Graphic credit: Ai Xin Qin.</em>
 </p>
-<p>For example, Lunar New Year and Hari Raya Puasa are projected to fall
-on the same day in 2029, 2030, and 2031. The two celebrations will not
-overlap in 2028 and 2032 as these years are leap years where an extra month
-is added to the Chinese calendar, thus moving the Chinese and Islamic calendars
-out of sync with each other. And the increasingly “early” arrival of Islamic
-holidays is honestly not as rare as it sounds, as every 33 years, the shifting
-of the festive dates is just a product of following the Moon as it orbits
-the Earth.</p>
+<p>For example, Lunar New Year and Hari Raya Puasa are projected to overlap
+in 2029, 2030, and 2031. The two celebrations will not overlap in 2028
+and 2032 as these years are leap years where an extra month is added to
+the Chinese calendar, thus moving the Chinese and Islamic calendars out
+of sync with each other. And the increasingly “early” arrival of Islamic
+holidays is honestly not as rare as it sounds, as <a href="https://mustsharenews.com/hari-raya-chinese-new-year/" rel="noopener nofollow" target="_blank">every 33 years</a>,
+the shifting of the festive dates is just a product of following the Moon
+as it orbits the Earth.</p>
 <p>Of course, it is funny how we have adopted this makeshift system to count
 time. Following the phases of the moon to count months has absolutely no
 connection to movement of the Earth around the Sun to count years. Throw
@@ -167,8 +168,7 @@ a proper 12 lunar month year.</p>
 <p>For now, I look forward to 2029, where everyone in Singapore will be incredibly
 busy doing house visits during the Lunar New Year and Hari Raya Puasa double
 festivities!</p>
-<p><strong>Stargazing at Science Centre Singapore's Observatory</strong>
-</p>
+<h4><strong>Stargazing at Science Centre Singapore's Observatory</strong></h4>
 <p>Want to know more about astronomy and how the heavenly bodies have affected
 our daily lives? Enjoy stargazing sessions and digital planetarium live
 shows led by our passionate educators at Science Centre Singapore's Observatory
