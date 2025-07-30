@@ -23,6 +23,34 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: Amp It Up!
+      subtitle: DIY, Upcycling, ACOUSTICS
+      id: infopic
+      description: Let’s learn about sound and sustainability by crafting your very
+        own speaker out of common household materials!
+      button: Read More
+      url: /diy-speaker
+      image: /images/speaker_emag.gif
+      alt: Speaker made from cardboard
+  - textcards:
+      title: Highlights
+      subtitle: Content
+      id: textcards
+      cards:
+        - title: STORIES
+          description: Kopi, Caffeine, and Me
+          linktext: Read here
+          url: /kopi-caffeine-and-me
+        - title: PODCAST
+          description: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub
+            (IBCI)
+          linktext: Listen here
+          url: /marine-ecology
+        - title: VIDEOS
+          description: The Wok Hei in Hokkien Mee
+          linktext: Watch more
+          url: /videos
+  - infopic:
       title: Why Your Calendar Changes Every Year
       id: infopic
       description: In 2029, Lunar New Year and Hari Raya Puasa are projected to
@@ -33,24 +61,6 @@ sections:
       image: /images/calendars_emag.gif
       alt: 25 July across different years
       subtitle: calendars, space, Culture
-  - textcards:
-      title: Highlights
-      subtitle: Content
-      id: textcards
-      cards:
-        - title: STORIES
-          description: Kopi, Caffeine, and Me
-          linktext: Learn more
-          url: /kopi-caffeine-and-me
-        - title: PODCAST
-          description: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub
-            (IBCI)
-          linktext: Learn more
-          url: /marine-ecology
-        - title: VIDEOS
-          description: The Wok Hei in Hokkien Mee
-          linktext: Learn more
-          url: /videos
   - infopic:
       title: "Science Café: Science Fiction or Science Fact? (May 2025)"
       subtitle: SCI-FI, FILM, POETRY
