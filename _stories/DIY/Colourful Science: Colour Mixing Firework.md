@@ -8,7 +8,7 @@ description: Singapore turns 60 this year! Discover how Singapore celebrates
 third_nav_title: DIY
 ---
 <h4>SG60: Building Our Singapore Together! As Singapore turns 60 this year, discover how Singapore celebrates National Day, and create your own vibrant fireworks-inspired art in this fun and simple activity below.</h4>
-<p>[HEADER IMAGE]</p>
+<p>[TRANSMEDIA TO INSERT HEADER IMAGE]</p>
 <p>Held annually on 9<sup>th</sup> August, the National Day Parade (NDP) is
 an annual parade where Singaporeans from all walks of life come together
 to commemorate our nation's independence. From the spectacular aerial displays
@@ -50,7 +50,7 @@ atmosphere.</p>
 fireworks display. As the night sky is illuminated with vibrant bursts
 of colour, the dazzling fireworks symbolize the joy and pride that fills
 the hearts of all Singaporeans.</p>
-<h4><strong>Want to know how fireworks work?</strong> </h4>
+<h4><strong>Want to know how fireworks work?</strong></h4>
 <p>Fireworks are made with science! When the firework shoots up into the
 sky, it's because of a special powder inside that creates a big push. The
 bright colours in fireworks come from special metals and chemicals. Scientists
