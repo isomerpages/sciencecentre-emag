@@ -23,15 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: Amp It Up!
-      subtitle: DIY, Upcycling, ACOUSTICS
+      title: "Colourful Science: DIY Liquid Fireworks"
+      subtitle: Chemistry, density, holiday
       id: infopic
-      description: Let’s learn about sound and sustainability by crafting your very
-        own speaker out of common household materials!
+      description: Make your own underwater fireworks in a cup and learn about liquid
+        density in this kid-friendly SG60 National Day activity!
       button: Read More
-      url: /diy-speaker
-      image: /images/speaker_emag.gif
-      alt: Speaker made from cardboard
+      url: /liquid-fireworks
+      alt: Liquid fireworks in a cup.
+      image: /images/nationalday_emag.gif
   - textcards:
       title: Highlights
       subtitle: Content
@@ -50,6 +50,16 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: Amp It Up!
+      subtitle: DIY, Upcycling, ACOUSTICS
+      id: infopic
+      description: Let’s learn about sound and sustainability by crafting your very
+        own speaker out of common household materials!
+      button: Read More
+      url: /diy-speaker
+      image: /images/speaker_emag.gif
+      alt: Speaker made from cardboard
   - infopic:
       title: Why Your Calendar Changes Every Year
       id: infopic
