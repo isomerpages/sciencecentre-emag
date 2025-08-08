@@ -31,6 +31,7 @@ sections:
       button: Read More
       url: /liquid-fireworks
       alt: Liquid fireworks in a cup.
+      image: /images/nationalday_emag.gif
   - textcards:
       title: Highlights
       subtitle: Content
