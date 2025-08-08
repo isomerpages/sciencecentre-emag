@@ -9,7 +9,12 @@ third_nav_title: DIY
 image: /images/DIYLiquidFireworks_1.png
 ---
 <h4>SG60: Building Our Singapore Together! As Singapore turns 60 this year, discover how Singapore celebrates National Day, and create your own vibrant fireworks-inspired art in this fun and simple activity below.</h4>
-<p>[TRANSMEDIA TO INSERT HEADER IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Animation of liquid fireworks activity" src="/images/nationalday_emag.gif">
+</div>
+<p><em>Animation credit: Ai Xin Qin</em>
+</p>
 <p>Held annually on 9<sup>th</sup> August, the National Day Parade (NDP) is
 an annual parade where Singaporeans from all walks of life come together
 to commemorate our nation's independence. From the spectacular aerial displays
@@ -41,16 +46,16 @@ iconic Marina Bay Sands and Merlion illuminated in red and white, reflecting
 the pride and joy of our nation. The streets are filled with cheerful crowds
 and vibrant decorations, making it the perfect time to soak in the festive
 atmosphere.</p>
+<p>And of course, no National Day celebration is complete without the iconic
+fireworks display. As the night sky is illuminated with vibrant bursts
+of colour, the dazzling fireworks symbolize the joy and pride that fills
+the hearts of all Singaporeans.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fireworks over Marina Bay Sands." src="/images/pexels_irene_k_440728184_15711678.jpg">
 </div>
 <p><em>Photo Credit: <a href="https://www.pexels.com/photo/fireworks-over-marina-bay-sands-hotel-in-singapore-at-night-15711678/" rel="noopener noreferrer nofollow" target="_blank">Irene K/Pexels</a></em>
 </p>
-<p>And of course, no National Day celebration is complete without the iconic
-fireworks display. As the night sky is illuminated with vibrant bursts
-of colour, the dazzling fireworks symbolize the joy and pride that fills
-the hearts of all Singaporeans.</p>
 <h4><strong>Want to know how fireworks work?</strong></h4>
 <p>Fireworks are made with science! When the firework shoots up into the
 sky, it's because of a special powder inside that creates a big push. The
