@@ -129,7 +129,7 @@ characters.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Astronaut health risks" src="/images/spaceytales_effectsonastronauts.png">
 </div>
-<p><em>Spaceytales featured image illustration on astronaut health risks for an article  published in October 2022 in Science Centre Singapore's previous I Saw the Science blog. Graphic credit: Jarrod Chua/Spaceytales.</em>
+<p><em>Spaceytales featured image illustration on astronaut health risks for an article published in October 2022 in Science Centre Singapore's previous I Saw the Science blog. Graphic credit: Jarrod Chua/Spaceytales.</em>
 </p>
 <p><strong>VD: Along the way, you also did an internship at the Science Centre with the Transmedia team. How was your internship experience?</strong>
 </p>
