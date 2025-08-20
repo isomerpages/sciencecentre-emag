@@ -2,7 +2,7 @@ collections:
   stories:
     output: true
     order:
-      - "Space/Rising Star: Jarrod Chua of Spaceytales.md"
+      - "Space/Comics to Cosmos: Jarrod Chua's STEM Communication Journey.md"
       - Space/Why Your Calendar Changes Every Year.md
       - "Space/Science Café: Beyond the Stars (Apr 2025).md"
       - Space/.keep
