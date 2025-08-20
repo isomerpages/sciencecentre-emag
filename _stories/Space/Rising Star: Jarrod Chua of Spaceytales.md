@@ -7,34 +7,41 @@ description: Void Deck interviews Jarrod Chua, Singaporean founder of
 third_nav_title: Space
 image: /images/Ricemedia_Singapore_SIT_Jarrod_3.jpg
 ---
-<h4>Twenty-five-year-old Singaporean Mr. Jarrod Chua is reaching for the stars to make space education playful, fun, and out-of-this-world.&nbsp;</h4>
+<h4>Twenty-five-year-old Singaporean Mr. Jarrod Chua is reaching for the stars with his edutainment brand Spaceytales to make STEM education playful, fun, and out-of-this-world.&nbsp;</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jarrod Chua" src="/images/Ricemedia_Singapore_SIT_Jarrod_3.jpg">
 </div>
-<p>The young founder started <a href="https://www.instagram.com/spaceytales/" rel="noopener noreferrer nofollow" target="_blank"><u>Spaceytales</u></a>, a
-space cartoon Instagram page, during the coronavirus pandemic. Mr. Chua’s
-personified, smiling celestial objects made hard-to-grasp scientific concepts
-relatable and went viral, racking up an impressive 30,000 followers and
-over 3 million views to date.</p>
+<p><em>Mr. Jarrod Chua with a telescope at Science Centre Singapore’s Observatory. Photo credit: Jarrod Chua</em>
+<br>
+</p>
+<p>Mr. Jarrod Chua started <a href="https://www.instagram.com/spaceytales/" rel="noopener noreferrer nofollow" target="_blank"><u>Spaceytales</u></a>, a
+space cartoon Instagram page, during the coronavirus pandemic. His personified,
+smiling celestial objects made hard-to-grasp scientific concepts relatable
+and soon went viral, racking up an impressive 30,000 followers and over
+3 million views to date.</p>
 <p>His comics have explained everything from what a <a href="https://www.instagram.com/p/CPqENBoh8gp/?igsh=MXVpMTQwZm04eXRnMw==" rel="noopener noreferrer nofollow" target="_blank"><u>light year</u></a> really
-is, to <a href="https://www.instagram.com/p/CTMw9VMFGOS/?img_index=4&amp;igsh=dnhvcXFpYTBtNmRj" rel="noopener noreferrer nofollow" target="_blank"><u>the difference between asteroids, meteors, meteoroids, and comets</u></a>,
-and fascinating objects in the cosmos like <a href="https://www.instagram.com/p/CYq19cvNU12/?igsh=MXU1M2Q0bmVrdnA4ZQ%3D%3D" rel="noopener noreferrer nofollow" target="_blank"><u>GJ 504b</u></a>,
-a giant pink exoplanet.&nbsp;</p>
-<p>Today, Spaceytales has evolved from a popular Instagram account into a
-space edutainment brand featuring Mr. Chua’s talking planets in comics,
+represents to <a href="https://www.instagram.com/p/CTMw9VMFGOS/?img_index=4&amp;igsh=dnhvcXFpYTBtNmRj" rel="noopener noreferrer nofollow" target="_blank"><u>the difference between asteroids, meteors, meteoroids, and comets</u></a>,
+along with spotlighting fascinating objects in the cosmos like the giant
+pink exoplanet <a href="https://www.instagram.com/p/CYq19cvNU12/?igsh=MXU1M2Q0bmVrdnA4ZQ%3D%3D" rel="noopener noreferrer nofollow" target="_blank"><u>GJ 504b</u></a> and
+issues such as <a href="https://www.instagram.com/p/CWS7R6jB2nx/?img_index=1&amp;igsh=M3FucjJtcDFkcG15orbital" rel="noopener nofollow" target="_blank">orbital debris</a>.</p>
+<p>His first big break came from none other than NASA. The American space
+agency commissioned the then-undergraduate at Singapore Institute of Technology
+to create a postcard about the James Webb Space Telescope for public outreach
+in 2020.</p>
+<p>Since 2020, Spaceytales has evolved from a popular Instagram account into
+a space edutainment brand featuring Mr. Chua’s talking planets in comics,
 merchandise, and physical exhibitions.&nbsp;</p>
-<p>Since NASA commissioned Mr. Chua in June 2020 to create a <a href="https://www.straitstimes.com/singapore/environment/young-cartoonists-comics-spark-interest-in-cosmos" rel="noopener noreferrer nofollow" target="_blank"><u>postcard</u></a> on
-the James Webb Space Telescope, he’s worked with organisations such as
-Science Centre Singapore to The Office for Space Technology &amp; Industry,
-ArtScience Museum, ST Engineering, Lee Kong Chian Natural History Museum,
-Singapore Institute of Technology, and more to bring science to life with
-his distinctively adorable, quirky art and storytelling style.</p>
+<p>Mr. Chua has worked with organisations such as Science Centre Singapore
+to The Office for Space Technology &amp; Industry, ArtScience Museum, ST
+Engineering, Lee Kong Chian Natural History Museum, Singapore Institute
+of Technology, and more to bring STEM topics to life with his distinctively
+adorable, quirky art style.</p>
 <p>The <em>Void Deck</em> editorial team had the opportunity back in May 2025
 to chat with Mr. Chua–who also happens to be a former Science Centre Singapore
-volunteer and intern–on Spaceytales’ origin story, the lessons he’s learned
-about exhibition design, and what planet he identifies the most as. Read
-more to discover about his unusual and inspiring pathway to a STEM career!</p>
+intern–on Spaceytales’ origin story, the lessons he’s learned about exhibition
+design, and what planet he identifies the most with. Read more to discover
+about his unusual and inspiring pathway to a STEM career!</p>
 <p><em>The following interview has been edited and condensed for clarity.</em>
 </p>
 <p><strong>VD: How did you become interested in space?</strong>
@@ -62,7 +69,7 @@ go extinct down here on Earth.</p>
 <p><strong>JARROD CHUA:</strong> I picked up a graphic design module in Singapore
 Polytechnic and that's where I started to hone my skills in graphic design.
 During the COVID-19 circuit breaker, I was in national service, and my
-unit sent me back home on a stay home restricted order, [so] I decided
+unit sent me back home on a stay-home restricted order, [so] I decided
 to pass the time by creating Instagram pages [as a] creative outlet. From
 there, none of them took off.&nbsp;</p>
 <p>But one day I just decided to combine my passion for space since childhood
@@ -81,8 +88,8 @@ it was about whether life on Earth is considered rare and all that. But
 a scientist from NASA actually DM'ed me and said it should be called "Rare
 Earth hypothesis" not theory, and he stated his reasons. And from there
 I actually highlighted that in an Instagram story to document this quite,
-I guess, funny experience and you know, this community decided to all DM
-me around the same [time].&nbsp;</p>
+I guess, funny experience, and you know, this community decided to all
+DM me around the same [time].&nbsp;</p>
 <p>[So] I thought, why don't I create this community of factcheckers that
 sort of give a "stamp of approval" before I hit that post button? They
 were very kind to do this because they were volunteering on their own time.</p>
@@ -96,6 +103,17 @@ with the facts.</p>
 goes something like, first, know all your facts and then you can twist
 it to your leisure. Him being one of my idols, I try to tailor that in
 my approach as well.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Spaceytales illustration of mental health in space" src="/images/AstronautMentalHealth_Spaceytales.png">
+</div>
+<p></p>
+<p><em>Spaceytales illustration on mental health for Science Centre Singapore's former blog I Saw the Science. Graphic credit: Jarrod Chua/Spaceytales.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Spaceytales graphic on health risks for astronauts." src="/images/spaceytales_effectsonastronauts.png">
+</div>
+<p><em>Spaceytales illustration on astronaut health risks for an article published in October 2022 in Science Centre Singapore's previous I Saw the Science blog. Graphic credit: Jarrod Chua/Spaceytales.</em>
+</p>
 <p><strong>VD: Speaking of Neil deGrasse Tyson, do you have any STEM content creators or science communicators that you admire?&nbsp;</strong>
 </p>
 <p><strong>JARROD CHUA: </strong>Neil deGrasse Tyson was actually one of
@@ -124,14 +142,8 @@ use of Instagram's algorithm more to spread it to a wider audience.&nbsp;</p>
 and picked up things that would help improve the quality of STEM output.
 From a STEM point of view, I guess from the heart of Spaceytales it has
 always been the same, [if] I find something cool and fascinating, and I'll
-take that and I'll try to simplify it and make a story out of it with some
+take that and I'll try to simplify it an make a story out of it with some
 characters.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Astronaut health risks" src="/images/spaceytales_effectsonastronauts.png">
-</div>
-<p><em>Spaceytales featured image illustration on astronaut health risks for an article published in October 2022 in Science Centre Singapore's previous I Saw the Science blog. Graphic credit: Jarrod Chua/Spaceytales.</em>
-</p>
 <p><strong>VD: Along the way, you also did an internship at the Science Centre with the Transmedia team. How was your internship experience?</strong>
 </p>
 <p><strong>JARROD CHUA:</strong> I really enjoyed my internship with the Science
@@ -203,6 +215,11 @@ to personify it as very quirky, sort of beating to his own drum kind of
 planet. <em>[Editor’s note: Try the quiz yourself and find what planet you are <a href="https://spaceytales.com/pages/what-planet-are-you" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.]</em>
 </p>
 <h4><strong>Experiment and Play at Science Centre Singapore's Curiosity Shop!</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Curiosity Shop at Science Centre Singapore" src="/images/CuriosityShop.jpg">
+</div>
 <p>Check out Science Centre Singapore’s <a href="https://www.science.edu.sg/visit-us/curiosity-shop" rel="noopener noreferrer nofollow" target="_blank"><u>Curiosity Shop</u></a> for
 fun, educational STEM toys, books, gadgets, and souvenirs including Spaceytales
 planet plushies. Don’t forget to check out our eccentric Science Centre
@@ -210,7 +227,7 @@ Singapore and KidsSTOP exclusive merchandise like periodic table pun tote
 bags and Rex Explores activity kits! Curiosity Shop is open Tuesday to
 Sunday from 10:00am-5:30pm unless otherwise stated.</p>
 <hr>
-<p><strong><em>Written by Jamie Uy</em><br><em>Published 20 August 2025</em></strong>
+<p><strong><em>Written by Jamie Uy</em><br><em>Published 21 August 2025</em></strong>
 </p>
 <p></p>
 <p></p>
