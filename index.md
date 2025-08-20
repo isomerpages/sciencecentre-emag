@@ -23,10 +23,10 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Comics to Cosmos: Jarrod Chua of Spaceytales"
+      title: "Comics to Cosmos: A Singaporean Space Cartoonist's Journey"
       subtitle: Space, STEM Communication, art
       id: infopic
-      description: Meet the content creator who turned Instagram space comics into
+      description: Meet Spaceytales founder Jarrod Chua who turned space comics into
         exhibitions at Science Centre Singapore—proving passion can launch
         extraordinary STEM careers.
       button: Read More
