@@ -200,7 +200,13 @@ designs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jarrod Chua at Dot in Space exhibition." src="/images/DIS_Spaceytales.png">
 </div>
-<p><em>Mr. Jarrod Chua at the </em>Dot in Space <em>exhibition. Photo credit: Jarrod Chua</em>
+<p><em>Mr. Jarrod Chua at the </em>Dot in Space <em>exhibition 2024. Photo credit: Jarrod Chua</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jarrod Chua at Dot in Space 2025 exhibition." src="/images/DIS2025_SpaceytalesVDFeature.jpg">
+</div>
+<p><em>Mr. Jarrod Chua at the </em>Dot in Space <em>exhibition 2025. Photo credit: Jarrod Chua</em>
 </p>
 <p><strong>VD: One last question: I saw your ‘What Planet Are You?’ personality quiz on Spaceytales' website. I have to ask: what planet are you?</strong>
 </p>
