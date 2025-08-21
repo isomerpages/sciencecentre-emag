@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - "Space/Comics to Cosmos: A Singaporean Space Cartoonist's Journey.md"
       - Space/Why Your Calendar Changes Every Year.md
       - "Space/Science Café: Beyond the Stars (Apr 2025).md"
       - Space/.keep

@@ -23,6 +23,17 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: "Comics to Cosmos: A Singaporean Space Cartoonist's Journey"
+      subtitle: Space, STEM Communication, art
+      id: infopic
+      description: Meet Spaceytales founder Jarrod Chua who turned space comics into
+        exhibitions at Science Centre Singapore—proving passion can launch
+        extraordinary STEM careers.
+      button: Read More
+      url: /spaceytales-interview
+      image: /images/Ricemedia_Singapore_SIT_Jarrod_3.jpg
+      alt: Jarrod Chua
+  - infopic:
       title: "Colourful Science: DIY Liquid Fireworks"
       subtitle: Chemistry, density, holiday
       id: infopic
