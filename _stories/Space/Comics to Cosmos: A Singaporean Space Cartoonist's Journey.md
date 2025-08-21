@@ -15,23 +15,23 @@ image: /images/Ricemedia_Singapore_SIT_Jarrod_3.jpg
 <p><em>Mr. Jarrod Chua with a telescope at Science Centre Singapore’s Observatory. Photo credit: Jarrod Chua</em>
 <br>
 </p>
-<p>Mr. Jarrod Chua started <a href="https://www.instagram.com/spaceytales/" rel="noopener noreferrer nofollow" target="_blank"><u>Spaceytales</u></a>, a
-space cartoon Instagram page, during the coronavirus pandemic. His personified,
-smiling celestial objects made hard-to-grasp scientific concepts relatable
-and soon went viral, racking up an impressive 30,000 followers and over
-3 million views to date.</p>
-<p>His comics have explained everything from what a <a href="https://www.instagram.com/p/CPqENBoh8gp/?igsh=MXVpMTQwZm04eXRnMw==" rel="noopener noreferrer nofollow" target="_blank"><u>light year</u></a> really
-represents to <a href="https://www.instagram.com/p/CTMw9VMFGOS/?img_index=4&amp;igsh=dnhvcXFpYTBtNmRj" rel="noopener noreferrer nofollow" target="_blank"><u>the difference between asteroids, meteors, meteoroids, and comets</u></a>,
+<p>Mr. Jarrod Chua started <a href="https://www.instagram.com/spaceytales/" rel="noopener noreferrer nofollow" target="_blank"><u>Spaceytales</u></a>, an
+Instagram page posting space cartoons, during the coronavirus pandemic.
+His smiling, charming celestial object characters made hard-to-grasp scientific
+concepts relatable and soon went viral, racking up an impressive 30,000
+followers across platforms and over 3 million views to date.</p>
+<p>Mr. Chua's comics have explained everything from what a <a href="https://www.instagram.com/p/CPqENBoh8gp/?igsh=MXVpMTQwZm04eXRnMw==" rel="noopener noreferrer nofollow" target="_blank"><u>light year</u></a> is
+to <a href="https://www.instagram.com/p/CTMw9VMFGOS/?img_index=4&amp;igsh=dnhvcXFpYTBtNmRj" rel="noopener noreferrer nofollow" target="_blank"><u>the difference between asteroids, meteors, meteoroids, and comets</u></a>,
 along with spotlighting fascinating objects in the cosmos like the giant
 pink exoplanet <a href="https://www.instagram.com/p/CYq19cvNU12/?igsh=MXU1M2Q0bmVrdnA4ZQ%3D%3D" rel="noopener noreferrer nofollow" target="_blank"><u>GJ 504b</u></a> and
 issues such as <a href="https://www.instagram.com/p/CWS7R6jB2nx/?img_index=1&amp;igsh=M3FucjJtcDFkcG15orbital" rel="noopener nofollow" target="_blank">orbital debris</a>.</p>
 <p>His first big break came from none other than NASA. The American space
 agency commissioned the then-undergraduate at Singapore Institute of Technology
-to create a postcard about the James Webb Space Telescope for public outreach
-in 2020.</p>
+to <a href="https://www.straitstimes.com/singapore/parenting-education/singapore-undergrad-over-the-moon-after-us-space-agency-nasa-buys-his-drawings-for-publicity-campaign" rel="noopener nofollow" target="_blank">create a postcard about the James Webb Space Telescope</a> for
+public outreach in 2020.</p>
 <p>Since 2020, Spaceytales has evolved from a popular Instagram account into
-a space edutainment brand featuring Mr. Chua’s talking planets in comics,
-merchandise, and physical exhibitions.&nbsp;</p>
+a space edutainment brand featuring Mr. Chua’s talking planets and spacecraft
+in comics, merchandise, and physical exhibitions.&nbsp;</p>
 <p>Mr. Chua has worked with organisations such as Science Centre Singapore
 to The Office for Space Technology &amp; Industry, ArtScience Museum, ST
 Engineering, Lee Kong Chian Natural History Museum, Singapore Institute
@@ -54,9 +54,9 @@ this interest in space.&nbsp;</p>
 <p>Going to my teen years, I guess from a philosophical point of view, I
 just really like the awe-inspiring nature of space, how it's the final
 frontier for humanity. I think, as an optimist, humanity would eventually
-become a spacefaring civilization. And so I am very eager to always learn
+become a spacefaring civilisation. And so I am very eager to always learn
 more about what's out there and how I can help humanity as a whole move
-towards this goal of becoming a spacefaring civilization so that we don't
+towards this goal of becoming a spacefaring civilisation so that we don't
 go extinct down here on Earth.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -106,13 +106,14 @@ my approach as well.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Spaceytales illustration of mental health in space" src="/images/AstronautMentalHealth_Spaceytales.png">
 </div>
-<p></p>
-<p><em>Spaceytales illustration on mental health for Science Centre Singapore's former blog I Saw the Science. Graphic credit: Jarrod Chua/Spaceytales.</em>
+<p><em>Spaceytales illustration on mental health for Science Centre Singapore's former blog </em>I
+Saw the Science<em>. Graphic credit: Jarrod Chua/Spaceytales.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Spaceytales graphic on health risks for astronauts." src="/images/spaceytales_effectsonastronauts.png">
 </div>
-<p><em>Spaceytales illustration on astronaut health risks for an article published in October 2022 in Science Centre Singapore's previous I Saw the Science blog. Graphic credit: Jarrod Chua/Spaceytales.</em>
+<p><em>Spaceytales illustration on astronaut health risks for Science Centre Singapore's former blog </em>I
+Saw the Science<em>. Graphic credit: Jarrod Chua/Spaceytales.</em>
 </p>
 <p><strong>VD: Speaking of Neil deGrasse Tyson, do you have any STEM content creators or science communicators that you admire?&nbsp;</strong>
 </p>
@@ -171,9 +172,9 @@ the transmedia outputs that we have.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jarrod Chua holding up camera tripods" src="/images/4_VD_Spaceytales.jpg">
 </div>
-<p><em>Mr. Jarrod Chua with camera tripods on set in a laboratory during his Science Centre Singapore internship with the Transmedia team. Photo credit: Jarrod Chua</em>
+<p><em>Mr. Jarrod Chua with camera tripods while filming in a laboratory during his Science Centre Singapore internship with the Transmedia team. Photo credit: Jarrod Chua</em>
 </p>
-<p><strong>VD: The past few years you've brought Spaceytales from digital art into physical interactive experiences. What are the biggest lessons you've learned about exhibition design from your experience working on Dot in Space?</strong>
+<p><strong>VD: The past few years you've brought Spaceytales from digital art into physical interactive experiences. What are the biggest lessons you've learned about exhibition design from your experience working on <em>Dot in Space</em>?</strong>
 </p>
 <p><strong>JARROD CHUA: </strong>The biggest lesson I've learned was that
 there are other elements to take into account when designing exhibitions
@@ -182,24 +183,24 @@ design and spatial design.&nbsp;</p>
 <p>Because with graphic work, you sort of have the luxury of forgoing the
 ergonomics of things, because at the end of the day, you'll know that people
 will probably experience it through their phone. The ergonomics of that
-[is] very simple. It’s just figuring out the aspect ratio and I posted
+[is] very simple. It’s just figuring out the aspect ratio and I [post]
 based on that.&nbsp;</p>
-<p>For Dot in Space, it was a different ball game. Because with exhibition
+<p>For <em>Dot in Space</em>, it was a different ball game. Because with exhibition
 design I had to factor in the varying heights of the patrons, how much
 walking space there would be for people, the flow of traffic, the lighting,
 the materials, how reflective the material would be to the lighting for
 people to see properly, the modularity of the exhibition design, etc.</p>
 <p>So all this came into play and I had the privilege of experiencing this
-first hand because the Dot in Space team from Science Centre that I worked
-with was really nice in terms of giving me a lot of creative leeway to
-create this and experiment as we go along. So that really allowed me to
-experience first hand the troubles and the benefits of creating exhibition
+first hand because the <em>Dot in Space</em> team from Science Centre that
+I worked with was really nice in terms of giving me a lot of creative leeway
+to create this and experiment as we go along. So that really allowed me
+to experience first hand the troubles and the benefits of creating exhibition
 designs.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jarrod Chua at Dot in Space exhibition." src="/images/DIS_Spaceytales.png">
 </div>
-<p><em>Mr. Jarrod Chua at the Dot in Space exhibition. Photo credit: Jarrod Chua</em>
+<p><em>Mr. Jarrod Chua at the </em>Dot in Space <em>exhibition. Photo credit: Jarrod Chua</em>
 </p>
 <p><strong>VD: One last question: I saw your ‘What Planet Are You?’ personality quiz on Spaceytales' website. I have to ask: what planet are you?</strong>
 </p>
@@ -222,10 +223,10 @@ planet. <em>[Editor’s note: Try the quiz yourself and find what planet you are
 </div>
 <p>Check out Science Centre Singapore’s <a href="https://www.science.edu.sg/visit-us/curiosity-shop" rel="noopener noreferrer nofollow" target="_blank"><u>Curiosity Shop</u></a> for
 fun, educational STEM toys, books, gadgets, and souvenirs including Spaceytales
-planet plushies. Don’t forget to check out our eccentric Science Centre
-Singapore and KidsSTOP exclusive merchandise like periodic table pun tote
-bags and Rex Explores activity kits! Curiosity Shop is open Tuesday to
-Sunday from 10:00am-5:30pm unless otherwise stated.</p>
+planet plushies. Don’t forget to check out our exclusive Science Centre
+Singapore and KidsSTOP™ merchandise like periodic table pun tote bags and
+Rex Explores activity kits! Curiosity Shop is open Tuesday to Sunday from
+10:00am-5:30pm unless otherwise stated.</p>
 <hr>
 <p><strong><em>Written by Jamie Uy</em><br><em>Published 21 August 2025</em></strong>
 </p>
