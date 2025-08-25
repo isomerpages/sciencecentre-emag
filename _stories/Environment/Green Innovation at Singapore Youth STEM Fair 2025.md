@@ -9,7 +9,10 @@ description: At this year's Singapore Youth STEM Fair, 60 teams proved that
 third_nav_title: Environment
 ---
 <h4>At this year's Singapore Youth STEM Fair, 60 teams proved that groundbreaking STEM solutions can come from unexpected places—from school corridors that could generate electricity to eco-friendly soaps made from Singapore's invasive plants.</h4>
-<p>[FEATURED IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Key visual of SYSF 2025" src="/images/SYSF2025_KeyVisual.png">
+</div>
 <p>AI image recognition systems to sort out recyclable materials. Antibacterial
 bar soaps upcycling local invasive plants. Bioplastics made from leftover
 fruit peels. Piezoelectric panels to convert footsteps into electricity.
@@ -32,8 +35,11 @@ fair was ‘Transforming Communities Through STEM.’</p>
 the theme of SYSF 2025 “reflects the power of science, not just to innovate,
 but to uplift lives and create lasting, sustainable impact, values that
 align closely with Singapore's Green Plan 2030.”</p>
-<p>[IMAGE]</p>
-<p><em>Ms. Yik Yin Fun, Site Director at Abbott Manufacturing Singapore, speaking at the SYSF 2025 award showcase.</em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Yik Yin Fun speaking at SYSF 2025 award showcase" src="/images/Abbott_11.jpg">
+</div>
+<p><em>Ms Yik Yin Fun, Site Director at Abbott Manufacturing Singapore, speaking at the SYSF 2025 award showcase.</em>
 </p>
 <p>Evolving from previous iterations such as the Singapore Shell Youth Science
 Fair (SSYSF) established in 1978, and the Singapore Youth Science Fair
@@ -51,15 +57,21 @@ and the love for learning science.”</p>
 is the way forward … whether it's cleaner energy, smarter cities, better
 healthcare, greener living, STEM has the power to solve the challenges
 of today and tomorrow.”</p>
-<p>[IMAGE]</p>
-<p><em>Ms Liew Wei Li, Director-General of Education at the Ministry of Education, speaking at the SYSF 2025 award showcase. </em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Liew Wei Li speaking at the SYSF 2025 award showcase" src="/images/DGE_1.jpg">
+</div>
+<p><em>Ms Liew Wei Li, Director-General of Education at the Ministry of Education, speaking at the SYSF 2025 award showcase.</em>
 </p>
-<p>Mr. Tham Hanrong, advisor for the SYSF and a member of the 2025 organising
+<p>Mr Tham Hanrong, advisor for the SYSF and a member of the 2025 organising
 committee, said, “the power of science, technology, engineering and mathematics
 lies not only in solving technical problems, but in building stronger and
 more connected communities.”</p>
-<p>[IMAGE]</p>
-<p><em>Mr. Tham Hanrong, advisor for the SYSF and a member of the 2025 organising committee, speaking at the SYSF 2025 award showcase. </em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Tham Hanrong at SYSF 2025 award showcase" src="/images/Hanrong_3.jpg">
+</div>
+<p><em>Mr Tham Hanrong, advisor for the SYSF and a member of the 2025 organising committee, speaking at the SYSF 2025 award showcase.</em>
 </p>
 <p>This spirit of community empowerment was palpable in several of the student
 projects, which explored accessible eco-friendly methods for green energy
@@ -67,7 +79,7 @@ and waste reduction. Explore some of the project highlights below!</p>
 <hr>
 <h4><strong>Every Step Counts: Piezoelectric Energy at Ang Mo Kio Primary School</strong></h4>
 <p>[IMAGE]</p>
-<p><em>Ang Mo Kio Primary School booth “Project Kronos: Investigating the feasibility of harvesting clean energy from footsteps using piezo transducers to light up our cities”. </em>
+<p><em>Ang Mo Kio Primary School booth “Project Kronos: Investigating the feasibility of harvesting clean energy from footsteps using piezo transducers to light up our cities”.</em>
 </p>
 <p>Ang Mo Kio Primary School won the Best Display and Exhibit Award along
 with the Best Written Report Award in the Primary School category for their
@@ -80,20 +92,20 @@ circuit boards, wires, relay switches, multimeters, and barbell weights,
 the Ang Mo Kio Primary School students demonstrated to onlookers how adding
 weight to a piezoelectric disc beneath a floor panel could feasibly generate
 enough voltage to power small devices.</p>
-<p><em>A close-up of the piezoelectric system tested by the Project Kronos team from Ang Mo Kio Primary School. </em>
+<p><em>A close-up of the piezoelectric system tested by the Project Kronos team from Ang Mo Kio Primary School.</em>
 </p>
 <p>Daarshan Gopi explained: "Piezoelectric systems could be integrated into
 walkways or school corridors to power low voltage devices like LED lights
 or sensors. Benefits include easy installation, safety and energy saving
 in high traffic areas. This aligns well with Singapore's sustainability
 goals and Smart Nation initiatives."</p>
-<h4><strong>Smart Sorting: AI-Powered Recycling at Blangah Rise Primary School </strong></h4>
+<h4><strong>Smart Sorting: AI-Powered Recycling at Blangah Rise Primary School</strong></h4>
 <p>Other teams examined how to harness emerging technologies like AI for
 environmental solutions. A team from Blangah Rise Primary School working
 on a project titled “Automated recyclable classification through A.I.-powered
 object recognition” clinched the Most Innovative Project Award in the Primary
 School category for their novel approach to improve recycling.</p>
-<p><em>Ms Liew Wei Li with the Blangah Rise Primary School team behind the project “Automated recyclable classification through A.I.-powered object recognition”. </em>
+<p><em>Ms Liew Wei Li with the Blangah Rise Primary School team behind the project “Automated recyclable classification through A.I.-powered object recognition”.</em>
 </p>
 <p>Screening a live feed from a camera at their booth, team members Charles
 Saranya Dave Nick, Marvell Nathaniel Tjong, Muthurasu Thanushraj, Nurul
@@ -101,7 +113,7 @@ Batrisyia Binti Mohd Firdaus, and Teo Kai Xiang held up empty milk jugs
 and tin cans to the camera to demonstrate how they trained an AI programme
 to identify common recyclable waste like metal, plastic, and paper.</p>
 <p>[IMAGE]</p>
-<p><em>A demonstration from the Blangah Rise Primary School team showing real-time AI classification of metal cans, plastic bottles, and cardboard boxes. </em>
+<p><em>A demonstration from the Blangah Rise Primary School team showing real-time AI classification of metal cans, plastic bottles, and cardboard boxes.</em>
 </p>
 <p>Marvell Nathaniel Tjong explained that the project idea originated from
 a training session on AI recognition. The team was motivated to address
@@ -117,7 +129,7 @@ tonnes by 2050), promoting sustainability.”</p>
 <h4><strong>From Peels to Plastic: Bioplastic Production at Nanyang Girls’ High School</strong></h4>
 <p><em>[IMAGE]</em>
 </p>
-<p><em>Nanyang Girls’ High School booth “To investigate the use of food waste to make bioplastics”. </em>
+<p><em>Nanyang Girls’ High School booth “To investigate the use of food waste to make bioplastics”.</em>
 </p>
 <p>While some teams experimented with new tools, other teams sought to repurpose
 conventional materials. Nanyang Girls’ High School won Best Display and
@@ -135,7 +147,7 @@ They completed the mixture with store-bought glycerol.</p>
 “recipes” for tensile strength, torsion strength, and water resistance
 against the performance of conventional plastic bags.</p>
 <p>[IMAGE]</p>
-<p><em>A close-up of the Nanyang Girls' High School team's bioplastic samples featuring different ratios of starch, protein, fibre, and glycerol. </em>
+<p><em>A close-up of the Nanyang Girls' High School team's bioplastic samples featuring different ratios of starch, protein, fibre, and glycerol.</em>
 </p>
 <p>Lin Nike said the team was surprised when one of their best bioplastic
 samples outperformed commercial plastic bags.</p>
@@ -144,7 +156,7 @@ this even surprised our teacher and also the lab officers at that point!”,
 she said.</p>
 <h4><strong>Natural Cleansing: Singapore Chinese Girls’ School’s Invasive Lantana Plant Soap</strong></h4>
 <p>[IMAGE]</p>
-<p><em>Singapore Chinese Girls’ School booth “Utilising Invasive Lantana Plant to Make Bar Soap”. </em>
+<p><em>Singapore Chinese Girls’ School booth “Utilising Invasive Lantana Plant to Make Bar Soap”.</em>
 </p>
 <p>Another team from Singapore Chinese Girls’ School won Best Written Report
 in the Secondary School category for their project experimenting with alternatives
@@ -162,7 +174,7 @@ such as its antibacterial and antifungal properties.</p>
 in petri dishes that the team had crushed and cut to extract oil, along
 with bear-shaped silicone moulds, and their finished shiny lantana extract-infused
 bar soaps.</p>
-<p><em>Pure soap base (in white) compared to lantana-infused soap samples (in black) prepared by the Singapore Chinese Girls’ School team. </em>
+<p><em>Pure soap base (in white) compared to lantana-infused soap samples (in black) prepared by the Singapore Chinese Girls’ School team.</em>
 </p>
 <p>Anna explained, "To test the soap's capabilities, we had a few different
 tests, such as solubility, lathering capability and antibacterial properties.
@@ -214,7 +226,7 @@ a movement of curiosity, creativity, and purpose. "</p>
 <p>Check out the event highlights reel below to celebrate the achievements
 of all the students involved in this year's SYSF!</p>
 <p>[VIDEO]</p>
-<h4><strong>Transforming STEM Education at Science Centre Singapore </strong></h4>
+<h4><strong>Transforming STEM Education at Science Centre Singapore</strong></h4>
 <p>Are you a teacher, parent, or community educator? Discover the various
 hands-on STEM experiences run by Science Centre Singapore to supplement
 the school science curriculum at <a href="https://www.science.edu.sg/for-schools" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/for-schools</a>.</p>
@@ -222,7 +234,7 @@ the school science curriculum at <a href="https://www.science.edu.sg/for-schools
 experiments and crafts? Check out Void Deck e-magazine’s DIY column for
 minimal equipment STEM activities you can do at home created by KidsSTOP™
 educators at <a href="https://voiddeck.science.edu.sg/diy-speaker/" rel="noopener noreferrer nofollow" target="_blank">https://voiddeck.science.edu.sg/diy-speaker/</a>.</p>
-<p><strong><em>Written by Jamie Uy </em></strong>
+<p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
 <p><strong><em>Published on 29 August 2025</em></strong>
