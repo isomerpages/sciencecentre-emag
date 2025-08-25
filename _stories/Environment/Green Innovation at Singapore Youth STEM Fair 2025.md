@@ -77,9 +77,12 @@ more connected communities.”</p>
 <p>This spirit of community empowerment was palpable in several of the student
 projects, which explored accessible eco-friendly methods for green energy
 and waste reduction. Explore some of the project highlights below!</p>
+<p></p>
 <hr>
 <h4><strong>Every Step Counts: Piezoelectric Energy at Ang Mo Kio Primary School</strong></h4>
-<p>[IMAGE]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ang Mo Kio Primary School booth “Project Kronos: Investigating the feasibility of harvesting clean energy from footsteps using piezo transducers to light up our cities”." src="/images/DSC_8827.jpg">
+</div>
 <p><em>Ang Mo Kio Primary School booth “Project Kronos: Investigating the feasibility of harvesting clean energy from footsteps using piezo transducers to light up our cities”.</em>
 </p>
 <p>Ang Mo Kio Primary School won the Best Display and Exhibit Award along
@@ -93,6 +96,10 @@ circuit boards, wires, relay switches, multimeters, and barbell weights,
 the Ang Mo Kio Primary School students demonstrated to onlookers how adding
 weight to a piezoelectric disc beneath a floor panel could feasibly generate
 enough voltage to power small devices.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The piezoelectric system tested by the Project Kronos team from Ang Mo Kio Primary School." src="/images/DSC_8825.jpg">
+</div>
 <p><em>A close-up of the piezoelectric system tested by the Project Kronos team from Ang Mo Kio Primary School.</em>
 </p>
 <p>Daarshan Gopi explained: "Piezoelectric systems could be integrated into
@@ -113,7 +120,10 @@ Saranya Dave Nick, Marvell Nathaniel Tjong, Muthurasu Thanushraj, Nurul
 Batrisyia Binti Mohd Firdaus, and Teo Kai Xiang held up empty milk jugs
 and tin cans to the camera to demonstrate how they trained an AI programme
 to identify common recyclable waste like metal, plastic, and paper.</p>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Demo of AI recognition of common recyclable items by Blangah Rise Primary School SYSF 2025 team" src="/images/BlangahRisePri_Demo.png">
+</div>
 <p><em>A demonstration from the Blangah Rise Primary School team showing real-time AI classification of metal cans, plastic bottles, and cardboard boxes.</em>
 </p>
 <p>Marvell Nathaniel Tjong explained that the project idea originated from
@@ -128,8 +138,10 @@ systems in our daily lives. As the team wrote on their research poster,
 sort and recycle escalating global waste (projected to reach 1.4 billion
 tonnes by 2050), promoting sustainability.”</p>
 <h4><strong>From Peels to Plastic: Bioplastic Production at Nanyang Girls’ High School</strong></h4>
-<p><em>[IMAGE]</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nanyang Girls' High School SYSF booth &quot;To investigate the use of food waste to make bioplastics&quot;" src="/images/DSC_8788.jpg">
+</div>
 <p><em>Nanyang Girls’ High School booth “To investigate the use of food waste to make bioplastics”.</em>
 </p>
 <p>While some teams experimented with new tools, other teams sought to repurpose
@@ -147,7 +159,10 @@ They completed the mixture with store-bought glycerol.</p>
 <p>The Nanyang Girls’ High School students then tested different bioplastic
 “recipes” for tensile strength, torsion strength, and water resistance
 against the performance of conventional plastic bags.</p>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nanyang Girls' High School team's bioplastic samples" src="/images/DSC_8793.jpg">
+</div>
 <p><em>A close-up of the Nanyang Girls' High School team's bioplastic samples featuring different ratios of starch, protein, fibre, and glycerol.</em>
 </p>
 <p>Lin Nike said the team was surprised when one of their best bioplastic
@@ -156,7 +171,10 @@ samples outperformed commercial plastic bags.</p>
 this even surprised our teacher and also the lab officers at that point!”,
 she said.</p>
 <h4><strong>Natural Cleansing: Singapore Chinese Girls’ School’s Invasive Lantana Plant Soap</strong></h4>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Chinese Girls' School SYSF 2025 booth &quot;Utilising Invasive Lantana Plant to Make Bar Soap&quot;" src="/images/DSC_8809.jpg">
+</div>
 <p><em>Singapore Chinese Girls’ School booth “Utilising Invasive Lantana Plant to Make Bar Soap”.</em>
 </p>
 <p>Another team from Singapore Chinese Girls’ School won Best Written Report
@@ -175,6 +193,10 @@ such as its antibacterial and antifungal properties.</p>
 in petri dishes that the team had crushed and cut to extract oil, along
 with bear-shaped silicone moulds, and their finished shiny lantana extract-infused
 bar soaps.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pure soap base (white) compared to lantana soap (black) at Singapore Chinese Girls' School booth" src="/images/DSC_8813.jpg">
+</div>
 <p><em>Pure soap base (in white) compared to lantana-infused soap samples (in black) prepared by the Singapore Chinese Girls’ School team.</em>
 </p>
 <p>Anna explained, "To test the soap's capabilities, we had a few different
@@ -185,7 +207,10 @@ possibly even more effective than just normal soap. As from the E. Coli
 test, you can see that our Lantana soap has killed more E. Coli than normal
 soap,” Anna concluded.</p>
 <h4><strong>Charging Forward: Better Zinc Batteries at NUS High School of Math &amp; Science</strong></h4>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUS High School of Math &amp; Science SYSF 2025 booth" src="/images/DSC_8840.jpg">
+</div>
 <p>NUS High School of Math &amp; Science booth, “Reducing the formation of
 zinc dendrites in zinc-based batteries to increase sustainability”.</p>
 <p>Similar to how the Nanyang Girls’ High School and Singapore Chinese Girls’
@@ -226,7 +251,8 @@ the competition: "The Singapore Youth STEM Fair is not just an event. It's
 a movement of curiosity, creativity, and purpose. "</p>
 <p>Check out the event highlights reel below to celebrate the achievements
 of all the students involved in this year's SYSF!</p>
-<p>[VIDEO]</p>
+<p><strong>[VIDEO]</strong>
+</p>
 <h4><strong>Transforming STEM Education at Science Centre Singapore</strong></h4>
 <p>Are you a teacher, parent, or community educator? Discover the various
 hands-on STEM experiences run by Science Centre Singapore to supplement
