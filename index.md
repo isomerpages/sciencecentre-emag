@@ -26,12 +26,12 @@ sections:
       title: Green Innovation at Singapore Youth STEM Fair 2025
       subtitle: sustainability, nature, youth
       id: infopic
-      description: 60 teams proved that STEM solutions can come from unexpected
-        places—from walkways that could generate clean energy to bar soaps made
-        from local invasive plants.
+      description: Young innovators proved that STEM solutions can come from
+        unexpected places—from walkways that could generate clean energy to
+        soaps made from invasive plants.
       button: Read More
       url: /sysf-2025/
-      image: /images/SYSF2025_KeyVisual.png
+      image: /images/CORRECTEDSYSF2025KeyVisual.png
       alt: Key visual for SYSF 2025
   - textcards:
       title: Highlights
