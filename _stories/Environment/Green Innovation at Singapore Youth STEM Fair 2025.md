@@ -9,11 +9,12 @@ description: At this year's Singapore Youth STEM Fair, 60 teams proved that
 third_nav_title: Environment
 image: /images/SYSF2025_KeyVisual.png
 ---
-<h4>At this year's Singapore Youth STEM Fair, 60 teams proved that groundbreaking STEM solutions can come from unexpected places—from school corridors that could generate electricity to eco-friendly soaps made from Singapore's invasive plants.</h4>
+<h4>At this year's Singapore Youth STEM Fair, teams of young innovators proved that groundbreaking STEM solutions can come from unexpected places—from school corridors that could generate electricity to eco-friendly soaps made from Singapore's invasive plants.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Key visual of SYSF 2025" src="/images/SYSF2025_KeyVisual.png">
+<img style="width: 100%" height="auto" width="100%" alt="SYSF 2025 key visual" src="/images/CORRECTEDSYSF2025KeyVisual.png">
 </div>
+<p></p>
 <p>AI image recognition systems to sort out recyclable materials. Antibacterial
 bar soaps upcycling local invasive plants. Bioplastics made from leftover
 fruit peels. Piezoelectric panels to convert footsteps into electricity.
@@ -113,6 +114,10 @@ environmental solutions. A team from Blangah Rise Primary School working
 on a project titled “Automated recyclable classification through A.I.-powered
 object recognition” clinched the Most Innovative Project Award in the Primary
 School category for their novel approach to improve recycling.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYSF 2025 Most Innovative Project - Primary School team winners from Blangah Rise Primary School" src="/images/Blangah_Rise_Pri_12.jpg">
+</div>
 <p><em>Ms Liew Wei Li with the Blangah Rise Primary School team behind the project “Automated recyclable classification through A.I.-powered object recognition”.</em>
 </p>
 <p>Screening a live feed from a camera at their booth, team members Charles
