@@ -259,6 +259,7 @@ of all the students involved in this year's SYSF!</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4a7AiIC3Mfw?si=z7luvYgQxMOw1Dmp"></iframe>
 </div>
+<p>The results for this year’s SYSF can be found <a href="/files/SYSF_2025_Results.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <h4><strong>Transforming STEM Education at Science Centre Singapore</strong></h4>
 <p>Are you a teacher, parent, or community educator? Discover the various
 hands-on STEM experiences run by Science Centre Singapore to supplement
