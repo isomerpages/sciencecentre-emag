@@ -23,6 +23,35 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: Green Innovation at Singapore Youth STEM Fair 2025
+      subtitle: sustainability, nature, youth
+      id: infopic
+      description: Young innovators proved that STEM solutions can come from
+        unexpected places—from walkways that could generate clean energy to
+        soaps made from invasive plants.
+      button: Read More
+      url: /sysf-2025/
+      image: /images/CORRECTEDSYSF2025KeyVisual.png
+      alt: Key visual for SYSF 2025
+  - textcards:
+      title: Highlights
+      subtitle: Content
+      id: textcards
+      cards:
+        - title: STORIES
+          description: Kopi, Caffeine, and Me
+          linktext: Read here
+          url: /kopi-caffeine-and-me
+        - title: PODCAST
+          description: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub
+            (IBCI)
+          linktext: Listen here
+          url: /marine-ecology
+        - title: VIDEOS
+          description: The Wok Hei in Hokkien Mee
+          linktext: Watch more
+          url: /videos
+  - infopic:
       title: "Comics to Cosmos: A Singaporean Space Cartoonist's Journey"
       subtitle: Space, STEM Communication, art
       id: infopic
@@ -43,24 +72,6 @@ sections:
       url: /liquid-fireworks
       alt: Liquid fireworks in a cup.
       image: /images/nationalday_emag.gif
-  - textcards:
-      title: Highlights
-      subtitle: Content
-      id: textcards
-      cards:
-        - title: STORIES
-          description: Kopi, Caffeine, and Me
-          linktext: Read here
-          url: /kopi-caffeine-and-me
-        - title: PODCAST
-          description: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub
-            (IBCI)
-          linktext: Listen here
-          url: /marine-ecology
-        - title: VIDEOS
-          description: The Wok Hei in Hokkien Mee
-          linktext: Watch more
-          url: /videos
   - infopic:
       title: Amp It Up!
       subtitle: DIY, Upcycling, ACOUSTICS
