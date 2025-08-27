@@ -256,8 +256,9 @@ the competition: "The Singapore Youth STEM Fair is not just an event. It's
 a movement of curiosity, creativity, and purpose. "</p>
 <p>Check out the event highlights reel below to celebrate the achievements
 of all the students involved in this year's SYSF!</p>
-<p><strong>[VIDEO]</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4a7AiIC3Mfw?si=z7luvYgQxMOw1Dmp"></iframe>
+</div>
 <h4><strong>Transforming STEM Education at Science Centre Singapore</strong></h4>
 <p>Are you a teacher, parent, or community educator? Discover the various
 hands-on STEM experiences run by Science Centre Singapore to supplement
@@ -269,5 +270,5 @@ educators at <a href="https://voiddeck.science.edu.sg/diy-speaker/" rel="noopene
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
-<p><strong><em>Published on 29 August 2025</em></strong>
+<p><strong><em>Published on 27 August 2025</em></strong>
 </p>
