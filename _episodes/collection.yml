@@ -2,7 +2,7 @@ collections:
   episodes:
     output: true
     order:
-      - Season 2/Season Two Trailer.md
+      - Season 2/Season 2 Trailer.md
       - Season 2/.keep
       - Season 1/.keep
       - Season 1/Season 1 Trailer.md
