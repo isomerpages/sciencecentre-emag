@@ -122,7 +122,10 @@ your curiosity and find out our speakers’ (super)position on quantum computing
 Hear from scientists discovering the world of qubits and quantum algorithms.
 Where’s the future of computing headed? Find out more event details in
 the poster below. Tickets are available now here: <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute</a>.</p>
-<p>[ATTACH POSTER]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quantum Computing Science Cafe poster" src="/images/quantumcomputing_scicafe.png">
+</div>
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
