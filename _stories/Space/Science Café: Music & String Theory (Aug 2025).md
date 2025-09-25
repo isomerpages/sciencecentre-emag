@@ -103,7 +103,7 @@ and two new interactive sound sculptures.”&nbsp;</p>
 <p>[ATTACH PHOTO OF ON THE STRING MULTIMEDIA WORK]</p>
 <p>Dr. Joyce Koh Beetuan shared behind-the-scenes content from the production,
 from early concept sketches of the large sound sculptures, to experimentations
-with synthesizing sounds using computer simulations to mimic the sounds
+with synthesising sounds using computer simulations to mimic the sounds
 of theoretical strings made of various materials from titanium, steel,
 plastic, and glass.&nbsp;</p>
 <p>Attendees networked and mingled after the talks, connecting with other
