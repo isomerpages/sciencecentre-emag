@@ -80,7 +80,7 @@ atom is smaller than the size of the solar system!”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fig 4 from Meijer 2014 in NeuroQuantology" src="/images/The_dimensions_of_the_Universe_from_extremely_small_right_part_to_unthinkable_large.png">
 </div>
-<p><em>Figure 4. The dimensions of the Universe from extremely small (right part) to unthinkable large (left part), with humans seemingly in the middle.&nbsp;Meijer, Dirk. (2014). The Universe as a Cyclic Organized Information System: John Wheeler’s World Revisited. NeuroQuantology. 13. 10.14704/nq.2015.13.1.798. </em>
+<p><em>Figure 4. The dimensions of the Universe from extremely small (right part) to unthinkable large (left part), with humans seemingly in the middle.&nbsp;Meijer, Dirk. (2014). The Universe as a Cyclic Organized Information System: John Wheeler’s World Revisited. NeuroQuantology. 13. 10.14704/nq.2015.13.1.798.</em>
 </p>
 <p>Next, Dr. Joyce Koh Beetuan's talk “In Search of the Music of String Theory”
 introduced her perspective as a musician, walking attendees through her
@@ -114,14 +114,13 @@ and verification, it remains a compelling Theory of Everything pushing
 us to reimagine how we make sense of the cosmos.&nbsp;</p>
 <p>[ATTACH PHOTO OF EVENT HIGHLIGHTS]</p>
 <h4><strong>The Quantum Café–Sip, Chat, and Compute</strong></h4>
-<p>Want to continue exploring the quantum realm? Join us at Science Café:
-Quantum Computing on Friday 10 October 2025 for a buffet dinner, drinks,
-and mind-boggling conversations at Science Centre Singapore’s new exhibition
-Quanta School on Level 2. Bring your curiosity and find out our speakers’
-(super)position on quantum computing. They will be diving into the world
-of qubits and quantum algorithms. Where’s the future of computing headed?
-Find out more event details in the poster below. Tickets are now available
-here: <a href="https://www.ams.org/publicoutreach/math-and-music" rel="noopener noreferrer nofollow" target="_blank"><u>https://programmes.tickets.science.edu.sg/attraction/science-caf-58833</u></a>.&nbsp;</p>
+<p>Want to continue exploring the quantum realm? Join us at <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute" rel="noopener nofollow" target="_blank">Science Café: Quantum Computing</a> on
+Friday 10 October 2025 for a buffet dinner, drinks, and mind-boggling conversations
+at the Quanta School exhibition, Level 2, Science Centre Singapore. Bring
+your curiosity and find out our speakers’ (super)position on quantum computing.
+Hear from scientists discovering the world of qubits and quantum algorithms.
+Where’s the future of computing headed? Find out more event details in
+the poster below. Tickets are available now here: <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute</a>.</p>
 <p>[ATTACH POSTER]</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
