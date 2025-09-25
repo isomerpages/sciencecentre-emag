@@ -24,12 +24,15 @@ and Head of the NUS String Theory Group) and award-winning composer Dr.
 Joyce Koh Beetuan from NAFA, UAS (Associate Dean, School of Interdisciplinary
 Arts and Associate Dean, Technology and Sustainability Research, Research
 Division).</p>
+<p></p>
 <p>The session began with fun audience icebreakers led by Science Centre
 Singapore staff. A game of string theory bingo included phrases like "loop",
 "rhythm", "space-time", “wormhole”, "<em>Stranger Things</em>", and "Marvel",
 encouraging attendees to discuss and draw associations between music, popular
 culture, and quantum physics.</p>
-<p>[ATTACH EVENT PHOTO]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="String theory bingo" src="/images/C1017_MP4_07_38_18_06_Still001.jpg">
+</div>
 <p>While string theory may sound very esoteric, you've probably been exposed
 to popular media premised on string theory concepts. Several recent Hollywood
 films have taken inspiration from string theory's suggestion that multiple
@@ -122,7 +125,6 @@ your curiosity and find out our speakers’ (super)position on quantum computing
 Hear from scientists discovering the world of qubits and quantum algorithms.
 Where’s the future of computing headed? Find out more event details in
 the poster below. Tickets are available now here: <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute</a>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Quantum Computing Science Cafe poster" src="/images/quantumcomputing_scicafe.png">
 </div>
