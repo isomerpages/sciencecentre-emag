@@ -42,9 +42,10 @@ Cooper is able to manipulate the tesseract to communicate with his daughter,
 scientist Murphy Cooper (Bryce Dallas Howard), throughout various periods
 of her life back on Earth. Higher dimensions and mind-bending geometries
 are just a few tantalising ideas from string theory that have been spotlighted
-in popular culture.
-<br>
-<br>[ATTACH SCENE PHOTO]</p>
+in popular culture.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rvns5DaW-ug?si=wc7vt-LFhHaowfQ5"></iframe>
+</div>
 <p>In Associate Professor Tan Meng-Chwan's talk, "String Theory: A Flash
 Introduction", A/P Prof Tan gave attendees a quick crash-course in why
 string theory matters. He described how the standard model of particle
