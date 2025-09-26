@@ -5,6 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Space
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Tan Meng-Chwan &amp; Dr. Joyce Koh Beetuan" src="/images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg">
+</div>
+<p><em>L-R: Assoc. Prof. Tan Meng-Chwan, Dr. Joyce Koh Beetuan. </em>
+</p>
 <p>Music and physics may conjure up very different images—pianos versus,
 say, atoms—but both disciplines share a fascination with vibrations, frequencies,
 patterns, scales, and time. Even the ancient Greeks were obsessed with
@@ -24,12 +30,6 @@ and Head of the NUS String Theory Group) and award-winning composer Dr.
 Joyce Koh Beetuan from NAFA, UAS (Associate Dean, School of Interdisciplinary
 Arts and Associate Dean, Technology and Sustainability Research, Research
 Division).</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="L-R: Assoc. Prof. Tan Meng-Chwan, Dr. Joyce Koh Beetuan." src="/images/C1063_MP4_07_46_11_21_Still001.jpg">
-</div>
-<p><em>L-R: Assoc. Prof. Tan Meng-Chwan, Dr. Joyce Koh Beetuan.</em>
-</p>
 <p>The session began with fun audience icebreakers led by Science Centre
 Singapore staff. A game of string theory bingo included phrases like "loop",
 "rhythm", "space-time", “wormhole”, "<em>Stranger Things</em>", and "Marvel",
