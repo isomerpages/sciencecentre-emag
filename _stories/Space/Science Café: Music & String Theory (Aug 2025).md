@@ -63,8 +63,7 @@ Tan described how the standard model of particle physics accounts for the
 behaviour of subatomic particles and fundamental forces except gravity.
 He explained, "therefore to understand the origin of the universe, we will
 need a unified theory of gravity and the standard model of the quantum
-world," and how string theory "is a leading candidate for the 'theory of
-everything' in physics."</p>
+world," which is where string theory comes in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Assoc. Prof. Tan presenting his talk, &quot;String Theory: A Flash Introduction.&quot;" src="/images/DSC00148__1_.jpg">
 </div>
