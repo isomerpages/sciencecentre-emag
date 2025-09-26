@@ -118,11 +118,10 @@ were treated to a short video snippet from <em>On the String</em>, “a live
 music performance by 16 musicians, including the pipa and harpsichord,
 and two new interactive sound sculptures.”&nbsp;</p>
 <p>[ATTACH PHOTO OF ON THE STRING MULTIMEDIA WORK]</p>
-<p>Dr. Joyce Koh Beetuan shared behind-the-scenes content from the production,
-from early concept sketches of the large sound sculptures, to experimentations
-with synthesising sounds using computer simulations to mimic the sounds
-of theoretical strings made of various materials from titanium, steel,
-plastic, and glass.&nbsp;</p>
+<p>Dr. Koh shared behind-the-scenes content from the production, from early
+concept sketches of the large sound sculptures, to experimentations with
+synthesising sounds using computer simulations to mimic the sounds of theoretical
+strings made of various materials from titanium, steel, plastic, and glass.&nbsp;</p>
 <p>As the presentations concluded, the evening's conversations were far from
 over. Attendees networked and mingled after the talks, connecting with
 other science enthusiasts. The Science Café provided participants an opportunity
