@@ -38,6 +38,8 @@ and quantum physics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="String theory bingo" src="/images/C1017_MP4_07_38_18_06_Still001.jpg">
 </div>
+<p><em>A game of string theory bingo.</em>
+</p>
 <p>While string theory may sound very esoteric, you've probably been exposed
 to popular media premised on string theory concepts. Several recent Hollywood
 films have taken inspiration from string theory's suggestion that multiple
