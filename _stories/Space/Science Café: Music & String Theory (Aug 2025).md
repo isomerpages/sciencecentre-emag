@@ -126,18 +126,23 @@ different elementary particles like electrons, photons, and neutrinos,
 and how vibrations in musical instruments produce harmonics.&nbsp;To demonstrate
 this, Dr. Koh asked one of the attendees carrying her violin to play a
 few notes.</p>
-<p>[ATTACH PHOTO OF IMPROMPTU VIOLIN AUDIENCE PERFORMANCE]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. Joyce Koh and an attendee demonstrating harmonics through an impromptu violin performance." src="/images/C1049_MP4_07_43_48_08_Still001.jpg">
+</div>
+<p><em>Dr. Joyce Koh and an attendee demonstrating harmonics through an impromptu violin performance.</em>
+</p>
 <p>Using this analogy as the basis for her 2010 multimedia production, <em>On the String</em>,
 Dr. Koh set out to imagine what “the music of the universe” might sound
 like if “we could hear the sounds of these tiny strings of energy.” Participants
 were treated to a short video snippet from <em>On the String</em>, “a live
 music performance by 16 musicians, including the pipa and harpsichord,
 and two new interactive sound sculptures.”&nbsp;</p>
-<p>[ATTACH PHOTO OF ON THE STRING MULTIMEDIA WORK]</p>
-<p>Dr. Koh shared behind-the-scenes content from the production, from early
-concept sketches of the large sound sculptures, to experimentations with
-synthesising sounds using computer simulations to mimic the sounds of theoretical
-strings made of various materials from titanium, steel, plastic, and glass.&nbsp;</p>
+<p>Dr. Koh shared behind-the-scenes content from the production, from brainstorming
+notes relating the levels of magnification in the modern atom model to
+the various movements of the multimedia work, to early concept sketches
+of the large sound sculptures, and experimentations with synthesising sounds
+using computer simulations of theoretical strings made of various materials
+from titanium, steel, plastic, and glass.&nbsp;</p>
 <p>As the presentations concluded, the evening's conversations were far from
 over. Attendees networked and mingled after the talks, connecting with
 other science enthusiasts. The Science Café provided participants an opportunity
@@ -146,7 +151,6 @@ the movements of the firmaments. Although string theory remains an incomplete
 framework for unifying physics awaiting further technological advancements
 and verification, it remains a compelling Theory of Everything pushing
 us to reimagine how we make sense of the cosmos.&nbsp;</p>
-<p>[ATTACH PHOTO OF EVENT HIGHLIGHTS]</p>
 <h4><strong>The Quantum Café–Sip, Chat, and Compute</strong></h4>
 <p>Want to continue exploring the quantum realm? Join us at <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute" rel="noopener nofollow" target="_blank">Science Café: Quantum Computing</a> on
 Friday 10 October 2025 for a buffet dinner, drinks, and mind-boggling conversations
