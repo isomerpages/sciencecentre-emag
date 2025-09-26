@@ -159,6 +159,7 @@ the poster below. Tickets are available now here: <a href="https://www.science.e
 <img style="width: 100%" height="auto" width="100%" alt="Quantum Computing Science Cafe poster" src="/images/quantumcomputing_scicafe.png">
 </div>
 <p><strong><em>Written by Jamie Uy</em></strong>
+<br><strong><em>Photos by Lydia Konig</em></strong>
 </p>
 <hr>
 <p><strong><em>Published 26 September 2025</em></strong>
