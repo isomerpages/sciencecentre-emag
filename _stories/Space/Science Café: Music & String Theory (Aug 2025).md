@@ -56,10 +56,10 @@ physics accounts for the behaviour of subatomic particles and fundamental
 forces except gravity, and how string theory aims to unify gravity and
 quantum physics into a single framework.&nbsp;</p>
 <p>A/P Prof Tan performed a simple demonstration, holding a line on paper
-representing a string at a distance, to model to the audience how "a very,
+representing a string at a distanct model to the audience how "a very,
 very short string will look like a point particle" from afar. He explained
 that string theory suggests that all these elementary particles are manifestations
-of vibrating strings, with infinite possible configurations.&nbsp;</p>
+of vibrating strings, wih infinite possible configurations.&nbsp;</p>
 <p>A/P Prof Tan described how string theory postulates that “our universe
 is actually 10-dimensional” and has led to the conceptualisation of new
 mathematical structures, such as Calabi-Yau manifolds representing multidimensional
