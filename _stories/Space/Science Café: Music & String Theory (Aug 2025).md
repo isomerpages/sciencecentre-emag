@@ -27,8 +27,8 @@ Division).</p>
 <p>The session began with fun audience icebreakers led by Science Centre
 Singapore staff. A game of string theory bingo included phrases like "loop",
 "rhythm", "space-time", “wormhole”, "<em>Stranger Things</em>", and "Marvel",
-encouraging attendees to discuss and draw associations between music, popular
-culture, and quantum physics.</p>
+encouraging attendees to draw associations between music, popular culture,
+and quantum physics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="String theory bingo" src="/images/C1017_MP4_07_38_18_06_Still001.jpg">
 </div>
@@ -48,22 +48,21 @@ in popular culture.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rvns5DaW-ug?si=wc7vt-LFhHaowfQ5"></iframe>
 </div>
-<p>Building on these imaginative portrayals of string theory in popular culture,
-Assoc. Prof. Tan's talk "String Theory: A Flash Introduction" provided
-attendees a quick crash course in why string theory matters. Assoc. Prof.
-Tan described how the standard model of particle physics accounts for the
-behaviour of subatomic particles and fundamental forces except gravity.
-He explained, "therefore to understand the origin of the universe, we will
-need a unified theory of gravity and the standard model of the quantum
-world," and how string theory "is a leading candidate for the 'theory of
-everything' in physics."</p>
+<p>Building on the icebreakers referencing imaginative portrayals of string
+theory in popular culture, Assoc. Prof. Tan's talk "String Theory: A Flash
+Introduction" provided attendees a quick crash course in why string theory
+matters. Assoc. Prof. Tan described how the standard model of particle
+physics accounts for the behaviour of subatomic particles and fundamental
+forces except gravity. He explained, "therefore to understand the origin
+of the universe, we will need a unified theory of gravity and the standard
+model of the quantum world," and how string theory "is a leading candidate
+for the 'theory of everything' in physics."</p>
 <p>Assoc. Prof. Tan performed a simple demonstration, holding a line representing
 a string drawn on a piece of paper at a distance to model to the audience
 how "a very, very short string will look like a point particle" from afar.
-He explained that string theory suggests that all elementary particles
-are manifestations of vibrating strings, "each vibration of the string
-results in a point particle, one string gives rise to infinitely many fermion
-(matter) and boson (force) particles.” In string theory, the <a href="https://www.sciencefocus.com/science/what-are-gravitons-and-do-they-really-exist" rel="noopener nofollow" target="_blank">graviton</a>,
+He explained that "each vibration of the string results in a point particle,
+[so] one string gives rise to infinitely many fermion (matter) and boson
+(force) particles.” In string theory, the <a href="https://www.sciencefocus.com/science/what-are-gravitons-and-do-they-really-exist" rel="noopener nofollow" target="_blank">graviton</a>,
 a hypothetical elementary particle that mediates "the force of gravity
 between matter", is "realised by the lowest energy vibration of a closed
 string."</p>
@@ -93,22 +92,23 @@ the atom as the atom is smaller than the size of the solar system!”</p>
 </div>
 <p><em>Figure 4. The dimensions of the Universe from extremely small (right part) to unthinkable large (left part), with humans seemingly in the middle.&nbsp;Meijer, Dirk. (2014). The Universe as a Cyclic Organized Information System: John Wheeler’s World Revisited. NeuroQuantology. 13. 10.14704/nq.2015.13.1.798.</em>
 </p>
-<p>Next, Dr. Joyce Koh Beetuan's talk “In Search of the Music of String Theory”
-introduced her perspective as a musician, walking attendees through her
-creative process translating scientific theories into sound. She discussed
-her early inspirations from science writing such as <em>The Elegant Universe </em>by
+<p>While Assoc. Prof. Tan explored the theoretical foundations of string
+theory from a scientist's point of a view, Dr. Joyce Koh Beetuan's talk
+“In Search of the Music of String Theory” walked attendees through her
+creative process translating scientific theories into sound as a musician.
+She discussed her early inspirations from science writing, such as <em>The Elegant Universe </em>by
 Brian Greene and a <a href="https://www.ias.edu/sites/default/files/sns/string(3).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2002 article</u></a> in <em>Astronomy </em>by
-Edward Witten, which prompted her to wonder about whether she could bring
-the one-dimensional strings to life through the strings of musical instruments
+Edward Witten, which prompted her to wonder whether she could bring the
+strings of string theory to life through the strings of musical instruments
 like violins. She drew analogies between how vibrations in string theory
-produce different elementary particles like electrons, photons, and neutrinos
+produce different elementary particles like electrons, photons, and neutrinos,
 and how vibrations in musical instruments produce harmonics.&nbsp;</p>
 <p>[ATTACH PHOTO OF IMPROMPTU VIOLIN AUDIENCE PERFORMANCE]</p>
 <p>Using this analogy as the basis for her 2010 multimedia production, <em>On the String</em>,
-Dr. Joyce Koh Beetuan set out to imagine what “the music of the universe”
-might sound like if “we could hear the sounds of these tiny strings of
-energy.” Participants were treated to a short video snippet from <em>On the String</em>,
-“a live music performance by 16 musicians, including the pipa and harpsichord,
+Dr. Koh set out to imagine what “the music of the universe” might sound
+like if “we could hear the sounds of these tiny strings of energy.” Participants
+were treated to a short video snippet from <em>On the String</em>, “a live
+music performance by 16 musicians, including the pipa and harpsichord,
 and two new interactive sound sculptures.”&nbsp;</p>
 <p>[ATTACH PHOTO OF ON THE STRING MULTIMEDIA WORK]</p>
 <p>Dr. Joyce Koh Beetuan shared behind-the-scenes content from the production,
@@ -116,8 +116,9 @@ from early concept sketches of the large sound sculptures, to experimentations
 with synthesising sounds using computer simulations to mimic the sounds
 of theoretical strings made of various materials from titanium, steel,
 plastic, and glass.&nbsp;</p>
-<p>Attendees networked and mingled after the talks, connecting with other
-science enthusiasts. The Science Café provided participants an opportunity
+<p>As the presentations concluded, the evening's conversations were far from
+over. Attendees networked and mingled after the talks, connecting with
+other science enthusiasts. The Science Café provided participants an opportunity
 to ponder the origins of the universe and music’s role in transmitting
 the movements of the firmaments. Although string theory remains an incomplete
 framework for unifying physics awaiting further technological advancements
