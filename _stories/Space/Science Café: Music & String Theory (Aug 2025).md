@@ -24,6 +24,12 @@ and Head of the NUS String Theory Group) and award-winning composer Dr.
 Joyce Koh Beetuan from NAFA, UAS (Associate Dean, School of Interdisciplinary
 Arts and Associate Dean, Technology and Sustainability Research, Research
 Division).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L-R: Assoc. Prof. Tan Meng-Chwan, Dr. Joyce Koh Beetuan." src="/images/C1063_MP4_07_46_11_21_Still001.jpg">
+</div>
+<p><em>L-R: Assoc. Prof. Tan Meng-Chwan, Dr. Joyce Koh Beetuan.</em>
+</p>
 <p>The session began with fun audience icebreakers led by Science Centre
 Singapore staff. A game of string theory bingo included phrases like "loop",
 "rhythm", "space-time", “wormhole”, "<em>Stranger Things</em>", and "Marvel",
@@ -57,6 +63,11 @@ He explained, "therefore to understand the origin of the universe, we will
 need a unified theory of gravity and the standard model of the quantum
 world," and how string theory "is a leading candidate for the 'theory of
 everything' in physics."</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assoc. Prof. Tan presenting his talk, &quot;String Theory: A Flash Introduction.&quot;" src="/images/DSC00148__1_.jpg">
+</div>
+<p><em>Assoc. Prof. Tan presenting his talk "String Theory: A Flash Introduction".</em>
+</p>
 <p>Assoc. Prof. Tan performed a simple demonstration, holding a line representing
 a string drawn on a piece of paper at a distance to model to the audience
 how "a very, very short string will look like a point particle" from afar.
@@ -105,6 +116,11 @@ Brian Greene and a <a href="https://www.ias.edu/sites/default/files/sns/string(3
 Edward Witten, which prompted her to wonder whether she could bring the
 strings of string theory to life through the strings of musical instruments
 like violins.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. Joyce Koh presenting her talk, &quot;In Search of the Music of String Theory&quot;." src="/images/DSC00175__2_.jpg">
+</div>
+<p><em>Dr. Joyce Koh presenting her talk, "In Search of the Music of String Theory".</em>
+</p>
 <p>Dr. Koh drew analogies between how vibrations in string theory produce
 different elementary particles like electrons, photons, and neutrinos,
 and how vibrations in musical instruments produce harmonics.&nbsp;To demonstrate
