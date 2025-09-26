@@ -85,7 +85,11 @@ with the "extra dimensions curled up" in a complex, minute shape called
 a <a href="https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/" rel="noopener nofollow" target="_blank">Calabi-Yau manifold</a>.
 The shapes of extra dimensions influence the properties of particles and
 forces in our universe.</p>
-<p>[ATTACH PHOTO OF CALABI-YAU MANIFOLDS]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A graphic representation of a Calabi-Yau manifold. Source: Wikimedia" src="/images/Calabi_Yau.png">
+</div>
+<p><em>A graphic representation of a Calabi-Yau manifold. Source: <a href="https://commons.wikimedia.org/wiki/File:Calabi-Yau.png" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></em>
+</p>
 <p>In the absence of experimental results, novel mathematics like the equations
 behind the Calabi-Yau manifold serves as the primary tool for verifying
 string theory. Assoc. Prof. Tan explained “[strings are] therefore very
