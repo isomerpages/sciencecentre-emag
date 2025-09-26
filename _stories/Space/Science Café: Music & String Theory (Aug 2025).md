@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Space
 ---
-<p></p>
+<h4>Science Centre Singapore's Aug 2025 Science Café brought together a particle physics expert and an award-winning composer to discuss the harmonious connections between string theory and music over dinner.<br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Tan Meng-Chwan &amp; Dr. Joyce Koh Beetuan" src="/images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg">
 </div>
-<p><em>L-R: Assoc. Prof. Tan Meng-Chwan, Dr. Joyce Koh Beetuan. </em>
+<p><em>L-R: Assoc. Prof. Tan Meng-Chwan, Dr. Joyce Koh Beetuan.</em>
 </p>
 <p>Music and physics may conjure up very different images—pianos versus,
 say, atoms—but both disciplines share a fascination with vibrations, frequencies,
