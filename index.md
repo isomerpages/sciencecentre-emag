@@ -23,16 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: Green Innovation at Singapore Youth STEM Fair 2025
-      subtitle: sustainability, nature, youth
+      title: "Science Café: String Theory & Music (Aug 2025)"
+      subtitle: music, physics, culture
       id: infopic
-      description: Young innovators proved that STEM solutions can come from
-        unexpected places—from walkways that could generate clean energy to
-        soaps made from invasive plants.
+      description: We brought together a particle physics expert and an award-winning
+        composer to discuss resonances between string theory and music.
       button: Read More
-      url: /sysf-2025/
-      image: /images/CORRECTEDSYSF2025KeyVisual.png
-      alt: Key visual for SYSF 2025
+      url: /sci-cafe-aug-2025
+      image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg
+      alt: A/Prof Tan & Dr. Koh
   - textcards:
       title: Highlights
       subtitle: Content
@@ -51,6 +50,17 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: Green Innovation at Singapore Youth STEM Fair 2025
+      subtitle: sustainability, nature, youth
+      id: infopic
+      description: Young innovators proved that STEM solutions can come from
+        unexpected places—from walkways that could generate clean energy to
+        soaps made from invasive plants.
+      button: Read More
+      url: /sysf-2025/
+      image: /images/CORRECTEDSYSF2025KeyVisual.png
+      alt: Key visual for SYSF 2025
   - infopic:
       title: "Comics to Cosmos: A Singaporean Space Cartoonist's Journey"
       subtitle: Space, STEM Communication, art
