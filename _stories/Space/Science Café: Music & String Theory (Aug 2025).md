@@ -55,8 +55,8 @@ Tan described how the standard model of particle physics accounts for the
 behaviour of subatomic particles and fundamental forces except gravity.
 He explained, "therefore to understand the origin of the universe, we will
 need a unified theory of gravity and the standard model of the quantum
-world," and how string theory "is a leading candidate for the Theory of
-Everything in physics."</p>
+world," and how string theory "is a leading candidate for the 'theory of
+everything' in physics."</p>
 <p>Assoc. Prof. Tan performed a simple demonstration, holding a line representing
 a string drawn on a piece of paper at a distance to model to the audience
 how "a very, very short string will look like a point particle" from afar.
@@ -73,7 +73,7 @@ mathematical structures, such as Calabi-Yau manifolds representing multidimensio
 shapes.&nbsp;</p>
 <p>[ATTACH PHOTO OF CALABI-YAU MANIFOLDS]</p>
 <p>In the absence of experimental verification, advanced mathematics serves
-as the primary tool for validating string theory, as A/P Prof Tan explained
+as the primary tool for validating string theory. Assoc. Prof. Tan explained
 “[strings are] therefore very difficult to detect [experimentally], as
 you need huge amounts of energy to smash the quarks into their smaller,
 constituent strings.” To illustrate the minute scale of these strings,
