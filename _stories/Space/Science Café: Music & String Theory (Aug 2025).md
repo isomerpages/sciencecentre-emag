@@ -108,7 +108,8 @@ like violins.</p>
 <p>Dr. Koh drew analogies between how vibrations in string theory produce
 different elementary particles like electrons, photons, and neutrinos,
 and how vibrations in musical instruments produce harmonics.&nbsp;To demonstrate
-this, one of the attendees played the violin to show how</p>
+this, Dr. Koh asked one of the attendees carrying her violin to play a
+few notes.</p>
 <p>[ATTACH PHOTO OF IMPROMPTU VIOLIN AUDIENCE PERFORMANCE]</p>
 <p>Using this analogy as the basis for her 2010 multimedia production, <em>On the String</em>,
 Dr. Koh set out to imagine what “the music of the universe” might sound
