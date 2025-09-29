@@ -21,23 +21,6 @@ in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VD_Podcast_Logo_SCS_Logo_Corrected_3000_min.png">
 </div>
-<h4><strong>Season 2</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/sport-science" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Marcus Lee" src="/images/1_Sport.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Episode 1: What Technologies Are Used to Train Singapore’s Top Athletes? with Dr. Marcus Lee </div><div class="isomer-card-description">Discover the surprising tech helping Team Singapore athletes perform their best—from 3D motion capture to eye trackers, magnetic gates, and more. We jump into sport biomechanics with Dr. Marcus Lee (Director and Principal Sport Biomechanist at the High Performance Sport Institute, Sport Singapore).</div><div class="isomer-card-link">Listen here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/s2-trailer" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Trailer" src="/images/S2VDPodcastTrailer_ReelCover.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Trailer</div>
-<div class="isomer-card-description">Calling all science geeks—Science Centre Singapore's podcast is back for
-Season 2! Join our host, science educator Janice Tow, as we explore big
-questions in science with Singapore's leading STEM changemakers.</div>
-<div class="isomer-card-link">Watch here</div>
-</div>
-</a>
-</div>
 <h4><strong>Season 1</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/decoding-ai" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Ayesha Khanna" src="/images/Ep4_Decoding_AI_Thumbnail__5_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Episode 4: Decoding Artificial Intelligence with Dr. Ayesha Khanna (Addo AI)</div><div class="isomer-card-description">Singapore is positioning itself as a global AI hub. But what does this mean for our daily lives and jobs? We debug the complex code of artificial intelligence with Dr. Ayesha Khanna, co-founder and CEO of Addo AI and a globally recognized AI expert based in Singapore.</div><div class="isomer-card-link">Listen here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/exploring-spacetech" class="isomer-card">
