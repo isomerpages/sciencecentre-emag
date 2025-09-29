@@ -22,12 +22,12 @@ stated, "There is geometry in the humming of the strings, there is music
 in the spacing of the spheres."&nbsp;</p>
 <p>To celebrate the interdisciplinary connections between science and the
 arts, Science Centre Singapore hosted a Science Café session on Music &amp;
-String Theory at the NAFA-UAS Co.Learning Space on Friday 22 August 2025
-evening in collaboration with Nanyang Academy of Fine Arts and the University
-of the Arts Singapore.&nbsp;</p>
+String Theory in collaboration with Nanyang Academy of Fine Arts (NAFA)
+and the University of the Arts Singapore (UAS) at the NAFA-UAS Co.Learning
+Space on Friday 22 August 2025 evening.&nbsp;</p>
 <p>The event featured two speakers, particle physics expert Associate Professor
-Tan Meng-Chwan from National University of Singapore (Assistant Dean, Outreach
-and Admissions, and Head of the NUS String Theory Group) and award-winning
+Tan Meng-Chwan from the National University of Singapore (Assistant Dean,
+Outreach and Admissions, and Head of the NUS String Theory Group) and award-winning
 composer Dr. Joyce Koh Beetuan from NAFA, UAS (Associate Dean, School of
 Interdisciplinary Arts and Associate Dean, Technology and Sustainability
 Research, Research Division).</p>
