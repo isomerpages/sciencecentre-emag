@@ -8,7 +8,7 @@ description: Science Centre Singapore brought together a particle physics expert
 third_nav_title: Space
 image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg
 ---
-<h4>Science Centre Singapore's Aug 2025 Science Café brought together a particle physics expert and an award-winning composer to discuss the surprising connections between string theory and music.</h4>
+<h4>Science Centre Singapore's Aug 2025 Science Café brought together a string theory expert and an award-winning composer to discuss the surprising connections between string theory and music.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Tan Meng-Chwan &amp; Dr. Joyce Koh Beetuan" src="/images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg">
@@ -26,7 +26,7 @@ arts, Science Centre Singapore hosted a Science Café session on Music &amp;
 String Theory in collaboration with Nanyang Academy of Fine Arts (NAFA)
 and the University of the Arts Singapore (UAS) at the NAFA-UAS Co.Learning
 Space on Friday 22 August 2025 evening.&nbsp;</p>
-<p>The event featured two speakers, particle physics expert Associate Professor
+<p>The event featured two speakers, string theory expert Associate Professor
 Tan Meng-Chwan from the National University of Singapore (Assistant Dean,
 Outreach and Admissions, and Head of the NUS String Theory Group) and award-winning
 composer Dr. Joyce Koh Beetuan from NAFA, UAS (Associate Dean, School of
@@ -87,7 +87,7 @@ He explained that "each vibration of the string results in a point particle,
 [so] one string gives rise to infinitely many fermion (matter) and boson
 (force) particles.” In string theory, the <a href="https://www.sciencefocus.com/science/what-are-gravitons-and-do-they-really-exist" rel="noopener nofollow" target="_blank">graviton</a>,
 a hypothetical elementary particle that mediates "the force of gravity
-between matter", is "realised by the lowest energy vibration of a closed
+between matter" is "realised by the lowest energy vibration of a closed
 string," potentially providing a quantum theory for gravity.</p>
 <p>Furthermore, Assoc. Prof. Tan described how string theory supports the
 concept of a multiverse, with different physical laws in each universe.
