@@ -88,10 +88,10 @@ He explained that "each vibration of the string results in a point particle,
 (force) particles.” In string theory, the <a href="https://www.sciencefocus.com/science/what-are-gravitons-and-do-they-really-exist" rel="noopener nofollow" target="_blank">graviton</a>,
 a hypothetical elementary particle that mediates "the force of gravity
 between matter", is "realised by the lowest energy vibration of a closed
-string."</p>
-<p>Assoc. Prof. Tan described how string theory supports the concept of a
-multiverse, with different physical laws in each universe. String theory
-postulates that “our universe is actually <a href="https://www.space.com/more-universe-dimensions-for-string-theory.html" rel="noopener nofollow" target="_blank">10-dimensional</a>”
+string," potentially providing a quantum theory for gravity.</p>
+<p>Furthermore, Assoc. Prof. Tan described how string theory supports the
+concept of a multiverse, with different physical laws in each universe.
+String theory postulates that “our universe is actually <a href="https://www.space.com/more-universe-dimensions-for-string-theory.html" rel="noopener nofollow" target="_blank">10-dimensional</a>”
 with the "extra dimensions curled up" in a complex, minute shape called
 a <a href="https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/" rel="noopener nofollow" target="_blank">Calabi-Yau manifold</a>.
 The shapes of extra dimensions influence the properties of particles and
