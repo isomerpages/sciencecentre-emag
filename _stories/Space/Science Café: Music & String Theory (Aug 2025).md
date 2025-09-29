@@ -112,7 +112,7 @@ the solar system!”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fig 4 from Meijer 2014 in NeuroQuantology" src="/images/The_dimensions_of_the_Universe_from_extremely_small_right_part_to_unthinkable_large.png">
 </div>
-<p><em>Figure 4. The dimensions of the Universe from extremely small (right part) to unthinkable large (left part), with humans seemingly in the middle.&nbsp;Meijer, Dirk. (2014). The Universe as a Cyclic Organized Information System: John Wheeler’s World Revisited. NeuroQuantology. 13. 10.14704/nq.2015.13.1.798.</em>
+<p><em>Figure 4. The dimensions of the Universe from extremely small (right part) to unthinkably large (left part), with humans seemingly in the middle.&nbsp;Meijer, Dirk. (2014). The Universe as a Cyclic Organized Information System: John Wheeler’s World Revisited. NeuroQuantology. 13. 10.14704/nq.2015.13.1.798.</em>
 </p>
 <p>While Assoc. Prof. Tan explored the theoretical foundations of string
 theory from a scientist's point of a view, Dr. Joyce Koh Beetuan's talk
@@ -154,9 +154,10 @@ from titanium, steel, plastic, and glass.&nbsp;</p>
 over. Attendees networked and mingled after the talks, connecting with
 other science enthusiasts. The Science Café provided participants an opportunity
 to ponder the origins of the universe and music’s role in transmitting
-the movements of the firmaments. Although string theory remains an incomplete
-framework for unifying physics awaiting further technological advancements
-and verification, it remains a compelling Theory of Everything pushing
+the movements of the firmaments.</p>
+<p>Although string theory remains an incomplete framework for unifying physics
+awaiting further technological advancements and verification, it remains
+a compelling <a href="https://www.quantamagazine.org/why-is-m-theory-the-leading-candidate-for-theory-of-everything-20171218/" rel="noopener nofollow" target="_blank">Theory of Everything</a> pushing
 us to reimagine how we make sense of the cosmos.&nbsp;</p>
 <h4><strong>The Quantum Café–Sip, Chat, and Compute</strong></h4>
 <p>Want to continue exploring the quantum realm? Join us at <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/the-quantum-caf%C3%A9-sip--chat--and-compute" rel="noopener nofollow" target="_blank">Science Café: Quantum Computing</a> on
