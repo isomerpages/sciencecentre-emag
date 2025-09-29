@@ -174,5 +174,5 @@ the poster below. Tickets are available now here: <a href="https://www.science.e
 <br><strong><em>Photos by Lydia Konig</em></strong>
 </p>
 <hr>
-<p><strong><em>Published 26 September 2025</em></strong>
+<p><strong><em>Published 29 September 2025</em></strong>
 </p>
