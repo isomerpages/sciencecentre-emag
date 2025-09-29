@@ -37,10 +37,13 @@ talks on string theory and its resonances in music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Science Cafe sign for Music and String Theory session" src="/images/DSC00133_copy.jpg">
 </div>
-<p></p>
+<p><em>Signage directing attendees to <a href="http://Co.Learning.Space" rel="noopener noreferrer nofollow" target="_blank">Co.Learning.Space</a> for Science Café: Music and String Theory.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dinner at Science Cafe Music and String Theory" src="/images/DSC00125_copy.jpg">
 </div>
+<p><em>Attendees partaking in a buffet dinner spread.</em>
+</p>
 <p>The session began with fun audience icebreakers led by Science Centre
 Singapore staff. A game of string theory bingo included phrases like "loop",
 "rhythm", "space-time", “wormhole”, "<em>Stranger Things</em>", and "Marvel",
