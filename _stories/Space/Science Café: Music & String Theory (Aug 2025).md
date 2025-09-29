@@ -18,9 +18,9 @@ image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.j
 <p>Music and physics may conjure up very different images—pianos versus,
 say, atoms—but both disciplines share a fascination with vibrations, frequencies,
 patterns, scales, and time. Even the ancient Greeks were obsessed with
-cosmic harmonies. As <a href="https://www.ams.org/publicoutreach/math-and-music" rel="noopener noreferrer nofollow" target="_blank"><u>Pythagoras</u></a> famously
-stated, "There is geometry in the humming of the strings, there is music
-in the spacing of the spheres."&nbsp;</p>
+cosmic harmonies. An aphorism attributed to <a href="https://www.ams.org/publicoutreach/math-and-music" rel="noopener noreferrer nofollow" target="_blank"><u>Pythagoras</u></a> states,
+"There is geometry in the humming of the strings, there is music in the
+spacing of the spheres."&nbsp;</p>
 <p>To celebrate the interdisciplinary connections between science and the
 arts, Science Centre Singapore hosted a Science Café session on Music &amp;
 String Theory in collaboration with Nanyang Academy of Fine Arts (NAFA)
