@@ -8,11 +8,11 @@ description: Science Centre Singapore brought together a particle physics expert
 third_nav_title: Space
 image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg
 ---
-<h4>Science Centre Singapore's Aug 2025 Science Café brought together a particle physics expert and an award-winning composer to discuss the harmonious connections between string theory and music over dinner.<br></h4>
+<h4>Science Centre Singapore's Aug 2025 Science Café brought together a particle physics expert and an award-winning composer to discuss the surprising connections between string theory and music.<br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Tan Meng-Chwan &amp; Dr. Joyce Koh Beetuan" src="/images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg">
 </div>
-<p><em>L-R: Assoc. Prof. Tan Meng-Chwan, Dr. Joyce Koh Beetuan.</em>
+<p><em>(Left) Assoc. Prof. Tan Meng-Chwan, (right) Dr. Joyce Koh Beetuan.</em>
 </p>
 <p>Music and physics may conjure up very different images—pianos versus,
 say, atoms—but both disciplines share a fascination with vibrations, frequencies,
@@ -25,14 +25,21 @@ arts, Science Centre Singapore hosted a Science Café session on Music &amp;
 String Theory at the NAFA-UAS Co.Learning Space on Friday 22 August 2025
 evening in collaboration with Nanyang Academy of Fine Arts and the University
 of the Arts Singapore.&nbsp;</p>
+<p>The event featured two speakers, particle physics expert Associate Professor
+Tan Meng-Chwan from National University of Singapore (Assistant Dean, Outreach
+and Admissions, and Head of the NUS String Theory Group) and award-winning
+composer Dr. Joyce Koh Beetuan from NAFA, UAS (Associate Dean, School of
+Interdisciplinary Arts and Associate Dean, Technology and Sustainability
+Research, Research Division).</p>
 <p>Attendees enjoyed a buffet dinner and drinks while listening to thought-provoking
-talks on string theory and its resonances in music. The event featured
-two speakers, particle physics expert Associate Professor Tan Meng-Chwan
-from National University of Singapore (Assistant Dean, Outreach and Admissions,
-and Head of the NUS String Theory Group) and award-winning composer Dr.
-Joyce Koh Beetuan from NAFA, UAS (Associate Dean, School of Interdisciplinary
-Arts and Associate Dean, Technology and Sustainability Research, Research
-Division).</p>
+talks on string theory and its resonances in music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science Cafe sign for Music and String Theory session" src="/images/DSC00133_copy.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dinner at Science Cafe Music and String Theory" src="/images/DSC00125_copy.jpg">
+</div>
 <p>The session began with fun audience icebreakers led by Science Centre
 Singapore staff. A game of string theory bingo included phrases like "loop",
 "rhythm", "space-time", “wormhole”, "<em>Stranger Things</em>", and "Marvel",
