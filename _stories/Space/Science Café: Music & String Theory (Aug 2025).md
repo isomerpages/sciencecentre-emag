@@ -13,14 +13,14 @@ image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.j
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Tan Meng-Chwan &amp; Dr. Joyce Koh Beetuan" src="/images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg">
 </div>
-<p><em>Photo collage made in Canva featuring (left) Assoc. Prof. Tan Meng-Chwan and (right) Dr. Joyce Koh Beetuan. Image sources: Lydia Konig, <a href="https://commons.wikimedia.org/wiki/File:Black_Hole_in_the_universe.jpg" rel="noopener nofollow" target="_blank">NASA</a>, <a href="https://www.physics.nus.edu.sg/faculty/tan-meng-chwan/" rel="noopener nofollow" target="_blank">NUS Physics Assoc. Prof. Tan Faculty Profile</a>, <a href="https://en.wikipedia.org/wiki/Harmonic#/media/File:Moodswingerscale.svg" rel="noopener nofollow" target="_blank">Wikipedia</a>, <a href="https://www.instagram.com/joycebtkoh/p/Cl7FRI3r87G/" rel="noopener nofollow" target="_blank">Dr. Koh's Instagram</a>, <a href="https://commons.wikimedia.org/wiki/File:Calabi-Yau.png" rel="noopener nofollow" target="_blank">Wikimedia Commons.</a></em>
+<p><em>Photo collage created in Canva by Jamie Uy featuring (left) Assoc. Prof. Tan Meng-Chwan and (right) Dr. Joyce Koh Beetuan. Image sources: Lydia Konig, <a href="https://commons.wikimedia.org/wiki/File:Black_Hole_in_the_universe.jpg" rel="noopener nofollow" target="_blank">NASA</a>, <a href="https://www.physics.nus.edu.sg/faculty/tan-meng-chwan/" rel="noopener nofollow" target="_blank">NUS Physics Assoc. Prof. Tan Faculty Profile</a>, <a href="https://en.wikipedia.org/wiki/Harmonic#/media/File:Moodswingerscale.svg" rel="noopener nofollow" target="_blank">Wikipedia</a>, <a href="https://www.instagram.com/joycebtkoh/p/Cl7FRI3r87G/" rel="noopener nofollow" target="_blank">Dr. Koh's Instagram</a>, <a href="https://commons.wikimedia.org/wiki/File:Calabi-Yau.png" rel="noopener nofollow" target="_blank">Wikimedia Commons.</a></em>
 </p>
 <p>Music and physics may conjure up very different images—pianos versus,
 say, atoms—but both disciplines share a fascination with vibrations, frequencies,
 patterns, scales, and time. Even the ancient Greeks were obsessed with
-cosmic harmonies. As <a href="https://www.ams.org/publicoutreach/math-and-music" rel="noopener noreferrer nofollow" target="_blank"><u>Pythagoras</u></a> famously
-stated, "There is geometry in the humming of the strings, there is music
-in the spacing of the spheres."&nbsp;</p>
+cosmic harmonies. An aphorism attributed to <a href="https://www.ams.org/publicoutreach/math-and-music" rel="noopener noreferrer nofollow" target="_blank"><u>Pythagoras</u></a> states,
+"There is geometry in the humming of the strings, there is music in the
+spacing of the spheres."&nbsp;</p>
 <p>To celebrate the interdisciplinary connections between science and the
 arts, Science Centre Singapore hosted a Science Café session on Music &amp;
 String Theory in collaboration with Nanyang Academy of Fine Arts (NAFA)
@@ -37,10 +37,13 @@ talks on string theory and its resonances in music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Science Cafe sign for Music and String Theory session" src="/images/DSC00133_copy.jpg">
 </div>
-<p></p>
+<p><em>Signage directing attendees to <a href="http://Co.Learning.Space" rel="noopener noreferrer nofollow" target="_blank">Co.Learning.Space</a> for Science Café: Music and String Theory.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dinner at Science Cafe Music and String Theory" src="/images/DSC00125_copy.jpg">
 </div>
+<p><em>Attendees partaking in a buffet dinner spread.</em>
+</p>
 <p>The session began with fun audience icebreakers led by Science Centre
 Singapore staff. A game of string theory bingo included phrases like "loop",
 "rhythm", "space-time", “wormhole”, "<em>Stranger Things</em>", and "Marvel",
