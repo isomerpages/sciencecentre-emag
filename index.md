@@ -26,10 +26,11 @@ sections:
       title: "Science Café: String Theory & Music (Aug 2025)"
       subtitle: music, physics, culture
       id: infopic
-      description: We brought together a particle physics expert and an award-winning
-        composer to discuss resonances between string theory and music.
+      description: Ever wondered what the universe might sound like? A string theorist
+        and an award-winning composer discuss the relationship between quantum
+        physics and music.
       button: Read More
-      url: /sci-cafe-aug-2025
+      url: /sci-cafe-aug-2025/
       image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg
       alt: A/Prof Tan & Dr. Koh
   - textcards:
