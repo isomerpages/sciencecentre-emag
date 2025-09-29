@@ -24,7 +24,7 @@ sections:
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
       title: "Science Café: String Theory & Music (Aug 2025)"
-      subtitle: music, physics, culture
+      subtitle: music, physics, STEAM
       id: infopic
       description: Ever wondered what the universe might sound like? A string theorist
         and an award-winning composer discuss the relationship between quantum
