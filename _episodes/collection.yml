@@ -2,7 +2,6 @@ collections:
   episodes:
     output: true
     order:
-      - Season 2/.keep
       - Season 1/.keep
       - Season 1/Season 1 Trailer.md
       - Season 1/Peranakan Ancestry.md
