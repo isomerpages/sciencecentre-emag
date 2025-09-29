@@ -8,7 +8,8 @@ description: Science Centre Singapore brought together a particle physics expert
 third_nav_title: Space
 image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg
 ---
-<h4>Science Centre Singapore's Aug 2025 Science Café brought together a particle physics expert and an award-winning composer to discuss the surprising connections between string theory and music.<br></h4>
+<h4>Science Centre Singapore's Aug 2025 Science Café brought together a particle physics expert and an award-winning composer to discuss the surprising connections between string theory and music.</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Tan Meng-Chwan &amp; Dr. Joyce Koh Beetuan" src="/images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg">
 </div>
