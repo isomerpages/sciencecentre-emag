@@ -1,5 +1,5 @@
 ---
-title: Trailer
+title: Season 1 Trailer
 permalink: /trailer/
 variant: tiptap
 description: Launching Science Centre Singapore's first-ever podcast, Void Deck.
