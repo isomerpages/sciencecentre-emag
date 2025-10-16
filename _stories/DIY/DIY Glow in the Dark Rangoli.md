@@ -98,7 +98,10 @@ take in light energy and slowly release it afterwards. After your design
 “charges up” under a light source, it will shine beautifully when the lights
 go off.</p>
 <p>To start making your own glow-in-the-dark rangoli, refer to the activity
-sheet below!</p>
+sheet below! Click on the link to download a printable guide.</p>
+<p><a href="/files/void_deck_deepavali_glowinthedark_rangoli_activity_sheet_.pdf" rel="noopener nofollow" target="_blank">Void Deck DIY Glow in the Dark Rangoli Activity Guide</a>
+</p>
+<p></p>
 <p><strong><em>Written by Eng Gia Du (Lauren), Nur Ellysha Binte Mohamed Nizam, and Sophia La</em></strong>
 </p>
 <p><strong><em>Edited by Sofia Mohamed Khanafie</em></strong>
