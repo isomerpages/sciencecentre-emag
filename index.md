@@ -23,16 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Science Café: Music & String Theory (Aug 2025)"
-      subtitle: music, physics, art
+      title: DIY Glow-in-the-Dark Rangoli
+      subtitle: diy, holiday, chemistry
       id: infopic
-      description: Ever wondered what the universe might sound like? A string theorist
-        and an award-winning composer discuss the relationship between quantum
-        physics and music.
+      description: Celebrate Deepavali and learn about chemistry by creating a
+        glow-in-the-dark rangoli. Downloadable activity guide included!
       button: Read More
-      url: /sci-cafe-aug-2025/
-      image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg
-      alt: A/Prof Tan & Dr. Koh
+      url: /diy-glow-in-the-dark-rangoli
+      image: /images/Adobe_Express___VD_KS_Deepavali_Isomer_Homepage.gif
+      alt: Glow-in-the-dark rangoli
   - textcards:
       title: Highlights
       subtitle: Content
@@ -51,6 +50,17 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: "Science Café: Music & String Theory (Aug 2025)"
+      subtitle: music, physics, art
+      id: infopic
+      description: Ever wondered what the universe might sound like? A string theorist
+        and an award-winning composer discuss the relationship between quantum
+        physics and music.
+      button: Read More
+      url: /sci-cafe-aug-2025/
+      image: /images/Science_Cafe_Music___String_Theory__Aug_2025__VD_Featured_Image.jpg
+      alt: A/Prof Tan & Dr. Koh
   - infopic:
       title: Green Innovation at Singapore Youth STEM Fair 2025
       subtitle: sustainability, nature, youth
