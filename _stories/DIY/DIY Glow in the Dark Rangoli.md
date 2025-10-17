@@ -8,13 +8,13 @@ description: Shimmering lights! Vibrant patterns! ✨ Discover how families
   activity below!
 third_nav_title: DIY
 ---
-<h4>Shimmering lights! Vibrant patterns! ✨ Discover how families celebrate&nbsp;Deepavali&nbsp;with beautiful rangoli designs and glowing diyas. Then, create your very own&nbsp;glow-in-the-dark rangoli&nbsp;at home through a fun and simple activity below!</h4>
+<h4>Shimmering lights! Vibrant patterns! ✨ Discover how families celebrate&nbsp;Deepavali&nbsp;with beautiful rangoli designs and glowing diyas. Then, create your very own&nbsp;glow-in-the-dark rangoli&nbsp;at home through a fun and simple activity below!<br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo by Lara Jameson/Pexels" src="/images/pexels_lara_jameson_8887156.jpg">
 </div>
 <p><em>Photo Credit: by Lara Jameson on <a href="https://www.pexels.com/photo/close-up-of-a-person-lighting-candles-8887156/" rel="noopener noreferrer nofollow" target="_blank">Pexels</a></em>
 </p>
-<h4>The Festival of Lights</h4>
+<h4><strong>The Festival of Lights</strong></h4>
 <p>Every year, streets and homes across the world come alive with a warm
 golden glow as people celebrate Deepavali — also known as the Festival
 of Lights. The name comes from Sanskrit and means “Row of Lights.”</p>
@@ -28,7 +28,7 @@ diyas. The gentle flicker of each flame represents hope, warmth, and new
 beginnings. Beyond its religious roots, Deepavali is also a time for reflection,
 renewal, and gratitude — a celebration of light that shines brightest in
 times of darkness.</p>
-<h4>Deepavali in Singapore</h4>
+<h4><strong>Deepavali in Singapore</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Jeyakumaran Mayooresan on Unsplash" src="/images/jeyakumaran_mayooresan_PSkGMNs06B8_unsplash_2.jpg">
 </div>
@@ -51,7 +51,7 @@ art made near the entrance of homes. Crafted using coloured powder, rice,
 sand, or flower petals, rangoli is believed to invite positive energy into
 the home while keeping negativity away. Each design is unique, representing
 joy, harmony, and prosperity.</p>
-<h4>The Significance of Rangoli</h4>
+<h4><strong>The Significance of Rangoli</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Lara Jameson on Pexels" src="/images/pexels_lara_jameson_8887275.jpg">
 </div>
@@ -89,7 +89,7 @@ Today, rangoli continues to evolve, from traditional designs to modern
 interpretations, but its essence remains the same: a heartfelt expression
 of joy, creativity, and devotion.</p>
 <p>👉 Learn more about the <a href="https://www.roots.gov.sg/ich-landing/ich/rangoli" rel="noopener noreferrer nofollow" target="_blank">origins and meaning of rangoli</a>.</p>
-<h4>Make Your Own Glow-in-the-Dark Rangoli 🌟</h4>
+<h4><strong>Make Your Own Glow-in-the-Dark Rangoli 🌟</strong></h4>
 <p>Even if you don’t celebrate Deepavali, you can still join in the festive
 fun by making your own DIY rangoli at home — with a modern twist. Instead
 of oil lamps, your rangoli will light up with glow-in-the-dark paint!</p>
@@ -98,10 +98,28 @@ take in light energy and slowly release it afterwards. After your design
 “charges up” under a light source, it will shine beautifully when the lights
 go off.</p>
 <p>To start making your own glow-in-the-dark rangoli, refer to the activity
-sheet below! Click on the link to download a printable guide.</p>
+sheet below!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Void Deck DIY Glow in the Dark Rangoli Activity Guide Page 1" src="/images/Void_Deck_Deepavali_R1_P1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Void Deck DIY Glow in the Dark Rangoli Activity Guide Page 2" src="/images/Void_Deck_Deepavali_R1_P3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Void Deck DIY Glow in the Dark Rangoli Activity Guide Page 3" src="/images/Void_Deck_Deepavali_R1_P3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Void Deck DIY Glow in the Dark Rangoli Activity Guide Page 4" src="/images/Void_Deck_Deepavali_R1_P4.jpg">
+</div>
+<p>Click on the link below to download a printable guide.</p>
 <p><a href="/files/void_deck_deepavali_glowinthedark_rangoli_activity_sheet_.pdf" rel="noopener nofollow" target="_blank">Void Deck DIY Glow in the Dark Rangoli Activity Guide</a>
 </p>
-<p></p>
 <p><strong><em>Written by Eng Gia Du (Lauren), Nur Ellysha Binte Mohamed Nizam, and Sophia La</em></strong>
 </p>
 <p><strong><em>Edited by Sofia Mohamed Khanafie</em></strong>
