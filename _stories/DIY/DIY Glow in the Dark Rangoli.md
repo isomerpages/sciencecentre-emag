@@ -9,10 +9,8 @@ image: /images/DSC06840__1_.jpg
 ---
 <h4>Shimmering lights! Vibrant patterns! ✨ Discover how families celebrate&nbsp;Deepavali&nbsp;with beautiful rangoli designs and glowing diyas. Then, create your very own&nbsp;glow-in-the-dark rangoli&nbsp;at home through a fun and simple activity below!<br></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Photo by Lara Jameson/Pexels" src="/images/pexels_lara_jameson_8887156.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="DIY Glow in the Dark Rangoli" src="/images/Adobe_Express___VD_KS_Deepavali_Isomer_Homepage.gif">
 </div>
-<p><em>Photo Credit: by Lara Jameson on <a href="https://www.pexels.com/photo/close-up-of-a-person-lighting-candles-8887156/" rel="noopener noreferrer nofollow" target="_blank">Pexels</a></em>
-</p>
 <h4><strong>The Festival of Lights</strong></h4>
 <p>Every year, streets and homes across the world come alive with a warm
 golden glow as people celebrate Deepavali — also known as the Festival
@@ -27,18 +25,23 @@ diyas. The gentle flicker of each flame represents hope, warmth, and new
 beginnings. Beyond its religious roots, Deepavali is also a time for reflection,
 renewal, and gratitude — a celebration of light that shines brightest in
 times of darkness.</p>
-<h4><strong>Deepavali in Singapore</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Jeyakumaran Mayooresan on Unsplash" src="/images/jeyakumaran_mayooresan_PSkGMNs06B8_unsplash_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Photo by Lara Jameson/Pexels" src="/images/pexels_lara_jameson_8887156.jpg">
 </div>
-<p><em>Photo Credit: Jeyakumaran Mayooresan on <a href="https://unsplash.com/photos/a-busy-city-street-filled-with-lots-of-traffic-PSkGMNs06B8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>&nbsp;</em>
+<p><em>Photo Credit: by Lara Jameson on <a href="https://www.pexels.com/photo/close-up-of-a-person-lighting-candles-8887156/" rel="noopener noreferrer nofollow" target="_blank">Pexels</a></em>
 </p>
+<h4><strong>Deepavali in Singapore</strong></h4>
 <p>In Singapore, Deepavali is celebrated with much enthusiasm and colour,
 especially in areas like Little India, which comes alive with bright street
 decorations, festive bazaars, and traditional music. Families mark the
 occasion by visiting relatives and friends, offering prayers, exchanging
 gifts, feasting on delicious Indian sweets, and wearing new clothes to
 symbolise a fresh start.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Jeyakumaran Mayooresan on Unsplash" src="/images/jeyakumaran_mayooresan_PSkGMNs06B8_unsplash_2.jpg">
+</div>
+<p><em>Photo Credit: Jeyakumaran Mayooresan on <a href="https://unsplash.com/photos/a-busy-city-street-filled-with-lots-of-traffic-PSkGMNs06B8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>&nbsp;</em>
+</p>
 <p>Homes are cleaned and decorated in preparation for the festival, and rows
 of diyas are placed at doorways and windows to invite the goddess Lakshmi,
 who represents wealth and prosperity. The warm glow of these lights is
