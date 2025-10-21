@@ -107,9 +107,8 @@ sheet below!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Void Deck DIY Glow in the Dark Rangoli Activity Guide Page 2" src="/images/Void_Deck_Deepavali_R1_P3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="VD Deepavali Glow in the Dark Rangoli Page 2" src="/images/Void_Deck_Deepavali_R1_P2.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Void Deck DIY Glow in the Dark Rangoli Activity Guide Page 3" src="/images/Void_Deck_Deepavali_R1_P3.jpg">
@@ -122,7 +121,7 @@ sheet below!</p>
 <p>Click on the link below to download a printable guide.</p>
 <p><a href="/files/void_deck_deepavali_glowinthedark_rangoli_activity_sheet_.pdf" rel="noopener nofollow" target="_blank">Void Deck DIY Glow in the Dark Rangoli Activity Guide</a>
 </p>
-<p><strong><em>Written by Eng Gia Du (Lauren), Nur Ellysha Binte Mohamed Nizam, and Sophia La</em></strong>
+<p><strong><em>Written by Eng Gia Du (Lauren), Nur Ellysha Binte Mohamed Nizam, and Sophia Lai</em></strong>
 </p>
 <p><strong><em>Edited by Sofia Mohamed Khanafie</em></strong>
 <br>
