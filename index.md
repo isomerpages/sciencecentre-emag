@@ -23,6 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: "Science Café: Quantum Computing (Oct 2025)"
+      subtitle: tech, quantum science, physics
+      id: infopic
+      description: Attendees sipped wine whilst learning about the mind-bending
+        quantum physics that could enable unmatched computing power.
+      button: Read More
+      url: /sci-cafe-quantum-computing/
+      image: /images/QuantumComputingHeaderImage.png
+      alt: Binary code around a wormhole
+  - infopic:
       title: DIY Glow-in-the-Dark Rangoli
       subtitle: diy, holiday, chemistry
       id: infopic
