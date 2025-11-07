@@ -39,8 +39,14 @@ participants interacted with various exhibits demystifying quantum mechanics,
 from an atomic clock model to laser beam manipulations replicating Thomas
 Young's 1801 <a href="https://interestingengineering.com/science/what-is-the-double-slit-experiment-and-why-is-it-so-important" rel="noopener nofollow" target="_blank">double-slit experiment</a>—one
 of the fundamental demonstrations proving that light and matter can exhibit
-both wave-like and particle-like behaviours.</p>
-<p></p>
+both wave-like and particle-like behaviours.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A model of an atomic clock at the Quanta School exhibition in Science Centre Singapore." src="/images/atomicclockhorizontal.jpg">
+</div>
+<p><em>A model of an atomic clock at the Quanta School exhibition in Science Centre Singapore. Photo credits: Jamie Uy</em>
+</p>
 <h4><strong>Bubble Computers and Natural Solutions</strong></h4>
 <p>To kick off the night, Dr Alexander Hue presented participants with an
 intriguing brainteaser. He challenged them to imagine being architects
