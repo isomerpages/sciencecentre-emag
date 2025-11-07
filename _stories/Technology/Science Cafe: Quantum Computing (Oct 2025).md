@@ -26,6 +26,11 @@ Centre for Quantum Technologies).</p>
 <p>This October 2025 edition of Science Centre Singapore's <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe" rel="noopener nofollow" target="_blank">Science Café</a> series—a
 monthly dinner-and-seminar event for adults aged eighteen and above—also
 marked the <a href="https://www.unesco.org/en/years/quantum-science-technology" rel="noopener nofollow" target="_blank">International Year of Quantum Science and Technology</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Attendees enjoying a buffet dinner at Science Cafe: Quantum Computing at Science Centre Singapore." src="/images/DSC00028.jpg">
+</div>
+<p><em>Attendees enjoying a buffet dinner at Science Caf</em>é<em>: Quantum Computing held at Science Centre Singapore. Photo credits:</em><strong><em> </em></strong><em>Lydia König</em>
+</p>
 <h4><strong>Exploring the Quantum World</strong></h4>
 <p>As part of the evening, attendees explored the Quanta School exhibition
 after hours. Designed as a topsy-turvy classroom where things behave strangely,
@@ -72,7 +77,7 @@ quantum systems.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Pooja Jayachandran at Science Cafe: Quantum Computing (Oct 2025)" src="/images/DSC00076.jpg">
 </div>
-<p><em>Dr Pooja Jayachandran presenting at Science Café: Quantum Computing on 10 October 2025.</em>
+<p><em>Dr Pooja Jayachandran presenting at Science Café: Quantum Computing on 10 October 2025. Photo credits: Lydia König</em>
 </p>
 <h4><strong>The "Spooky" Physics Behind Quantum Computing</strong></h4>
 <p>But how do quantum computers achieve such remarkable performance? Dr Jayachandran
@@ -134,7 +139,7 @@ cryptography.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Alexander Hue presenting at Science Café: Quantum Computing on 10 October 2025." src="/images/DSC00087.jpg">
 </div>
-<p><em>Dr Alexander Hue presenting at Science Café: Quantum Computing on 10 October 2025.</em>
+<p><em>Dr Alexander Hue presenting at Science Café: Quantum Computing on 10 October 2025. Photo credits: Lydia König</em>
 </p>
 <h4><strong>Looking Towards Tomorrow</strong></h4>
 <p>Dr Hue acknowledged that current quantum computers are large and impractical
@@ -165,7 +170,7 @@ and learn about groundbreaking technologies and the people who make ocean
 exploration possible on the high seas and in the deep ocean. Tickets are
 S$20.00 and open to all participants aged eighteen and above. Click <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe/ocean-caf%C3%A9" rel="noopener nofollow" target="_blank">here</a> for
 full event details and registration.</p>
-<p><em>Written by Jamie Uy<br>Photos by Lydia König</em>
+<p><em>Written by Jamie Uy</em>
 </p>
 <hr>
 <p><em>Published 7 November 2025</em>
