@@ -54,6 +54,18 @@ optimal way to connect them with minimal road length. This hands-on "bubble
 computer" activity illustrated <a href="https://uwaterloo.ca/institute-for-quantum-computing/outreach/quantum-101/qist/quantum-simulation" rel="noopener nofollow" target="_blank">quantum simulation</a>—the
 approach of building quantum systems that use physics to solve real-world
 problems without requiring complicated computations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Attendees at Science Cafe: Quantum Computing attempting the bubble computer icebreaker." src="/images/DSC00047.jpg">
+</div>
+<p><em>Attendees at Science Cafe: Quantum Computing attempting the bubble computer icebreaker. Photo credits: Lydia König</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Attendees dipping city models into tubs of soap water as part of the &quot;bubble computer&quot; activity." src="/images/IMG_6145.jpg">
+</div>
+<p><em>Attendees dipping city models into tubs of soap water as part of the "bubble computer" activity. Photo credits: Jamie Uy</em>
+</p>
 <h4><strong>From Bits to Qubits</strong></h4>
 <p>Building on this foundation, Dr Pooja Jayachandran's talk, "Quantum Computing:
 From Bits to Qubits, and Everything in Between!" explored the advantages
