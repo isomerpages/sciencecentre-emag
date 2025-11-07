@@ -21,7 +21,7 @@ Centre for Quantum Technologies).</p>
 <p>This October 2025 edition of Science Centre Singapore's <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe" rel="noopener nofollow" target="_blank">Science Café</a> series—a
 monthly dinner-and-seminar event for adults aged eighteen and above—also
 marked the <a href="https://www.unesco.org/en/years/quantum-science-technology" rel="noopener nofollow" target="_blank">International Year of Quantum Science and Technology</a>.</p>
-<p><strong>Exploring the Quantum World </strong>
+<p><strong>Exploring the Quantum World</strong>
 </p>
 <p>As part of the evening, attendees explored the Quanta School exhibition
 after hours. Designed as a topsy-turvy classroom where things behave strangely,
