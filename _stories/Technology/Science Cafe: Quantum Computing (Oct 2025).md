@@ -10,6 +10,11 @@ third_nav_title: Technology
 ---
 <h4>At Science Centre Singapore's October 2025 Science Café event, attendees sipped wine whilst learning about "spooky" quantum physics through bubble computers, spinning coin analogies, and possibilities of exponential computing speed-ups.</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="An abstract graphic of binary code disappearing into a wormhole, representing quantum computing." src="/images/QuantumComputingHeaderImage.png">
+</div>
+<p><em>Graphic created in Canva by Jamie Uy.</em>
+</p>
 <p>Today's computers encode data in binary digits—bits that are either 0s
 or 1s—but the computers of the future could potentially use quantum bits,
 or qubits, that can exist in a state of 0, 1, or both simultaneously. This
@@ -65,12 +70,6 @@ problems without requiring complicated computations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Attendees at Science Cafe: Quantum Computing attempting the bubble computer icebreaker." src="/images/DSC00047.jpg">
 </div>
 <p><em>Attendees at Science Cafe: Quantum Computing attempting the bubble computer icebreaker. Photo credits: Lydia König</em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Attendees dipping city models into tubs of soap water as part of the &quot;bubble computer&quot; activity." src="/images/IMG_6145.jpg">
-</div>
-<p><em>Attendees dipping city models into tubs of soap water as part of the "bubble computer" activity. Photo credits: Jamie Uy</em>
 </p>
 <h4><strong>From Bits to Qubits</strong></h4>
 <p>Building on this foundation, Dr Pooja Jayachandran's talk, "Quantum Computing:
