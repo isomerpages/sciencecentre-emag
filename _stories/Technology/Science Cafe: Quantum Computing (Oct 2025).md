@@ -26,6 +26,7 @@ Centre for Quantum Technologies).</p>
 <p>This October 2025 edition of Science Centre Singapore's <a href="https://www.science.edu.sg/whats-on/workshops-activities/science-cafe" rel="noopener nofollow" target="_blank">Science Café</a> series—a
 monthly dinner-and-seminar event for adults aged eighteen and above—also
 marked the <a href="https://www.unesco.org/en/years/quantum-science-technology" rel="noopener nofollow" target="_blank">International Year of Quantum Science and Technology</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Attendees enjoying a buffet dinner at Science Cafe: Quantum Computing at Science Centre Singapore." src="/images/DSC00028.jpg">
 </div>
@@ -74,6 +75,7 @@ queries to just 1,000—demonstrates quantum computing's ability to achieve
 under development, Dr Jayachandran emphasised that this example represents
 the extraordinary computational power we could theoretically harness through
 quantum systems.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Pooja Jayachandran at Science Cafe: Quantum Computing (Oct 2025)" src="/images/DSC00076.jpg">
 </div>
@@ -136,6 +138,7 @@ biomolecules, or even increase the rate of chemical processes." Beyond
 these scientific applications, quantum computers could optimise financial
 portfolios, minimise delivery route times, and factor large numbers for
 cryptography.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Alexander Hue presenting at Science Café: Quantum Computing on 10 October 2025." src="/images/DSC00087.jpg">
 </div>
