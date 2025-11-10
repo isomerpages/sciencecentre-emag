@@ -8,12 +8,12 @@ description: At Science Centre Singapore's October 2025 Science Café event,
 third_nav_title: Technology
 image: /images/QuantumComputingHeaderImage.png
 ---
-<h4>At Science Centre Singapore's October 2025 Science Café event, attendees sipped wine whilst learning about the mind-bending quantum mechanics behind the computers of the future.</h4>
+<h4>At Science Centre Singapore's October 2025 Science Café event, attendees enjoyed dinner and drinks while learning about the mind-bending quantum mechanics behind the computers of the future.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="An abstract graphic of binary code disappearing into a wormhole, representing quantum computing." src="/images/QuantumComputingHeaderImage.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Jayachandran and Dr Hue at Quanta School exhibition" src="/images/Sci_Cafe_Quantum_Computing.png">
 </div>
-<p><em>Graphic created in Canva by Jamie Uy.</em>
+<p><em>Collage of Dr Pooja Jayachandran and Dr Alexander Hue with the background of the Quanta School exhibition in Science Centre Singapore. Speaker photo credits:</em><strong><em> </em></strong><em>Lydia König. Graphic created in Canva by Jamie Uy. </em>
 </p>
 <p>Today's computers encode data in binary digits—bits that are either 0s
 or 1s—but the computers of the future could potentially use quantum bits,
