@@ -26,11 +26,12 @@ sections:
       title: "Science Café: Quantum Computing (Oct 2025)"
       subtitle: tech, quantum science, physics
       id: infopic
-      description: Attendees sipped wine whilst learning about the mind-bending
-        quantum mechanics that could enable unmatched computing power.
+      description: Attendees enjoyed dinner and drinks while learning about the
+        mind-bending quantum mechanics that could enable unmatched computing
+        power.
       button: Read More
       url: /sci-cafe-oct-2025/
-      image: /images/QuantumComputingHeaderImage.png
+      image: /images/Sci_Cafe_Quantum_Computing.png
       alt: Binary code around a wormhole
   - textcards:
       title: Highlights
