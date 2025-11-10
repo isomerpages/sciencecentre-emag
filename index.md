@@ -23,15 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: DIY Glow-in-the-Dark Rangoli
-      subtitle: diy, holiday, chemistry
+      title: "Science Café: Quantum Computing (Oct 2025)"
+      subtitle: tech, quantum science, physics
       id: infopic
-      description: Celebrate Deepavali and learn about chemistry by creating a
-        glow-in-the-dark rangoli. Downloadable activity guide included!
+      description: Attendees sipped wine whilst learning about the mind-bending
+        quantum mechanics that could enable unmatched computing power.
       button: Read More
-      url: /diy-glow-in-the-dark-rangoli
-      image: /images/Adobe_Express___VD_KS_Deepavali_Isomer_Homepage.gif
-      alt: Glow-in-the-dark rangoli
+      url: /sci-cafe-oct-2025/
+      image: /images/QuantumComputingHeaderImage.png
+      alt: Binary code around a wormhole
   - textcards:
       title: Highlights
       subtitle: Content
@@ -50,6 +50,16 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: DIY Glow-in-the-Dark Rangoli
+      subtitle: diy, holiday, chemistry
+      id: infopic
+      description: Celebrate Deepavali and learn about chemistry by creating a
+        glow-in-the-dark rangoli. Downloadable activity guide included!
+      button: Read More
+      url: /diy-glow-in-the-dark-rangoli
+      image: /images/Adobe_Express___VD_KS_Deepavali_Isomer_Homepage.gif
+      alt: Glow-in-the-dark rangoli
   - infopic:
       title: "Science Café: Music & String Theory (Aug 2025)"
       subtitle: music, physics, art
