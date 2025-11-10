@@ -32,7 +32,7 @@ sections:
       button: Read More
       url: /sci-cafe-oct-2025/
       image: /images/Sci_Cafe_Quantum_Computing.png
-      alt: Binary code around a wormhole
+      alt: Dr Jayachandran and Dr Hue
   - textcards:
       title: Highlights
       subtitle: Content
