@@ -182,10 +182,11 @@ behind quantum algorithms.</p>
 <h4><strong>Join Us at Science Café!</strong></h4>
 <p>Science Centre Singapore's sip-and-discover series, Science Café, explores
 interdisciplinary topics from quantum entanglement to healthy ageing and
-marine biodiversity. Join us on Tuesday, 18 November 2025, from 7:00–8:30pm
-at Hall B, OceanX Portal, Science Centre Singapore for a special dinner
-event in collaboration with OceanX, an ocean exploration organisation that
-aims to unlock the ocean's sustainable potential through science and education.</p>
+marine biodiversity. Join us on <strong>Tuesday 18 November 2025</strong> from
+7:00–8:30pm at Hall B, OceanX Portal, Science Centre Singapore for a special
+dinner event in collaboration with OceanX, an ocean exploration organisation
+that aims to unlock the ocean's sustainable potential through science and
+education.</p>
 <p>Hear from the crew aboard the research vessel OceanXplorer via livestream
 and learn about groundbreaking technologies and the people who make ocean
 exploration possible on the high seas and in the deep ocean. Tickets are
