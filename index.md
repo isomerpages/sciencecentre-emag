@@ -27,7 +27,7 @@ sections:
       subtitle: tech, quantum science, physics
       id: infopic
       description: Attendees sipped wine whilst learning about the mind-bending
-        quantum physics that could enable unmatched computing power.
+        quantum mechanics that could enable unmatched computing power.
       button: Read More
       url: /sci-cafe-oct-2025/
       image: /images/QuantumComputingHeaderImage.png
