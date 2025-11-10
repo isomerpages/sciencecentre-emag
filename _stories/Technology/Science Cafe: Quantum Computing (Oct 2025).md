@@ -9,7 +9,7 @@ description: "At Science Centre Singapore's Science Café: Quantum Computing
 third_nav_title: Technology
 image: /images/QuantumComputingHeaderImage.png
 ---
-<h4>At Science Centre Singapore's October 2025 Science Café event, attendees sipped wine whilst learning about "spooky" quantum physics through bubble computers, spinning coin analogies, and possibilities of exponential computing speed-ups.</h4>
+<h4>At Science Centre Singapore's October 2025 Science Café event, attendees sipped wine whilst learning about the mind-bending quantum mechanics behind the computers of the future.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="An abstract graphic of binary code disappearing into a wormhole, representing quantum computing." src="/images/QuantumComputingHeaderImage.png">
@@ -194,5 +194,5 @@ full event details and registration.</p>
 <p><em>Written by Jamie Uy</em>
 </p>
 <hr>
-<p><em>Published 7 November 2025</em>
+<p><em>Published 10 November 2025</em>
 </p>
