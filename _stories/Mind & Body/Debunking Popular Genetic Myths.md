@@ -7,7 +7,7 @@ description: Can you separate genetic fact from fiction? Certified genetic
 third_nav_title: Mind & Body
 image: /images/Void_Deck__Debunking_Popular_Genetic_Myths___Illustration__02.jpg
 ---
-<h4>Can you separate genetic fact from fiction? Certified genetic counsellor Mallika Venkatramani busts five common genetic misconceptions.</h4>
+<h4>Can you separate genetic fact from fiction? Certified genetic counsellor Mallika Venkatramani busts five common genetic misconceptions.<br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Void_Deck__Debunking_Popular_Genetic_Myths___Illustration__02.jpg">
 </div>
