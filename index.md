@@ -23,16 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Science Café: Quantum Computing (Oct 2025)"
-      subtitle: tech, quantum science, physics
+      title: Debunking Popular Genetic Myths
+      subtitle: DNA, GENETICS, HEALTH
       id: infopic
-      description: Attendees enjoyed dinner and drinks while learning about the
-        mind-bending quantum mechanics that could enable unmatched computing
-        power.
+      description: Can you separate genetic fact from fiction? Certified genetic
+        counsellor Mallika Venkatramani busts 5 common genetic misconceptions.
       button: Read More
-      url: /sci-cafe-oct-2025/
-      image: /images/Sci_Cafe_Quantum_Computing.png
-      alt: Dr Jayachandran and Dr Hue
+      url: /debunking-popular-genetic-myths
+      image: /images/Void_Deck__Debunking_Popular_Genetic_Myths___Illustration__02.jpg
+      alt: DNA pinned on evidence board
   - textcards:
       title: Highlights
       subtitle: Content
@@ -51,6 +50,17 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: "Science Café: Quantum Computing (Oct 2025)"
+      subtitle: tech, quantum science, physics
+      id: infopic
+      description: Attendees enjoyed dinner and drinks while learning about the
+        mind-bending quantum mechanics that could enable unmatched computing
+        power.
+      button: Read More
+      url: /sci-cafe-oct-2025/
+      image: /images/Sci_Cafe_Quantum_Computing.png
+      alt: Dr Jayachandran and Dr Hue
   - infopic:
       title: DIY Glow-in-the-Dark Rangoli
       subtitle: diy, holiday, chemistry
