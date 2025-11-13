@@ -207,6 +207,6 @@ do our research and consult with experts before arriving at conclusions.</p>
 <p><em>Author biography: Mallika Venkatramani, MS, LCGC is a Singapore-bred licensed and certified genetic counsellor currently based at Grady Health System, Atlanta, USA. Mallika specialises in seeing patients at-risk for hereditary cancer syndromes. She formerly worked at the National Cancer Centre Singapore where she was involved in clinical and research work. In her free time, she enjoys cooking, travelling and hiking.</em>
 </p>
 <hr>
-<p><em>Published 17 November 2025</em>
+<p><em>Published 13 November 2025</em>
 </p>
 <p>&nbsp;</p>
