@@ -29,7 +29,7 @@ sections:
       description: Can you separate genetic fact from fiction? Certified genetic
         counsellor Mallika Venkatramani busts 5 common genetic misconceptions.
       button: Read More
-      url: /debunking-popular-genetic-myths
+      url: /debunking-popular-genetic-myths/
       image: /images/Void_Deck__Debunking_Popular_Genetic_Myths___Illustration__02.jpg
       alt: DNA pinned on evidence board
   - textcards:
