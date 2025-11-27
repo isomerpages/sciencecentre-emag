@@ -6,7 +6,10 @@ description: ""
 third_nav_title: DIY
 ---
 <h4>From giant eggs to giant lessons, dinosaurs left us more than cool fossils—they left big clues about why our planet needs love! Their extinction reminds us that even tiny actions such as recycling, saving energy, using less plastic can make a huge difference for the world we live in.</h4>
-<h4></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dino fizzy egg" src="/images/VD_Dino_Egg_Fizzy.gif">
+</div>
 <h4><strong>Dinosaurs lay eggs?</strong></h4>
 <p>Long, long ago, about 66 million years ago, dinosaurs laid eggs just like
 birds do today! Scientists have found many fossilized dinosaur eggs, some
@@ -24,7 +27,12 @@ lived for over 160 million years and survived many climate changes from
 super-hot periods to freezing ice ages. Just like putting together pieces
 of a giant puzzle, dinosaurs help scientists figure out how life on Earth
 became what it is today and show us that our planet is always changing.</p>
-<p>[PHOTO OF DINO SPECIMEN FROM DEU]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Model of Psittacosaurus" src="/images/2048px_Psittacosaurus_model.jpg">
+</div>
+<p><em>A <a href="https://www.sciencedirect.com/science/article/pii/S0960982216307060" rel="noopener nofollow" target="_blank">model</a> of the dinosaur Psittacosaurus based on fossil evidence. Photo credit: Robert Nicholls on <a href="https://commons.wikimedia.org/wiki/File:Psittacosaurus_model.jpg" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></em>
+</p>
 <p>But here's the important lesson: even though dinosaurs were the biggest
 and strongest creatures that ever lived, they couldn't survive when the
 climate changed too quickly after an asteroid hit 66 million years ago.
@@ -66,15 +74,22 @@ to survive.</p>
 makes a difference, and you have to decide what kind of difference you
 want to make." Even small daily changes can help ensure today's amazing
 creatures don't face the same fate as the dinosaurs!</p>
-<p>See How Dinosaurs Can Guide Our Future! Want to learn more about these
-ancient creatures? Visit the <strong>Dinosaurs | Extinctions | Us </strong>exhibition
+<h4><strong>See How Dinosaurs Can Guide Our Future! </strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A Tyrannosaurus rex" src="/images/DEU_TRex.jpg">
+</div>
+<p><em>A Tyrannosaurus rex on display at the <a href="https://www.science.edu.sg/whats-on/dinosaurs-extinctions-us" rel="noopener nofollow" target="_blank">Dinosaurs | Extinctions | Us</a> exhibition at Science Centre Singapore that opened 11 October 2025. Photo credit: Jamie Uy</em>
+</p>
+<p>Want to learn more about these ancient creatures? Visit the <a href="https://www.science.edu.sg/whats-on/dinosaurs-extinctions-us" rel="noopener nofollow" target="_blank">Dinosaurs | Extinctions | Us</a> exhibition
 at Science Centre Singapore to explore interactive displays, see real fossils,
-and discover the vital lessons dinosaurs have for our future. <a href="https://tickets.science.edu.sg/pre-attraction/dinosaurs-extinctions-us-science-centre-singapore-69855?_gl=1*tcyrhc*_gcl_aw*R0NMLjE3NjI0MTAzNTIuQ2owS0NRaUE1YWJJQmhDYUFSSXNBTTMtekZWY05LYzFhVlJ3ZVlGOUtKeGFrNzc2WlNOcEVSNGJMMXhsb3pwTF9KMGdYZU14WkdSMGlFOGFBbFNDRUFMd193Y0I.*_gcl_au*ODU1MzU1MTcyLjE3NTUwNTQzOTMuNTAxODM5MjAuMTc2MDU5ODAzOS4xNzYwNTk4MDQx" rel="noopener noreferrer nofollow" target="_blank">Book your visit today</a>!</p>
+and discover the vital lessons dinosaurs have for our future. Book your
+visit today!</p>
 <p>Calling all young scientists and dinosaur lovers! Did you know that chemistry
 can help reveal a hidden dinosaur friend? Get your lab coats ready because
-we are about to crack open an amazing experiment where science meets prehistory.
-Watch in wonder as chemical reactions help your dinosaur friend hatch from
-its cozy egg!</p>
+we are about to crack open an amazing experiment where science meets prehistoric
+fun. Watch in wonder as chemical reactions help your dinosaur friend hatch
+from its cozy egg!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Void Deck DIY Dino Fizzy Egg Activity Guide" src="/images/KS_Void_Deck_Blog___Dino_Fizzy_Egg__Activity_Sheet__1__1_.png">
