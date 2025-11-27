@@ -74,7 +74,7 @@ to survive.</p>
 makes a difference, and you have to decide what kind of difference you
 want to make." Even small daily changes can help ensure today's amazing
 creatures don't face the same fate as the dinosaurs!</p>
-<h4><strong>See How Dinosaurs Can Guide Our Future! </strong></h4>
+<h4><strong>See How Dinosaurs Can Guide Our Future!</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A Tyrannosaurus rex" src="/images/DEU_TRex.jpg">
