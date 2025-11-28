@@ -23,15 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: Debunking Popular Genetic Myths
-      subtitle: DNA, GENETICS, HEALTH
+      title: The Great Dinosaur Egg-speriment!
+      subtitle: dinosaurs, diy, chemistry
       id: infopic
-      description: Can you separate genetic fact from fiction? Certified genetic
-        counsellor Mallika Venkatramani busts 5 common genetic misconceptions.
+      description: From giant eggs to giant lessons, dinosaurs left us more than cool
+        fossils—they left big clues about why our planet needs love.
       button: Read More
-      url: /debunking-popular-genetic-myths/
-      image: /images/Void_Deck__Debunking_Popular_Genetic_Myths___Illustration__02.jpg
-      alt: DNA pinned on evidence board
+      url: /dino-fizzy-egg
+      image: /images/VD_Dino_Egg_Fizzy.gif
+      alt: Dino fizzy egg
   - textcards:
       title: Highlights
       subtitle: Content
@@ -50,6 +50,16 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: Debunking Popular Genetic Myths
+      subtitle: DNA, GENETICS, HEALTH
+      id: infopic
+      description: Can you separate genetic fact from fiction? Certified genetic
+        counsellor Mallika Venkatramani busts 5 common genetic misconceptions.
+      button: Read More
+      url: /debunking-popular-genetic-myths/
+      image: /images/Void_Deck__Debunking_Popular_Genetic_Myths___Illustration__02.jpg
+      alt: DNA pinned on evidence board
   - infopic:
       title: "Science Café: Quantum Computing (Oct 2025)"
       subtitle: tech, quantum science, physics
@@ -421,16 +431,6 @@ sections:
       url: /bubble-tea
       image: /images/Void_Deck_blog_Bubble_Tea__Infopic_.jpg
       alt: Rainbow spilling from boba tea
-  - infopic:
-      title: "Sweet Science: Uncovering the Magic of Kaya Jam!"
-      subtitle: food, diy, chemistry
-      id: infopic
-      description: Learn about the Hainanese origins and eggy alchemy behind this
-        beloved Singapore breakfast dish. Includes a printable recipe sheet!
-      button: Read More
-      url: /kaya-jam
-      image: /images/VD_Homepage_Infopics__1_.png
-      alt: Photo by Marcus Loke/Unsplash
   - infopic:
       title: Tis the Season to Reduce, Reuse, and Recycle!
       subtitle: DIY, CRAFT, SUSTAINABILITY
