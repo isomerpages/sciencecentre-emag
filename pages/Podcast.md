@@ -55,5 +55,5 @@ Al Nahyan Professor of Medicine at the National University of Singapore.</div>
 </a><a rel="noopener noreferrer nofollow" href="/trailer" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Key visual" src="/images/VD_Podcast_Trailer_Thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trailer: Exploring the Universe from the Heartlands</div><div class="isomer-card-description">Launching Science Centre Singapore's first-ever podcast, taking you from Jurong to Jupiter and beyond.</div><div class="isomer-card-link">Listen here</div></div></a>
 </div>
 <hr>
-<p><em>Last updated: 29 August 2025</em>
+<p><em>Last updated: 4 December  2025</em>
 </p>
