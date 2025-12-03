@@ -10,7 +10,6 @@ image: /images/2_FoodTech.png
 third_nav_title: Season 2
 ---
 <h4><strong>Episode 2: Could Durian Be the Secret to a Sustainable Future? with Prof. William Chen</strong></h4>
-<p></p>
 <p>Durian is a beloved staple in Singapore, with over <a href="https://www.asiaone.com/singapore/singapore-scientists-turn-discarded-durian-husks-antibacterial-bandages" rel="noopener noreferrer nofollow" target="_blank">12 million consumed annually</a>.
 But what happens to the durian seeds and husks after it is consumed? As
 the nation strives for sustainability and a circular economy, how can we
@@ -18,15 +17,16 @@ better manage the food waste we generate? Using the King of Fruits as an
 example, food technologist Prof. William Chen shows us how we can transform
 trash into treasure, from durian-derived antibacterial bandages, biodegradable
 food wraps, and natural food stabilisers.</p>
-<p>[Embed YouTube video here]</p>
-<p><strong>Listen to the Full Episode</strong>
-</p>
-<p>Available on: <a href="https://bit.ly/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-<a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, and <a href="https://bit.ly/voiddeckamazonmusic" rel="noopener noreferrer nofollow" target="_blank">Amazon Music</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof. William Chen" src="/images/2_FoodTech.png">
+</div>
+<h4><strong>Listen to the Full Episode</strong></h4>
+<p>Available on: <a href="https://for.edu.sg/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+<a href="https://for.edu.sg/voiddeckapplepodcasts" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, and <a href="https://for.edu.sg/voiddeckamazonmusic" rel="noopener noreferrer nofollow" target="_blank">Amazon Music</a>.</p>
 <p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
-<p><strong>Episode Highlights</strong>
-</p>
+<h4><strong>Episode Highlights</strong></h4>
 <ul>
 <li>
 <p>How scientists are transforming discarded durian husks into unexpected
@@ -48,15 +48,13 @@ in biomedical science, AI, and engineering is helping pioneer urban food
 solutions that could benefit cities worldwide</p>
 </li>
 </ul>
-<p><strong>Timestamps</strong>
-</p>
+<h4><strong>Timestamps</strong></h4>
 <p>00:00 Intro
 <br>00:46 Upcycling Discarded Durians
 <br>06:28 Using Fermentation to Reduce Food Waste
-<br>11:08 Singapore's Potential for Food Science &amp; Technology
+<br>11:12 Singapore's Potential for Food Science &amp; Technology
 <br>13:46 Outro</p>
-<p><strong>Guest Biography</strong>
-</p>
+<h4><strong>Guest Biography</strong></h4>
 <p>William Chen received his undergraduate and graduate education from l’Université
 Catholique de Louvain in Belgium. He is the Michael Fam Endowed Professor
 and Director of Food Science &amp; Technology Programme at Nanyang Technological
@@ -74,8 +72,7 @@ safety and food security have been regularly featured in major local and
 international media outlets. He is also advisor/consultant to overseas
 universities, Singapore government agencies, food industry, and international
 organizations (ADB, FAO, WEF, WHO among others).</p>
-<p><strong>Transcript</strong>
-</p>
+<h4><strong>Transcript</strong></h4>
 <p><em>This transcript has been lightly edited for clarity and readability.</em>
 </p>
 <p><strong>JANICE:</strong> This is Void Deck, a podcast from Science Centre
@@ -120,6 +117,9 @@ as the fruit that will be upcycled, you know, because of the way it looks,
 it's very big, it’s very bulky, it's very spiky, and of course it has that
 infamous strong smell.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Durian husk" src="/images/jim_teo_fHsX0eS5X9Y_unsplash.jpg">
+</div>
 <p><em>Close-up of opened durian fruit. Source: <a href="https://unsplash.com/@jimteo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank"><u>Jim Teo</u></a>/<a href="https://unsplash.com/photos/shallow-focus-photo-of-sliced-fruit-fHsX0eS5X9Y?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank"><u>Unsplash</u></a>&nbsp;</em>
 </p>
 <p>So what made you realise its potential for food science innovations?</p>
@@ -276,7 +276,7 @@ and listen to past episodes at <a href="voiddeck.science.edu.sg" rel="noopener n
 time!</p>
 <h4><strong>Resources</strong></h4>
 <p>Prof. William Chen's Website
-<br><a href="https://www3.ntu.edu.sg/home/WNChen/William_Home.htm" rel="noopener noreferrer nofollow" target="_blank">https://www3.ntu.edu.sg/home/WNChen/William_Home.htm</a> 
+<br><a href="https://www3.ntu.edu.sg/home/WNChen/William_Home.htm" rel="noopener noreferrer nofollow" target="_blank">https://www3.ntu.edu.sg/home/WNChen/William_Home.htm</a>
 </p>
 <p>Food Science and Technology Programme at Nanyang Technological University
 (NTU)
@@ -299,29 +299,29 @@ Food Systems,
 <br><a href="https://doi.org/10.3389/fsufs.2018.00053" rel="noopener noreferrer nofollow" target="_blank"><u>https://doi.org/10.3389/fsufs.2018.00053.</u></a>
 </p>
 <p>Scientists at NTU turn durian seeds into food stabiliser and probiotics
-<br><a href="https://www.straitstimes.com/singapore/scientists-at-ntu-turn-durian-seeds-into-food-stabiliser-with-probiotics" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/scientists-at-ntu-turn-durian-seeds-into-food-stabiliser-with-probiotics</a> 
+<br><a href="https://www.straitstimes.com/singapore/scientists-at-ntu-turn-durian-seeds-into-food-stabiliser-with-probiotics" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/scientists-at-ntu-turn-durian-seeds-into-food-stabiliser-with-probiotics</a>
 </p>
 <p>NTU team uses durian husks to make bandages for post-surgery
-<br><a href="https://www.straitstimes.com/singapore/ntu-team-uses-durian-husks-to-make-bandages-for-post-surgery" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/ntu-team-uses-durian-husks-to-make-bandages-for-post-surgery</a> 
+<br><a href="https://www.straitstimes.com/singapore/ntu-team-uses-durian-husks-to-make-bandages-for-post-surgery" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/ntu-team-uses-durian-husks-to-make-bandages-for-post-surgery</a>
 </p>
 <p>Teng TS, Chin YL, Chai KF, Chen W (2021). Fermentation for future food
 systems. EMBO Reports, 22(5):e52680
-<br><a href="https://doi.org/10.15252/embr.202152680" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.15252/embr.202152680</a> 
+<br><a href="https://doi.org/10.15252/embr.202152680" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.15252/embr.202152680</a>
 </p>
 <p>NTU scientists develop plant-based ingredient to replace eggs and dairy
 in mayonnaise
-<br><a href="https://www.straitstimes.com/singapore/ntu-scientists-develop-plant-based-ingredient-to-replace-eggs-and-dairy-in-mayonnaise" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/ntu-scientists-develop-plant-based-ingredient-to-replace-eggs-and-dairy-in-mayonnaise</a> 
+<br><a href="https://www.straitstimes.com/singapore/ntu-scientists-develop-plant-based-ingredient-to-replace-eggs-and-dairy-in-mayonnaise" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/ntu-scientists-develop-plant-based-ingredient-to-replace-eggs-and-dairy-in-mayonnaise</a>
 </p>
 <p>Sustainable antibacterial food wrap that changes colour when food goes
 bad
-<br><a href="https://www.ntu.edu.sg/news/detail/sustainable-antibacterial-food-wrap-that-changes-colour-when-food-goes-bad" rel="noopener noreferrer nofollow" target="_blank">https://www.ntu.edu.sg/news/detail/sustainable-antibacterial-food-wrap-that-changes-colour-when-food-goes-bad</a> 
+<br><a href="https://www.ntu.edu.sg/news/detail/sustainable-antibacterial-food-wrap-that-changes-colour-when-food-goes-bad" rel="noopener noreferrer nofollow" target="_blank">https://www.ntu.edu.sg/news/detail/sustainable-antibacterial-food-wrap-that-changes-colour-when-food-goes-bad</a>
 </p>
 <p>Want to learn more about sustainability? Check out the following exhibitions
 at Science Centre Singapore and get your tickets at <a href="https://www.science.edu.sg/buy-tickets" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.science.edu.sg/buy-tickets</u></a>
 <a href="https://www.asiaone.com/singapore/singapore-scientists-turn-discarded-durian-husks-antibacterial-bandages" rel="noopener noreferrer nofollow" target="_blank">:</a>
 </p>
 <p>Climate Changed Exhibition
-<br><a href="https://www.science.edu.sg/whats-on/exhibitions/climate-changed" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/climate-changed</a> 
+<br><a href="https://www.science.edu.sg/whats-on/exhibitions/climate-changed" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/climate-changed</a>
 </p>
 <h4><strong>Credits</strong></h4>
 <p>Special thanks to Prof. William Chen for coming on the show. This episode
