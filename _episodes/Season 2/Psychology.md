@@ -17,9 +17,8 @@ Does it make us more “kiasu” about our own lives? Can our brains get so
 overloaded with digital content to the point of “brain rot?” What can we
 do to develop healthier relationships with our devices? Behavioural scientist
 Dr. Jean Liu shares her insights.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr. Jean Liu" src="/images/3_Psych.png">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G4ZEv5dBAhE?si=AoRfqxX7ULDhQgZ6"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://for.edu.sg/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
