@@ -16,9 +16,8 @@ How can biomechanics provide a competitive edge? Sport biomechanist Dr.
 Marcus Lee shares fascinating and surprising stories of how devices from
 3D motion capture systems to simple cameras are applied to help Team Singapore
 athletes perform their best.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr. Marcus Lee" src="/images/1_Sport__1_.png">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WX4FZ-1FnCM?si=81ebhBzmbEFl43ls"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://for.edu.sg/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
