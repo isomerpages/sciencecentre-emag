@@ -2,6 +2,7 @@ collections:
   episodes:
     output: true
     order:
+      - Season 2/Ecology.md
       - Season 2/.keep
       - Season 2/Psychology.md
       - Season 2/Food Science & Technology.md
