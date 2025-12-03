@@ -21,19 +21,34 @@ in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VD_Podcast_Logo_SCS_Logo_Corrected_3000_min.png">
 </div>
-<h4><strong>Season 2 </strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/s2e1-sport-science" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="S2E1 Sport Science" src="/images/1_Sport__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What Technologies Are Used to Train Singapore’s Top Athletes? with Dr. Marcus Lee</div><div class="isomer-card-description">What technologies are used to train Singapore's top athletes? Sport biomechanist Dr. Marcus Lee takes us behind-the-scenes of elite athlete training to discover the surprising tech helping Team Singapore athletes perform their best—from 3D motion capture to eye trackers, magnetic gates, and more.
-</div><div class="isomer-card-link">Listen here</div></div></a><a rel="noopener noreferrer nofollow" href="/s2e2-foodtech" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="S2E2 Foodtech" src="/images/2_FoodTech.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Could Durian Be the Secret to a Sustainable Future? with Prof. William Chen</div><div class="isomer-card-description">With 700,000 tonnes of food waste generated annually in Singapore, upcycling solutions are crucial. Food technologist Prof. William Chen shares how his lab is transforming discarded durian husks and seeds into antibacterial bandages and other innovations for a sustainable, circular food economy. </div><div class="isomer-card-link">Listen here</div></div></a>
+<h4><strong>Season 2</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4_Ecology.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Are Our Heritage Trees Actually Non-Native? with Dr. Shawn Lum</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. Jean Liu" src="/images/3_Psych.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Is Your Phone Making You More Kiasu? with Dr. Jean Liu</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/s2e1-sport-science" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="S2E1 Sport Science" src="/images/1_Sport__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What Technologies Are Used to Train Singapore’s Top Athletes? with Dr. Marcus Lee</div><div class="isomer-card-description">What technologies are used to train Singapore's top athletes? Sport biomechanist Dr. Marcus Lee takes us behind-the-scenes of elite athlete training to discover the surprising tech helping Team Singapore athletes perform their best—from 3D motion capture to eye trackers, magnetic gates, and more.</div><div class="isomer-card-link">Listen here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/s2e2-foodtech" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S2E2 Foodtech" src="/images/2_FoodTech.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Could Durian Be the Secret to a Sustainable Future? with Prof. William
+Chen</div>
+<div class="isomer-card-description">With 700,000 tonnes of food waste generated annually in Singapore, upcycling
+solutions are crucial. Food technologist Prof. William Chen shares how
+his lab is transforming discarded durian husks and seeds into antibacterial
+bandages and other innovations for a sustainable, circular food economy.</div>
+<div class="isomer-card-link">Listen here</div>
 </div>
 </a>
 </div>
