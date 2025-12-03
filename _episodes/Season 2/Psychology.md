@@ -383,19 +383,19 @@ screentime in families
 Media
 <br><a href="http://go.gov.sg/positive-use-guide" rel="noopener noreferrer nofollow" target="_blank"><u>http://go.gov.sg/positive-use-guide</u></a>&nbsp;&nbsp;&nbsp;</p>
 <p>FOMO and Social Media | Psychology Today
-<br><a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202106/fomo-and-social-media?msockid=1a0bfdea72326f2a2594e83f73686e47" rel="noopener noreferrer nofollow" target="_blank">https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202106/fomo-and-social-media?msockid=1a0bfdea72326f2a2594e83f73686e47</a> 
+<br><a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202106/fomo-and-social-media?msockid=1a0bfdea72326f2a2594e83f73686e47" rel="noopener noreferrer nofollow" target="_blank">https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202106/fomo-and-social-media?msockid=1a0bfdea72326f2a2594e83f73686e47</a>
 </p>
 <p>Giulia Fioravanti, Silvia Casale, Sara Bocci Benucci, Alfonso Prostamo,
 Andrea Falone, Valdo Ricca, Francesco Rotella. (2021). Fear of missing
 out and social networking sites use and abuse: A meta-analysis. Computers
 in Human Behavior, 122, 106839.
-<br><a href="https://doi.org/10.1016/j.chb.2021.106839" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1016/j.chb.2021.106839</a> 
+<br><a href="https://doi.org/10.1016/j.chb.2021.106839" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1016/j.chb.2021.106839</a>
 </p>
 <p>Koepp MJ, Gunn RN, Lawrence AD, Cunningham VJ, Dagher A, Jones T, Brooks
 DJ, Bench CJ, Grasby PM. Evidence for striatal dopamine release during
 a video game. Nature. 1998 May 21;393(6682):266-8. doi: 10.1038/30498.
 PMID: 9607763.
-<br><a href="https://pubmed.ncbi.nlm.nih.gov/9607763/" rel="noopener noreferrer nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/9607763/</a> 
+<br><a href="https://pubmed.ncbi.nlm.nih.gov/9607763/" rel="noopener noreferrer nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/9607763/</a>
 </p>
 <p>FOMO Is Real: How the Fear of Missing Out Affects Your Health | Cleveland
 Clinic
@@ -415,7 +415,7 @@ The Health and Lifestyle Survey. <em>Asian Journal of Psychiatry</em>, <em>98</e
 </p>
 <p>MOH Guidance on Screen Use in Children (First Published March 2023, Updated
 January 2025)
-<br><a href="https://www.moh.gov.sg/others/resources-and-statistics/guidance-on-screen-use" rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/others/resources-and-statistics/guidance-on-screen-use</a> 
+<br><a href="https://www.moh.gov.sg/others/resources-and-statistics/guidance-on-screen-use" rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/others/resources-and-statistics/guidance-on-screen-use</a>
 </p>
 <p>How Google Changed the Whole Way We Think About Information | TIME
 <br><a href="https://time.com/5383389/google-history-search-information/" rel="noopener noreferrer nofollow" target="_blank">https://time.com/5383389/google-history-search-information/</a>
