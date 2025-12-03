@@ -1,6 +1,6 @@
 ---
 title: Food Science & Technology
-permalink: /s2e2-food-tech/
+permalink: /s2e2-foodtech/
 variant: tiptap
 description: Using the King of Fruits as an example, food technologist Prof.
   William Chen shows us how we can transform trash into treasure, from

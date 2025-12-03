@@ -1,6 +1,6 @@
 ---
 title: Ecology
-permalink: /ecology/
+permalink: /s2e4-ecology/
 variant: tiptap
 description: Explore Singapore's heritage trees with tropical forest ecologist
   Dr. Shawn Lum.
