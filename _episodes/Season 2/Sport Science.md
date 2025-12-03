@@ -313,10 +313,10 @@ And if you enjoyed the episode, please rate and subscribe to the podcast.
 See you soon, and stay curious!</p>
 <h4><strong>Resources</strong></h4>
 <p>Dr. Marcus Lee's Research&nbsp;
-<br><a href="https://www.researchgate.net/profile/Marcus-Lee-11" rel="noopener noreferrer nofollow" target="_blank">https://www.researchgate.net/profile/Marcus-Lee-11</a> 
+<br><a href="https://www.researchgate.net/profile/Marcus-Lee-11" rel="noopener noreferrer nofollow" target="_blank">https://www.researchgate.net/profile/Marcus-Lee-11</a>
 </p>
 <p>The High Performance Sport Institute's Biomechanics Unit
-<br><a href="https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-biomechanics/" rel="noopener noreferrer nofollow" target="_blank">https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-biomechanics/</a> 
+<br><a href="https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-biomechanics/" rel="noopener noreferrer nofollow" target="_blank">https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-biomechanics/</a>
 </p>
 <p>Sport Technology at the the High Performance Sport Institute, Sport Singapore|
 <br><a href="https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-technology" rel="noopener noreferrer nofollow" target="_blank">https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-technology</a> 
