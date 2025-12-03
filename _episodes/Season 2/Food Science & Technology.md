@@ -17,9 +17,8 @@ better manage the food waste we generate? Using the King of Fruits as an
 example, food technologist Prof. William Chen shows us how we can transform
 trash into treasure, from durian-derived antibacterial bandages, biodegradable
 food wraps, and natural food stabilisers.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof. William Chen" src="/images/2_FoodTech.png">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gkAD_0ZAr0o?si=EelzPh5eXbToWjAV"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://for.edu.sg/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
