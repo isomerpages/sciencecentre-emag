@@ -312,10 +312,44 @@ notes, and past episodes at <a href="https://voiddeck.science.edu.sg/podcast/" r
 And if you enjoyed the episode, please rate and subscribe to the podcast.
 See you soon, and stay curious!</p>
 <h4><strong>Resources</strong></h4>
-<p></p>
+<p>Dr. Marcus Lee's Research&nbsp;
+<br><a href="https://www.researchgate.net/profile/Marcus-Lee-11" rel="noopener noreferrer nofollow" target="_blank">https://www.researchgate.net/profile/Marcus-Lee-11</a> 
+</p>
+<p>The High Performance Sport Institute's Biomechanics Unit
+<br><a href="https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-biomechanics/" rel="noopener noreferrer nofollow" target="_blank">https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-biomechanics/</a> 
+</p>
+<p>Sport Technology at the the High Performance Sport Institute, Sport Singapore|
+<br><a href="https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-technology" rel="noopener noreferrer nofollow" target="_blank">https://www.sportsingapore.gov.sg/our-work/high-performance-sport-institute/sport-science/sport-technology</a> 
+<br>
+<br>Sport Science: "A Little Red Dot’s” Aspirations to Punch Above it’s Weight
+in High Performance Sport | Singapore Sports Institute Webinar 2021
+<br><a href="https://youtu.be/TaD_xDCuMW4?si=Hl2cweBQooAKQE5i" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/TaD_xDCuMW4?si=Hl2cweBQooAKQE5i</u></a> 
+<br>
+<br>How Singapore’s finest sprinter found her speed
+<br><a href="https://www.straitstimes.com/multimedia/graphics/2023/09/shanti-pereira-sprint-graphics/index.html?shell" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/multimedia/graphics/2023/09/shanti-pereira-sprint-graphics/index.html?shell</a>&nbsp;
+<br>
+<br>Singapore to increase investment in sport science to boost athletes’ performance
+<br><a href="https://www.channelnewsasia.com/singapore/sport-science-investment-boost-athletes-performance-kallang-4568061" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/singapore/sport-science-investment-boost-athletes-performance-kallang-4568061</a>&nbsp;
+<br>
+<br>Singapore Physical Activity Guidelines
+<br><a href="https://www.activesgcircle.gov.sg/campaigns/spag" rel="noopener noreferrer nofollow" target="_blank">https://www.activesgcircle.gov.sg/campaigns/spag</a>&nbsp;</p>
+<p>Want to learn more about the human body? Check out the following resources
+for a travelling exhibition on the human body presented by Science Centre
+Singapore, supported by the Ministry of Education and National Library
+Board:</p>
+<p>The Unofficial Guide to Being Human
+<br><a href="https://www.science.edu.sg/whats-on/exhibitions/the-unofficial-guide-to-being-human" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/exhibitions/the-unofficial-guide-to-being-human</a>
+</p>
 <h4><strong>Credits</strong></h4>
-<p></p>
+<p>Special thanks to Dr. Marcus Lee for coming on the show. This episode
+of Void Deck was hosted by Janice Tow. The episode and series was produced
+by Jamie Uy. Audio engineering and pre-production research were provided
+by Ewan Leong. Video teasers were edited by Lydia Konig. Studio production
+was assisted by Jane Stephanie Emmanuella and Ai Xin Qin. Season 2 music
+and graphics were created by Ai Xin Qin. The cover art was illustrated
+by Vikki Li Qi. The Void Deck podcast is an original transmedia production
+by Science Centre Singapore.</p>
 <hr>
-<p><em>Last Updated 3 December 2025</em>
+<p><em>Last Updated 4 December 2025</em>
 </p>
 <p></p>
