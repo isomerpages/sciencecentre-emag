@@ -20,7 +20,7 @@ they matter more than we might think.</p>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on:<a href="https://bit.ly/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank"><u> Spotify</u></a>,
-<a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener noreferrer nofollow" target="_blank"><u> Apple Podcasts</u>
+<a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u>
 </a>, and<a href="https://bit.ly/voiddeckamazonmusic" rel="noopener noreferrer nofollow" target="_blank"><u> Amazon Music</u></a>.</p>
 <p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
@@ -307,6 +307,9 @@ number 19 or 29, or whatever bus, and nobody really looks at that tree
 that much. I think it's such a shame it, like I said, imagine what it's
 seen in its three to 400 years of, you know, being around.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Damar Hitam Gajah along Netheravon Road near Bus Stop 99091." src="/images/ShoreaGibbosa_Still.jpg">
+</div>
 <p><em>Damar Hitam Gajah (HT 2003 113) in the Heritage Tree Register located in Changi along Netheravon Road near Bus Stop 99091. Photo Credit: Jamie Uy</em>
 </p>
 <p>There are two other trees that I really do like to look out for in that
@@ -316,6 +319,9 @@ That's a big mouthful of a name, but again, it's something that's so rare
 in our rainforest, and there's one right in the middle of, at the entrance
 to Changi Village, which nobody really notices, sadly.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dipterocarpus Sublamellatus" src="/images/DipterocarpusSublamellatus_Still.jpg">
+</div>
 <p><em>Keruing Kerut (HT 2003 49) in the Heritage Tree Register located in Changi along Cranwell Road near junction with Loyang Avenue. Photo Credit:</em>  <em>Jamie Uy.</em>
 </p>
 <p><strong>JANICE:</strong> It's okay, with this podcast [out]: everyone,
