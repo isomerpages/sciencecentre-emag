@@ -15,8 +15,8 @@ trees end up here, and what makes them worth conserving? In this episode,
 tropical forest ecologist Dr. Shawn Lum walks us through the hidden world
 of our heritage trees, the work that goes into conserving them, and why
 they matter more than we might think.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr. Shawn Lum" src="/images/4_Ecology.png">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BX5zZZzdwMs?si=ucdOykbx7x1Vah-N"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on:<a href="https://bit.ly/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank"><u> Spotify</u></a>,
