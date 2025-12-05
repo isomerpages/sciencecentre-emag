@@ -19,9 +19,9 @@ they matter more than we might think.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BX5zZZzdwMs?si=ucdOykbx7x1Vah-N"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on:<a href="https://bit.ly/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank"><u> Spotify</u></a>,
-<a href="https://bit.ly/voiddeckapplepodcasts" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u>
-</a>, and<a href="https://bit.ly/voiddeckamazonmusic" rel="noopener noreferrer nofollow" target="_blank"><u> Amazon Music</u></a>.</p>
+<p>Available on:<a href="https://for.edu.sg/voiddeckspotify" rel="noopener noreferrer nofollow" target="_blank"><u> Spotify</u></a>,
+<a href="https://for.edu.sg/voiddeckapplepodcasts" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u>
+</a>, and<a href="https://for.edu.sg/voiddeckamazonmusic" rel="noopener noreferrer nofollow" target="_blank"><u> Amazon Music</u></a>.</p>
 <p>Subscribe to <em>Void Deck</em> wherever you get your podcasts to get notified
 when the next episode drops.</p>
 <h4><strong>Episode Highlights</strong></h4>
