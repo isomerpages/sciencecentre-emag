@@ -42,10 +42,10 @@ sections:
           linktext: Read here
           url: /kopi-caffeine-and-me
         - title: PODCAST
-          description: Diving into Singapore's Marine Ecology with Dr. Siti Maryam Yaakub
-            (IBCI)
+          description: New Season 2 Episodes on Sport Science, Food Tech, Psychology, and
+            Ecology!
           linktext: Listen here
-          url: /marine-ecology
+          url: /podcast
         - title: VIDEOS
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
