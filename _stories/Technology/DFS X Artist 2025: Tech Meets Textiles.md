@@ -53,12 +53,12 @@ to marine life, industrial eras to ocean pollution, and Asian animal spirits
 to futuristic technologies.</p>
 <p>Among the standout looks was an iceberg-blue iridescent ball gown inspired
 by the moon jelly <a href="https://www.marinebio.org/species/moon-jellyfishes/aurelia-aurita/" rel="noopener noreferrer nofollow" target="_blank">Aurelia aurita</a>.
-In their description for the show booklet, student designers Reisha, Jia
-Jun, Alena, Stanislas, and Chong Yu Xuan from Regent Secondary School wrote
-that the jellyfish is "ephemeral, luminous, and now imperilled." Trailing
-translucent "tentacles" made from plastic bags and bottles, together with
-a sea sponge bag, complemented the dress, which they emphasised told a
-story of "beauty under siege."</p>
+In their description for the show booklet, student designers Matriano Ianah
+Reisha, Toh Jia Jun, Alena Piong Jia Ying, Stanislas Chur Song Zhi, and
+Chong Yu Xuan from Regent Secondary School wrote that the jellyfish is
+"ephemeral, luminous, and now imperilled." Trailing translucent "tentacles"
+made from plastic bags and bottles, together with a sea sponge bag, complemented
+the dress, which they emphasised told a story of "beauty under siege."</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aurelia_DFSXArtist.jpg">
@@ -70,30 +70,30 @@ hair pieces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0127.jpg">
 </div>
-<p>Drawing inspiration from flora, student designers Claire, Dilys, Clare,
-and Crystal from Nan Chiau High School created "Petals of Grace", a giant
-maximalist bejewelled bodice. Reminiscent of a huge cream-white flower
-petal, the bodice was embellished with trinkets repurposing Spring Festival
-flower decorations, toilet paper rolls, plastic bottles, twine, and metal
-drink cans.</p>
+<p>Drawing inspiration from flora, student designers Claire Tan, Ooi Jen
+Nin Dilys, Wong Beatrice Clare, and Lim Xin Er Crystal from Nan Chiau High
+School created "Petals of Grace", a giant maximalist bejewelled bodice.
+Reminiscent of a huge cream-white flower petal, the bodice was embellished
+with trinkets repurposing Spring Festival flower decorations, toilet paper
+rolls, plastic bottles, twine, and metal drink cans.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PetalsofGrace_DFSXArtist.jpg">
 </div>
-<p>Another look, "Inferno" by Alicia, Yuxuan, and Elise from Nanyang Girls'
-High School, featured an asymmetrical fairy-like fluttering green and gold
-leaf dress with a raw unhemmed yellow-orange underskirt trailing the floor
-like a forest fire.</p>
+<p>Another look, "Inferno" by Alicia Lim Li Si, Xu Yuxuan, and Leow He Myn
+Elise from Nanyang Girls' High School, featured an asymmetrical fairy-like
+fluttering green and gold leaf dress with a raw unhemmed yellow-orange
+underskirt trailing the floor like a forest fire.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inferno_DFSXArtist.jpg">
 </div>
 <p>Other pieces explored ecotopian visions of tomorrow, from "Jagabi", a
 futuristic, modular modernist patchwork kimono made of denim and batik
-to show "fusion of both culture and technology" (designed by Valerie, Yu
-Tong, and Yew Ning from Nanyang Girls' High School) to a solarpunk "modern
-farmer" outfit, "To Grow a Garden", consisting of cargo pants with aluminium
-foil panels and LED lights styled with a utility vest and painted skateboard
-(designed by Jesse, Yee Ruu, Chloe, and Zhixuan from Nanyang Girls' High
-School).</p>
+to show "fusion of both culture and technology" (designed by Ng Lin Xuan
+Valerie, Pua Yu Tong, and Foo Yew Ning from Nanyang Girls' High School)
+to a solarpunk "modern farmer" outfit, "To Grow a Garden", consisting of
+cargo pants with aluminium foil panels and LED lights styled with a utility
+vest and painted skateboard (designed by Jesse Huang Zi Yu, Lee Yee Ruu,
+Chloe Hu, and Yu Zhixuan from Nanyang Girls' High School).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FutureFarmer_DFSXArtist.jpg">
