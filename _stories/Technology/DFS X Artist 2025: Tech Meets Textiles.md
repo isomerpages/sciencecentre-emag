@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Technology
 ---
-<h4>Young designers and seniors transform secondhand textiles into stunning eco-fashion using 3D printing and laser cutting at Science Centre Singapore's runway show.</h4>
-<p>[HEADER IMAGE}</p>
+<h4>Young designers and seniors transform secondhand textiles into stunning eco-fashion using 3D printing and laser cutting at Science Centre Singapore's runway show.<br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0125.jpg">
+</div>
 <p>Who says fashion can't slay whilst saving the Earth? Attendees were wowed
 by stunning fashion designs using sustainable materials and digital fabrication
 technologies at the <a href="https://www.science.edu.sg/stem-inc/industrial-partnership-programme/dfs-x-artist" rel="noopener noreferrer nofollow" target="_blank">DFS X Artist</a> Grand
@@ -43,7 +45,7 @@ pieces that don't just look stunning but also tell meaningful stories about
 the planet we share," Ms Tham wrote in a foreword for the <a href="https://for.edu.sg/dfsxartistbooklet" rel="noopener noreferrer nofollow" target="_blank">DFS X Artist 2025 programme booklet</a>.&nbsp;</p>
 <p>"Their work is a reminder that art doesn't just reflect the world, it
 can help reshape it for a more sustainable tomorrow."</p>
-<h4>Eco-Design Takes Centre Stage</h4>
+<h4><strong>Eco-Design Takes Centre Stage</strong></h4>
 <p>The thirty-one bespoke runway outfits showcased kaleidoscopic views of
 nature, with fashion pieces presenting style statements about the state
 of the Earth. The designs referenced everything from forest biodiversity
@@ -57,23 +59,33 @@ that the jellyfish is "ephemeral, luminous, and now imperilled." Trailing
 translucent "tentacles" made from plastic bags and bottles, together with
 a sea sponge bag, complemented the dress, which they emphasised told a
 story of "beauty under siege."</p>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aurelia_DFSXArtist.jpg">
+</div>
 <p>Other aquatic-inspired designs featured flowy organza fabrics juxtaposed
 with fishing net drapings and accoutrements like 3D-printed marine animal
 hair pieces.</p>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0127.jpg">
+</div>
 <p>Drawing inspiration from flora, student designers Claire, Dilys, Clare,
 and Crystal from Nan Chiau High School created "Petals of Grace", a giant
 maximalist bejewelled bodice. Reminiscent of a huge cream-white flower
 petal, the bodice was embellished with trinkets repurposing Spring Festival
 flower decorations, toilet paper rolls, plastic bottles, twine, and metal
 drink cans.</p>
-<p>[IMAGE]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PetalsofGrace_DFSXArtist.jpg">
+</div>
 <p>Another look, "Inferno" by Alicia, Yuxuan, and Elise from Nanyang Girls'
 High School, featured an asymmetrical fairy-like fluttering green and gold
 leaf dress with a raw unhemmed yellow-orange underskirt trailing the floor
 like a forest fire.</p>
-<p>[IMAGE]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inferno_DFSXArtist.jpg">
+</div>
 <p>Other pieces explored ecotopian visions of tomorrow, from "Jagabi", a
 futuristic, modular modernist patchwork kimono made of denim and batik
 to show "fusion of both culture and technology" (designed by Valerie, Yu
@@ -82,8 +94,11 @@ farmer" outfit, "To Grow a Garden", consisting of cargo pants with aluminium
 foil panels and LED lights styled with a utility vest and painted skateboard
 (designed by Jesse, Yee Ruu, Chloe, and Zhixuan from Nanyang Girls' High
 School).</p>
-<p>[IMAGE]</p>
-<h4>Digital Craft Meets Sustainable Design</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FutureFarmer_DFSXArtist.jpg">
+</div>
+<h4><strong>Digital Craft Meets Sustainable Design</strong></h4>
 <p>Beyond the visual spectacle, the DFS X Artist programme offered participants
 a unique opportunity to gain hands-on experience bringing sustainable fashion
 concepts to life through digital fabrication technologies.</p>
@@ -94,7 +109,10 @@ more of a "science-leaning" student, he shared that he enjoyed learning
 art and design principles through the programme. His first fashion design
 experience taught him that "we don't need to use new fabric" as the team
 upcycled mesh, secondhand garments, satin, and batiste.</p>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0005.jpg">
+</div>
 <p>"We don't need to use cotton, all that stuff to create new fashionable
 clothes. Instead, we could use the resources around us... to help sustain
 our life and help to improve the environment," Marcus said. The team painstakingly
@@ -113,7 +131,10 @@ landfill waste.</p>
 look with a bustle skirt and trail from old denim. She shared that they
 learned how to add gathers and pleats to the blouse from the Temasek Polytechnic
 student instructors.</p>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SteampunkDFSXArtist.jpg">
+</div>
 <p>Besides learning essential sewing techniques, Sophie and her teammates
 received a foundational introduction to 3D modelling. The final outfit
 featured several gears as homage to the steam engine and railroad era.
@@ -127,8 +148,8 @@ that this year's theme and challenge to use upcycled fabrics helped her
 "expand her ideas" and creativity. "When you explore more further into
 the fashion world, you realise that everything can be used in different
 ways."</p>
-<h4>Weaving Communities Together</h4>
-<p>[IMAGE]</p>
+<h4><strong>Weaving Communities Together</strong></h4>
+<p></p>
 <p>The programme's inclusive approach created connections across generations
 and abilities. The DFS X Artist programme gathered designers across society,
 from students at special education (SPED) schools to senior makers from
@@ -161,7 +182,7 @@ and machine-sewn lace and patchwork embellishments on a shirt, skirt, and
 shorts representing "the universe" through mismatched textures that come
 together in harmony. She said the completed outfit also symbolised how
 "we can help not to clog the earth with all those fast fashion[s]."</p>
-<h4>Make Your Mark at Science Centre Singapore</h4>
+<h4><strong>Make Your Mark at Science Centre Singapore</strong></h4>
 <p>Missed the DFS X Artist Grand Finale? You can catch the catwalk by watching
 the video of the fashion showcase here [LINK]. See the runway looks up
 close at the DFS X Artist Public Showcase, a temporary pop-up exhibit at
