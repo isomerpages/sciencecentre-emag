@@ -150,12 +150,18 @@ the fashion world, you realise that everything can be used in different
 ways."</p>
 <h4><strong>Weaving Communities Together</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0173.jpg">
+</div>
 <p>The programme's inclusive approach created connections across generations
 and abilities. The DFS X Artist programme gathered designers across society,
 from students at special education (SPED) schools to senior makers from
 YuHua Sewmates and Adventist Active Centre @ Kallang Trivista, to create
 a community capsule collection.&nbsp;</p>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0170.jpg">
+</div>
 <p>Students from Canberra Secondary School proudly modelled six ensembles
 comprising the seniors' dress pieces, accessorised with vests, tote bags,
 and bucket hats embellished by students from AWWA School @ Bedok, AWWA
@@ -166,12 +172,26 @@ in the shapes of stars, hearts, leaves, clouds, and suns. Paired with the
 garments by senior makers featuring appliqués, lace embellishments, and
 shimmering fabrics rescued from scrap heaps, the runway looks evoked the
 vibrant patterns of fish scales or butterfly wings.</p>
-<p>[IMAGE]</p>
-<p>[IMAGE]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community2_DFSXArtist.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community1_DFSXArtist.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0025.jpg">
+</div>
 <p>Madam Aminah binte Mohamed Kamari, a senior from Yuhua Sewmates who participated
 in the DFS X Artist programme in both 2024 and 2025, said, "I love this
 programme because it makes us more curious about design, [see] fashion
 is alive... and be creative."</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0177.jpg">
+</div>
 <p>An experienced seamstress, she shared that she finds "mixing technology
 with old ideas" fascinating and enhanced her own sewing knowledge by learning
 about more modern industrial techniques like Cricut and laser cutting.
@@ -183,17 +203,21 @@ shorts representing "the universe" through mismatched textures that come
 together in harmony. She said the completed outfit also symbolised how
 "we can help not to clog the earth with all those fast fashion[s]."</p>
 <h4><strong>Make Your Mark at Science Centre Singapore</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0182.jpg">
+</div>
 <p>Missed the DFS X Artist Grand Finale? You can catch the catwalk by watching
 the video of the fashion showcase here [LINK]. See the runway looks up
 close at the DFS X Artist Public Showcase, a temporary pop-up exhibit at
-Science Centre Singapore's Metamorphosis Pavilion from [Start Date - End
-Date] and be inspired by the creative designs of the participants to join
-the sustainable fashion revolution!</p>
+Science Centre Singapore's Metamorphosis Pavilion soon and be inspired
+by the creative designs of the participants to join the sustainable fashion
+revolution!</p>
 <p>Ready to create your own tech-powered art pieces? Discover how you can
 transform everyday materials into extraordinary designs through the Digital
 Fabrication Space's public workshops and school programmes at Science Centre
 Singapore here: <a href="https://www.science.edu.sg/stem-inc/digital-fabrication-space" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/stem-inc/digital-fabrication-space</a>.</p>
-<p><em>Written by Jamie Uy</em>
+<p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
 <p><em>Published 9 December 2025</em>
