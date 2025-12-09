@@ -104,11 +104,12 @@ a unique opportunity to gain hands-on experience bringing sustainable fashion
 concepts to life through digital fabrication technologies.</p>
 <p>Marcus Low Hong Cheng from Canberra Secondary School modelled and helped
 create a Japanese-inspired outfit based on the mythical fox spirit kitsune
-with his teammates Aeryn, Vera, Iffah, and Denisse. Considering himself
-more of a "science-leaning" student, he shared that he enjoyed learning
-art and design principles through the programme. His first fashion design
-experience taught him that "we don't need to use new fabric" as the team
-upcycled mesh, secondhand garments, satin, and batiste.</p>
+with his teammates Aeryn Lim Wei Ting, Koh Rui En Vera, Nur Iffah Farliyssha
+Binte Muhammad Farhan, and Denisse Voo Xiao You. Considering himself more
+of a "science-leaning" student, he shared that he enjoyed learning art
+and design principles through the programme. His first fashion design experience
+taught him that "we don't need to use new fabric" as the team upcycled
+mesh, secondhand garments, satin, and batiste.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0005.jpg">
@@ -127,10 +128,10 @@ secondhand textiles could be "woven together in [so many] different ways."
 She was also surprised to learn that beyond upcycling, some fabrics such
 as 100% natural fibre clothing could be composted to enrich soils and reduce
 landfill waste.</p>
-<p>Sophie and her teammates Hui Yi, Jing Wen, and Jing Hui designed a steampunk-inspired
-look with a bustle skirt and trail from old denim. She shared that they
-learned how to add gathers and pleats to the blouse from the Temasek Polytechnic
-student instructors.</p>
+<p>Sophie and her teammates Cheong Hui Yi, Au Jing Wen, and San Jing Hui
+designed a steampunk-inspired look with a bustle skirt and trail from old
+denim. She shared that they learned how to add gathers and pleats to the
+blouse from the Temasek Polytechnic student instructors.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SteampunkDFSXArtist.jpg">
