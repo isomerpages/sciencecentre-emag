@@ -23,15 +23,12 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: The Great Dinosaur Egg-speriment!
-      subtitle: dinosaurs, diy, chemistry
+      title: "DFS X Artist 2025: Tech Meets Textiles"
+      subtitle: DFS X Artist 2025
       id: infopic
-      description: From giant eggs to giant lessons, dinosaurs left us more than cool
-        fossils—they left big clues about why our planet needs love.
-      button: Read More
-      url: /dino-fizzy-egg
-      image: /images/VD_Dino_Egg_Fizzy.gif
-      alt: Dino fizzy egg
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: Highlights
       subtitle: Content
@@ -50,6 +47,16 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: The Great Dinosaur Egg-speriment!
+      subtitle: dinosaurs, diy, chemistry
+      id: infopic
+      description: From giant eggs to giant lessons, dinosaurs left us more than cool
+        fossils—they left big clues about why our planet needs love.
+      button: Read More
+      url: /dino-fizzy-egg
+      image: /images/VD_Dino_Egg_Fizzy.gif
+      alt: Dino fizzy egg
   - infopic:
       title: Debunking Popular Genetic Myths
       subtitle: DNA, GENETICS, HEALTH
