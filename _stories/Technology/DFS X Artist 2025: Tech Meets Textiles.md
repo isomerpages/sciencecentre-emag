@@ -208,12 +208,6 @@ together in harmony. She said the completed outfit also symbolised how
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0182.jpg">
 </div>
-<p>Missed the DFS X Artist Grand Finale? You can catch the catwalk by watching
-the video of the fashion showcase here [LINK]. See the runway looks up
-close at the DFS X Artist Public Showcase, a temporary pop-up exhibit at
-Science Centre Singapore's Metamorphosis Pavilion soon and be inspired
-by the creative designs of the participants to join the sustainable fashion
-revolution!</p>
 <p>Ready to create your own tech-powered art pieces? Discover how you can
 transform everyday materials into extraordinary designs through the Digital
 Fabrication Space's public workshops and school programmes at Science Centre
@@ -221,5 +215,5 @@ Singapore here: <a href="https://www.science.edu.sg/stem-inc/digital-fabrication
 <p><strong><em>Written by Jamie Uy</em></strong>
 </p>
 <hr>
-<p><em>Published 9 December 2025</em>
+<p><em>Published 15 December 2025</em>
 </p>
