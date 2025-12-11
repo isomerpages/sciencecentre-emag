@@ -24,11 +24,15 @@ sections:
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
       title: "DFS X Artist 2025: Tech Meets Textiles"
-      subtitle: DFS X Artist 2025
+      subtitle: sustainability, tech, fashion
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Over 100 makers transformed secondhand textiles into stunning eco-
+        fashion using 3D printing and laser cutting for Science Centre
+        Singapore's runway show.
+      button: Read More
       alt: Image alt text
+      image: /images/251101_DFS_X_Artist_2025_0125.jpg
+      url: /dfsxartist2025
   - textcards:
       title: Highlights
       subtitle: Content
