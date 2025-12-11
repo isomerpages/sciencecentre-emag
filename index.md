@@ -39,9 +39,9 @@ sections:
       id: textcards
       cards:
         - title: STORIES
-          description: Kopi, Caffeine, and Me
+          description: Debunking Popular Genetic Myths
           linktext: Read here
-          url: /kopi-caffeine-and-me
+          url: debunking-popular-genetic-myths/
         - title: PODCAST
           description: New Season 2 Episodes on Sport Science, Food Tech, Psychology, and
             Ecology!
