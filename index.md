@@ -23,24 +23,25 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: The Great Dinosaur Egg-speriment!
-      subtitle: dinosaurs, diy, chemistry
+      title: "DFS X Artist 2025: Tech Meets Textiles"
+      subtitle: sustainability, tech, fashion
       id: infopic
-      description: From giant eggs to giant lessons, dinosaurs left us more than cool
-        fossils—they left big clues about why our planet needs love.
+      description: Over 100 makers transformed secondhand textiles into stunning eco-
+        fashion using 3D printing and laser cutting for Science Centre
+        Singapore's runway show.
       button: Read More
-      url: /dino-fizzy-egg
-      image: /images/VD_Dino_Egg_Fizzy.gif
-      alt: Dino fizzy egg
+      alt: Image alt text
+      image: /images/251101_DFS_X_Artist_2025_0125.jpg
+      url: /dfsxartist2025
   - textcards:
       title: Highlights
       subtitle: Content
       id: textcards
       cards:
         - title: STORIES
-          description: Kopi, Caffeine, and Me
+          description: Debunking Popular Genetic Myths
           linktext: Read here
-          url: /kopi-caffeine-and-me
+          url: debunking-popular-genetic-myths/
         - title: PODCAST
           description: New Season 2 Episodes on Sport Science, Food Tech, Psychology, and
             Ecology!
@@ -50,6 +51,16 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: The Great Dinosaur Egg-speriment!
+      subtitle: dinosaurs, diy, chemistry
+      id: infopic
+      description: From giant eggs to giant lessons, dinosaurs left us more than cool
+        fossils—they left big clues about why our planet needs love.
+      button: Read More
+      url: /dino-fizzy-egg
+      image: /images/VD_Dino_Egg_Fizzy.gif
+      alt: Dino fizzy egg
   - infopic:
       title: Debunking Popular Genetic Myths
       subtitle: DNA, GENETICS, HEALTH
