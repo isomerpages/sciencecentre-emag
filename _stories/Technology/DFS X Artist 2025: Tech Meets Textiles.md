@@ -8,7 +8,7 @@ description: Over 100 makers transformed secondhand textiles into stunning eco-
 third_nav_title: Technology
 image: /images/251101_DFS_X_Artist_2025_0125.jpg
 ---
-<h4>Young designers and seniors transform secondhand textiles into stunning eco-fashion using 3D printing and laser cutting at Science Centre Singapore's runway show.<br></h4>
+<h4>Students and seniors transform secondhand textiles into stunning eco-fashion using 3D printing and laser cutting at Science Centre Singapore's runway show.<br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0125.jpg">
 </div>
@@ -34,7 +34,7 @@ by SG Eco Fund. The 2025 theme "Sustainability and Upcycling" tasked participant
 with designing eco-conscious clothing utilising secondhand textiles. Fashion
 designers and student instructors from Temasek Polytechnic's School of
 Design mentored school groups, whilst community organisers from social
-enterprise Commonhers guided participants from ageing centres.</p>
+enterprise Commenhers guided participants from ageing centres.</p>
 <p>In her opening speech for the DFS X Artist Grand Finale, Ms Tham Mun See,
 Chief Executive of Science Centre Board, called this year's theme "very
 timely and pertinent," explaining that "when we use synthetic fabric to
