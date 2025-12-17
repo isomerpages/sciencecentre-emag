@@ -23,16 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "DFS X Artist 2025: Tech Meets Textiles"
-      subtitle: sustainability, tech, fashion
+      title: "Amazing Dinoworld 2: Behind the Scenes"
+      subtitle: environment, dinosaurs, media
       id: infopic
-      description: Over 100 makers transformed secondhand textiles into stunning eco-
-        fashion using 3D printing and laser cutting for Science Centre
-        Singapore's runway show.
+      description: Discover how some dinosaurs may have survived the asteroid impact
+        66 million years ago. We speak with Amazing Dinoworld 2 director Kazuki
+        Ueda to learn more!
       button: Read More
+      url: /amazing-dinoworld-2-bts
+      image: /images/AmazingDinoworld2_OTScreening1_Edited.jpg
       alt: Image alt text
-      image: /images/251101_DFS_X_Artist_2025_0125.jpg
-      url: /dfsxartist2025
   - textcards:
       title: Highlights
       subtitle: Content
@@ -51,6 +51,17 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: "DFS X Artist 2025: Tech Meets Textiles"
+      subtitle: sustainability, tech, fashion
+      id: infopic
+      description: Over 100 makers transformed secondhand textiles into stunning eco-
+        fashion using 3D printing and laser cutting for Science Centre
+        Singapore's runway show.
+      button: Read More
+      alt: Image alt text
+      image: /images/251101_DFS_X_Artist_2025_0125.jpg
+      url: /dfsxartist2025
   - infopic:
       title: The Great Dinosaur Egg-speriment!
       subtitle: dinosaurs, diy, chemistry
