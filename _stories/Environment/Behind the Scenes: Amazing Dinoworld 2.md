@@ -63,7 +63,7 @@ once roamed the Earth.&nbsp;</p>
 the most exciting part of producing a dinosaur program,” Mr. Ueda stated
 through the interpretation of Mr. Katayama.</p>
 <p>Longstanding collaboration with scientists like renowned palaeontologist
-Dr. Yoshitugu Kobayashi of Hokkaido University helped strike a careful
+Dr. Yoshitsugu Kobayashi of Hokkaido University helped strike a careful
 balance between hard science and imaginative filmmaking. In fact, Dr. Kobayashi
 had helped introduce Mr. Ueda to new research that would spark the concept
 for <em>Amazing Dinoworld 2</em>. Mr. Ueda had previously produced an NHK
