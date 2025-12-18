@@ -63,8 +63,8 @@ once roamed the Earth.&nbsp;</p>
 the most exciting part of producing a dinosaur program,” Mr. Ueda stated
 through the interpretation of Mr. Katayama.</p>
 <p>Longstanding collaboration with scientists like renowned palaeontologist
-Dr. Koji Kobayashi of Hokkaido University helped strike a careful balance
-between hard science and imaginative filmmaking. In fact, Dr. Kobayashi
+Dr. Yoshitugu Kobayashi of Hokkaido University helped strike a careful
+balance between hard science and imaginative filmmaking. In fact, Dr. Kobayashi
 had helped introduce Mr. Ueda to new research that would spark the concept
 for <em>Amazing Dinoworld 2</em>. Mr. Ueda had previously produced an NHK
 special on dinosaur extinction in 2009 that featured the prevailing theory
@@ -108,7 +108,7 @@ dinosaurs composited onto the shots. Originally, filming was planned in
 the Southern Hemisphere in countries like South America, New Zealand to
 match prehistoric landscapes. Due to COVID-19 travel restrictions, locations
 in Japan, particularly Hokkaido, were used instead.&nbsp;</p>
-<p>The “vast grasslands of Tawakei Ranch in Shibecha, eastern Hokkaido” (<em><a href="https://natgeo.nikkeibp.co.jp/atcl/web/15/360768/030500093/" rel="noopener noreferrer nofollow" target="_blank"><u>Nikkei National Geographic</u></a></em>)—
+<p>The “vast grasslands of eastern Hokkaido” (<em><a href="https://natgeo.nikkeibp.co.jp/atcl/web/15/360768/030500093/" rel="noopener noreferrer nofollow" target="_blank"><u>Nikkei National Geographic</u></a></em>)—
 where Mr. Ueda had filmed two decades earlier during his NHK Kushiro —
 were used for shots of the prehistoric giants walking in the fog. “Other
 scenes — such as Puertasaurus laying eggs in a geothermal field — were
