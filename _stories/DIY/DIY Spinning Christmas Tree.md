@@ -8,7 +8,10 @@ third_nav_title: DIY
 <h4>Turn a battery, copper wire, and magnet into a simple motor to spin a tiny Christmas tree. Whirl through the physics of rotation and light as we decorate the holidays with a twist of science!</h4>
 <p>[PHOTO]</p>
 <h4><strong>The Origins and Symbolism of the Christmas Tree</strong></h4>
-<p>[PHOTO]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pexels_dima_valkov_1186343_3314866.jpg">
+</div>
 <p><em>Photo credit: <a href="https://www.pexels.com/@dima-valkov-1186343/" rel="noopener noreferrer nofollow" target="_blank">Dima Valkov</a> on <a href="https://www.pexels.com/photo/green-christmas-tree-with-gray-gift-boxes-near-sofa-3314866/" rel="noopener noreferrer nofollow" target="_blank">Pexels</a></em>
 </p>
 <p>Curious about where the iconic Christmas tree actually came from? Long
@@ -31,7 +34,9 @@ you celebrate Christmas or not, the tree brings people together in a fun,
 festive way! It symbolizes joy, hope, and the spirit of the holiday season.</p>
 <h4><strong>What Makes the Tree Spin?</strong></h4>
 <p></p>
-<p>[PHOTO]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1024px_Homopolar_Motor_Large.jpg">
+</div>
 <p><em>Photo Credit: <a href="http://www.evilmadscientist.com/" rel="noopener noreferrer nofollow" target="_blank">Windell H. Oskay</a> on <a href="https://commons.wikimedia.org/wiki/File:Homopolar_Motor_Large.jpg" rel="noopener noreferrer nofollow" target="_blank">Wikimedia Commons</a></em>
 </p>
 <p>Now let’s get back to making your very own Spinning Christmas Tree. How
@@ -46,7 +51,9 @@ direction, the wire always spins the same way. It’s a cool and fun way
 to see how electricity and magnetism can work together to create motion!
 (Watch how the homopolar motor spins <a href="https://www.youtube.com/watch?v=p29gy0OBaY8&amp;t=4s" rel="noopener noreferrer nofollow" target="_blank">here</a>!)</p>
 <p></p>
-<p>[PHOTO]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2048px_Metal_shavings_around_bar_magnet__close_up_.jpg">
+</div>
 <p><em>Photo Credit: Maciej J. Mrowinski on <a href="https://commons.wikimedia.org/wiki/File:Metal_shavings_around_bar_magnet_(close-up).jpg" rel="noopener noreferrer nofollow" target="_blank">Wikimedia Commons</a></em>
 </p>
 <p>So, what is a <strong>magnetic field</strong>? A <strong>magnetic field</strong> is
@@ -60,6 +67,9 @@ trains work. Pretty cool, right? (Click <a href="https://www.bbc.co.uk/bitesize/
 find out more about magnetic fields!)</p>
 <h4><strong>The Need for Sustainability and Conservation</strong></h4>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pexels_thishanabee_4004228.jpg">
+</div>
 <p><em>Photo credit: <a href="https://www.pexels.com/@thishanabee/" rel="noopener noreferrer nofollow" target="_blank">Hana Brannigan</a> on <a href="https://www.pexels.com/photo/flay-lay-of-wires-and-cables-4004228/" rel="noopener noreferrer nofollow" target="_blank">Pexels</a></em>
 </p>
 <p>Batteries and wires can become electronic waste when we throw them away.
@@ -69,6 +79,9 @@ often made of metals or plastic, which are non-biodegradable and do not
 break down easily. If we toss them in the trash, they just sit in <a href="https://www.channelnewsasia.com/singapore/semakau-landfill-filling-waste-management-incineration-reduce-reuse-recycle-3909436" rel="noopener noreferrer nofollow" target="_blank">landfills</a> and
 pollute the planet.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_19_at_4_13_40_PM.png">
+</div>
 <p><em>Photo credit: Benjamin Lim (Writer)</em>
 </p>
 <p></p>
