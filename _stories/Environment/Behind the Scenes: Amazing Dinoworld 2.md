@@ -32,14 +32,14 @@ refuge of what is now Antarctica back to life.&nbsp;</p>
 <p>Featuring insights from the leading palaeontologists on the latest fossil
 discoveries and excavations, the film blends innovative CGI, scientific
 data, and storytelling to dramatise this previously unknown chapter of
-dinosaur history. The documentary was produced by Japanese public broadcaster,
+dinosaur history. The documentary was produced by Japanese public broadcaster
 NHK in co-production with Bonne Pioche, Curiosity, and Autentic.</p>
 <p>In October 2025, the <em>Void Deck </em>team had the privilege to interview <em>Amazing Dinoworld 2 </em>director
-Mr. Kazuki Ueda Mr. Kazuki Ueda, facilitated by global content development
-senior producer Mr. Hiroaki Katayama. Read on to learn how the filmmakers
-reconstructed dinosaur movements using human actors, the challenges of
-shooting on-location during COVID-19, and how over ten sounds were layered
-to create a dinosaur’s fearsome roar.&nbsp;</p>
+Mr. Kazuki Ueda, facilitated by global content development senior producer
+Mr. Hiroaki Katayama. Read on to learn how the filmmakers reconstructed
+dinosaur movements using human actors, the challenges of shooting on-location
+during COVID-19, and how over ten sounds were layered to create a dinosaur’s
+fearsome roar.&nbsp;</p>
 <p><em>Watch <a href="https://www.science.edu.sg/visit-us/omni-theatre/amazing-dino-world-2" rel="noopener noreferrer nofollow" target="_blank">Amazing Dinoworld 2</a> in Omni-Theatre, exclusively in Singapore at Science Centre Singapore, featuring Southeast Asia’s largest seamless dome screen (23m in diameter). Tickets available here: <a href="https://tickets.science.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://tickets.science.edu.sg/</a>.</em>
 </p>
 <h4><strong>A Lifelong Quest for Dinosaur Discovery</strong></h4>
