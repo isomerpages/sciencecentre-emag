@@ -106,13 +106,13 @@ filming was planned in the Southern Hemisphere in countries like South
 America, New Zealand to match prehistoric landscapes. Due to COVID-19 travel
 restrictions, locations in Japan, particularly Hokkaido, were used instead.&nbsp;</p>
 <p>The grasslands of eastern Hokkaido where Mr. Ueda had filmed two decades
-earlier during his NHK Hokkaido Branch&nbsp;work were used for shots of
-the prehistoric giants walking in the fog. Since there are significant
-differences between today's flora and prehistoric plants—such as the fact
-that Cretaceous plants differ from modern ones, and that the flora of the
-Southern Hemisphere is distinct from that of the Northern Hemisphere—the
-team avoided close-up shots of plants whenever possible, and even went
-to the lengths of creating CG plants when necessary.</p>
+earlier during his time at NHK Hokkaido Branch were used for shots of the
+prehistoric giants walking in the fog. Since there are significant differences
+between today's flora and prehistoric plants—such as the fact that Cretaceous
+plants differ from modern ones, and that the flora of the Southern Hemisphere
+is distinct from that of the Northern Hemisphere—the team avoided close-up
+shots of plants whenever possible, and even went to the lengths of creating
+scientifically accurate CGI plants when necessary.</p>
 <h4><strong>A Deeply Human Tale of Resilience&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -124,10 +124,13 @@ to the lengths of creating CG plants when necessary.</p>
 investigation of dinosaur extinction and presented a compelling story of
 resilience that felt deeply human, despite starring nonhuman animals. To
 give a reference for the animators and a sense of humanness to the dinosaur
-performances, Mr. Ueda and the film crew physically acted out dinosaur
-movements using 5-metre poles to simulate the dinosaur’s limbs and head
-positions. For instance, the thrilling battle between the Maip and the
-juvenile Puertasaurus was first played out by human actors and then animated.&nbsp;</p>
+performances, Mr. Ueda and his team layered multiple visual elements into
+the eyes of the dinosaurs to convey a sense of empathy and emotion, achieving
+an exceptionally high level of expression. Also, they physically acted
+out dinosaur movements using 5-metre poles to simulate the dinosaur’s limbs
+and head positions. For instance, the thrilling battle between the Maip
+and the juvenile Puertasaurus was first played out by human actors and
+then animated.&nbsp;</p>
 <p>Another key factor in humanising the dinosaur characters was the music.
 Mr. Ueda shared that he wanted the soundtrack to create the impression
 that the audience was experiencing the feelings of the dinosaurs on their
@@ -164,10 +167,10 @@ to enjoy access to both Science Centre and Omni-Theatre for a full day
 of science discovery at only <strong>$8.00</strong>. Get your tickets now
 at <a href="https://www.science.edu.sg/visit-us/omni-theatre/amazing-dino-world-2" rel="noopener noreferrer nofollow" target="_blank"><u>https://tickets.science.edu.sg/</u></a> and
 find out more about the promotion <a href="https://www.science.edu.sg/visit-us/promotions/scs-sg60-exclusive-deals" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><em>Written by Jamie Uy<br>Promotional stills courtesy of NHK Science&nbsp;</em>
+<p><em>Written by Jamie Uy<br>Promotional stills courtesy of NHK in co-production with</em>  <em>Bonne Pioche, Curiosity, and Autentic&nbsp;</em>
 </p>
 <hr>
-<p><em>Published 18 December 2025</em>
+<p><em>Published 18 December 2025, last updated 19 December 2025</em>
 <br>
 <br>
 <br>
