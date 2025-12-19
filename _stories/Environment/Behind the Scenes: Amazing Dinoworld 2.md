@@ -97,20 +97,25 @@ dinosaurs based on their likelihood of survival in that region. The story
 evolved based on scientifically plausible plot points, such as juvenile
 dinosaurs hunkering down in caves to escape the heatwave caused by the
 asteroid impact.</p>
-<p>Although other dinosaur media may rely on completely computer-generated
-worlds, Mr. Ueda explained that the documentary crew chose to film actual
-locations resembling prehistoric terrains for greater realism, with the
-dinosaurs composited onto the shots. Originally, filming was planned in
-the Southern Hemisphere in countries like South America, New Zealand to
-match prehistoric landscapes. Due to COVID-19 travel restrictions, locations
-in Japan, particularly Hokkaido, were used instead.&nbsp;</p>
-<p>The “vast grasslands of eastern Hokkaido” (<em><a href="https://natgeo.nikkeibp.co.jp/atcl/web/15/360768/030500093/" rel="noopener noreferrer nofollow" target="_blank"><u>Nikkei National Geographic</u></a></em>)—
-where Mr. Ueda had filmed two decades earlier during his NHK Kushiro —
-were used for shots of the prehistoric giants walking in the fog. “Other
-scenes — such as Puertasaurus laying eggs in a geothermal field — were
-filmed on Izu Ōshima Island near Tokyo,” he wrote in <em><a href="https://natgeo.nikkeibp.co.jp/atcl/web/15/360768/030500093/" rel="noopener noreferrer nofollow" target="_blank"><u>Nikkei National Geographic</u></a></em>.
+<p>Mr. Ueda explained that the team selected real locations resembling prehistoric
+landscapes to serve as authentic backdrops for CG work. This approach was
+not simply for realism in filming, but to reduce the complexity of CG production
+and achieve a more natural texture. To create convincing dinosaurs, the
+backgrounds needed to closely reflect the environments of their era. Originally,
+filming was planned in the Southern Hemisphere in countries like South
+America, New Zealand to match prehistoric landscapes. Due to COVID-19 travel
+restrictions, locations in Japan, particularly Hokkaido, were used instead.&nbsp;</p>
+<p>The “vast grasslands of eastern Hokkaido” where Mr. Ueda had filmed two
+decades earlier during his NHK Hokkaido Branch&nbsp;work were used for
+shots of the prehistoric giants walking in the fog. “Other scenes — such
+as Puertasaurus laying eggs in a geothermal field — were filmed on Izu
+Ōshima Island near Tokyo,” he wrote in <em><a href="https://natgeo.nikkeibp.co.jp/atcl/web/15/360768/030500093/" rel="noopener noreferrer nofollow" target="_blank"><u>Nikkei National Geographic</u></a></em>.
 Mr. Ueda avoided close-ups of plants to prevent having modern-day flora
-next to the prehistoric dinosaurs.&nbsp;</p>
+next to the prehistoric dinosaurs.&nbsp;Since there are significant differences—such
+as the fact that Cretaceous plants differ from modern ones, and that the
+flora of the Southern Hemisphere is distinct from that of the Northern
+Hemisphere—the team avoid close-up shots of plants whenever possible, and
+even went to lengths to create CG plants if necessary.</p>
 <h4><strong>A Deeply Human Tale of Resilience&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
