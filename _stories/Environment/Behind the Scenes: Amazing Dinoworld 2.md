@@ -10,9 +10,8 @@ image: /images/RESIZEAmazingDinoworld2_40min_EP01_10375902_largesize_cgi_4x.jpg
 third_nav_title: Environment
 ---
 <h4>Discover how some dinosaurs may have survived the asteroid impact 66 million years ago in <em>Amazing Dinoworld 2</em>. Go behind the scenes with director Kazuki Ueda to learn how producers work closely with dozens of scientists and create stunning CGI with unique techniques such as using human actors to bring this untold prehistoric story to life.</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RESIZEAmazingDinoworld2_40min_EP01_10375902_largesize_cgi_4x.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AmazingDinoworld2_KeyVis.jpg">
 </div>
 <p><em>A still from Amazing Dinoworld 2 showing a group of Puertasaurus roaming over lush terrain. Photo credits: NHK<br></em>
 <br>We’ve all heard the story of the asteroid that wiped out the dinosaurs
@@ -46,7 +45,7 @@ to create a dinosaur’s fearsome roar.&nbsp;</p>
 <h4><strong>A Lifelong Quest for Dinosaur Discovery</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RESIZED_AmazingDinoworld2_40min_EP01_10003618_largesize_cgi_4x.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AmazingDinoworld2_Asteroid_Condensed.jpg">
 </div>
 <p><em>A still from Amazing Dinoworld 2 showing the asteroid long thought to have led to the extinction of dinosaurs hurtling towards the Earth. Photo credits: NHK</em>
 </p>
@@ -85,7 +84,7 @@ to develop the storyboards in close collaboration with Dr. Kobayashi.</p>
 <h4><strong>Recreating the Dinosaurs’ Last Refuge&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AmazingDinoworld2_40min_EP01_10033312_largesize_cgi_4x_RESIZED.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AmazingDinoworld2_Hills_Bright.jpg">
 </div>
 <p><em>A still from Amazing Dinoworld 2 showing a group of Puertasaurus traversing green hills. Photo credits: NHK<br></em>
 <br>The documentary team developed the narrative through consultations with
@@ -116,7 +115,7 @@ scientifically accurate CGI plants when necessary.</p>
 <h4><strong>A Deeply Human Tale of Resilience&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RESIZE_AmazingDinoworld2_40min_EP01_10271019_largesize_cgi_4x.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AmazingDinoworld2_DinoHug.jpg">
 </div>
 <p><em>A still from Amazing Dinoworld 2 of two young Puertasaurus</em>  <em>seeking comfort in the harsh winter. Photo credits: NHK</em>
 <br>
@@ -170,11 +169,6 @@ find out more about the promotion <a href="https://www.science.edu.sg/visit-us/p
 <p><em>Written by Jamie Uy<br>Promotional stills courtesy of NHK in co-production with</em>  <em>Bonne Pioche, Curiosity, and Autentic&nbsp;</em>
 </p>
 <hr>
-<p><em>Published 18 December 2025, last updated 19 December 2025</em>
-<br>
-<br>
-<br>
-</p>
-<p>
-<br>
+<p><em>Published 18 December 2025</em>
+<br><em>Last updated 19 December 2025</em>
 </p>
