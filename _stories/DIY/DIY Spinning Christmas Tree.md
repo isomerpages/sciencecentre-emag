@@ -6,7 +6,10 @@ description: ""
 third_nav_title: DIY
 ---
 <h4>Turn a battery, copper wire, and magnet into a simple motor to spin a tiny Christmas tree. Whirl through the physics of rotation and light as we decorate the holidays with a twist of science!</h4>
-<p>[PHOTO]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_SpinnyChristmasTreeDIY_HeaderImage_GIF.gif">
+</div>
 <h4><strong>The Origins and Symbolism of the Christmas Tree</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
