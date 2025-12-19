@@ -23,15 +23,14 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: "Amazing Dinoworld 2: Behind the Scenes"
-      subtitle: environment, dinosaurs, media
+      title: DIY Spinning Christmas Tree
+      subtitle: festive science, christmas
       id: infopic
-      description: Discover how some dinosaurs may have survived the asteroid impact
-        66 million years ago. We speak with Amazing Dinoworld 2 director Kazuki
-        Ueda to learn more!
-      button: Read More
-      url: /amazing-dinoworld-2-bts
-      image: /images/AmazingDinoworld2_OTScreening1_Edited.jpg
+      description: Turn a battery, copper wire, and magnet into a simple motor to spin
+        a tiny Christmas tree.
+      button: read more
+      url: /diy-spinning-christmas-tree/
+      image: /images/VD_SpinnyChristmasTreeDIY_HeaderImage_GIF.gif
       alt: Image alt text
   - textcards:
       title: Highlights
@@ -51,6 +50,17 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: "Amazing Dinoworld 2: Behind the Scenes"
+      subtitle: environment, dinosaurs, media
+      id: infopic
+      description: Discover how some dinosaurs may have survived the asteroid impact
+        66 million years ago. We speak with Amazing Dinoworld 2 director Kazuki
+        Ueda to learn more!
+      button: Read More
+      url: /amazing-dinoworld-2-bts
+      image: /images/AmazingDinoworld2_OTScreening1_Edited.jpg
+      alt: Image alt text
   - infopic:
       title: "DFS X Artist 2025: Tech Meets Textiles"
       subtitle: sustainability, tech, fashion
