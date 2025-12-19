@@ -107,13 +107,12 @@ America, New Zealand to match prehistoric landscapes. Due to COVID-19 travel
 restrictions, locations in Japan, particularly Hokkaido, were used instead.&nbsp;</p>
 <p>The grasslands of eastern Hokkaido where Mr. Ueda had filmed two decades
 earlier during his NHK Hokkaido Branch&nbsp;work were used for shots of
-the prehistoric giants walking in the fog.</p>
-<p>Mr. Ueda avoided close-ups of plants to prevent having modern-day flora
-next to the prehistoric dinosaurs.&nbsp;Since there are significant differences—such
-as the fact that Cretaceous plants differ from modern ones, and that the
-flora of the Southern Hemisphere is distinct from that of the Northern
-Hemisphere—the team avoid close-up shots of plants whenever possible, and
-even went to lengths to create CG plants if necessary.</p>
+the prehistoric giants walking in the fog. Since there are significant
+differences between today's flora and prehistoric plants—such as the fact
+that Cretaceous plants differ from modern ones, and that the flora of the
+Southern Hemisphere is distinct from that of the Northern Hemisphere—the
+team avoided close-up shots of plants whenever possible, and even went
+to the lengths of creating CG plants when necessary.</p>
 <h4><strong>A Deeply Human Tale of Resilience&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
