@@ -211,7 +211,15 @@ together in harmony. She said the completed outfit also symbolised how
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/251101_DFS_X_Artist_2025_0182.jpg">
 </div>
-<p>Ready to create your own tech-powered art pieces? Discover how you can
+<p>View the DFS X Artist 2025 fashion pieces created by Yuhua Sewmates in
+person at Science Centre Singapore's activity booths at Yuhua Green Day
+2026. Relive the DFS X Artist 2025 Showcase, make some eco-friendly crafts,
+and learn about Science Centre Singapore's programmes! Come by on 1 Feb
+2026 from 9:00 AM-12:00 PM for a fun-filled sustainability fair that's
+free for all. See you then at Yuhua Village Hardcourt @ Blk 252 Jurong
+East St 24, S600252!
+<br>
+<br>Ready to create your own tech-powered art pieces? Discover how you can
 transform everyday materials into extraordinary designs through the Digital
 Fabrication Space's public workshops and school programmes at Science Centre
 Singapore here: <a href="https://www.science.edu.sg/stem-inc/digital-fabrication-space" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/stem-inc/digital-fabrication-space</a>.</p>
@@ -219,4 +227,5 @@ Singapore here: <a href="https://www.science.edu.sg/stem-inc/digital-fabrication
 </p>
 <hr>
 <p><em>Published 15 December 2025</em>
+<br><em>Last updated 22 January 2026</em>
 </p>
