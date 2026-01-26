@@ -6,8 +6,11 @@ description: ""
 third_nav_title: Mind & Body
 ---
 <h4>As Singapore becomes a "super-aged" society this year, we explore the surprising science of ageing with theoretical physicist turned biotechnology entrepreneur Dr. Peter Fedichev.</h4>
-<p><strong><em><u>[ILLUSTRATION 1: A cover image with Dr. Peter Fedichev’s headshot with a collage background of items representing aspects of the science of ageing, e.g. clocks, cells, etc. Can reference this New Scientist </u><a href="https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/" rel="noopener noreferrer nofollow" target="_blank"><u>header</u></a><u> or this Void Deck Science Cafe </u><a href="https://voiddeck.science.edu.sg/sci-cafe-aug-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>cover image</u></a><u> for design inspiration. To make sure Dr. Fedichev is centred and prominent.]</u></em></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Can_We_Outsmart_Ageing_Void_Deck_Article_R1__Illustration__01.jpg">
+</div>
+<p></p>
 <p>Singapore stands at a demographic crossroads. According to previous projections,
 this year, more than 21% of our population will be 65 and above, officially
 making us a <a href="https://www.agewellsg.gov.sg/about/" rel="noopener noreferrer nofollow" target="_blank">"super-aged"</a> society—a
@@ -131,8 +134,11 @@ ten years longer.&nbsp;</p>
 <p>That's not the case in nature. You can be as metabolically active as a
 flying mammal and still not age. And to me, that tells you that there is
 a very good story there.&nbsp;</p>
-<p><strong><em><u>[ILLUSTRATION 2: Sketches of animals discussed by Dr. Fedichev as examples of animals that defy our assumptions about ageing: 1. the immortal jellyfish (can reference/adapt these images </u><a href="https://commons.wikimedia.org/wiki/File:Turritopsis_dohrnii_(cropped).jpg" rel="noopener noreferrer nofollow" target="_blank"><u>Bachware/Wikimedia Commons</u></a><u>, </u><a href="https://commons.wikimedia.org/wiki/File:PSM_V33_D765_Turritopsis.jpg" rel="noopener noreferrer nofollow" target="_blank"><u>Wikimedia Commons</u></a><u>), 2. planarian worms, 3. naked mole rats, 4. Brandt’s bat - longest-living bat species (see </u><a href="https://commons.wikimedia.org/wiki/File:Myotis_brandti.jpg" rel="noopener noreferrer nofollow" target="_blank"><u>Wikimedia Commons</u></a><u>). Keep background neutral and/or abstract, avoid the impression of an environment all four animals would habitat.]</u></em></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Can_We_Outsmart_Ageing_Void_Deck_Article_R1__Illustration__02.jpg">
+</div>
+<p></p>
 <p><strong>VD: You are a leader in a new field called gerophysics. But what exactly is gerophysics, and how does physics help us understand the biology of ageing?&nbsp;</strong>
 </p>
 <p><strong>DR. FEDICHEV:</strong> There was a gentleman in Great Britain in
@@ -211,8 +217,11 @@ of those.&nbsp;</p>
 <p>It's essentially damage. The damage that is so different in so many different
 cells that it's totally incomprehensible, and that's why it's very hard
 to control, and that's why it's very hard to revert.&nbsp;</p>
-<p><strong><em><u>[ILLUSTRATION 3: Graphic representing that human ageing is primarily driven by accumulating molecular and cellular damage. Keep style more analogistic/suggestive of the idea rather than an “accurate” science infographic.]&nbsp;</u></em></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Can_We_Outsmart_Ageing_Void_Deck_Article_R1__Illustration__03.jpg">
+</div>
+<p></p>
 <p><strong>VD: So speaking about ageing potentially being reversible–in your opinion, is biological ageing inevitable?&nbsp;</strong>
 </p>
 <p><strong>DR. FEDICHEV:</strong> That's a very good question, because I could
@@ -269,6 +278,7 @@ and physiological aspects of ageing, and debunk misconceptions about growing
 older in our nostalgic kopitiam setting. Admission tickets available
 <a href="https://tickets.science.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p><strong><em>Written by Jamie Uy</em></strong>
+<br><strong><em>Illustrated by Jansen Michelle</em></strong>
 </p>
 <hr>
 <p><strong><em>Published 27 January 2026<br></em></strong>
