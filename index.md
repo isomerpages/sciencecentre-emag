@@ -30,7 +30,7 @@ sections:
         physicist turned biotechnology entrepreneur Dr. Peter Fedichev.
       button: Read More
       alt: Dr. Peter Fedichev
-      url: /can-we-outsmart-ageing
+      url: /can-we-outsmart-ageing/
       image: /images/Can_We_Outsmart_Ageing_Void_Deck_Article_R1__Illustration__01.jpg
   - infopic:
       title: DIY Spinning Christmas Tree
