@@ -32,16 +32,6 @@ sections:
       alt: Dr. Peter Fedichev
       url: /can-we-outsmart-ageing/
       image: /images/Can_We_Outsmart_Ageing_Void_Deck_Article_R1__Illustration__01.jpg
-  - infopic:
-      title: DIY Spinning Christmas Tree
-      subtitle: festive science, christmas
-      id: infopic
-      description: Turn a battery, copper wire, and magnet into a simple motor to spin
-        a tiny Christmas tree.
-      button: read more
-      url: /diy-spinning-christmas-tree/
-      image: /images/VD_SpinnyChristmasTreeDIY_HeaderImage_GIF.gif
-      alt: Image alt text
   - textcards:
       title: Highlights
       subtitle: Content
@@ -60,6 +50,16 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: DIY Spinning Christmas Tree
+      subtitle: festive science, christmas
+      id: infopic
+      description: Turn a battery, copper wire, and magnet into a simple motor to spin
+        a tiny Christmas tree.
+      button: read more
+      url: /diy-spinning-christmas-tree/
+      image: /images/VD_SpinnyChristmasTreeDIY_HeaderImage_GIF.gif
+      alt: Image alt text
   - infopic:
       title: "Amazing Dinoworld 2: Behind the Scenes"
       subtitle: environment, dinosaurs, media
