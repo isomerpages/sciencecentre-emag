@@ -23,12 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Can We Outsmart Ageing?
+      subtitle: gerophysics, ageing, society
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: We explore the surprising science of ageing with theoretical
+        physicist turned biotechnology entrepreneur Dr. Peter Fedichev.
+      button: Read More
+      alt: Dr. Peter Fedichev
+      url: /can-we-outsmart-ageing
+      image: /images/Can_We_Outsmart_Ageing_Void_Deck_Article_R1__Illustration__01.jpg
   - infopic:
       title: DIY Spinning Christmas Tree
       subtitle: festive science, christmas
