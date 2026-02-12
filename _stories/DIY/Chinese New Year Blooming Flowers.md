@@ -107,6 +107,22 @@ them in<a href="https://www.pinterest.com/leeml_meiling/red-packet-crafts/" rel=
 A simple craft that you can make at home with these leftover hongbaos are
 your very own blooming ‘flowers’. Just follow the simple steps below and
 find out why these craft flowers are able to 'bloom' on their own!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KS_Void_Deck_CNY_Blooming_Flowers_Activity_Sheet__compressed.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KS_Void_Deck_CNY_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KS_CNY_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KS_CNY_4.jpg">
+</div>
 <p>Click on the link below to download a printable guide.</p>
 <p>&nbsp;<a href="/files/KS_Void_Deck_CNY_Blooming_Flowers_Activity_Sheet__compressed.pdf" rel="noopener nofollow" target="_blank">Void Deck DIY Chinese New Year Blooming Flowers Activity Guide</a>
 </p>
