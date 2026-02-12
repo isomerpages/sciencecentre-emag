@@ -7,7 +7,10 @@ description: Create your own blooming flowers in water and send auspicious well
 third_nav_title: DIY
 ---
 <h4>Create your own blooming flowers in water and send auspicious well wishes to your loved ones this Chinese New Year!</h4>
-<h4>[HEADER IMAGE]</h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCNYHeader.jpg">
+</div>
 <h4><strong>The Symbolism of Chinese New Year</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
