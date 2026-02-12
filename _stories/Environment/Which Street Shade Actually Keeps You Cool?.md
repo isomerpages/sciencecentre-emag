@@ -37,7 +37,7 @@ Dr. Lei Xu when he was a visiting researcher in her research group, the
 Cambridge Sustainable Design Group. The data collection was led by the
 Future Cities Laboratory (FCL) Global at Singapore-ETH Centre.&nbsp; &nbsp;</p>
 <p>Summarising the key findings from the study, Prof. Bardhan emphasised,
-" Street shading is not marginal, it meaningfully lowers air temperature
+"Street shading is not marginal, it meaningfully lowers air temperature
 by close to one degree and can improve perceived thermal comfort by three
 degrees or more, directly reducing heat stress risk in exposed populations."</p>
 <p>The study is part of <a href="https://www.cares.cam.ac.uk/research/hd4-project/" rel="noopener noreferrer nofollow" target="_blank">CARES' Health-Driven Design for Cities (HD4) programme</a>,
@@ -52,7 +52,7 @@ Research Foundation, Prime Minister's Office, Singapore under its Campus
 for Research Excellence and Technological Enterprise (CREATE) programme.</p>
 <h4><strong>Heat Detectives at Work</strong></h4>
 <p>To cool our cities, we first need to measure just how hot our streets
-really are. However,&nbsp; heat stress has become so severe that even studying
+really are. However,&nbsp;heat stress has become so severe that even studying
 it puts researchers at risk.&nbsp;</p>
 <p>To protect surveyors and minimise equipment malfunctions due to overheating
 batteries, the team scheduled their data collection between 2:00-4:00 PM,
@@ -84,10 +84,10 @@ very strong heat stress by 20% and strong heat stress by 12%.</p>
 <h4><strong>The Winning Combination</strong></h4>
 <p>So back to that hot lunchtime route dilemma — take shelter under a tree,
 or a bus shelter? The answer is both. The study found that combining different
-shading strategies works best. “Shade works best when it is layered,” Prof.
-Bardhan explains. “Be close to a tree for natural cooling, and under a
-constructed shade for direct sun protection. Together, they significantly
-reduce heat exposure.”</p>
+shading strategies works best.</p>
+<p>“Shade works best when it is layered,” Prof. Bardhan explains. “Be close
+to a tree for natural cooling, and under a constructed shade for direct
+sun protection. Together, they significantly reduce heat exposure.”</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collage of a tree, a bus shelter, and an air conditioner against an orange-blue gradient background." src="/images/StreetShadeStudy2.png">
