@@ -22,10 +22,10 @@ the answer, and it might surprise you.</p>
 <p>An inter-university team of researchers led by the Cambridge Centre for
 Advanced&nbsp;Research and Education in Singapore&nbsp;(CARES) conducted
 the first comprehensive study in Singapore comparing how different types
-of street shade types (such as trees, artificial structures, and mutual
-shading from buildings) perform at keeping pedestrians cool. Their findings
-could reshape how we design our cities and navigate our daily routes to
-beat the heat.</p>
+of street shade (such as trees, artificial structures, and mutual shading
+from buildings) perform at keeping pedestrians cool. Their findings could
+reshape how we design our cities and navigate our daily routes to beat
+the heat.</p>
 <p>Singapore's tropical climate regularly exposes residents to intense outdoor
 heat. With extreme temperatures becoming more common due to climate change,
 understanding effective cooling strategies is vital for public health.</p>
