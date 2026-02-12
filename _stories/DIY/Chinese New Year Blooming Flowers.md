@@ -9,10 +9,13 @@ third_nav_title: DIY
 <h4>Create your own blooming flowers in water and send auspicious well wishes to your loved ones this Chinese New Year!</h4>
 <h4>[HEADER IMAGE]</h4>
 <h4><strong>The Symbolism of Chinese New Year</strong></h4>
-<p>[IMAGE 1]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wu_yi_hGvPOSbo6vI_unsplash.jpg">
+</div>
 <p><em>Photo Credit: CNY lanterns by<a href="https://unsplash.com/photos/red-paper-lanterns-on-brown-wooden-wall-hGvPOSbo6vI" rel="noopener noreferrer nofollow" target="_blank"> <u>Wu Yi</u></a> on Unsplash</em>
 </p>
-<p>In China,<a href="https://www.chinahighlights.com/travelguide/festivals/chinese-new-year-spring-festival.htm" rel="noopener noreferrer nofollow" target="_blank"> <u>Spring Festival</u></a> is
+<p>In China,<a href="https://www.chinahighlights.com/travelguide/festivals/chinese-new-year-spring-festival.htm" rel="noopener noreferrer nofollow" target="_blank"> S<u>pring Festival</u></a> is
 the common name for Chinese Lunar New Year. This festival does in fact
 take place during the time that the northern hemisphere starts its gradual
 warming, having already passed the coldest part of the winter.</p>
@@ -22,7 +25,10 @@ the Spring Festival. These flowers symbolize new beginnings and good luck
 while the use of the colour red in clothes and decorations represents happiness
 and prosperity.
 <br>
-<br>[IMAGE 2]</p>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pexels_luiza_maria_scurtu_883871_7606348.jpg">
+</div>
 <p><em>Photo Credit: Cherry blossoms by<a href="https://www.pexels.com/photo/close-up-of-cherry-blossoms-7606348/" rel="noopener noreferrer nofollow" target="_blank"> <u>Luiza-Maria Scurtu</u></a> on Pexels</em>
 </p>
 <h4><strong>The Science of Blooming Flowers</strong></h4>
@@ -34,8 +40,11 @@ plants can obtain more sunlight, which helps them to grow faster and stronger.
 Widely open spring flowers also attract<a href="https://www.insectlore.com/blogs/pollination/pollination-for-kids?srsltid=AfmBOopgLhB-x1DQme0eHr9eCEN5OyCD9isU2eZ3N-cEQ8m4vuMj8VXG" rel="noopener noreferrer nofollow" target="_blank"> <u>pollinators</u></a> like
 bees and butterflies to help spread their pollen, which is needed to make
 seeds and fruits for reproduction.</p>
-<p>[IMAGE 3]</p>
-<p><em>Photo Credit: Pollination by<a href="https://unsplash.com/photos/a-bee-that-is-sitting-on-a-flower-IGYqyBnfZ24" rel="noopener noreferrer nofollow" target="_blank"> <u>Paris Bilal</u></a> on Unsplash</em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jenna_lee_f0OL01IHbCM_unsplash.jpg">
+</div>
+<p><em>hoto Credit: Pollination by<a href="https://unsplash.com/photos/a-bee-that-is-sitting-on-a-flower-IGYqyBnfZ24" rel="noopener noreferrer nofollow" target="_blank"> </a><a href="https://unsplash.com/@jenna2980?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Jenna Lee</a> on <a href="https://unsplash.com/photos/macro-shot-photography-of-bee-f0OL01IHbCM?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
 </p>
 <h4><strong>The Need for Sustainability</strong></h4>
 <p>Another important part of Chinese New Year is the gifting of the hongbao
@@ -48,13 +57,30 @@ Chinese New Year is also a common practice. It is a deeply rooted tradition
 that expresses hopes for prosperity, health, family harmony, and good fortune
 in the coming year.</p>
 <p>Some commonly used phrases are:</p>
-<p>1) 恭喜发财 (gōngxǐ fācái) - wishing you happiness and prosperity</p>
-<p>2) 身体健康 (shēntǐ jiànkāng) - wishing you good health</p>
-<p>3) 万事如意 (wànshì rúyì) - hope everything goes well</p>
-<p>4) 年年有余 (niánnián yǒuyú) - may you have abundance every year</p>
-<p>5) 大吉大利 (dàjí dàlì) - lots of luck and profits</p>
-<p>6) 心想事成 (xīnxiǎng shìchéng) - may all your wishes come true</p>
-<p>[IMAGE 4]</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>恭喜发财 (gōngxǐ fācái) - wishing you happiness and prosperity</p>
+</li>
+<li>
+<p>身体健康 (shēntǐ jiànkāng) - wishing you good health</p>
+</li>
+<li>
+<p>万事如意 (wànshì rúyì) - hope everything goes well</p>
+</li>
+<li>
+<p>年年有余 (niánnián yǒuyú) - may you have abundance every year</p>
+</li>
+<li>
+<p>大吉大利 (dàjí dàlì) - lots of luck and profits</p>
+</li>
+<li>
+<p>心想事成 (xīnxiǎng shìchéng) - may all your wishes come true</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/zj_luk_Awu9oN1vrkY_unsplash.jpg">
+</div>
 <p><em>Photo credit: Auspicious CNY wishes by<a href="https://unsplash.com/photos/a-row-of-red-banners-with-asian-writing-on-them-Awu9oN1vrkY" rel="noopener noreferrer nofollow" target="_blank"> <u>ZJ Luk</u></a> on Unsplash</em>
 </p>
 <p><a href="https://redpacket.hk/cultural-taboos-to-avoid-when-giving-red-packets/" rel="noopener noreferrer nofollow" target="_blank"><u>Reusing hongbaos is generally avoided due to a combination of cultural beliefs and practical considerations related to etiquette.</u></a> As
@@ -65,7 +91,11 @@ animal of the current year or bear greetings for specific events, making
 them inappropriate for use in a subsequent year or different occasion.
 Used hongbaos often show signs of wear and tear, and giving them out can
 be perceived as impolite or a lack of respect for the recipient.</p>
-<p>[IMAGE 5] <em><br>Photo credit: CNY crafts by<a href="https://www.pexels.com/photo/green-gift-boxes-in-close-up-shot-6747369/" rel="noopener noreferrer nofollow" target="_blank"> <u>Hong Son</u></a> on Pexels</em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pexels_hson_6747369.jpg">
+</div>
+<p><em>Photo credit: CNY crafts by<a href="https://www.pexels.com/photo/green-gift-boxes-in-close-up-shot-6747369/" rel="noopener noreferrer nofollow" target="_blank"> <u>Hong Son</u></a> on Pexels</em>
 </p>
 <p>Hongbaos often feature heavy dyes, gold stamping, foil, glitter, and plastic
 coatings, which are considered contaminants in the standard paper recycling
@@ -77,8 +107,11 @@ them in<a href="https://www.pinterest.com/leeml_meiling/red-packet-crafts/" rel=
 A simple craft that you can make at home with these leftover hongbaos are
 your very own blooming ‘flowers’. Just follow the simple steps below and
 find out why these craft flowers are able to 'bloom' on their own!</p>
-<p>&nbsp;</p>
-<p>
+<p>Click on the link below to download a printable guide.</p>
+<p>&nbsp;<a href="/files/KS_Void_Deck_CNY_Blooming_Flowers_Activity_Sheet__compressed.pdf" rel="noopener nofollow" target="_blank">Void Deck DIY Chinese New Year Blooming Flowers Activity Guide</a>
+</p>
+<hr>
+<p><em>Published 13 February 2026</em>
 <br>
 <br>
 </p>
