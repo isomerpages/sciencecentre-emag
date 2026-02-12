@@ -23,15 +23,16 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
-      title: Can We Outsmart Ageing?
-      subtitle: gerophysics, ageing, society
+      title: Which Street Shade Actually Keeps You Cool?
+      subtitle: Environment, public health
       id: infopic
-      description: We explore the surprising science of ageing with theoretical
-        physicist turned biotechnology entrepreneur Dr. Peter Fedichev.
-      button: Read More
-      alt: Dr. Peter Fedichev
-      url: /can-we-outsmart-ageing/
-      image: /images/Can_We_Outsmart_Ageing_Void_Deck_Article_R1__Illustration__01.jpg
+      description: A Singapore study finds that combining natural and artificial shade
+        provides the best street cooling, limiting extreme heat stress exposure
+        by up to 92%.
+      button: Read more
+      url: /street-shade
+      image: /images/StreetShadeStudy1.png
+      alt: A hot street in Singapore
   - textcards:
       title: Highlights
       subtitle: Content
@@ -50,6 +51,16 @@ sections:
           description: The Wok Hei in Hokkien Mee
           linktext: Watch more
           url: /videos
+  - infopic:
+      title: Can We Outsmart Ageing?
+      subtitle: gerophysics, ageing, society
+      id: infopic
+      description: We explore the surprising science of ageing with theoretical
+        physicist turned biotechnology entrepreneur Dr. Peter Fedichev.
+      button: Read More
+      alt: Dr. Peter Fedichev
+      url: /can-we-outsmart-ageing/
+      image: /images/Can_We_Outsmart_Ageing_Void_Deck_Article_R1__Illustration__01.jpg
   - infopic:
       title: DIY Spinning Christmas Tree
       subtitle: festive science, christmas
