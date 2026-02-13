@@ -41,7 +41,7 @@ sections:
         packets this Chinese New Year!
       button: Read More
       url: /cny-blooming-flowers
-      image: /images/KSCNYHeader.jpg
+      image: /images/VD_CNYBloomingFlowers__2_.gif
       alt: Image alt text
   - textcards:
       title: Highlights
