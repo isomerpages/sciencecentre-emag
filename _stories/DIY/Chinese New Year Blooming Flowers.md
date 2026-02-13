@@ -1,15 +1,16 @@
 ---
 title: Chinese New Year Blooming Flowers
-permalink: /chinese-new-year-blooming-flowers/
+permalink: /cny-blooming-flowers/
 variant: tiptap
 description: Create your own blooming flowers in water and send auspicious well
   wishes to your loved ones this Chinese New Year!
 third_nav_title: DIY
+image: /images/VD_CNYBloomingFlowers__2_.gif
 ---
 <h4>Create your own blooming flowers in water and send auspicious well wishes to your loved ones this Chinese New Year!</h4>
-<h4></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCNYHeader.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_CNYBloomingFlowers__2_.gif">
 </div>
 <h4><strong>The Symbolism of Chinese New Year</strong></h4>
 <p></p>
@@ -47,7 +48,7 @@ seeds and fruits for reproduction.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jenna_lee_f0OL01IHbCM_unsplash.jpg">
 </div>
-<p><em>hoto Credit: Pollination by<a href="https://unsplash.com/photos/a-bee-that-is-sitting-on-a-flower-IGYqyBnfZ24" rel="noopener noreferrer nofollow" target="_blank"> </a><a href="https://unsplash.com/@jenna2980?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Jenna Lee</a> on <a href="https://unsplash.com/photos/macro-shot-photography-of-bee-f0OL01IHbCM?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<p><em>Photo Credit: Pollination by<a href="https://unsplash.com/photos/a-bee-that-is-sitting-on-a-flower-IGYqyBnfZ24" rel="noopener noreferrer nofollow" target="_blank"> </a><a href="https://unsplash.com/@jenna2980?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Jenna Lee</a> on <a href="https://unsplash.com/photos/macro-shot-photography-of-bee-f0OL01IHbCM?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
 </p>
 <h4><strong>The Need for Sustainability</strong></h4>
 <p>Another important part of Chinese New Year is the gifting of the hongbao
@@ -128,6 +129,8 @@ find out why these craft flowers are able to 'bloom' on their own!</p>
 </div>
 <p>Click on the link below to download a printable guide.</p>
 <p>&nbsp;<a href="/files/KS_Void_Deck_CNY_Blooming_Flowers_Activity_Sheet__compressed.pdf" rel="noopener nofollow" target="_blank">Void Deck DIY Chinese New Year Blooming Flowers Activity Guide</a>
+</p>
+<p><strong><em>Written by Benjamin Lim</em></strong>
 </p>
 <hr>
 <p><em>Published 13 February 2026</em>

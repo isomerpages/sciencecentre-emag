@@ -33,6 +33,16 @@ sections:
       url: /street-shade
       image: /images/StreetShadeStudy1.png
       alt: A hot street in Singapore
+  - infopic:
+      title: Chinese New Year Blooming Flowers
+      subtitle: cny, holiday science, diy
+      id: infopic
+      description: Create your own blooming flowers in water by repurposing red
+        packets this Chinese New Year!
+      button: Read More
+      url: /cny-blooming-flowers
+      image: /images/VD_CNYBloomingFlowers__2_.gif
+      alt: Image alt text
   - textcards:
       title: Highlights
       subtitle: Content
