@@ -8,9 +8,9 @@ third_nav_title: DIY
 image: /images/KSCNYHeader.jpg
 ---
 <h4>Create your own blooming flowers in water and send auspicious well wishes to your loved ones this Chinese New Year!</h4>
-<h4></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KSCNYHeader.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_CNYBloomingFlowers__2_.gif">
 </div>
 <h4><strong>The Symbolism of Chinese New Year</strong></h4>
 <p></p>
