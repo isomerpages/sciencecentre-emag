@@ -2,6 +2,7 @@ collections:
   episodes:
     output: true
     order:
+      - Season 3/Lunar Eclipse.md
       - Season 3/.keep
       - Season 2/.keep
       - Season 2/Sport Science.md
