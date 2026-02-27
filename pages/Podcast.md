@@ -23,7 +23,7 @@ in and explore the universe from the heartlands! Subscribe to <em>Void Deck </em
 </div>
 <h4><strong>Season 3</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://voiddeck.science.edu.sg/s3e1-lunar-eclipse/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Card_05_Artboard_1_Copy_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Episode 1: Why is this Lunar Eclipse So Special?</div><div class="isomer-card-description">On 3 March 2026, the Moon turns red into a Blood Moon as it goes through a total lunar eclipse. But how exactly does that happen?  Why does the Moon turn red? Is a Blood Moon different from a lunar eclipse? </div><div class="isomer-card-link">Listen here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
