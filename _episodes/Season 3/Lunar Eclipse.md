@@ -55,7 +55,7 @@ eclipse? Blood moon is also red, right?</p>
 <p>Meng: Actually, they are the same.</p>
 <p>Lydia: Huh?</p>
 <p>Meng: Actually, they are the same thing.</p>
-<p><strong>Introduction </strong>
+<p><strong>Introduction</strong>
 </p>
 <p>Lydia: Welcome to Void Deck by Science Centre Singapore. I'm Lydia and
 today we'll be talking about the lunar eclipse that's happening on March.
@@ -78,7 +78,7 @@ And then the red is casted on the moon.</p>
 from, I don't know, secondary school... So the red has the highest or lowest
 wavelength?</p>
 <p>Meng: The longest wavelength.</p>
-<p><strong>Game section: This or That </strong>
+<p><strong>Game section: This or That</strong>
 </p>
 <p>Lydia: We’ll play a quickfire ‘This or That’Would you rather use a telescope
 or use your naked eye?</p>
@@ -91,7 +91,7 @@ I cannot see anything.</p>
 <p>Lydia: Okay, fair point. Yeah.</p>
 <p>Meng: I would prepare quite a few mosquito repellents to fight the mosquitoes.
 But I cannot repel the rain clouds.</p>
-<p><strong>How to watch the upcoming lunar eclipse? </strong>
+<p><strong>How to watch the upcoming lunar eclipse?</strong>
 </p>
 <p>Lydia: Okay, on that note, how can people watch the eclipse anywhere in
 Singapore?</p>
@@ -124,7 +124,7 @@ at the Science Centre.</p>
 <p>Meng: Yes, just look out. So if you cannot be here, if you cannot watch
 our live stream, no problem. Look out to the east. That's the best chance
 you have of seeing the moon for yourself.</p>
-<p><strong>Embarrassing Questions </strong>
+<p><strong>Embarrassing Questions</strong>
 </p>
 <p>Lydia: For everyone at home, without a visual reference, right now we
 are looking at a system model. So there's a sun, a moon and an Earth, and
@@ -191,6 +191,3 @@ catch it on our Science Centre YouTube channel or you can come down to
 the centre starting from... what time? 6:00 p.m. where there'll be some
 activities, and then there'll be a live streaming feed as well. And of
 course, you can look up to the sky and see the lunar eclipse.</p>
-<p></p>
-<p></p>
-<p>Read the full transcript and show notes at</p>
