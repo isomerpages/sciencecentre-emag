@@ -23,6 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: Why is this Lunar Eclipse so Special?
+      subtitle: SPACE
+      id: infopic
+      description: A blood moon will appear in Singapore skies on 3rd March 2026.
+      button: READ MORE
+      url: https://voiddeck.science.edu.sg/why-is-this-lunar-eclipse-so-special/
+      image: /images/compressed_main.jpg
+      alt: Image alt text
+  - infopic:
       title: Which Street Shade Actually Keeps You Cool?
       subtitle: Environment, public health
       id: infopic

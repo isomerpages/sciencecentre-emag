@@ -11,7 +11,11 @@ skies. But did you know that it's also going to be a <strong>blood moon</strong>
 That's right, the moon will be appearing red. Could this signify a 'huat'
 for the year of the horse?</p>
 <p>Let's break down the science.</p>
-<h4>When do we know if a blood moon is happening? </h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_main.jpg">
+</div>
+<h4>When do we know if a blood moon is happening?</h4>
 <p>To put it simply, all <em>total</em> lunar eclipses are blood moons. This
 is very different from a <em>partial</em> lunar eclipse. A total lunar eclipse
 occurs when the moon <em>completely</em> enters the Earth's shadow. What
@@ -39,7 +43,7 @@ What survives the journey? The longer wavelengths.</p>
 atmosphere and gets cast onto the Moon during the total lunar eclipse.
 This would not work if the Moon is only passing through the 'partial shadow'
 since pure light from the Sun is still reaching the Moon.</p>
-<h4>When can you actually see it in Singapore? </h4>
+<h4>When can you actually see it in Singapore?</h4>
 <p>The best time to view it in the night sky is 7:45PM. This is the most
 ideal time where the Moon has risen past Singapore's skyline.</p>
 <p>Technically the eclipse starts around 6:00PM Singapore time, but it would
