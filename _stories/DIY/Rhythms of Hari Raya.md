@@ -60,11 +60,6 @@ volume of air, which will produce slower, wider, and lower sound waves
 <p>Now that we’ve learnt about the science behind drums, let’s make more
 sound magic by creating our own drums! Which material and size of the drum
 makes the nicest sounding drumbeats? Let’s find out together!&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artboard_1.png">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artboard_1.png">
 </div>
