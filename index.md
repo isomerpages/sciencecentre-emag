@@ -23,6 +23,14 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: Rhythms of Hari Raya
+      id: infopic
+      description: Create your own traditional drum to join in the festitivies!
+      button: READ MORE
+      url: /rhythms-of-hari-raya/
+      image: /images/eMag_cover.gif
+      alt: Image alt text
+  - infopic:
       title: Why is this Lunar Eclipse so Special?
       subtitle: SPACE
       id: infopic
