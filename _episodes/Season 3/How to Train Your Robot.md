@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Season 3
 ---
-<h4><strong>Episode 1: Why is this Lunar Eclipse so Special?</strong></h4>
+<h4><strong>Episode 2: How to Train Your Robot</strong></h4>
 <p>Have you ever seen humanoid robots walking the streets or going viral
 online? How do they move? Why don't they fall while carrying out all those
 fancy moves? In this episode of Void Deck by Science Centre Singapore,
