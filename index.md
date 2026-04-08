@@ -23,6 +23,15 @@ sections:
           description: ""
           url: https://voiddeck.science.edu.sg/videos/
   - infopic:
+      title: How to Train Your Robots
+      subtitle: TECHNOLOGY
+      id: infopic
+      description: How does a humanoid robot learn its tricks?
+      button: READ MORE
+      url: /how-to-train-your-robots
+      image: /images/info_card.jpg
+      alt: Image alt text
+  - infopic:
       title: Rhythms of Hari Raya
       id: infopic
       description: Create your own traditional drum to join in the festitivies!
@@ -30,6 +39,7 @@ sections:
       url: /rhythms-of-hari-raya/
       image: /images/eMag_cover.gif
       alt: Image alt text
+      subtitle: DIY, RAYA, HOLIDAY SCIENCE
   - infopic:
       title: Why is this Lunar Eclipse so Special?
       subtitle: SPACE
