@@ -19,7 +19,7 @@ with local science changemakers, enjoy science-focused reviews of popular
 media, and get crafty with our DIY STEAM activities for the young at heart.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VD_SquareKeyVisual_SCSLogo_311024.png">
+<img style="width: 100%" height="auto" width="100%" alt="Void Deck key visual" src="/images/VD_SquareKeyVisual_SCSLogo_311024.png">
 </div>
 <p></p>
 <p><em>The views and opinions expressed in </em>Void Deck<em> articles and podcast episodes are those of the individual authors and contributors. They do not necessarily reflect the official policy or position of Science Centre Singapore or the Ministry of Education.</em>
