@@ -31,6 +31,23 @@ sections:
       url: /how-to-train-your-robots
       image: /images/info_card.jpg
       alt: Image alt text
+  - textcards:
+      title: Highlights
+      subtitle: Content
+      id: textcards
+      cards:
+        - title: STORIES
+          description: Debunking Popular Genetic Myths
+          linktext: Read here
+          url: debunking-popular-genetic-myths/
+        - title: PODCAST
+          description: New Season 3 Episodes  available!
+          linktext: Listen here
+          url: /podcast
+        - title: VIDEOS
+          description: The Wok Hei in Hokkien Mee
+          linktext: Watch more
+          url: /videos
   - infopic:
       title: Rhythms of Hari Raya
       id: infopic
@@ -70,24 +87,6 @@ sections:
       url: /cny-blooming-flowers
       image: /images/VD_CNYBloomingFlowers__2_.gif
       alt: Image alt text
-  - textcards:
-      title: Highlights
-      subtitle: Content
-      id: textcards
-      cards:
-        - title: STORIES
-          description: Debunking Popular Genetic Myths
-          linktext: Read here
-          url: debunking-popular-genetic-myths/
-        - title: PODCAST
-          description: New Season 2 Episodes on Sport Science, Food Tech, Psychology, and
-            Ecology!
-          linktext: Listen here
-          url: /podcast
-        - title: VIDEOS
-          description: The Wok Hei in Hokkien Mee
-          linktext: Watch more
-          url: /videos
   - infopic:
       title: Can We Outsmart Ageing?
       subtitle: gerophysics, ageing, society
